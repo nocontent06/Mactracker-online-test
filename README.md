@@ -1,4 +1,4 @@
-# Mactracker-online
+# Mactracker-Online-Test
 
 ## What is Mactracker Online?
 It's Mactracker redesigned with a search function only directly in your Browser!
@@ -12,7 +12,7 @@ Nah, jk. Under "Relases" you can find an executable app for Mac, and Windows
 - 2.) It has a better looking UI, is OpenSource, etc.
 
 ## So Wen ETA?
-Now :) You can access it at https://mactracker.online
+Now :) You can access it at https://test.mactracker.online
 
 ## Data Source (Credits)
 
