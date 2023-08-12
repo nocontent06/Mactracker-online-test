@@ -44,7 +44,8 @@ const fetchJSON = async (url) => {
 const processData = async () => {
     const deviceFiles = [
         "MacBook.json",
-        "AppleTV.json"
+        "AppleTV.json",
+        "iMac.json"
         // Add other device JSON file names here
     ];
 
