@@ -44,6 +44,7 @@ const fetchJSON = async (url) => {
 const processData = async () => {
     const deviceFiles = [
         "MacBook.json",
+        "AppleTV.json"
         // Add other device JSON file names here
     ];
 
@@ -58,19 +59,22 @@ const processData = async () => {
         }
     }
 
-    console.log("Data: ", data[0]);
+    console.log("Data: ", data);
 
     const filtData = [];
 
-    let deviceInfo = data[0];
+    for (let i = 0; i < data.length; i++) {
+        const deviceInfo = data[i];
 
-    for (let i = 0; i < deviceInfo.length; i++) {
-        if (deviceInfo[i].Name.includes(search)) {
-            filtData.push(deviceInfo[i]);
+        for (let j = 0; j < deviceInfo.length; j++) {
+            if (deviceInfo[j].Name.includes(search)) {
+                filtData.push(deviceInfo[j]);
+            }
         }
     }
 
     console.log("Filtered Data: ", filtData);
+
 
     let footer = document.createElement("footer");
     footer.setAttribute("class", "footer");
