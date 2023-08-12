@@ -45,7 +45,8 @@ const processData = async () => {
     const deviceFiles = [
         "MacBook.json",
         "AppleTV.json",
-        "iMac.json"
+        "iMac.json",
+        "iOS.json"
         // Add other device JSON file names here
     ];
 
