@@ -33,6 +33,10 @@ searchResultsContainer = document.getElementById("search-results-container");
 // Use the data to populate the search results container
 const searchResults = document.getElementById("search-results");
 
+const regexModelIdentifier = new RegExp(
+    `(MacBook|iMac|iPhone)[0-9,]+$`
+)
+
 const fetchJSON = async (url) => {
     const response = await fetch(url);
     if (!response.ok) {
@@ -46,36 +50,139 @@ const processData = async () => {
         "MacBook.json",
         "AppleTV.json",
         "iMac.json",
-        "iOS.json"
+        "iOS.json",
+        "iPhoneOS.json",
         // Add other device JSON file names here
     ];
 
     const data = [];
 
-    for (const file of deviceFiles) {
-        try {
-            const jsonData = await fetchJSON(`TestModels/${file}`);
-            data.push(jsonData);
-        } catch (error) {
-            console.error(`Error fetching ${file}: ${error}`);
+    const fetchAllJSON = async (directory, device) => {
+        // You can change the list of files to fetch here
+        for (const file of device) {
+            try {
+                const jsonData = await fetchJSON(`${directory}/${file}`);
+                data.push(jsonData);
+            } catch (error) {
+                console.error(`Error fetching ${file}: ${error}`);
+            }
         }
-    }
+        console.log(`Fetched ` + device.length + ` files from ` + directory)
+    
+    
+    };
 
     console.log("Data: ", data);
 
     const filtData = [];
 
-    for (let i = 0; i < data.length; i++) {
-        const deviceInfo = data[i];
+    function includesString(s1, s2) {
+        // Remove parentheses and spaces from both strings
+        const s1Cleaned = s1.replace(/\(|\)|\s/g, "");
+        const s2Cleaned = s2.replace(/\(|\)|\s/g, "");
+    
+        // Check if s2Cleaned is a substring of s1Cleaned
+        return s1Cleaned.includes(s2Cleaned);
+    }
 
-        for (let j = 0; j < deviceInfo.length; j++) {
-            if (deviceInfo[j].Name.includes(search)) {
-                filtData.push(deviceInfo[j]);
+    function checkConcatenatedString(arr, targetString) {
+        const targetArray = targetString.split(" ");
+        targetArray.forEach((item, index) => {
+            if (item.includes('"')) {
+                targetArray[index] = item.replace('"', "-inch");
+            }
+        });
+        // console.log("Target Array: " + targetArray);
+        return targetArray.every(item => arr.includes(item));
+    }
+
+    const models = [
+        // { keywords: ["Mac Mini", "MacMini"], device: "MacMini" },
+        // { keywords: ["Mac Pro", "MacPro"], device: "MacPro" },
+        { keywords: ["iMac", "iMacPro"], device: "iMac" },
+        // { keywords: ["Mac Studio", "MacStudio"], device: "MacStudio" },
+        { keywords: ["iOS", "iPhoneOS"], device: "iOS" },
+        // { keywords: ["iPhone"], device: "iPhone" },
+        // { keywords: ["iPad"], device: "iPad" },
+        // { keywords: ["iPod"], device: "iPod" },
+        { keywords: ["MacBook", "MB"], device: "MacBook" },
+        // { keywords: ["MacBook", "Pro", "MacBook Pro", "MBP", "MacBookPro"], device: "MacBookPro" },
+        // { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBookAir" },
+        { keywords: ["Apple", "TV", "Apple TV", "AppleTV"], device: "AppleTV" },
+    ];
+    
+    let found = false;
+    
+    for (const model of models) {
+        console.log("Model: " + model.keywords);
+        if (checkConcatenatedString(model.keywords, search)) {
+            console.log("TRUE");
+            const devices = await fetchJSON(`TestModels/${model.device}.json`);
+
+            // Push each device into the filtData array
+
+            for (let i = 0; i < devices.length; i++) {
+                const deviceInfo = devices[i];
+                filtData.push(deviceInfo);
+            }
+
+            
+            found = true;
+            break;
+        } else if (checkConcatenatedString(model.keywords, cleanedSearch)) {
+            console.log("TRUE");
+            const devices = await fetchJSON(`TestModels/${model.device}.json`);
+        } else if (regexModelIdentifier.test(cleanedSearch)) {
+            console.log("TRUE");
+            const devices = await fetchJSON(`TestModels/${model.device}.json`);
+        } else {
+            console.log("FALSE");
+        }
+    }
+    
+    if (!found) {
+        // Handle case when no match is found
+        await fetchAllJSON("TestModels", deviceFiles);
+    }
+
+    console.log("Filtered Data: ", filtData);
+
+
+    if (filtData.length >= 0) {
+        for (let i = 0; i < data.length; i++) {
+
+            const deviceInfo = data[i];
+
+            
+            for (let j = 0; j < deviceInfo.length; j++) {
+                console.log("Device Info Len: ", deviceInfo);
+                let name = deviceInfo[j].Name;
+                let mid = deviceInfo[j].Info.Overview["Model Identifier"];
+            
+                // const name = deviceInfo[i].Name;
+    
+                console.log("Name: ", name);
+    
+                const resultTest = includesString(name, search);
+                // console.log("Device Info: ", deviceInfo[j]);
+
+        
+                if (pattern.test(name)) {
+                    filtData.push(deviceInfo[j]);
+                } else if (pattern.test(mid)) {
+                    filtData.push(deviceInfo[j]);
+                } else if (resultTest) {
+                    filtData.push(deviceInfo[j]);
+                } else if (checkConcatenatedString(name, search)) {
+                    filtData.push(deviceInfo[j]);
+                }
             }
         }
     }
 
+
     console.log("Filtered Data: ", filtData);
+    
 
 
     let footer = document.createElement("footer");
@@ -121,16 +228,19 @@ const processData = async () => {
             .body
             .appendChild(notFoundFooter);
     } else if (filtData.length === 1) {
-        let model = filtData[0]
-            .Info
-            .Overview["Model Identifier"]
-            .replace(/ /g, "")
-            .replace("(", "")
-            .replace(")", "");
-        location.href = `detailed.html?model=${model}&type=${filtData[0].Type}`;
+        console.error("Found 1 device: ", filtData);
+            let modelIdentifier = filtData[0]
+                .Info
+                .Overview["Model Identifier"]
+                .replace(/ /g, "")
+                .replace("(", "")
+                .replace(")", "");
+            location.href = `detailed.html?modelIdentifier=${modelIdentifier}&type=${filtData[0].Type}`; // Use foundIndex here
     } else {
         for (let index = 0; index < filtData.length; index++) {
             const item = filtData[index];
+
+            console.log("item: " + item);
 
             const result = document.createElement("div");
             result
@@ -174,8 +284,10 @@ const processData = async () => {
                 // Get the index of the selected result in the filtData array
                 const selectedIndex = index;
 
+                console.error ("Selected Index: ", selectedIndex);
+
                 // Redirect the user to the detailed page with the selected index
-                location.href = `detailed.html?index=${selectedIndex}&type=${item.Type}`;
+                location.href = `detailed.html?modelIdentifier=${item.Info.Overview["Model Identifier"]}&type=${item.Type}`;
             });
 
         }
