@@ -32,8 +32,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook (13-inch, Late 2006)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -66,8 +65,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Mid 2007)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -101,8 +99,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Late 2007)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -135,8 +132,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Early 2008)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -169,8 +165,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Late 2008)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -203,8 +198,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Alum., Late 2008)",
         "Type": "MacBook",
         "image": "macbook_alu.png",
@@ -238,8 +232,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Early 2009)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -272,8 +265,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Mid 2009)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -307,8 +299,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Late 2009)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -342,8 +333,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (13-inch, Mid 2010)",
         "Type": "MacBook",
         "image": "macbook_white.png",
@@ -377,8 +367,7 @@
                 "Native Resolution": "1280 x 800"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (Retina, 12-inch, Early 2015)",
         "Type": "MacBook",
         "image": "macbook_retina.png",
@@ -412,8 +401,7 @@
                 "Native Resolution": "2304 x 1440"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (Retina, 12-inch, Early 2016)",
         "Type": "MacBook",
         "image": "macbook_retina.png",
@@ -446,8 +434,7 @@
                 "Native Resolution": "2304 x 1440"
             }
         }
-    },
-    {
+    }, {
         "Name": "MacBook <br> (Retina, 12-inch, 2017)",
         "Type": "MacBook",
         "image": "macbook_retina_sierra.png",

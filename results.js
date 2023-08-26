@@ -47,11 +47,20 @@ const fetchJSON = async (url) => {
 
 const processData = async () => {
     const deviceFiles = [
-        "MacBook.json",
         "AppleTV.json",
         "iMac.json",
         "iOS.json",
+        "iPad.json",
+        "iPhone.json",
         "iPhoneOS.json",
+        "iPod.json",
+        "MacBook.json",
+        "Mac Pro.json",
+        "Mac Studio.json",
+        "MacBook Air.json",
+        "MacBook Pro.json",
+        "MacMini.json",
+        "Mac Pro.json"
         // Add other device JSON file names here
     ];
 
@@ -97,17 +106,17 @@ const processData = async () => {
     }
 
     const models = [
-        // { keywords: ["Mac Mini", "MacMini"], device: "MacMini" },
-        // { keywords: ["Mac Pro", "MacPro"], device: "MacPro" },
+        { keywords: ["Mac Mini", "MacMini", "Mac", "Mini"], device: "MacMini" },
+        { keywords: ["Mac Pro", "MacPro"], device: "Mac Pro" },
         { keywords: ["iMac", "iMacPro"], device: "iMac" },
-        // { keywords: ["Mac Studio", "MacStudio"], device: "MacStudio" },
+        { keywords: ["Mac Studio", "MacStudio", "Mac"], device: "Mac Studio" },
         { keywords: ["iOS", "iPhoneOS"], device: "iOS" },
-        // { keywords: ["iPhone"], device: "iPhone" },
-        // { keywords: ["iPad"], device: "iPad" },
-        // { keywords: ["iPod"], device: "iPod" },
-        { keywords: ["MacBook", "MB"], device: "MacBook" },
-        // { keywords: ["MacBook", "Pro", "MacBook Pro", "MBP", "MacBookPro"], device: "MacBookPro" },
-        // { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBookAir" },
+        { keywords: ["iPhone"], device: "iPhone" },
+        { keywords: ["iPad"], device: "iPad" },
+        { keywords: ["iPod"], device: "iPod" },
+        { keywords: ["MacBook", "MB", "Mac", "Book"], device: "MacBook" },
+        { keywords: ["MacBook", "Pro", "MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
+        { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
         { keywords: ["Apple", "TV", "Apple TV", "AppleTV"], device: "AppleTV" },
     ];
     
