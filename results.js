@@ -126,7 +126,7 @@ const processData = async () => {
         console.log("Model: " + model.keywords);
         if (checkConcatenatedString(model.keywords, search)) {
             console.log("TRUE");
-            const devices = await fetchJSON(`TestModels/${model.device}.json`);
+            const devices = await fetchJSON(`Models/${model.device}.json`);
 
             // Push each device into the filtData array
 
@@ -140,10 +140,10 @@ const processData = async () => {
             break;
         } else if (checkConcatenatedString(model.keywords, cleanedSearch)) {
             console.log("TRUE");
-            const devices = await fetchJSON(`TestModels/${model.device}.json`);
+            const devices = await fetchJSON(`Models/${model.device}.json`);
         } else if (regexModelIdentifier.test(cleanedSearch)) {
             console.log("TRUE");
-            const devices = await fetchJSON(`TestModels/${model.device}.json`);
+            const devices = await fetchJSON(`Models/${model.device}.json`);
         } else {
             console.log("FALSE");
         }
@@ -151,7 +151,7 @@ const processData = async () => {
     
     if (!found) {
         // Handle case when no match is found
-        await fetchAllJSON("TestModels", deviceFiles);
+        await fetchAllJSON("Models", deviceFiles);
     }
 
     console.log("Filtered Data: ", filtData);
