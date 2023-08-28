@@ -12,7 +12,7 @@ Nah, jk. Under "Relases" you can find an executable app for Mac, and Windows
 - 2.) It has a better looking UI, is OpenSource, etc.
 
 ## So Wen ETA?
-Now :) You can access it at https://test.mactracker.online
+Now :) You can access it at https://beta.mactracker.online
 
 ## Data Source (Credits)
 
