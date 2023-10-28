@@ -30,7 +30,7 @@ try {
 
 
 
-fetch(`TestModels/${type}.json`)
+fetch(`Models/${type}.json`)
     .then(response => response.json())
     .then(data => {
         console.log("Data: ", data[0]);

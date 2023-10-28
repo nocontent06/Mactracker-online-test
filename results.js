@@ -32,6 +32,7 @@ searchResultsContainer = document.getElementById("search-results-container");
 
 // Use the data to populate the search results container
 const searchResults = document.getElementById("search-results");
+searchResults.classList.add("resultContainer")
 
 const regexModelIdentifier = new RegExp(
     `(MacBook|iMac|iPhone)[0-9,]+$`
@@ -60,7 +61,8 @@ const processData = async () => {
         "MacBook Air.json",
         "MacBook Pro.json",
         "MacMini.json",
-        "Mac Pro.json"
+        "Mac Pro.json",
+        "Watch.json"
         // Add other device JSON file names here
     ];
 
@@ -118,6 +120,7 @@ const processData = async () => {
         { keywords: ["MacBook", "Pro", "MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
         { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
         { keywords: ["Apple", "TV", "Apple TV", "AppleTV"], device: "AppleTV" },
+        { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"}
     ];
     
     let found = false;
@@ -145,7 +148,7 @@ const processData = async () => {
             console.log("TRUE");
             const devices = await fetchJSON(`Models/${model.device}.json`);
         } else {
-            console.log("FALSE");
+            console.log("FUCK THAT SHIT BRO");
         }
     }
     
@@ -252,32 +255,20 @@ const processData = async () => {
             console.log("item: " + item);
 
             const result = document.createElement("div");
-            result
-                .classList
-                .add("result");
+            result.classList.add("result");
 
             // Create image element
             let image = document.createElement("img");
             image.src = `img/${item.image}`;
-            image.id = `result-image-${item
-                .Info
-                .Overview["Model Identifier"]
-                .replace(/,/g, "")}`;
-            image
-                .classList
-                .add("result_img");
+            image.id = `result-image-${item.Info.Overview["Model Identifier"].replace(/,/g, "")}`;
+            image.classList.add("result_img");
             result.prepend(image);
 
             const text = document.createElement("div");
-            let MId = item
-                .Info
-                .Overview["Model Identifier"];
+            let MId = item.Info.Overview["Model Identifier"];
             MId = MId.replace(/_/g, " ");
-            text
-                .classList
-                .add("result__text");
-            text.innerHTML = `<p class="mid_text_result">${item
-                .Name}</p>
+            text.classList.add("result__text");
+            text.innerHTML = `<p class="mid_text_result">${item.Name}</p>
             <p id='mid_text_${item
                 .Info
                 .Overview["Model Identifier"]
