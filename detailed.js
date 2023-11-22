@@ -28,6 +28,18 @@ try {
     console.error(error);
 }
 
+const searchFormNav = document.getElementById("search-form-nav");
+const searchInputNav = document.getElementById("search-input-nav"); // search input
+let linkTagNav = document.getElementById("a-bt"); // link
+
+searchFormNav.addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        let webLink = `results.html?search=${searchInputNav.value}`;
+        linkTagNav.setAttribute("href", webLink);
+        linkTagNav.click();
+    }
+});
 
 
 fetch(`Models/${type}.json`)
