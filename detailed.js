@@ -28,6 +28,8 @@ try {
     console.error(error);
 }
 
+let imgDetail = document.querySelector(".img-detail");
+
 const searchFormNav = document.getElementById("search-form-nav");
 const searchInputNav = document.getElementById("search-input-nav"); // search input
 let linkTagNav = document.getElementById("a-bt"); // link
@@ -40,6 +42,7 @@ searchFormNav.addEventListener("keypress", function (event) {
         linkTagNav.click();
     }
 });
+
 
 
 fetch(`Models/${type}.json`)
@@ -73,7 +76,7 @@ fetch(`Models/${type}.json`)
         }
 
         detailed_heading.classList.add("detailed_heading");
-        document.body.prepend(detailed_heading);
+        document.body.insertBefore(detailed_heading, detailedViewContainer);
 
         // Create image element
         let image = document.createElement("img");
@@ -133,3 +136,25 @@ fetch(`Models/${type}.json`)
         
         detailedViewContainer.appendChild(detailedView);
     });
+
+
+
+
+
+    window.onscroll = function () {
+        scrollFunction2();
+    };
+    
+    // Make Navbar sticky
+    
+    let navbar = document.getElementById("bt-nav");
+    let sticky = navbar.offsetHeight;
+    
+    function scrollFunction2() {
+        if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+        } else {
+            navbar.classList.remove("sticky");
+        }
+    }
+    

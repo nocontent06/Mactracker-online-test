@@ -59,6 +59,26 @@ searchFormNav.addEventListener("keypress", function (event) {
     }
 });
 
+window.onscroll = function () {
+    scrollFunction();
+};
+
+// Make Navbar sticky
+
+let navbar = document.getElementById("bt-nav");
+let sticky = navbar.offsetHeight;
+
+
+
+
+function scrollFunction() {
+    if (window.scrollY >= sticky) {
+        navbar.classList.add("sticky")
+    } else {
+        navbar.classList.remove("sticky");
+    }
+}
+
 const processData = async () => {
     const deviceFiles = [
         "AppleTV.json",
