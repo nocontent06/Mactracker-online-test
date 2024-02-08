@@ -1,11 +1,3 @@
-// Function to hide the loading screen after 1.5 seconds
-function hideLoadingScreen() {
-    const loadingScreen = document.querySelector('.loading-screen');
-    loadingScreen.style.display = 'none';
-}
-
-// Wait for 1.5 seconds before hiding the loading screen
-setTimeout(hideLoadingScreen, 1500);
 
 // Retrieve the search results data from the URL
 const params = new URLSearchParams(window.location.search);
