@@ -102,7 +102,7 @@ fetch(`Models/${type}.json`)
     
                 for (let detail in data[midIndex].Info[key]) {
                     let infoKey = String(data[midIndex].Info[key][detail]);
-                    infoKey = infoKey.replace(/_/g, " ")
+                    infoKey = infoKey.replace(/_/g, " ") 
                     item_container.innerHTML += `<p>
                         <strong>${detail}:</strong> ${infoKey}
                     </p>`;
@@ -118,15 +118,14 @@ fetch(`Models/${type}.json`)
     
                 for (let detail in data[paramIndex].Info[key]) {
                     let infoKey = String(data[paramIndex].Info[key][detail]);
-                    infoKey = infoKey.replace(/_/g, " ")
+                    infoKey = infoKey.replace(/_/g, " ");
                     item_container.innerHTML += `<p>
-                        <strong>${detail}:</strong> ${infoKey}
+                    <strong>${detail}:</strong> ${infoKey}
                     </p>`;
                 }
                 detailedView.appendChild(item_container);
             }
         }
-
 
         let footer_detailed = document.createElement("footer");
         footer_detailed.setAttribute("class", "footer");

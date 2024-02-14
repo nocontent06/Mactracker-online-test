@@ -87,7 +87,8 @@ const processData = async () => {
         "MacBook Pro.json",
         "MacMini.json",
         "Mac Pro.json",
-        "Watch.json"
+        "Watch.json",
+        "Pencil.json"
         // Add other device JSON file names here
     ];
 
