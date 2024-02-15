@@ -146,7 +146,8 @@ const processData = async () => {
         { keywords: ["MacBook", "Pro", "MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
         { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
         { keywords: ["Apple", "TV", "Apple TV", "AppleTV"], device: "AppleTV" },
-        { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"}
+        { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"},
+        { keywords: ["Pencil", "Apple Pencil"], device: "Pencil"}
     ];
     
     let found = false;
