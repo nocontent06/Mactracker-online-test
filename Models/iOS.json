@@ -204,7 +204,7 @@
                 "Model Identifier": "iOS17"
             },
             "Versions": {
-                "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 16.0</td><td>Sep 12, 2022</td></tr><tr><td>iOS 16.0.1</td><td>Sep 14, 2022</td></tr><tr><td>iOS 16.0.2</td><td>Sep 22, 2022</td></tr><tr><td>iOS 16.0.3</td><td>Oct 10, 2022</td></tr><tr><td>iOS 16.1</td><td>Oct 24, 2022</td></tr><tr><td>iOS 16.1.1</td><td>Nov 9, 2022</td></tr><tr><td>iOS 16.1.2</td><td>Nov 30, 2022</td></tr><tr><td>iOS 16.2</td><td>Dec 13, 2022</td></tr><tr><td>iOS 16.3</td><td>Jan 23, 2023</td></tr><tr><td>iOS 16.3.1</td><td>Feb 13, 2023</td></tr><tr><td>iOS 16.4</td><td>Mar 27, 2023</td></tr><tr><td>iOS 16.4.1</td><td>Apr 7, 2023</td></tr><tr><td>iOS 16.5</td><td>May 18, 2023</td></tr><tr><td>iOS 16.5.1</td><td>Jun 21, 2023</td></tr><tr><td>iOS 16.6</td><td>Jul 24, 2023</td></tr></tbody></table>"
+                "Version": "<table><tbody><tr><td>Version<hr></td><td>Release Date<hr></td></tr><tr><td>iOS 17.0</td><td>Sep 18, 2023</td></tr><tr><td>iOS 17.0.1</td><td>Sep 21, 2023</td></tr><tr><td>iOS 17.0.2</td><td>Sep 21, 2023</td></tr><tr><td>iOS 17.0.3</td><td>Oct 4, 2022</td></tr><tr><td>iOS 17.1</td><td>Oct 25, 2023</td></tr><tr><td>iOS 17.1.1</td><td>Nov 7, 2023</td></tr><tr><td>iOS 17.1.2</td><td>Nov 30, 2023</td></tr><tr><td>iOS 17.2</td><td>Dec 11, 2023</td></tr><tr><td>iOS 17.2.1</td><td>Dec 19, 2023</td></tr><tr><td>iOS 17.3</td><td>Jan 22, 2024</td></tr><tr><td>iOS 17.3.1</td><td>Feb 8, 2023</td></tr></tbody></table>"
             }
         }
     }
