@@ -221,8 +221,9 @@ const processData = async () => {
 
 
     console.log("Filtered Data: ", filtData);
-    
+    console.log("Filtered Data Length: ", filtData.length);
 
+    searchResults_heading.innerText = filtData.length + " Results for " + search;
 
     let footer = document.createElement("footer");
     footer.setAttribute("class", "footer");
