@@ -197,6 +197,7 @@ const processData = async () => {
                 console.log("Device Info Len: ", deviceInfo);
                 let name = deviceInfo[j].Name;
                 let mid = deviceInfo[j].Info.Overview["Model Identifier"];
+                let mnr = deviceInfo[j].Info.Overview["Model Number"];
             
                 // const name = deviceInfo[i].Name;
     
@@ -213,6 +214,8 @@ const processData = async () => {
                 } else if (resultTest) {
                     filtData.push(deviceInfo[j]);
                 } else if (checkConcatenatedString(name, search)) {
+                    filtData.push(deviceInfo[j]);
+                } else if (pattern.test(mnr)) {
                     filtData.push(deviceInfo[j]);
                 }
             }
@@ -240,14 +243,9 @@ const processData = async () => {
 
         const requestMsg = document.createElement("p");
         requestMsg.innerHTML = "If you want to request a device, please contact me <br> \
-            On Twitt" +
-                "er: <a class='linkNotFound' href='https://twitter.com/@NoContent_06'> @NoConte" +
-                "nt_06 </a> <br> \
-            On Discord: <a class='linkNotFound' href='https:" +
-                "//discord.gg/hyTP8ynDAz'>AppleGuy#7469</a><br> \
-            On Reddit: <a cla" +
-                "ss='linkNotFound' href='https://reddit.com/u/ytnocontent06'>u/ytnocontent06</a" +
-                ">";
+            On Twitter: <a class='linkNotFound' href='https://twitter.com/@mactracker.online'> @mactracker.online </a> <br> \
+            On Discord: <a class='linkNotFound' href='https://discord.gg/hyTP8ynDAz'> i_progeny </a><br> \
+            On Reddit: <a class='linkNotFound' href='https://reddit.com/u/ytnocontent06'>u/ytnocontent06</a>"
         requestMsg.style.textAlign = "center";
         requestMsg.style.fontWeight = "bold";
         requestMsg.style.fontSize = "1.5rem";
