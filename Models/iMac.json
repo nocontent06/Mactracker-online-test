@@ -15,7 +15,7 @@
             },
             "Processor": {
                 "Processor Name": "PowerPC 970FX (G5)",
-                "Processor Speed (17')": "1.6 or 1.8 GHz",
+                "Processor Speed": "1.6 or 1.8 GHz",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -29,8 +29,8 @@
             },
             "Memory": {
                 "Maximum Memory": "2 GB",
-                "# of Memory Slots": "2",
-                "Supported RAM": "400 MHz DDR SDRAM"
+                "Supported RAM": "400 MHz DDR SDRAM",
+                "# of Memory Slots": "2" 
             },
             "Display": {
                 "Display Type": "17-inch widescreen TFT LCD",
@@ -240,12 +240,12 @@
                 "Model Number": "A1144",
                 "EMC": "2081",
                 "Color": "White",
-                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.7 D inch"
+                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Processor Name": "PowerPC 970FX (G5)",
                 "Processor Speed": "1.9 GHz",
-                "Number of Cores": "1",
+                "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
             },
@@ -302,7 +302,7 @@
             "Processor": {
                 "Processor Name": "PowerPC 970FX (G5)",
                 "Processor Speed": "2.1 GHz",
-                "Number of Cores": "1",
+                "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
             },
@@ -355,12 +355,12 @@
                 "Model Number": "A1173",
                 "EMC": "2104",
                 "Color": "White",
-                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.7 D inch"
+                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core Duo (T2400) ('Yonah')",
                 "Processor Speed": "1.83 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
             },
@@ -379,6 +379,7 @@
             },
             "Display": {
                 "Display Type": "17-inch widescreen TFT LCD",
+                "Brightness": "250 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"
             },
@@ -392,7 +393,7 @@
                 "Ethernet": "1 GBit/s (RJ-45)",
                 "USB": "3 - 480 MBit/s",
                 "Firewire": "2 - 400 MBit/s",
-                "Display": "1 - Mini-VGA",
+                "Display": "1 - Mini-DVI",
                 "Audio In": "1 - 3.5mm input jack, Built-in microphone",
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers",
                 "Camera": "Built-in iSight"
@@ -402,19 +403,28 @@
         }
     }, 
     {
-        "Name": "iMac Early 2006 (17') & (20')",
+        "Name": "iMac Early 2006 20-inch",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jan 2006",
                 "Discontinued": "Sep 2006",
-                "Model Identifier": "iMac4,1"
+                "Model Identifier": "iMac4,1",
+                "Model Number": "A1174",
+                "EMC": "2105",
+                "Color": "White",
+                "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core Duo (T2400) (17') <br> Intel Core Duo (T2500) (20') ('Yonah')",
-                "Processor Speed": "1.83 GHz or 2.0 GHz",
-                "Number of Cores": "2"
+                "Processor Name": "Intel Core Duo T2500 ('Yonah')",
+                "Processor Speed": "2 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "250 or 500 GB 7200-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.4 (Tiger)",
@@ -423,18 +433,30 @@
             },
             "Memory": {
                 "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
+            },
+            "Display": {
+                "Display Type": "20-inch widescreen TFT LCD",
+                "Brightness": "280 nits",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
                 "Graphics Chip": "ATI Radeon X1600",
-                "Graphics Memory": "128 MB DDR3 (17') <br> 128 MB or 256 MB DDR3 (20')"
+                "Graphics Memory": "128 MB or 256 MB GDDR3"
             },
-            "Display": {
-                "Display Type": "17' or 20' (viewable) TFT LCD",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "1440 x 900 (17') <br> 1680 x 1050 (20')"
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "2 - 400 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers",
+                "Camera": "Built-in iSight"
             }
-
         }
     },
     {
@@ -445,48 +467,133 @@
             "Overview": {
                 "Introduced": "Jul 2006",
                 "Discontinued": "Sep 2006",
-                "Model Identifier": "iMac4,2"
+                "Model Identifier": "iMac4,2",
+                "Model Number": "A1195",
+                "EMC": "2110",
+                "Color": "White",
+                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core Duo (T2400) ('Yonah')",
                 "Processor Speed": "1.83 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "80 GB 7200-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.6 (Tiger)",
-                "Later OS": "none",
                 "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
             },
             "Memory": {
                 "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
+            },
+            "Display": {
+                "Display Type": "17-inch (viewable) TFT LCD",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
             },
             "Graphics": {
                 "Graphics Chip": "Intel Graphics Media Accelerator (GMA) 950",
                 "Graphics Memory": "64 MB DDR2"
             },
-
-            "Display": {
-                "Display Type": "17-inch (viewable) TFT LCD",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "1440 x 900"
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
+                "Bluetooth": "none",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "2 - 400 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers",
+                "Camera": "Built-in iSight"
             }
 
         }
-    }, {
-        "Name": "iMac Late 2006 (17') & (20')",
+    }, 
+    {
+        "Name": "iMac Late 2006 17-inch CD",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2006",
                 "Discontinued": "Aug 2007",
-                "Model Identifier": "iMac5,1"
+                "Model Identifier": "iMac5,2",
+                "Model Number": "A1195",
+                "EMC": "2124",
+                "Color": "White",
+                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T7200, T7400) ('Merom') (17') <br> Intel Core 2 Duo (T7400, T7600) ('Merom') (20')",
-                "Processor Speed": "2.0 GHz or 2.16 GHz (17') <br> 2.16 GHz or 2.33 GHz (20')",
-                "Number of Cores": "2"
+                "Processor Name": "Intel Core 2 Duo (T5600) ('Merom')",
+                "Processor Speed": "1.83 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "160 GB 7200-rpm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.7 (Tiger)",
+                "Later OS": "Mac OS X 10.4.8 (Tiger)",
+                "Maximum OS": "Mac OS X 10.7.5 (Lion)"
+            },
+            "Memory": {
+                "Maximum Memory": "2 GB",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
+            },
+            "Display": {
+                "Display Type": "17-inch (viewable) TFT LCD",
+                "Brightness": "250 nits",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"
+            },
+            "Graphics": {
+                "Graphics Chip": "Intel Graphics Media Accelerator (GMA) 950",
+                "Graphics Memory": "64 MB DDR2"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
+                "Bluetooth": "none",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "2 - 400 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
+            }
+        }
+    }, 
+    {
+        "Name": "iMac Late 2006 17-inch",
+        "Type": "iMac",
+        "image": "imac_isight.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2006",
+                "Discontinued": "Aug 2007",
+                "Model Identifier": "iMac5,1",
+                "Model Number": "A1208",
+                "EMC": "2114",
+                "Color": "White",
+                "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7200, T7400) ('Merom') ",
+                "Processor Speed": "2.0 GHz or 2.16 GHz ",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "160, 250 or 500 GB 7200-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.7 (Tiger)",
@@ -495,33 +602,54 @@
             },
             "Memory": {
                 "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
+            },
+            "Display": {
+                "Display Type": "17-inch (viewable) TFT LCD",
+                "Brightness": "250 nits",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1440 x 900"  
             },
             "Graphics": {
                 "Graphics Chip": "ATI Radeon X1600",
-                "Graphics Memory": "128 MB GDDR3 (17') <br> 128 MB or 256 MB GDDR3 (20')"
+                "Graphics Memory": "128 MB GDDR3"
             },
-            "Display": {
-                "Display Type": "17' or 20' (viewable) TFT LCD",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "1440 x 900 (17') <br> 1680 x 1050 (20')"
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "2 - 400 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
-
         }
-    }, {
-        "Name": "iMac (17') Late 2006 CD",
+    }, 
+    {
+        "Name": "iMac Late 2006 20-inch",
         "Type": "iMac",
         "image": "imac_isight.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2006",
                 "Discontinued": "Aug 2007",
-                "Model Identifier": "iMac5,2"
+                "Model Identifier": "iMac5,1",
+                "Model Number": "A1207",
+                "EMC": "2118",
+                "Color": "White",
+                "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T5600) ('Merom')",
-                "Processor Speed": "1.83 GHz",
-                "Number of Cores": "2"
+                "Processor Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
+                "Processor Speed": "2.16 GHz or 2.33 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "250 or 500 GB 7200-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.7 (Tiger)",
@@ -529,20 +657,34 @@
                 "Maximum OS": "Mac OS X 10.7.5 (Lion)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
-            },
-            "Graphics": {
-                "Graphics Chip": "Intel Graphics Media Accelerator (GMA) 950",
-                "Graphics Memory": "64 MB DDR2"
+                "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
             },
             "Display": {
-                "Display Type": "17-inch (viewable) TFT LCD",
+                "Display Type": "20-inch (viewable) TFT LCD",
+                "Brightness": "280 nits",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "1440 x 900"
+                "Native Resolution": "1680 x 1050"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon X1600",
+                "Graphics Memory": "128 MB or 256 MB GDDR3"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "2 - 400 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
+
         }
-    }, {
+    },
+    {
         "Name": "iMac (24')",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -550,12 +692,21 @@
             "Overview": {
                 "Introduced": "Sep 2006",
                 "Discontinued": "Aug 2007",
-                "Model Identifier": "iMac6,1"
+                "Model Identifier": "iMac6,1",
+                "Model Number": "A1200",
+                "EMC": "2111",
+                "Color": "White",
+                "Weight/Dimensions": "<br>11.2 kg, 52.3 H x 57.4 W x 20.7 D cm <br>24.7 lbs, 20.6 H x 22.6 W x 8.1 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
                 "Processor Speed": "2.16 GHz or 2.33 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "250, 500 or 750 GB 7200-rpm"  
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.7 (Tiger)",
@@ -564,55 +715,143 @@
             },
             "Memory": {
                 "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
+            },
+            "Display": {
+                "Display Type": "24-inch (viewable) TFT LCD",
+                "Brightness": "400 nits",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1200"
             },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 7300 GT or 7600 GT",
                 "Graphics Memory": "128 (7300 GT) or 256 MB (7600 GT) GDDR3"
             },
-            "Display": {
-                "Display Type": "24' (viewable) TFT LCD",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "1920 x 1200"
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "2 - 400 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, {
-        "Name": "iMac Mid 2007 (20') & (24')",
+    }, 
+    {
+        "Name": "iMac Mid 2007 20-inch",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
         "Info": {
             "Overview": {
                 "Introduced": "Aug 2007",
                 "Discontinued": "Apr 2008",
-                "Model Identifier": "iMac7,1"
+                "Model Identifier": "iMac7,1",
+                "Model Number": "A1224",
+                "EMC": "2133",
+                "Color": "Silver",
+                "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T7300, T7700) ('Merom') (20') <br> Intel Core 2 Duo (T7700) or Core 2 Extreme (X7900) ('Merom') (24')",
-                "Processor Speed": "2.0 GHz or 2.4 GHz (20') <br> 2.4 GHz or 2.8 GHz (24')",
-                "Number of Cores": "2"
+                "Processor Name": "Intel Core 2 Duo (T7300, T7700) ('Merom')",
+                "Processor Speed": "2.0 GHz or 2.4 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Storage": {
+                "HDD": "250 (2 GHz only), 320, 500 or 750 GB 7200-rpm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.4.10 (Tiger)",
                 "Later OS": "Mac OS X 10.5(.2) (Leopard)",
-                "Maximum OS": "Mac OS X 10.11.6 (El Capitan)"
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
                 "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM"
-            },
-            "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO (20') <br> ATI Radeon HD 2600 PRO (24')",
-                "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3 (20') <br> 256 MB GDDR3 (24')"
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
             },
             "Display": {
-                "Display Type": "20' or 24' (viewable) glossy widescreen TFT LCD",
+                "Display Type": "20-inch (viewable) glossy widescreen TFT LCD",
+                "Brightness": "290 nits",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "1680 x 1050 (20') <br> 1920 x 1200 (24')"
+                "Native Resolution": "1680 x 1050"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO",
+                "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "1 - 400 MBit/s, 1 - 800 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
 
         }
-    }, {
-        "Name": "iMac Mid 2007 (20') & (24')",
+    }, 
+    {
+        "Name": "iMac Mid 2007 24-inch",
+        "Type": "iMac",
+        "image": "imac_aluminium_24.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Aug 2007",
+                "Discontinued": "Apr 2008",
+                "Model Identifier": "iMac7,1",
+                "Model Number": "A1225",
+                "EMC": "2134",
+                "Color": "Silver",
+                "Weight/Dimensions": "11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Intel Core 2 Duo (T7700) or Core 2 Extreme (X7900) ('Merom')",
+                "Processor Speed": "2.4 GHz or 2.8 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
+            },
+            "Software": {
+                "Original OS": "Mac OS X 10.4.10 (Tiger)",
+                "Later OS": "Mac OS X 10.5(.2) (Leopard)",
+                "Maximum OS": "OS X 10.11.6 (El Capitan)"
+            },
+            "Memory": {
+                "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
+                "Supported RAM": "667 MHz DDR2 SO-DIMM",
+                "# of Memory Slots": "2"
+            },
+            "Display": {
+                "Display Type": "24-inch (viewable) glossy widescreen TFT LCD",
+                "Brightness": "380 nits",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "1920 x 1200"
+            },
+            "Graphics": {
+                "Graphics Chip": "ATI Radeon HD 2600 PRO",
+                "Graphics Memory": "256 MB GDDR3"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "Built-in Bluetooth 2.0 + EDR",
+                "Ethernet": "1 GBit/s (RJ-45)",
+                "USB": "3 - 480 MBit/s",
+                "Firewire": "1 - 400 MBit/s, 1 - 800 MBit/s",
+                "Display": "1 - Mini-DVI",
+                "Audio In": "1 - 3.5mm input jack, Built-in microphone",
+                "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
+            }
+        }
+    },
+    {
+        "Name": "iMac Early 2008 (20') & (24')",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
         "Info": {
@@ -624,7 +863,7 @@
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (E8135, E8335) ('Penryn') (20') <br> Intel Core 2 Duo (E8235, E8435) (24')",
                 "Processor Speed": "2.4 GHz or 2.66 GHz (20') <br> 2.8 GHz or 3.06 GHz (24')",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.2 (Leopard)",
@@ -659,7 +898,7 @@
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P7350, P7550) ('Penryn')",
                 "Processor Speed": "2.0 or 2.26 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.6 (Leopard)",
@@ -693,7 +932,7 @@
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (E8135) ('Penryn') (20') <br> Intel Core 2 Duo (E8135, E8335, E8435) ('Penryn') (24')",
                 "Processor Speed": "2.66 GHz (20') <br> 2.66 GHz, 2.93 GHz or 3.06 GHz(24')",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.6 (Leopard)",
@@ -727,7 +966,7 @@
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale'), i5-750 or i7-860 ('Lynnfield')",
                 "Processor Speed": "3.06 or 3.33 GHz (Core 2 Duo), 2.66 GHz (i5), 2.8 GHz (i7)",
-                "Number of Cores": "2 (Core 2 Duo), 4 (i5, i7)"
+                "# of Cores": "2 (Core 2 Duo), 4 (i5, i7)"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.1/.2 Snow Leopard",
@@ -760,7 +999,7 @@
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale')",
                 "Processor Speed": "3.06 or 3.33 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.1 (Snow Leopard)",
@@ -795,7 +1034,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i3 (540, 550) or Core i5 (680) ('Clarkdale')",
                 "Processor Speed": "3.06 or 3.2 GHz (i3), 3.6 GHz (i5)",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.3 Snow Leopard",
@@ -829,7 +1068,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i3 (550), Core i5 (680, 760) or Core i7 (870) ('Clarkdale', 'Lynnfield')",
                 "Processor Speed": "3.2 GHz (i3), 3.6 or 2.8 GHz (i5), 2.93 GHz (i7)",
-                "Number of Cores": "2 or 4"
+                "# of Cores": "2 or 4"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.3 Snow Leopard",
@@ -863,7 +1102,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i3 (2100) ('Sandy Bridge')",
                 "Processor Speed": "3.1 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.7 Lion",
@@ -896,7 +1135,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (2400S, 2500S) or i7 (2600S) ('Sandy Bridge')",
                 "Processor Speed": "2.5 GHz or 2.7 GHz (Core i5) 2.8 GHz (Core i7)",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.6 Snow Leopard",
@@ -930,7 +1169,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (2500S, 2400) or i7 (2600) ('Sandy Bridge')",
                 "Processor Speed": "2.7 GHz or 3.1 GHz (Core i5) 3.4 GHz (Core i7)",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.6.6 Snow Leopard",
@@ -964,7 +1203,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (3330S, 3470S) or i7 (3770S) ('Ivy Bridge')",
                 "Processor Speed": "2.7 GHz, 2.9 GHz (i5), 3.1 GHz (i7)",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.8.2 (Mountain Lion)",
@@ -997,7 +1236,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (3470S, 3470) or i7 (3770) ('Ivy Bridge')",
                 "Processor Speed": "2.9 GHz, 3.2 GHz, 3.4 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.8.2 (Mountain Lion)",
@@ -1030,7 +1269,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i3 (3225) ('Ivy Bridge')",
                 "Processor Speed": "3.3 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "OS X 10.8.2 (Mountain Lion)",
@@ -1063,7 +1302,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (4570R) ('Haswell')",
                 "Processor Speed": "2.7 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.8.4 (Mountain Lion)",
@@ -1097,7 +1336,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (4570, 4670) or i7 (4771) ('Haswell')",
                 "Processor Speed": "3.2 or 3.4 GHz (i5), 3.5 GHz (i7)",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.8.4 (Mountain Lion)",
@@ -1131,7 +1370,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (4570S) or i7 (4770S)",
                 "Processor Speed": "2.9 GHz or 3.1 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.8.4 (Mountain Lion)",
@@ -1165,7 +1404,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (4260U) ('Haswell')",
                 "Processor Speed": "1.4 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "OS X 10.9.3 (Mavericks)",
@@ -1198,7 +1437,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (4690) or Core i7 (4790K)",
                 "Processor Speed": "3.5 GHz or 4.0 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.10 (Yosemite)",
@@ -1232,7 +1471,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (4590) ('Haswell')",
                 "Processor Speed": "3.3 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.10.2 (Yosemite)",
@@ -1265,7 +1504,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (5250U) ('Broadwell')",
                 "Processor Speed": "1.6 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "OS X 10.11 (El Capitan)",
@@ -1299,7 +1538,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (5575R) ('Broadwell')",
                 "Processor Speed": "2.8 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.11 (El Capitan)",
@@ -1333,7 +1572,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (5675R) or Core i7 (5775R) ('Broadwell')",
                 "Processor Speed": "3.1 GHz or 3.3 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.11 (El Capitan)",
@@ -1367,7 +1606,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (6500, 6600) or i7 (6700K)",
                 "Processor Speed": "3.2, 3.3, or 4.0 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "OS X 10.11 (El Capitan)",
@@ -1401,7 +1640,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (7360U) ('Kaby Lake')",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2"
             },
             "Software": {
                 "Original OS": "macOS 10.12.4 (Sierra)",
@@ -1435,7 +1674,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (7400, 7500) or Core i7 (7700)",
                 "Processor Speed": "3.0, 3.4, or 3.6 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "macOS 10.12.4 (Sierra)",
@@ -1469,7 +1708,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (7500, 7600, 7600K) or Core i7 (7700K)",
                 "Processor Speed": "3.4, 3.5, 3.8, or 4.2 GHz",
-                "Number of Cores": "4"
+                "# of Cores": "4"
             },
             "Software": {
                 "Original OS": "macOS 10.12.4 (Sierra)",
@@ -1503,7 +1742,7 @@
             "Processor": {
                 "Processor Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
                 "Processor Speed": "3.2, 3.0, 2.5, or 2.3 GHz",
-                "Number of Cores": "8, 10, 14, or 18"
+                "# of Cores": "8, 10, 14, or 18"
             },
             "Software": {
                 "Original OS": "macOS 10.13.2 (High Sierra)",
@@ -1536,7 +1775,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (8500, 8600, 9600K) or Core i9 (9900K)",
                 "Processor Speed": "3.0, 3.1, 3.7 or 3.6 GHz",
-                "Number of Cores": "6 or 8"
+                "# of Cores": "6 or 8"
             },
             "Software": {
                 "Original OS": "macOS 10.14.4 (Mojave)",
@@ -1569,7 +1808,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i3 (8100), Core i5 (8500), or Core i7 (8700)",
                 "Processor Speed": "3.6, 3.0, or 3.2 GHz",
-                "Number of Cores": "4 (i3), 6 (i5, i7)"
+                "# of Cores": "4 (i3), 6 (i5, i7)"
             },
             "Software": {
                 "Original OS": "macOS 10.14.4 (Mojave)",
@@ -1602,7 +1841,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
                 "Processor Speed": "3.1, 3.3 (i5), 3.8 (i7), 3.6 GHz (i9)",
-                "Number of Cores": "6 (i5), 8 (i7), 10 (i9)"
+                "# of Cores": "6 (i5), 8 (i7), 10 (i9)"
             },
             "Software": {
                 "Original OS": "macOS 10.15.6 (Catalina)",
@@ -1635,7 +1874,7 @@
             "Processor": {
                 "Processor Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
                 "Processor Speed": "3.1, 3.3 (i5), 3.8 (i7), 3.6 GHz (i9)",
-                "Number of Cores": "6 (i5), 8 (i7), 10 (i9)"
+                "# of Cores": "6 (i5), 8 (i7), 10 (i9)"
             },
             "Software": {
                 "Original OS": "macOS 10.15.6 (Catalina)",
@@ -1669,7 +1908,7 @@
             "Processor": {
                 "Processor Name": "Apple M1 (APL1102)",
                 "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
-                "Number of Cores": "8 (4 high performance and 4 high efficiency)"
+                "# of Cores": "8 (4 high performance and 4 high efficiency)"
             },
             "Software": {
                 "Original OS": "macOS 11.3 (Big Sur)",
@@ -1706,7 +1945,7 @@
             "Processor": {
                 "Processor Name": "Apple M1 (APL1102)",
                 "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
-                "Number of Cores": "8 (4 high performance and 4 high efficiency)"
+                "# of Cores": "8 (4 high performance and 4 high efficiency)"
             },
             "Software": {
                 "Original OS": "macOS 11.3 (Big Sur)",
@@ -1761,7 +2000,7 @@
                 "# of Cores": "8"
             },
             "Display": {
-                "Type": "24-inch (diagonal) Retina 4.5K display",
+                "Display Type": "24-inch (diagonal) Retina 4.5K display",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "4480 x 2520"
             },
@@ -1803,7 +2042,7 @@
                 "# of Cores": "10"
             },
             "Display": {
-                "Type": "24-inch (diagonal) Retina 4.5K display",
+                "Display Type": "24-inch (diagonal) Retina 4.5K display",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "4480 x 2520"
             },
