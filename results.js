@@ -313,7 +313,7 @@ const processData = async () => {
                 console.error ("Selected Index: ", selectedIndex);
 
                 // Redirect the user to the detailed page with the selected index
-                location.href = `detailed.html?modelIdentifier=${item.Info.Overview["Model Identifier"]}&type=${item.Type}`;
+                location.href = `detailed.html?modelNumber=${item.Info.Overview["Model Number"]}&type=${item.Type}`;
             });
 
         }
