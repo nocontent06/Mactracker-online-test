@@ -40,7 +40,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce4 MX or GeForce FX 5200 Ultra",
-                "Graphics Memory ": "32 MB (MX) or 64 MB (FX 5200) DDR"
+                "Graphics Memory": "32 MB (MX) or 64 MB (FX 5200) DDR"
             },
             "Connections": {
                 "Wi-Fi": "Optional AirPort Extreme card (802.11b/g)",
@@ -2557,44 +2557,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    }, {
-        "Name": "iMac (24-inch, M1, 2021)<br>(4-Ports)",
-        "Type": "iMac",
-        "image": "imac_24inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2021",
-                "Discontinued": "Oct 2023",
-                "Model Identifier": "iMac21,1"
-                
-            },
-            "Processor": {
-                "Processor Name": "Apple M1 (APL1102)",
-                "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
-                "# of Cores": "8 (4 high performance and 4 high efficiency)"
-            },
-            "Software": {
-                "Original OS": "macOS 11.3 (Big Sur)",
-                "Maximum OS": "Latest release of macOS"
-            },
-            "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "4266 MT/s LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple G13G",
-                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
-            },
-            "Display": {
-                "Display Type": "24-inch (diagonal) Retina 4.5K display",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "4480 x 2520"
-            },
-            "Connections": {
-                "# of USB-C-Ports": "4"
-            }
-        }
-    }, {
+    },  {
         "Name": "iMac (24-inch, M1, 2021)<br>(2-Ports)",
         "Type": "iMac",
         "image": "imac_24inch.png",
@@ -2602,75 +2565,162 @@
             "Overview": {
                 "Introduced": "May 2021",
                 "Discontinued": "Oct 2023",
-                "Model Identifier": "iMac21,2"
-               
+                "Model Identifier": "iMac21,2",
+                "Model Number": "A2439",
+                "EMC": "3664",
+                "Color": "Silver, Pink, Blue, Green",
+                "Weight/Dimensions": "<br>4.46 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.83 lbs, 18.1 H x 21.5 W x 5.8 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M1 (APL1102)",
                 "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
-                "# of Cores": "8 (4 high performance and 4 high efficiency)"
+                "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Storage": {
+              "SSD": "256, 512 GB or 1 TB"  
             },
             "Software": {
                 "Original OS": "macOS 11.3 (Big Sur)",
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
+                "Built-in Memory": "8 or 16 GB",
                 "Maximum Memory": "16 GB",
                 "Supported RAM": "4266 MT/s LPDDR4X"
             },
+            "Display": {
+                "Display Type": "24-inch (diagonal) Retina 4.5K display",
+                "Brightness": "500 nits",
+                "Native Resolution": "4480 x 2520"
+            },
             "Graphics": {
                 "Graphics Chip": "Apple G13G",
+                "# of Graphics Cores": "7",
                 "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (6)",
+                "Bluetooth": "5.0",
+                "Ethernet": "Optional",
+                "USB": "none",
+                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
+                "Camera": "1080p FaceTime HD camera"
+            }
+        }
+    }, 
+    {
+        "Name": "iMac (24-inch, M1, 2021)<br>(4-Ports)",
+        "Type": "iMac",
+        "image": "imac_24inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2021",
+                "Discontinued": "Oct 2023",
+                "Model Identifier": "iMac21,1",
+                "Model Number": "A2438",
+                "EMC": "3663",
+                "Color": "Silver, Pink, Blue, Green, Purple, Orange, Yellow",
+                "Weight/Dimensions": "<br>4.48 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.88 lbs, 18.1 H x 21.5 W x 5.8 D"                
+            },
+            "Processor": {
+                "Processor Name": "Apple M1 (APL1102)",
+                "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
+                "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Software": {
+                "Original OS": "macOS 11.3 (Big Sur)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 or 16 GB",
+                "Maximum Memory": "16 GB",
+                "Supported RAM": "4266 MT/s LPDDR4X"
             },
             "Display": {
                 "Display Type": "24-inch (diagonal) Retina 4.5K display",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "4480 x 2520"
             },
+            "Graphics": {
+                "Graphics Chip": "Apple G13G",
+                "# of Graphics Cores": "8",
+                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
             "Connections": {
-                "# of USB-C-Ports": "2"
+                "Wi-Fi": "802.11ax (6)",
+                "Bluetooth": "5.0",
+                "Ethernet": "1 - RJ45 on Power Adapter",
+                "USB": "2 - USB 3 (up to 10 Gbps)",
+                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
+                "Camera": "1080p FaceTime HD camera"
             }
         }
-    }, {
+    },{
         "Name": "iMac (24-inch, M3, 2023)<br>(2-Ports)",
         "Type": "iMac",
         "image": "imac_24inch.png",
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2023",
-                "Discontinued": "Present",
+                "Discontinued": "--",
                 "Model Identifier": "Mac15,4",
-                "# of USB-C-Ports": "2"
+                "Model Number": "A2874",
+                "EMC": "8207",
+                "Color": "Silver, Pink, Blue, Green",
+                "Weight/Dimensions": "<br>4.43 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.75 lbs, 18.1 H x 21.5 W x 5.8 D inch"
             },
             "Processor": {
                 "Name": "Apple M3",
                 "Speed": "4.1 GHz (high performance) and 2.8 GHz (high efficiency)",
                 "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
+            },
+            "Storage": {
+                "SSD":"256, 512 GB or 1 TB"
             },
             "Software": {
                 "Original OS": "macOS 13.5 (Ventura)",
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Configurations": "8, 16, 24 GB",
-                "Maximum": "24 GB",
-                "Supported": "6400 MT/s LPDDR5"
-            },
-            "Graphics": {
-                "Chip": "Apple GPU",
-                "Memory": "shared through UMA (Unified Memory Architecture)",
-                "# of Cores": "8"
+                "Built-in Memory": "8, 16, 24 GB",
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
             },
             "Display": {
                 "Display Type": "24-inch (diagonal) Retina 4.5K display",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "4480 x 2520"
             },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "8",
+                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
             "Connections": {
                 "Wi-Fi": "802.11ax (6E)",
                 "Bluetooth": "5.3",
-                "Ethernet": "Optional"
+                "Ethernet": "Optional",
+                "USB": "none",
+                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
+                "Camera": "1080p FaceTime HD camera"
             }
         }
     }, {
@@ -2682,37 +2732,51 @@
                 "Introduced": "Nov 2023",
                 "Discontinued": "Present",
                 "Model Identifier": "Mac15,5",
-                "# of USB-C-Ports": "4"
+                "Model Number": "A2873",
+                "EMC": "8206",
+                "Color":"Silver, Pink, Blue, Green, Purple, Orange, Yellow",
+                "Weight/Dimensions": "<br>4.48 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.87 lbs, 18.1 H x 21.5 W x 5.8 D inch"
             },
             "Processor": {
                 "Name": "Apple M3",
                 "Speed": "4.1 GHz (high performance) and 2.8 GHz (high efficiency)",
                 "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
+            },
+            "Storage": {
+                "SSD":"256, 512 GB, 1 or 2 TB"
             },
             "Software": {
                 "Original OS": "macOS 13.5 (Ventura)",
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Configurations": "8, 16, 24 GB",
-                "Maximum": "24 GB",
-                "Supported": "6400 MT/s LPDDR5"
-            },
-            "Graphics": {
-                "Chip": "Apple GPU",
-                "Memory": "shared through UMA (Unified Memory Architecture)",
-                "# of Cores": "10"
+                "Built-in Memory": "8, 16, 24 GB",
+                "Maximum Memory": "24 GB",
+                "Supported RAM": "6400 MT/s LPDDR5"
             },
             "Display": {
                 "Display Type": "24-inch (diagonal) Retina 4.5K display",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "4480 x 2520"
             },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10",
+                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+            },
+
             "Connections": {
                 "Wi-Fi": "802.11ax (6E)",
                 "Bluetooth": "5.3",
-                "Ethernet": "1 - RJ45 on Power Adapter"
+                "Ethernet": "1 - RJ45 on Power Adapter",
+                "USB": "2 - USB 3 (up to 10 Gbps)",
+                "Thunderbolt":"2 - Thunderbolt 3 (up to 40 Gbps)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
+                "Camera": "1080p FaceTime HD camera"
             }
         }
     }
