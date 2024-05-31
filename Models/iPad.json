@@ -1,30 +1,17 @@
 [
     {
-        "Name": "iPad (WiFi)<br>(WiFi + 3G)",
+        "Name": "iPad (WiFi)",
         "Type": "iPad",
         "image": "ipad_wifi.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jan 2010",
                 "Discontinued": "Mar 2011",
-                "Model Identifier": "iPad1,1"
-            },
-            "Processor": {
-                "Processor Name": "Apple A4",
-                "Processor Speed": "1 GHz",
-                "Number of Cores": "1",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 3.0",
-                "Maximum OS": "iOS 5.1.1"
-            },
-            "Memory": {
-                "Built-in Memory": "256 MB LPDDR"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX535",
-                "Graphics Cores": "1"
+                "Model Identifier": "iPad1,1",
+                "Model Number": "A1219",
+                "EMC": "2311",
+                "Color": "Black",
+                "Weight/Dimensions": "<br>680 g, 24.28 H x 18.97 W x 1.34 D cm<br>1.5 lbs, 9.56 H x 7.47 W x 0.5 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -32,6 +19,92 @@
             },
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 3.2",
+                "Maximum OS": "iOS 5.1.1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A4",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "1",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "45 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "256 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535",
+                "# of Graphics Cores": "1"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "2.1 + EDR",
+                "Networks": "none",
+                "Camera": "none",
+                "Audio In": "Microphone",
+                "Audio Out": "Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports": "30-pin dock connector"
+            },
+            "Power": {
+                "Battery": "Built-in 25 Wh lithium-polymer",
+                "Capacity": "6613 mAh"
+            }
+        }
+    },
+    {
+        "Name": "iPad (WiFi + 3G)",
+        "Type": "iPad",
+        "image": "ipad_wifi_3g.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Jan 2010",
+                "Discontinued": "Mar 2011",
+                "Model Identifier": "iPad1,1",
+                "Model Number": "A1337",
+                "EMC": "2328",
+                "Color": "Black",
+                "Weight/Dimensions":"<br>730 g, 24.28 H x 18.97 W x 1.34 D cm<br>1.6 lbs, 9.56 H x 7.47 W x 0.5 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Display Resolution": "1024 x 768"
+            },
+            "Storage": {
+                "Capacity": "16, 32, or 64 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 3.2",
+                "Maximum OS": "iOS 5.1.1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A4",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "1",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "45 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "256 MB LPDDR"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX535",
+                "# of Graphics Cores": "1"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "2.1 + EDR",
+                "Networks": "UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "micro-SIM",
+                "Camera":"none",
+                "Audio In": "Microphone",
+                "Audio Out": "Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports":"30-pin dock connector"
+            },
+            "Power": {
+                "Battery":"Built-in 25 Wh lithium-polymer",
+                "Capacity": "6613 mAh"
             }
         }
     },
@@ -43,24 +116,11 @@
             "Overview": {
                 "Introduced": "Mar 2011",
                 "Discontinued": "Mar 2012 (32, 64) Mar 2014 (16)",
-                "Model Identifier": "iPad2,1"
-            },
-            "Processor": {
-                "Processor Name": "Apple A5",
-                "Processor Speed": "1 GHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 4.3",
-                "Maximum OS": "iOS 9.3.5"
-            },
-            "Memory": {
-                "Built-in Memory": "512 MB LPDDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP2",
-                "Graphics Cores": "2"
+                "Model Identifier": "iPad2,1 or iPad2,4",
+                "Model Number": "A1395",
+                "EMC": "2415 or 2590",
+                "Color": "Black, White",
+                "Weight/Dimensions": "<br>600 g, 24.12 H x 18.57 W x 0.88 D cm<br>1.33 lbs, 9.5 H x 7.31 W x 0.34 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -68,6 +128,40 @@
             },
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 4.3",
+                "Maximum OS": "iOS 9.3.5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "45 nm (iPad2,1) 32 nm (iPad2,4)"
+            },
+            "Memory": {
+                "Built-in Memory": "512 MB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP2",
+                "# of Graphics Cores": "2"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "2.1 + EDR",
+                "Networks": "none",
+                "Audio In": "Microphone",
+                "Audio Out": "Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports":"30-pin dock connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 720p (up to 30 FPS), 5x Zoom",
+                "Front Camera": "1 - VGA Quality (Up to 30 FPS)"
+            },
+            "Power": {
+                "Battery":"Built-in 25 Wh lithium-polymer",
+                "Capacity": "6579 mAh"
             }
         }
     },
@@ -79,24 +173,11 @@
             "Overview": {
                 "Introduced": "Mar 2011",
                 "Discontinued": "Mar 2012 (32, 64) Mar 2014 (16)",
-                "Model Identifier": "iPad2,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple A5",
-                "Processor Speed": "1 GHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 4.3",
-                "Maximum OS": "iOS 9.3.5"
-            },
-            "Memory": {
-                "Built-in Memory": "512 MB LPDDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP2",
-                "Graphics Cores": "2"
+                "Model Identifier": "iPad2,2",
+                "Model Number": "A1396",
+                "EMC": "2416",
+                "Color": "Black, White",
+                "Weight/Dimensions":"<br>613 g, 24.12 H x 18.57 W x 0.88 D cm<br>1.35 lbs, 9.5 H x 7.31 W x 0.34 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -104,42 +185,41 @@
             },
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
-            }
-        }
-    },
-    {
-        "Name": "iPad 2 (WiFi + 3G CDMA)",
-        "Type": "iPad",
-        "image": "ipad2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Mar 2011",
-                "Discontinued": "Mar 2012 (32, 64) Mar 2014 (16)",
-                "Model Identifier": "iPad2,3"
-            },
-            "Processor": {
-                "Processor Name": "Apple A5",
-                "Processor Speed": "1 GHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
             },
             "Software": {
                 "Original OS": "iOS 4.3",
                 "Maximum OS": "iOS 9.3.5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process":"45 nm"
             },
             "Memory": {
                 "Built-in Memory": "512 MB LPDDR2"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP2",
-                "Graphics Cores": "2"
+                "# of Graphics Cores": "2"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "1024 x 768"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth":"2.1 + EDR",
+                "Networks": "UMTS/HSDPA/HSUPA, GSM/EDGE",
+                "SIM slot": "micro-SIM",
+                "Audio In": "Microphone",
+                "Audio Out":"Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports":"30-pin dock connector"
             },
-            "Storage": {
-                "Capacity": "16, 32, or 64 GB"
+            "Camera": {
+                "Back Camera": "1 - 720p (up to 30 FPS), 5x Zoom",
+                "Front Camera": "1 - VGA Quality (Up to 30 FPS)"
+            },
+            "Power": {
+                "Battery":"Built-in 25 Wh lithium-polymer",
+                "Capacity": "6579 mAh"
             }
         }
     },
@@ -151,24 +231,11 @@
             "Overview": {
                 "Introduced": "Mar 2012",
                 "Discontinued": "Oct 2012",
-                "Model Identifier": "iPad3,1"
-            },
-            "Processor": {
-                "Processor Name": "Apple A5X",
-                "Processor Speed": "1 GHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 5.1",
-                "Maximum OS": "iOS 9.3.5"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP4",
-                "Graphics Cores": "4"
+                "Model Identifier": "iPad3,1",
+                "Model Number": "A1416",
+                "EMC": "2498",
+                "Color":"Black, White",
+                "Weight/Dimensions": "<br>652 g, 24.12 H x 18.57 W x 0.94 D cm<br>1.44 lbs, 9.5 H x 7.31 W x 0.37 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -177,11 +244,38 @@
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
             },
+            "Software": {
+                "Original OS": "iOS 5.1",
+                "Maximum OS": "iOS 9.3.5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5X",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "45 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP4",
+                "# of Graphics Cores": "4"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "none",
+                "Audio In": "Microphone",
+                "Audio Out":"Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports":"30-pin dock connector"
+            },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
+                "Back Camera": "1 - 5 MP",
                 "Front Camera": "1 - VGA Quality (Up to 30 FPS)"
             },
             "Battery": {
+                "Battery":"Built-in 42.5 Wh lithium-polymer",
                 "Capacity": "11487 mAh"
             }
         }
@@ -194,24 +288,11 @@
             "Overview": {
                 "Introduced": "Mar 2012",
                 "Discontinued": "Oct 2012",
-                "Model Identifier": "iPad3,3"
-            },
-            "Processor": {
-                "Processor Name": "Apple A5X",
-                "Processor Speed": "1 GHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 5.1",
-                "Maximum OS": "iOS 9.3.6"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP4",
-                "Graphics Cores": "4"
+                "Model Identifier": "iPad3,3",
+                "Model Number": "A1430",
+                "EMC": "2578",
+                "Color":"Black, White",
+                "Weight/Dimensions": "<br>662 g, 24.12 H x 18.57 W x 0.94 D cm<br>1.46 lbs, 9.5 H x 7.31 W x 0.37 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -220,11 +301,39 @@
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
             },
+            "Software": {
+                "Original OS": "iOS 5.1",
+                "Maximum OS": "iOS 9.3.6"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5X",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "45 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP4",
+                "# of Graphics Cores": "4"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "micro-SIM",
+                "Audio In": "Microphone",
+                "Audio Out":"Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports":"30-pin dock connector"
+            },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
+                "Back Camera": "1 - 5 MP",
                 "Front Camera": "1 - VGA Quality (Up to 30 FPS)"
             },
             "Battery": {
+                "Battery":"Built-in 42.5 Wh lithium-polymer",
                 "Capacity": "11487 mAh"
             }
         }
@@ -237,24 +346,12 @@
             "Overview": {
                 "Introduced": "Oct 2012 (16, 32, 64) Feb 2013 (128) Mar 2014 (16)",
                 "Discontinued": "Oct 2014",
-                "Model Identifier": "iPad3,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple A6X",
-                "Processor Speed": "1.4 GHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 6.0",
-                "Maximum OS": "iOS 10.3.3"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX554MP4",
-                "Graphics Cores": "4"
+                "Model Identifier": "iPad3,4",
+                "Model Number": "A1458",
+                "EMC": "2604",
+                "Color": "Black, White",
+                "Weight/Dimensions": "<br>652 g, 24.12 H x 18.57 W x 0.94 D cm<br>1.44 lbs, 9.5 H x 7.31 W x 0.37 D inch"
+
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -263,11 +360,38 @@
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
             },
+            "Software": {
+                "Original OS": "iOS 6.0",
+                "Maximum OS": "iOS 10.3.3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A6X",
+                "Processor Speed": "1.4 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX554MP4",
+                "# of Graphics Cores": "4"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "none",
+                "Audio In":"Microphone",
+                "Audio Out":"Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
+            },
             "Camera": {
-                "Rear Camera": "1 - 5",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
             "Battery": {
+                "Battery":"Built-in 42.5 Wh lithium-polymer",
                 "Capacity": "11560 mAh"
             }
         }
@@ -280,24 +404,10 @@
             "Overview": {
                 "Introduced": "Oct 2012 (16, 32, 64) Feb 2013 (128) Mar 2014 (16)",
                 "Discontinued": "Oct 2014",
-                "Model Identifier": "iPad3,5"
-            },
-            "Processor": {
-                "Processor Name": "Apple A6X",
-                "Processor Speed": "1.4 GHz",
-                "Number of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 6.0.1",
-                "Maximum OS": "iOS 10.3.4"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX554MP4",
-                "Graphics Cores": "4"
+                "Model Identifier": "iPad3,5",
+                "Model Number": "A1459",
+                "EMC": "2605",
+                "Weight/Dimensions": "<br>662 g, 24.12 H x 18.57 W x 0.94 D cm<br>1.46 lbs, 9.5 H x 7.31 W x 0.37 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -306,11 +416,39 @@
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
             },
+            "Software": {
+                "Original OS": "iOS 6.0.1",
+                "Maximum OS": "iOS 10.3.4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A6X",
+                "Processor Speed": "1.4 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX554MP4",
+                "# of Graphics Cores": "4"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "micro-SIM",
+                "Audio In":"Microphone",
+                "Audio Out":"Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
+            },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
             "Battery": {
+                "Battery": "Built-in 42.5 Wh lithium-polymer",
                 "Capacity": "11560 mAh"
             }
         }
@@ -328,7 +466,7 @@
             "Processor": {
                 "Processor Name": "Apple A5",
                 "Processor Speed": "1 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "32-bit"
             },
             "Software": {
@@ -340,7 +478,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP2",
-                "Graphics Cores": "2"
+                "# of Graphics Cores": "2"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -350,7 +488,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 1.2",
+                "Back Camera": "1 - 1.2",
                 "Front Camera": "1 - 5 MP"
             },
             "Battery": {
@@ -371,7 +509,7 @@
             "Processor": {
                 "Processor Name": "Apple A5",
                 "Processor Speed": "1 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "32-bit"
             },
             "Software": {
@@ -383,7 +521,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP2",
-                "Graphics Cores": "2"
+                "# of Graphics Cores": "2"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -393,7 +531,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 1.2",
+                "Back Camera": "1 - 1.2",
                 "Front Camera": "1 - 5 MP"
             },
             "Battery": {
@@ -414,7 +552,7 @@
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.4 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -426,7 +564,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -436,7 +574,7 @@
                 "Capacity": "16, 32, 64 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 5",
+                "Back Camera": "1 - 5",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -457,7 +595,7 @@
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.4 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -469,7 +607,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -479,7 +617,7 @@
                 "Capacity": "16, 32, 64 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
+                "Back Camera": "1 - 5 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -500,7 +638,7 @@
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -512,7 +650,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -522,7 +660,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
+                "Back Camera": "1 - 5 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -543,7 +681,7 @@
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -555,7 +693,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -565,7 +703,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
+                "Back Camera": "1 - 5 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -586,7 +724,7 @@
             "Processor": {
                 "Processor Name": "Apple A8X",
                 "Processor Speed": "1.5 GHz",
-                "Number of Cores": "3",
+                "# of Cores": "3",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -598,7 +736,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GXA6850",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -608,7 +746,7 @@
                 "Capacity": "16, 32, 64 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -629,7 +767,7 @@
             "Processor": {
                 "Processor Name": "Apple A8X",
                 "Processor Speed": "1.5 GHz",
-                "Number of Cores": "3",
+                "# of Cores": "3",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -641,7 +779,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GXA6850",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -651,7 +789,7 @@
                 "Capacity": "16, 32, 64 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -672,7 +810,7 @@
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -684,7 +822,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -694,7 +832,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
+                "Back Camera": "1 - 5 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -715,7 +853,7 @@
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -727,7 +865,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -737,7 +875,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 5 MP",
+                "Back Camera": "1 - 5 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -758,7 +896,7 @@
             "Processor": {
                 "Processor Name": "Apple A8",
                 "Processor Speed": "1.5 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -770,7 +908,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6450",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -780,7 +918,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -801,7 +939,7 @@
             "Processor": {
                 "Processor Name": "Apple A8",
                 "Processor Speed": "1.5 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -813,7 +951,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6450",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -823,7 +961,7 @@
                 "Capacity": "16, 32, or 64 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -844,7 +982,7 @@
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.26 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -856,7 +994,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -866,7 +1004,7 @@
                 "Capacity": "32, 128 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -891,7 +1029,7 @@
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.26 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -903,7 +1041,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -913,7 +1051,7 @@
                 "Capacity": "128 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -938,7 +1076,7 @@
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.16 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -950,7 +1088,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -960,7 +1098,7 @@
                 "Capacity": "32, 128 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 5 MP"
             },
             "Battery": {
@@ -985,7 +1123,7 @@
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.16 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -997,7 +1135,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -1007,7 +1145,7 @@
                 "Capacity": "32, 128 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 5 MP"
             },
             "Battery": {
@@ -1032,7 +1170,7 @@
             "Processor": {
                 "Processor Name": "Apple A9",
                 "Processor Speed": "1.85 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1044,7 +1182,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -1054,7 +1192,7 @@
                 "Capacity": "32, or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -1078,7 +1216,7 @@
             "Processor": {
                 "Processor Name": "Apple A9",
                 "Processor Speed": "1.85 GHz",
-                "Number of Cores": "2",
+                "# of Cores": "2",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1090,7 +1228,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -1100,7 +1238,7 @@
                 "Capacity": "32, or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -1124,7 +1262,7 @@
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "6 (3 High Performance, 3 High Efficiency)",
+                "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1136,7 +1274,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "10.5-inch widescreen",
@@ -1147,7 +1285,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1172,7 +1310,7 @@
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "6 (3 High Performance, 3 High Efficiency)",
+                "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1184,7 +1322,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "10.5-inch widescreen",
@@ -1195,7 +1333,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1220,7 +1358,7 @@
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "6 (3 High Performance, 3 High Efficiency)",
+                "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1232,7 +1370,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -1243,7 +1381,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1268,7 +1406,7 @@
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "6 (3 High Performance, 3 High Efficiency)",
+                "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1280,7 +1418,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series",
-                "Graphics Cores": "12"
+                "# of Graphics Cores": "12"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -1291,7 +1429,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1316,7 +1454,7 @@
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "4 (2 active)",
+                "# of Cores": "4 (2 active)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1328,7 +1466,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT Plus",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -1338,7 +1476,7 @@
                 "Capacity": "32 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -1363,7 +1501,7 @@
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "4 (2 active)",
+                "# of Cores": "4 (2 active)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1375,7 +1513,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT Plus",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -1385,7 +1523,7 @@
                 "Capacity": "32 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -1410,7 +1548,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1422,7 +1560,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -1433,7 +1571,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1458,7 +1596,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1470,7 +1608,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -1481,7 +1619,7 @@
                 "Capacity": "1 TB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1506,7 +1644,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1518,7 +1656,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -1529,7 +1667,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1554,7 +1692,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1566,7 +1704,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -1577,7 +1715,7 @@
                 "Capacity": "1 TB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1602,7 +1740,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1614,7 +1752,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -1625,7 +1763,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1650,7 +1788,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1662,7 +1800,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -1673,7 +1811,7 @@
                 "Capacity": "1 TB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1698,7 +1836,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1710,7 +1848,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -1721,7 +1859,7 @@
                 "Capacity": "64, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1746,7 +1884,7 @@
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1758,7 +1896,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "7"
+                "# of Graphics Cores": "7"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -1769,7 +1907,7 @@
                 "Capacity": "1 TB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1794,7 +1932,7 @@
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1806,7 +1944,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.5-inch widescreen",
@@ -1816,7 +1954,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1841,7 +1979,7 @@
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1853,7 +1991,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.5-inch widescreen",
@@ -1863,7 +2001,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1888,7 +2026,7 @@
             "Processor": {
                 "Processor Name": "Apple A12",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1900,7 +2038,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -1910,7 +2048,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1931,7 +2069,7 @@
             "Processor": {
                 "Processor Name": "Apple A12",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1943,7 +2081,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -1953,7 +2091,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -1974,7 +2112,7 @@
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "4 (2 active)",
+                "# of Cores": "4 (2 active)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -1986,7 +2124,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT Plus",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
@@ -1996,7 +2134,7 @@
                 "Capacity": "32, or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -2021,7 +2159,7 @@
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Number of Cores": "4 (2 active)",
+                "# of Cores": "4 (2 active)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2033,7 +2171,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR Series 7XT Plus",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
@@ -2043,7 +2181,7 @@
                 "Capacity": "32, or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -2068,7 +2206,7 @@
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2080,7 +2218,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -2091,7 +2229,7 @@
                 "Capacity": "128, 256, 512 GB or 1 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -2116,7 +2254,7 @@
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2128,7 +2266,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -2139,7 +2277,7 @@
                 "Capacity": "128, 256, 512 GB or 1 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -2164,7 +2302,7 @@
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2176,7 +2314,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -2187,7 +2325,7 @@
                 "Capacity": "128, 256, 512 GB or 1 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -2212,7 +2350,7 @@
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2224,7 +2362,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -2235,7 +2373,7 @@
                 "Capacity": "128, 256, 512 GB or 1 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
             "Battery": {
@@ -2260,7 +2398,7 @@
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "6",
+                "# of Cores": "6",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2272,7 +2410,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
@@ -2282,7 +2420,7 @@
                 "Capacity": "32 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -2307,7 +2445,7 @@
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Number of Cores": "6",
+                "# of Cores": "6",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2319,7 +2457,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
@@ -2329,7 +2467,7 @@
                 "Capacity": "32 or 128 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
             "Battery": {
@@ -2354,7 +2492,7 @@
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2366,7 +2504,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
@@ -2376,7 +2514,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Features": {
@@ -2398,7 +2536,7 @@
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2410,7 +2548,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
@@ -2420,7 +2558,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Features": {
@@ -2442,7 +2580,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2454,7 +2592,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -2465,7 +2603,7 @@
                 "Capacity": "128, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2490,7 +2628,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2502,7 +2640,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -2513,7 +2651,7 @@
                 "Capacity": "1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2538,7 +2676,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2550,7 +2688,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -2561,7 +2699,7 @@
                 "Capacity": "128, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2586,7 +2724,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2598,7 +2736,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -2609,7 +2747,7 @@
                 "Capacity": "1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2634,7 +2772,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2646,7 +2784,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -2657,7 +2795,7 @@
                 "Capacity": "128, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2682,7 +2820,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2694,7 +2832,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -2705,7 +2843,7 @@
                 "Capacity": "1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2730,7 +2868,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2742,7 +2880,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -2753,7 +2891,7 @@
                 "Capacity": "128, 256 or 512 GB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2778,7 +2916,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2790,7 +2928,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -2801,7 +2939,7 @@
                 "Capacity": "1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2826,7 +2964,7 @@
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.66 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2838,7 +2976,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
@@ -2848,7 +2986,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2873,7 +3011,7 @@
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.66 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2885,7 +3023,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
@@ -2895,7 +3033,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 8 MP",
+                "Back Camera": "1 - 8 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2920,7 +3058,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "2.9 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2932,7 +3070,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Size": "8.3-inch widescreen",
@@ -2942,7 +3080,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -2967,7 +3105,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "2.9 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -2979,7 +3117,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Size": "8.3-inch widescreen",
@@ -2989,7 +3127,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -3014,7 +3152,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3026,7 +3164,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
@@ -3036,7 +3174,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Features": {
@@ -3058,7 +3196,7 @@
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3070,7 +3208,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "8"
+                "# of Graphics Cores": "8"
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
@@ -3080,7 +3218,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Features": {
@@ -3102,7 +3240,7 @@
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3114,7 +3252,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
@@ -3124,7 +3262,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -3149,7 +3287,7 @@
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
-                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3161,7 +3299,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
@@ -3171,7 +3309,7 @@
                 "Capacity": "64 or 256 GB"
             },
             "Camera": {
-                "Rear Camera": "1 - 12 MP",
+                "Back Camera": "1 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -3196,7 +3334,7 @@
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3208,7 +3346,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "10"
+                "# of Graphics Cores": "10"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -3219,7 +3357,7 @@
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -3244,7 +3382,7 @@
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3256,7 +3394,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "10"
+                "# of Graphics Cores": "10"
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
@@ -3267,7 +3405,7 @@
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -3292,7 +3430,7 @@
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3304,7 +3442,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "10"
+                "# of Graphics Cores": "10"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -3315,7 +3453,7 @@
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
@@ -3340,7 +3478,7 @@
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
-                "Number of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
             },
             "Software": {
@@ -3352,7 +3490,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "10"
+                "# of Graphics Cores": "10"
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
@@ -3363,7 +3501,7 @@
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
             "Battery": {
