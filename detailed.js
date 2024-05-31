@@ -102,7 +102,7 @@ fetch(`Models/${type}.json`)
                     let infoKey = String(data[mnrIndex].Info[key][detail]);
                     infoKey = infoKey.replace(/_/g, " ") 
                     item_container.innerHTML += `<p>
-                        <strong>${detail}:</strong> ${infoKey}
+                        <strong class="detail-class">${detail}:</strong> ${infoKey}
                     </p>`;
                 }
                 detailedView.appendChild(item_container);
