@@ -461,24 +461,11 @@
             "Overview": {
                 "Introduced": "Oct 2012",
                 "Discontinued": "Oct 2013 (32, 64) Jun 2015 (16)",
-                "Model Identifier": "iPad2,5"
-            },
-            "Processor": {
-                "Processor Name": "Apple A5",
-                "Processor Speed": "1 GHz",
-                "# of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 6.0.1",
-                "Maximum OS": "iOS 9.3.5"
-            },
-            "Memory": {
-                "Built-in Memory": "512 GB DDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP2",
-                "# of Graphics Cores": "2"
+                "Model Identifier": "iPad2,5",
+                "Model Number": "A1432",
+                "EMC": "2607",
+                "Color": "Black & Slate, White & Silver, Space Gray",
+                "Weight/Dimensions": "<br>308 g, 20 H x 13.47 W x 0.72 D cm<br>0.68 lbs, 7.87 H x 5.3 W x 0.28 D inch"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -487,11 +474,38 @@
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
             },
+            "Software": {
+                "Original OS": "iOS 6.0.1",
+                "Maximum OS": "iOS 9.3.5"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process":"32 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "512 GB DDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP2",
+                "# of Graphics Cores": "2"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "none",
+                "Audio In": "Microphone",
+                "Audio Out": "Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
+            },
             "Camera": {
                 "Back Camera": "1 - 1.2",
                 "Front Camera": "1 - 5 MP"
             },
             "Battery": {
+                "Battery": "Built-in 16.3 Wh lithium-polymer",
                 "Capacity": "4440 mAh"
             }
         }
@@ -504,24 +518,11 @@
             "Overview": {
                 "Introduced": "Oct 2012",
                 "Discontinued": "Oct 2013 (32, 64) Jun 2015 (16)",
-                "Model Identifier": "iPad2,6"
-            },
-            "Processor": {
-                "Processor Name": "Apple A5",
-                "Processor Speed": "1 GHz",
-                "# of Cores": "2",
-                "Architecture": "32-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 6.0.1",
-                "Maximum OS": "iOS 9.3.6"
-            },
-            "Memory": {
-                "Built-in Memory": "512 GB DDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP2",
-                "# of Graphics Cores": "2"
+                "Model Identifier": "iPad2,6",
+                "Model Number": "A1432",
+                "EMC": "2607",
+                "Color": "Black & Slate, White & Silver, Space Gray",
+                "Weight/Dimensions": "<br>312 g, 20 H x 13.47 W x 0.72 D cm<br>0.69 lbs, 7.87 H x 5.3 W x 0.28 D inch"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -530,11 +531,39 @@
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
             },
+            "Software": {
+                "Original OS": "iOS 6.0.1",
+                "Maximum OS": "iOS 9.3.6"
+            },
+            "Processor": {
+                "Processor Name": "Apple A5",
+                "Processor Speed": "1 GHz",
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process":"32 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "512 GB DDR2"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR SGX543MP2",
+                "# of Graphics Cores": "2"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "Microphone",
+                "Audio Out": "Built-in mono speaker, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
+            },
             "Camera": {
-                "Back Camera": "1 - 1.2",
-                "Front Camera": "1 - 5 MP"
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
             "Battery": {
+                "Battery": "Built-in 16.3 Wh lithium-polymer",
                 "Capacity": "4440 mAh"
             }
         }
@@ -547,24 +576,11 @@
             "Overview": {
                 "Introduced": "Oct 2013",
                 "Discontinued": "Mar 2016",
-                "Model Identifier": "iPad4,1"
-            },
-            "Processor": {
-                "Processor Name": "Apple A7",
-                "Processor Speed": "1.4 GHz",
-                "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 7.0.3",
-                "Maximum OS": "iOS 12.5.7"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR3"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR G6430",
-                "# of Graphics Cores": "4"
+                "Model Identifier": "iPad4,1",
+                "Model Number": "A1474",
+                "EMC": "2646",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>469 g, 24 H x 16.95 x 0.75 cm<br>1 lbs. 9.4 H x 6.6 W x 0.29 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -573,11 +589,38 @@
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 5",
-                "Front Camera": "1 - 1.2 MP"
+            "Software": {
+                "Original OS": "iOS 7.0.3",
+                "Maximum OS": "iOS 12.5.7"
             },
-            "Battery": {
+            "Processor": {
+                "Processor Name": "Apple A7",
+                "Processor Speed": "1.4 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "28 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR G6430",
+                "# of Graphics Cores": "4"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "none",
+                "Audio In": "2 - Microphones",
+                "Audio Out": "Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
+            },
+            "Power": {
+                "Battery": "Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             }
         }
@@ -590,24 +633,11 @@
             "Overview": {
                 "Introduced": "Oct 2013",
                 "Discontinued": "Mar 2016",
-                "Model Identifier": "iPad4,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple A7",
-                "Processor Speed": "1.4 GHz",
-                "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 7.0.3",
-                "Maximum OS": "iOS 12.5.7"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR3"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR G6430",
-                "# of Graphics Cores": "4"
+                "Model Identifier": "iPad4,2",
+                "Model Number": "A1475",
+                "EMC": "2647",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>478 g, 24 H x 16.95 x 0.75 cm<br>1.05 lbs. 9.4 H x 6.6 W x 0.29 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -616,11 +646,39 @@
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 5 MP",
-                "Front Camera": "1 - 1.2 MP"
+            "Software": {
+                "Original OS": "iOS 7.0.3",
+                "Maximum OS": "iOS 12.5.7"
             },
-            "Battery": {
+            "Processor": {
+                "Processor Name": "Apple A7",
+                "Processor Speed": "1.4 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "28 nm"
+            },  
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR G6430",
+                "# of Graphics Cores": "4"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "2 - Microphones",
+                "Audio Out":"Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
+            },
+            "Power": {
+                "Battery":"Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             }
         }
@@ -633,17 +691,29 @@
             "Overview": {
                 "Introduced": "Oct 2013",
                 "Discontinued": "Mar 2017",
-                "Model Identifier": "iPad4,4"
+                "Model Identifier": "iPad4,4",
+                "Model Number": "A1489",
+                "EMC": "2695",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>331 g, 20 H x 13.47 W x 0.75 D cm<br>0.73 lbs, 7.87 H x 5.3 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "7.9-inch widescreen",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 7.0.3",
+                "Maximum OS": "iOS 12.5.7"
             },
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 7.0.3",
-                "Maximum OS": "iOS 12.5.7"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "28 nm"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
@@ -652,18 +722,20 @@
                 "Graphics Chip": "PowerVR G6430",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "7.9-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "16, 32, or 64 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "none",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 5 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 23.8 Wh lithium-polymer",
                 "Capacity": "6471 mAh"
             }
         }
@@ -676,24 +748,11 @@
             "Overview": {
                 "Introduced": "Oct 2013",
                 "Discontinued": "Mar 2017",
-                "Model Identifier": "iPad4,5"
-            },
-            "Processor": {
-                "Processor Name": "Apple A7",
-                "Processor Speed": "1.3 GHz",
-                "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 7.0.3",
-                "Maximum OS": "iOS 12.5.7"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR3"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR G6430",
-                "# of Graphics Cores": "4"
+                "Model Identifier": "iPad4,5",
+                "Model Number": "A1490",
+                "EMC": "2696",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>341 g, 20 H x 13.47 W x 0.75 D cm<br>0.75 lbs, 7.87 H x 5.3 W x 0.29 D inch"
             },
             "Display": {
                 "Display Size": "7.9-inch widescreen",
@@ -702,11 +761,39 @@
             "Storage": {
                 "Capacity": "16, 32, or 64 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 5 MP",
-                "Front Camera": "1 - 1.2 MP"
+            "Software": {
+                "Original OS": "iOS 7.0.3",
+                "Maximum OS": "iOS 12.5.7"
             },
-            "Battery": {
+            "Processor": {
+                "Processor Name": "Apple A7",
+                "Processor Speed": "1.3 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"28 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "1 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR G6430",
+                "# of Graphics Cores": "4"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "2 - Microphones",
+                "Audio Out":"Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
+            },
+            "Power": {
+                "Battery":"Built-in 23.8 Wh lithium-polymer",
                 "Capacity": "6471 mAh"
             }
         }
@@ -719,18 +806,32 @@
             "Overview": {
                 "Introduced": "Oct 2014 (16, 64, 128) Sep 2016 (32)",
                 "Discontinued": "Sep 2016 (16, 64, 128) Mar 2017 (32)",
-                "Model Identifier": "iPad5,3"
+                "Model Identifier": "iPad5,3",
+                "Model Number": "A1566",
+                "EMC": "2822",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>437 g, 24 H x 16.95 x 0.61 cm<br>0.96 lbs, 9.4 H x 6.6 W x 0.24 D inch"
             },
-            "Processor": {
-                "Processor Name": "Apple A8X",
-                "Processor Speed": "1.5 GHz",
-                "# of Cores": "3",
-                "Architecture": "64-bit"
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Brightness": "415 nits",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
             },
             "Software": {
                 "Original OS": "iOS 8.1",
                 "Maximum OS": "Latest release of iPadOS 15"
             },
+            "Processor": {
+                "Processor Name": "Apple A8X",
+                "Processor Speed": "1.5 GHz",
+                "# of Cores": "3",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "20 nm"
+            },
+            
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR3"
             },
@@ -738,19 +839,24 @@
                 "Graphics Chip": "PowerVR GXA6850",
                 "# of Graphics Cores": "8"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "16, 32, 64 or 128 GB"
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.0",
+                "Networks": "none",
+                "Audio In": "2 - Microphones",
+                "Audio Out": "2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 27.3 Wh lithium-polymer",
                 "Capacity": "7340 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID"
             }
         }
     },
@@ -762,24 +868,11 @@
             "Overview": {
                 "Introduced": "Oct 2014 (16, 64, 128) Sep 2016 (32)",
                 "Discontinued": "Sep 2016 (16, 64, 128) Mar 2017 (32)",
-                "Model Identifier": "iPad5,3"
-            },
-            "Processor": {
-                "Processor Name": "Apple A8X",
-                "Processor Speed": "1.5 GHz",
-                "# of Cores": "3",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 8.1",
-                "Maximum OS": "Latest release of iPadOS 15"
-            },
-            "Memory": {
-                "Built-in Memory": "2 GB LPDDR3"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR GXA6850",
-                "# of Graphics Cores": "8"
+                "Model Identifier": "iPad5,3",
+                "Model Number": "A1567",
+                "EMC": "2823",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>444 g, 24 H x 16.95 x 0.61 cm<br>0.98 lbs, 9.4 H x 6.6 W x 0.24 D inch"
             },
             "Display": {
                 "Display Size": "9.7-inch widescreen",
@@ -788,12 +881,44 @@
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+            "Software": {
+                "Original OS": "iOS 8.1",
+                "Maximum OS": "Latest release of iPadOS 15"
             },
-            "Battery": {
+            "Processor": {
+                "Processor Name": "Apple A8X",
+                "Processor Speed": "1.5 GHz",
+                "# of Cores": "3",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "20 nm"
+            },
+            
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR3"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR GXA6850",
+                "# of Graphics Cores": "8"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
+            },
+            "Power": {
+                "Battery": "Built-in 27.3 Wh lithium-polymer",
                 "Capacity": "7340 mAh"
+            },
+            "Features": {
+                "Authentication":"Touch ID"
             }
         }
     },
@@ -805,17 +930,29 @@
             "Overview": {
                 "Introduced": "Oct 2014",
                 "Discontinued": "Sep 2015",
-                "Model Identifier": "iPad4,7"
+                "Model Identifier": "iPad4,7",
+                "Model Number": "A1599",
+                "EMC": "2848",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions":"<br>331 g, 20 H x 13.47 W x 0.75 D cm<br>0.73 lbs, 7.87 H x 5.3 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "7.9-inch widescreen",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "16, 64, or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 8.1",
+                "Maximum OS": "iOS 12.5.7"
             },
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 8.1",
-                "Maximum OS": "iOS 12.5.7"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "28 nm"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
@@ -824,19 +961,24 @@
                 "Graphics Chip": "PowerVR G6430",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "7.9-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "16, 32, or 64 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks": "none",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 5 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 23.8 Wh lithium-polymer",
                 "Capacity": "6471 mAh"
+            },
+            "Features": {
+                "Authentication":"Touch ID"
             }
         }
     },
@@ -848,17 +990,29 @@
             "Overview": {
                 "Introduced": "Oct 2014",
                 "Discontinued": "Sep 2015",
-                "Model Identifier": "iPad4,8"
+                "Model Identifier": "iPad4,8",
+                "Model Number": "A1600",
+                "EMC": "2849",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>341 g, 20 H x 13.47 W x 0.75 D cm<br>0.75 lbs, 7.87 H x 5.3 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "7.9-inch widescreen",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "16, 64, or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 8.1",
+                "Maximum OS": "iOS 12.5.7"
             },
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 8.1",
-                "Maximum OS": "iOS 12.5.7"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "28 nm"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
@@ -867,19 +1021,25 @@
                 "Graphics Chip": "PowerVR G6430",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "7.9-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "16, 32, or 64 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 5 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 5 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 23.8 Wh lithium-polymer",
                 "Capacity": "6471 mAh"
+            },
+            "Features": {
+                "Authentication":"Touch ID"
             }
         }
     },
@@ -891,17 +1051,29 @@
             "Overview": {
                 "Introduced": "Sep 2015 (16, 64, 128) Sep 2016 (32)",
                 "Discontinued": "Sep 2016 (16, 64) Mar 2017 (32) Mar 2019 (128)",
-                "Model Identifier": "iPad5,1"
+                "Model Identifier": "iPad5,1",
+                "Model Number": "A1538",
+                "EMC": "2824",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>298 g, 20.32 H x 13.48 W x 0.61 D cm<br>0.65 lbs, 8 H x 5.3 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "7.9-inch widescreen",
+                "Brightness":"450 nits",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.0",
+                "Maximum OS": "Latest release of iPadOS 15"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
                 "Processor Speed": "1.5 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 9.0",
-                "Maximum OS": "Latest release of iPadOS 15"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR3"
@@ -910,19 +1082,24 @@
                 "Graphics Chip": "PowerVR G6450",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "7.9-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "16, 32, or 64 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks": "none",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 19.1 Wh lithium-polymer",
                 "Capacity": "5124 mAh"
+            },
+            "Features": {
+                "Authentication":"Touch ID"
             }
         }
     },
@@ -934,17 +1111,30 @@
             "Overview": {
                 "Introduced": "Sep 2015 (16, 64, 128) Sep 2016 (32)",
                 "Discontinued": "Sep 2016 (16, 64) Mar 2017 (32) Mar 2019 (128)",
-                "Model Identifier": "iPad5,1"
+                "Model Identifier": "iPad5,2",
+                "Model Number": "A1550",
+                "EMC": "2825",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>304 g, 20.32 H x 13.48 W x 0.61 D cm<br>0.67 lbs, 8 H x 5.3 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "7.9-inch widescreen",
+                "Brightness": "450 nits",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.0",
+                "Maximum OS": "Latest release of iPadOS 15"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
                 "Processor Speed": "1.5 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 9.0",
-                "Maximum OS": "Latest release of iPadOS 15"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"20 nm"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR3"
@@ -953,19 +1143,25 @@
                 "Graphics Chip": "PowerVR G6450",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "7.9-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "16, 32, or 64 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"Built-in stereo speaker, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 19.1 Wh lithium-polymer",
                 "Capacity": "5124 mAh"
+            },
+            "Features": {
+                "Authentication":"Touch ID"
             }
         }
     },
@@ -977,17 +1173,31 @@
             "Overview": {
                 "Introduced": "Nov 2015",
                 "Discontinued": "Jun 2017",
-                "Model Identifier": "iPad6,7"
+                "Model Identifier": "iPad6,7",
+                "Model Number": "A1584",
+                "EMC": "2838",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>713 g, 30.57 H x 22.06 W x 0.69 D cm<br>1.57 lbs, 12 H x 8.68 W x 0.27 D inch"
+            },
+            "Display": {
+                "Display Size": "12.9-inch widescreen",
+                "Brightness":"424 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.1",
+                "Maximum OS": "Latest release of iPadOS 16"
             },
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.26 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 9.1",
-                "Maximum OS": "Latest release of iPadOS 16"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -996,18 +1206,19 @@
                 "Graphics Chip": "PowerVR Series 7XT",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048"
-            },
-            "Storage": {
-                "Capacity": "32, 128 or 256 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 38.5 Wh lithium-polymer",
                 "Capacity": "10307 mAh"
             },
             "Features": {
@@ -1024,17 +1235,31 @@
             "Overview": {
                 "Introduced": "Nov 2015",
                 "Discontinued": "Jun 2017",
-                "Model Identifier": "iPad6,7"
+                "Model Identifier": "iPad6,8",
+                "Model Number": "A1652",
+                "EMC": "2827",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>723 g, 30.57 H x 22.06 W x 0.69 D cm<br>1.59 lbs, 12 H x 8.68 W x 0.27 D inch"
+            },
+            "Display": {
+                "Display Size": "12.9-inch widescreen",
+                "Brightness":"424 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "128 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.1",
+                "Maximum OS": "Latest release of iPadOS 16"
             },
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.26 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 9.1",
-                "Maximum OS": "Latest release of iPadOS 16"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"16 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -1043,18 +1268,21 @@
                 "Graphics Chip": "PowerVR Series 7XT",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048"
-            },
-            "Storage": {
-                "Capacity": "128 or 256 GB"
-            },
+           "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
+           },
             "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 38.5 Wh lithium-polymer",
                 "Capacity": "10307 mAh"
             },
             "Features": {
@@ -1071,17 +1299,31 @@
             "Overview": {
                 "Introduced": "Mar 2016",
                 "Discontinued": "Jun 2017",
-                "Model Identifier": "iPad6,3"
+                "Model Identifier": "iPad6,3",
+                "Model Number": "A1673",
+                "EMC": "2976",
+                "Color": "Space Gray, Silver, Gold, Rose Gold",
+                "Weight/Dimensions": "<br>437 g, 24 H x 16.95 x 0.61 cm<br>0.96 lbs, 9.4 H x 6.6 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Brightness":"511 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.3",
+                "Maximum OS": "Latest release of iPadOS 16"
             },
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.16 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 9.3",
-                "Maximum OS": "Latest release of iPadOS 16"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
@@ -1090,18 +1332,19 @@
                 "Graphics Chip": "PowerVR Series 7XT",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32, 128 or 256 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 5 MP"
+                "Back Camera": "1 - 12 MP iSight",
+                "Front Camera": "1 - 5 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 27.5 Wh lithium-polymer",
                 "Capacity": "7306 mAh"
             },
             "Features": {
@@ -1118,17 +1361,31 @@
             "Overview": {
                 "Introduced": "Mar 2016",
                 "Discontinued": "Jun 2017",
-                "Model Identifier": "iPad6,4"
+                "Model Identifier": "iPad6,4",
+                "Model Number": "A1674 or A1675",
+                "EMC": "2977",
+                "Color": "Space Gray, Silver, Gold, Rose Gold",
+                "Weight/Dimensions": "<br>444 g, 24 H x 16.95 x 0.61 cm<br>0.98 lbs, 9.4 H x 6.6 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Brightness": "511 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.3",
+                "Maximum OS": "Latest release of iPadOS 16"
             },
             "Processor": {
                 "Processor Name": "Apple A9X",
                 "Processor Speed": "2.16 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 9.3",
-                "Maximum OS": "Latest release of iPadOS 16"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
@@ -1137,18 +1394,20 @@
                 "Graphics Chip": "PowerVR Series 7XT",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32, 128 or 256 GB"
+            "Connections": {
+              "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+              "Bluetooth": "4.2",
+              "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+              "SIM slot": "nano-SIM and embedded Apple SIM",
+              "Audio In":"2 - Microphones",
+              "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack"  
             },
             "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 5 MP"
+                "Back Camera": "1 - 12 MP iSight",
+                "Front Camera": "1 - 5 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 27.5 Wh lithium-polymer",
                 "Capacity": "7306 mAh"
             },
             "Features": {
@@ -1165,17 +1424,30 @@
             "Overview": {
                 "Introduced": "Mar 2017",
                 "Discontinued": "Mar 2018",
-                "Model Identifier": "iPad6,11"
+                "Model Identifier": "iPad6,11",
+                "Model Number": "A1822",
+                "EMC": "3017",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>469 g, 24 H x 16.95 x 0.75 cm<br>1 lbs. 9.4 H x 6.6 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32 or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 10.3",
+                "Maximum OS": "Latest release of iPadOS 16"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
                 "Processor Speed": "1.85 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 10.3",
-                "Maximum OS": "Latest release of iPadOS 16"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm (Samsung) or 16 nm (TSMC)"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
@@ -1184,18 +1456,19 @@
                 "Graphics Chip": "PowerVR GT7600",
                 "# of Graphics Cores": "6"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32, or 128 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -1211,17 +1484,30 @@
             "Overview": {
                 "Introduced": "Mar 2017",
                 "Discontinued": "Mar 2018",
-                "Model Identifier": "iPad6,12"
+                "Model Identifier": "iPad6,12",
+                "Model Number": "A1823",
+                "EMC": "3108",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>478 g, 24 H x 16.95 x 0.75 cm<br>1.05 lbs. 9.4 H x 6.6 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32, or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 10.3",
+                "Maximum OS": "Latest release of iPadOS 16"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
                 "Processor Speed": "1.85 GHz",
                 "# of Cores": "2",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 10.3",
-                "Maximum OS": "Latest release of iPadOS 16"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"14 nm (Samsung) or 16 nm (TSMC)"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
@@ -1230,18 +1516,21 @@
                 "Graphics Chip": "PowerVR GT7600",
                 "# of Graphics Cores": "6"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32, or 128 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot":"nano-SIM (supports Apple SIM)",
+                "Audio In": "2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Back Camera": "1 - 8 MP iSight",
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -1257,18 +1546,33 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Mar 2019",
-                "Model Identifier": "iPad7,3"
+                "Model Identifier": "iPad7,3",
+                "Model Number": "A1701",
+                "EMC": "3140",
+                "Color":"Space Gray, Silver, Gold, Rose Gold",
+                "Weight/Dimensions": "<br>469 g, 25.06 H x 17.41 x 0.61 cm<br>1.03 lbs. 9.8 H x 6.8 W x 0.24 D inch"
             },
-            "Processor": {
-                "Processor Name": "Apple A10X Fusion",
-                "Processor Speed": "2.3 GHz",
-                "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
-                "Architecture": "64-bit"
+            "Display": {
+                "Display Size": "10.5-inch widescreen",
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2224 x 1668"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
             },
             "Software": {
                 "Original OS": "iOS 10.3.3",
                 "Maximum OS": "Latest release of iPadOS"
             },
+            "Processor": {
+                "Processor Name": "Apple A10X Fusion",
+                "Processor Speed": "2.3 GHz",
+                "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
+            },
+            
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
             },
@@ -1276,19 +1580,19 @@
                 "Graphics Chip": "PowerVR Series",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "10.5-inch widescreen",
-                "Display Resolution": "2224 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In": "2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 30.4 Wh lithium-polymer",
                 "Capacity": "8134 mAh"
             },
             "Features": {
@@ -1305,17 +1609,31 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Mar 2019",
-                "Model Identifier": "iPad7,4"
+                "Model Identifier": "iPad7,4",
+                "Model Number": "A1709",
+                "EMC": "3141",
+                "Color":"Space Gray, Silver, Gold, Rose Gold",
+                "Weight/Dimensions": "<br>477 g, 25.06 H x 17.41 x 0.61 cm<br>1.05 lbs, 9.8 H x 6.8 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "10.5-inch widescreen",
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2224 x 1668"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 10.3.3",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 10.3.3",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -1324,19 +1642,21 @@
                 "Graphics Chip": "PowerVR Series",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "10.5-inch widescreen",
-                "Display Resolution": "2224 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and embedded Apple SIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 30.4 Wh lithium-polymer",
                 "Capacity": "8134 mAh"
             },
             "Features": {
@@ -1353,17 +1673,31 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Oct 2018",
-                "Model Identifier": "iPad7,1"
+                "Model Identifier": "iPad7,1",
+                "Model Number": "A1670",
+                "EMC": "3149",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>677 g, 30.57 H x 22.06 W x 0.69 cm<br>1.49 lbs, 12 H x 8.68 W x 0.27 D inch"
+            },
+            "Display": {
+                "Display Size": "12.9-inch widescreen",
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 10.3.3",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 10.3.3",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -1372,19 +1706,19 @@
                 "Graphics Chip": "PowerVR Series",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
-            },
+           "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
+           },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 41 Wh lithium-polymer",
                 "Capacity": "10875 mAh"
             },
             "Features": {
@@ -1401,17 +1735,31 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Oct 2018",
-                "Model Identifier": "iPad7,2"
+                "Model Identifier": "iPad7,2",
+                "Model Number": "A1671 or A1821",
+                "EMC": "3150",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>692 g, 30.57 H x 22.06 W x 0.69 D cm<br>1.53 lbs, 12 H x 8.68 W x 0.27 D inch"
+            },
+            "Display": {
+                "Display Size": "12.9-inch widescreen",
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 10.3.3",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "6 (3 High Performance, 3 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 10.3.3",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -1420,19 +1768,21 @@
                 "Graphics Chip": "PowerVR Series",
                 "# of Graphics Cores": "12"
             },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and embedded Apple SIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 41 Wh lithium-polymer",
                 "Capacity": "10875 mAh"
             },
             "Features": {
@@ -1449,17 +1799,30 @@
             "Overview": {
                 "Introduced": "Mar 2018",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPad7,5"
+                "Model Identifier": "iPad7,5",
+                "Model Number": "A1893",
+                "EMC": "3210",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>469 g, 24 H x 16.95 x 0.75 cm<br>1 lbs. 9.4 H x 6.6 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32 or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 11.3",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "4 (2 active)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 11.3",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
@@ -1468,18 +1831,19 @@
                 "Graphics Chip": "PowerVR Series 7XT Plus",
                 "# of Graphics Cores": "6"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32 or 128 GB"
+            "Connections": {    
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -1496,17 +1860,30 @@
             "Overview": {
                 "Introduced": "Mar 2018",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPad7,6"
+                "Model Identifier": "iPad7,6",
+                "Model Number": "A1954",
+                "EMC": "3211",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>478 g, 24 H x 16.95 x 0.75 cm<br>1.05 lbs. 9.4 H x 6.6 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32 or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 11.3",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "4 (2 active)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 11.3",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"16 nm"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4"
@@ -1515,18 +1892,21 @@
                 "Graphics Chip": "PowerVR Series 7XT Plus",
                 "# of Graphics Cores": "6"
             },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32 or 128 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot":"nano-SIM (supports Apple SIM)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -1543,86 +1923,52 @@
             "Overview": {
                 "Introduced": "Oct 2018",
                 "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,1"
+                "Model Identifier": "iPad8,1 or iPad8,2",
+                "Model Number": "A1980",
+                "EMC": "3221",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>468 g, 24.76 H x 17.85 W x 0.59 D cm<br>1.03 lbs, 9.74 H x 7.02 W x 0.23 D inch"
             },
-            "Processor": {
-                "Processor Name": "Apple A12X Bionic",
-                "Processor Speed": "2.5 GHz",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2388 x 1668"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB (iPad8,1) 1 TB (iPad8,2)"
             },
             "Software": {
                 "Original OS": "iOS 12.1",
                 "Maximum OS": "Latest release of iPadOS"
             },
-            "Memory": {
-                "Built-in Memory": "4 GB LPDDR4"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "7"
-            },
-            "Display": {
-                "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
-            },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Battery": {
-                "Capacity": "7812 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (11-inch)<br>(1TB)<br>(WiFi)",
-        "Type": "iPad",
-        "image": "ipad_pro_11-inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Oct 2018",
-                "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,2"
-            },
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.1",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Memory": {
-                "Built-in Memory": "6 GB LPDDR4"
+                "Built-in Memory": "4 GB LPDDR4 (iPad8,1) 6 GB LPDDR4 (iPad8,2)"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "7"
             },
-            "Display": {
-                "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 TB"
+          "Connections" : {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Audio In": "5 - Microphones",
+                "Audio Out": "4 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
             },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 29.37 Wh lithium-polymer",
                 "Capacity": "7812 mAh"
             },
             "Features": {
@@ -1639,17 +1985,29 @@
             "Overview": {
                 "Introduced": "Oct 2018",
                 "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,3"
+                "Model Identifier": "iPad8,3 or iPad8,4",
+                "Model Number": "A2013, A1934, A1979",
+                "EMC": "3222",
+                "Color": "Space Gray, Silver"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Display Resolution": "2388 x 1668",
+                "Refresh Rate": "24 - 120 Hz ProMotion"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB (iPad8,3) 1 TB (iPad8,4)"
+            },
+            "Software": {
+                "Original OS": "iOS 12.1",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.1",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -1658,67 +2016,20 @@
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "7"
             },
-            "Display": {
-                "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
-            },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Battery": {
-                "Capacity": "7812 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (11-inch)<br>(1TB)<br>(WiFi + Cellular)",
-        "Type": "iPad",
-        "image": "ipad_pro_11-inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Oct 2018",
-                "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple A12X Bionic",
-                "Processor Speed": "2.5 GHz",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.1",
-                "Maximum OS": "Latest release of iPadOS"
-            },
-            "Memory": {
-                "Built-in Memory": "6 GB LPDDR4"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "7"
-            },
-            "Display": {
-                "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 TB"
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2013, A1934) nano-SIM (A1979)",
+                "Audio In": "5 - Microphones",
+                "Audio Out":"4 - Built-in speakers"
             },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 29.37 Wh lithium-polymer",
                 "Capacity": "7812 mAh"
             },
             "Features": {
@@ -1735,17 +2046,30 @@
             "Overview": {
                 "Introduced": "Oct 2018",
                 "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,5"
+                "Model Identifier": "iPad8,5 or iPad8,6",
+                "Model Number": "A1876",
+                "EMC": "3223",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>631 g, 28.06 H x 21.49 W x 0.59 D cm<br>1.39 lbs, 11.04 H x 8.46 W x 0.23 D inch"
+            },
+            "Display": {
+                "Display Size": "12.9-inch widescreen",
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB (iPad8,5) 1 TB (iPad8,6)"
+            },
+            "Software": {
+                "Original OS": "iOS 12.1",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
                 "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.1",
-                "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -1754,67 +2078,19 @@
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "7"
             },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
-            },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Battery": {
-                "Capacity": "9720 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (12.9-inch)<br>(3rd Gen)<br>(1TB)<br>(WiFi)",
-        "Type": "iPad",
-        "image": "ipad_pro_12.9-inch_3g.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Oct 2018",
-                "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,6"
-            },
-            "Processor": {
-                "Processor Name": "Apple A12X Bionic",
-                "Processor Speed": "2.5 GHz",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.1",
-                "Maximum OS": "Latest release of iPadOS"
-            },
-            "Memory": {
-                "Built-in Memory": "6 GB LPDDR4"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "7"
-            },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 TB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Audio In":"5 - Microphones",
+                "Audio Out": "4 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
             },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 36.71 Wh lithium-polymer",
                 "Capacity": "9720 mAh"
             },
             "Features": {
@@ -1831,17 +2107,31 @@
             "Overview": {
                 "Introduced": "Oct 2018",
                 "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,7"
+                "Model Identifier": "iPad8,7 or iPad8,8",
+                "Model Number": "A2014, A1895, A1983",
+                "EMC": "3224",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>633 g, 28.06 H x 21.49 W x 0.59 D cm<br>1.4 lbs, 11.04 H x 8.46 W x 0.23 D inch"
+            },
+            "Display": {
+                "Display Size": "12.9-inch widescreen",
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "64, 256 or 512 GB (iPad8,7) 1 TB (iPad8,8)"
+            },
+            "Software": {
+                "Original OS": "iOS 12.1",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A12X Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.1",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4"
@@ -1850,67 +2140,21 @@
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "7"
             },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "64, 256 or 512 GB"
-            },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Battery": {
-                "Capacity": "9720 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (12.9-inch)<br>(3rd Gen)<br>(1TB)<br>(WiFi + Cellular)",
-        "Type": "iPad",
-        "image": "ipad_pro_12.9-inch_3g.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Oct 2018",
-                "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,8"
-            },
-            "Processor": {
-                "Processor Name": "Apple A12X Bionic",
-                "Processor Speed": "2.5 GHz",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.1",
-                "Maximum OS": "Latest release of iPadOS"
-            },
-            "Memory": {
-                "Built-in Memory": "6 GB LPDDR4"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "7"
-            },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 TB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2014, A1895) nano-SIM (A1983)",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
             },
             "Camera": {
                 "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 36.71 Wh lithium-polymer",
                 "Capacity": "9720 mAh"
             },
             "Features": {
@@ -1927,17 +2171,31 @@
             "Overview": {
                 "Introduced": "Mar 2019",
                 "Discontinued": "Sep 2020",
-                "Model Identifier": "iPad11,3"
+                "Model Identifier": "iPad11,3",
+                "Model Number": "A2152",
+                "EMC": "3315",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>456 g, 25.06 H x 17.41 x 0.61 cm<br>1 lbs. 9.8 H x 6.8 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "10.5-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2224 x 1668"
+            },
+            "Storage": {
+                "Capacity": "64 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 12.2",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.2",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
@@ -1946,18 +2204,19 @@
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "10.5-inch widescreen",
-                "Display Resolution": "2224 x 1668"
-            },
-            "Storage": {
-                "Capacity": "64 or 256 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / 1080p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 30.2 Wh lithium-polymer",
                 "Capacity": "8134 mAh"
             },
             "Features": {
@@ -1974,17 +2233,31 @@
             "Overview": {
                 "Introduced": "Mar 2019",
                 "Discontinued": "Sep 2020",
-                "Model Identifier": "iPad11,4"
+                "Model Identifier": "iPad11,4",
+                "Model Number": "A2123, A2153, A2154",
+                "EMC": "3316",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>464 g, 25.06 H x 17.41 x 0.61 cm<br>1.02 lbs. 9.8 H x 6.8 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "10.5-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2224 x 1668"
+            },
+            "Storage": {
+                "Capacity": "64 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 12.2",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iOS 12.2",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
@@ -1993,18 +2266,21 @@
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "10.5-inch widescreen",
-                "Display Resolution": "2224 x 1668"
-            },
-            "Storage": {
-                "Capacity": "64 or 256 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2123, A2153) nano-SIM (A2154)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / 1080p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 30.2 Wh lithium-polymer",
                 "Capacity": "8134 mAh"
             },
             "Features": {
@@ -2021,18 +2297,33 @@
             "Overview": {
                 "Introduced": "Mar 2019",
                 "Discontinued": "Sep 2021",
-                "Model Identifier": "iPad11,1"
+                "Model Identifier": "iPad11,1",
+                "Model Number": "A2133",
+                "EMC": "3313",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>301 g, 20.32 H x 13.48 x 0.61 cm<br>0.66 lbs, 8 H x 5.3 W x 0.24 D inch"
             },
-            "Processor": {
-                "Processor Name": "Apple A12",
-                "Processor Speed": "2.5 GHz",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+            "Display": {
+                "Display Size": "7.9-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "64 or 256 GB"
             },
             "Software": {
                 "Original OS": "iOS 12.2",
                 "Maximum OS": "Latest release of iPadOS"
             },
+            "Processor": {
+                "Processor Name": "Apple A12 Bionic",
+                "Processor Speed": "2.5 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
+            },
+           
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
             },
@@ -2040,19 +2331,24 @@
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "7.9-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "64 or 256 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / 1080p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 19.1 Wh lithium-polymer",
                 "Capacity": "5124 mAh"
+            },
+            "Features": {
+                "Apple Pencil Support":"1st Gen",
+                "Authentication":"Touch ID"
             }
         }
     },
@@ -2064,18 +2360,33 @@
             "Overview": {
                 "Introduced": "Mar 2019",
                 "Discontinued": "Sep 2021",
-                "Model Identifier": "iPad11,2"
+                "Model Identifier": "iPad11,2",
+                "Model Number": "A2124, A2125, A2126",
+                "EMC": "3314",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>304 g, 20.32 H x 13.48 W x 0.61 D cm<br>0.67 lbs, 8 H x 5.3 W x 0.24 D inch"
             },
-            "Processor": {
-                "Processor Name": "Apple A12",
-                "Processor Speed": "2.5 GHz",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+            "Display": {
+                "Display Size": "7.9-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "64 or 256 GB"
             },
             "Software": {
                 "Original OS": "iOS 12.2",
                 "Maximum OS": "Latest release of iPadOS"
             },
+            "Processor": {
+                "Processor Name": "Apple A12 Bionic",
+                "Processor Speed": "2.5 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
+            },
+            
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
             },
@@ -2083,18 +2394,21 @@
                 "Graphics Chip": "Apple GPU",
                 "# of Graphics Cores": "4"
             },
-            "Display": {
-                "Display Size": "7.9-inch widescreen",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "64 or 256 GB"
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2124, A2126), nano-SIM (A2125) ",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 7 MP"
+                "Front Camera": "1 - 7 MP / 1080p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 19.1 Wh lithium-polymer",
                 "Capacity": "5124 mAh"
             }
         }
@@ -2107,18 +2421,33 @@
             "Overview": {
                 "Introduced": "Sep 2019",
                 "Discontinued": "Sep 2020",
-                "Model Identifier": "iPad7,11"
+                "Model Identifier": "iPad7,11",
+                "Model Number": "A2197",
+                "EMC": "3323",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>483 g, 25.06 H x 17.41 W x 0.75 D cm<br>1.07 lbs, 9.8 H x 6.8 W x 0.29 D inch"
             },
-            "Processor": {
-                "Processor Name": "Apple A10 Fusion",
-                "Processor Speed": "2.3 GHz",
-                "# of Cores": "4 (2 active)",
-                "Architecture": "64-bit"
+            "Display": {
+                "Display Size": "10.2-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2160 x 1620"
+            },
+            "Storage": {
+                "Capacity": "32, or 128 GB"
             },
             "Software": {
                 "Original OS": "iPadOS 13.1",
                 "Maximum OS": "Latest release of iPadOS"
             },
+            "Processor": {
+                "Processor Name": "Apple A10 Fusion",
+                "Processor Speed": "2.3 GHz",
+                "# of Cores": "4 (2 active)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
+            },
+            
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4"
             },
@@ -2126,18 +2455,19 @@
                 "Graphics Chip": "PowerVR Series 7XT Plus",
                 "# of Graphics Cores": "6"
             },
-            "Display": {
-                "Display Size": "10.2-inch widescreen",
-                "Display Resolution": "2160 x 1620"
-            },
-            "Storage": {
-                "Capacity": "32, or 128 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -2154,17 +2484,31 @@
             "Overview": {
                 "Introduced": "Sep 2019",
                 "Discontinued": "Sep 2020",
-                "Model Identifier": "iPad7,11"
+                "Model Identifier": "iPad7,11",
+                "Model Number": "A2200, A2198, A2199",
+                "EMC": "3324",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>493 g, 25.06 H x 17.41 W x 0.75 D cm<br>1.09 lbs, 9.8 H x 6.8 W x 0.29 D inch"
+            },
+            "Display": {
+                "Display Size": "10.2-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2160 x 1620"
+            },
+            "Storage": {
+                "Capacity": "32, or 128 GB"
+            },
+            "Software": {
+                "Original OS": "iPadOS 13.1",
+                "Maximum OS": "Latest release of iPadOS"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "4 (2 active)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iPadOS 13.1",
-                "Maximum OS": "Latest release of iPadOS"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"16 nm"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4"
@@ -2173,18 +2517,21 @@
                 "Graphics Chip": "PowerVR Series 7XT Plus",
                 "# of Graphics Cores": "6"
             },
-            "Display": {
-                "Display Size": "10.2-inch widescreen",
-                "Display Resolution": "2160 x 1620"
-            },
-            "Storage": {
-                "Capacity": "32, or 128 GB"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and eSIM (A2200, A2198) nano-SIM (A2199)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
             },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -2201,13 +2548,18 @@
             "Overview": {
                 "Introduced": "Mar 2020",
                 "Discontinued": "Apr 2021",
-                "Model Identifier": "iPad8,9"
+                "Model Identifier": "iPad8,9",
+                "Model Number": "A2228",
+                "EMC": "3349",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>471 g, 24.76 H x 17.85 W x 0.59 D cm<br>1.04 lbs, 9.74 H x 7.02 W x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 13.4.1",
@@ -2222,17 +2574,26 @@
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2388 x 1668"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
             },
             "Camera": {
                 "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 29.37 Wh lithium-polymer",
                 "Capacity": "7812 mAh"
             },
             "Features": {
@@ -2249,13 +2610,18 @@
             "Overview": {
                 "Introduced": "Mar 2020",
                 "Discontinued": "Apr 2021",
-                "Model Identifier": "iPad8,10"
+                "Model Identifier": "iPad8,10",
+                "Model Number": "A2068, A2230, A2231",
+                "EMC": "3350",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>473 g, 24.76 H x 17.85 W x 0.59 D cm<br>1.04 lbs, 9.74 H x 7.02 W x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 13.4.1",
@@ -2270,17 +2636,28 @@
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2388 x 1668"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2068, A2230), nano-SIM (A2231)",
+                "Audio In": "5 - Microphones",
+                "Audio Out": "4 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
             },
             "Camera": {
                 "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 29.37 Wh lithium-polymer",
                 "Capacity": "7812 mAh"
             },
             "Features": {
@@ -2297,13 +2674,18 @@
             "Overview": {
                 "Introduced": "Mar 2020",
                 "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,11"
+                "Model Identifier": "iPad8,11",
+                "Model Number": "A2229",
+                "EMC": "3353",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>643 g, 28.06 H x 21.49 W x 0.59 D cm<br>1.42 lbs, 11.04 H x 8.46 W x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 13.4.1",
@@ -2318,17 +2700,26 @@
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
             },
             "Camera": {
                 "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 36.71 Wh lithium-polymer",
                 "Capacity": "9720 mAh"
             },
             "Features": {
@@ -2345,13 +2736,18 @@
             "Overview": {
                 "Introduced": "Mar 2020",
                 "Discontinued": "Mar 2020",
-                "Model Identifier": "iPad8,11"
+                "Model Identifier": "iPad8,12",
+                "Model Number": "A2069, A2232, A2233",
+                "EMC": "3354",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>643 g, 28.06 H x 21.49 W x 0.59 D cm<br>1.42 lbs, 11.04 H x 8.46 W x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12Z Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 13.4.1",
@@ -2366,17 +2762,28 @@
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2069, A2232) nano-SIM (A2233)",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
             },
             "Camera": {
                 "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 36.71 Wh lithium-polymer",
                 "Capacity": "9720 mAh"
             },
             "Features": {
@@ -2393,13 +2800,18 @@
             "Overview": {
                 "Introduced": "Sep 2020",
                 "Discontinued": "Sep 2021",
-                "Model Identifier": "iPad11,6"
+                "Model Identifier": "iPad11,6",
+                "Model Number": "A2270",
+                "EMC": "3575",
+                "Color":"Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>490 g, 25.06 H x 17.41 W x 0.75 D cm<br>1.08 lbs, 9.8 H x 6.8 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "6",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14",
@@ -2414,16 +2826,26 @@
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2160 x 1620"
             },
             "Storage": {
                 "Capacity": "32 or 128 GB"
             },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
+            },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
