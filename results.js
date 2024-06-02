@@ -26,8 +26,8 @@ searchResultsContainer = document.getElementById("search-results-container");
 const searchResults = document.getElementById("search-results");
 searchResults.classList.add("resultContainer")
 
-const regexModelIdentifier = new RegExp(
-    `(MacBook|iMac|iPhone)[0-9,]+$`
+const regexmodelNumber = new RegExp(
+    `A[0-9,]+$`
 )
 
 const fetchJSON = async (url) => {
@@ -171,7 +171,7 @@ const processData = async () => {
         } else if (checkConcatenatedString(model.keywords, cleanedSearch)) {
             console.log("TRUE");
             const devices = await fetchJSON(`Models/${model.device}.json`);
-        } else if (regexModelIdentifier.test(cleanedSearch)) {
+        } else if (regexmodelNumber.test(cleanedSearch)) {
             console.log("TRUE");
             const devices = await fetchJSON(`Models/${model.device}.json`);
         } else {
@@ -267,13 +267,13 @@ const processData = async () => {
             .appendChild(notFoundFooter);
     } else if (filtData.length === 1) {
         console.error("Found 1 device: ", filtData);
-            let modelIdentifier = filtData[0]
+            let modelNumber = filtData[0]
                 .Info
-                .Overview["Model Identifier"]
+                .Overview["Model Number"]
                 .replace(/ /g, "")
                 .replace("(", "")
                 .replace(")", "");
-            location.href = `detailed.html?modelIdentifier=${modelIdentifier}&type=${filtData[0].Type}`; // Use foundIndex here
+            location.href = `detailed.html?modelNumber=${modelNumber}&type=${filtData[0].Type}`; // Use foundIndex here
     } else {
         for (let index = 0; index < filtData.length; index++) {
             const item = filtData[index];
@@ -286,7 +286,7 @@ const processData = async () => {
             // Create image element
             let image = document.createElement("img");
             image.src = `img/${item.image}`;
-            image.id = `result-image-${item.Info.Overview["Model Identifier"].replace(/,/g, "")}`;
+            image.id = `result-image-${item.Info.Overview["Model Number"].replace(/,/g, "")}`;
             image.classList.add("result_img");
             result.prepend(image);
 

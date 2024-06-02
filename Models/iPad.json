@@ -2862,13 +2862,18 @@
             "Overview": {
                 "Introduced": "Sep 2020",
                 "Discontinued": "Sep 2021",
-                "Model Identifier": "iPad11,7"
+                "Model Identifier": "iPad11,7",
+                "Model Number": "A2428, A2429, A2430",
+                "EMC": "3575",
+                "Color": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>495 g, 25.06 H x 17.41 W x 0.75 D cm<br>1.09 lbs, 9.8 H x 6.8 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
                 "# of Cores": "6",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14",
@@ -2883,16 +2888,28 @@
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2160 x 1620"
             },
             "Storage": {
                 "Capacity": "32 or 128 GB"
             },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2428, A2429) nano-SIM (A2430)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
+            },
             "Camera": {
                 "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
+                "Front Camera": "1 - 1.2 MP / 720p FaceTime HD"
             },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -2909,13 +2926,18 @@
             "Overview": {
                 "Introduced": "Oct 2020",
                 "Discontinued": "Mar 2022",
-                "Model Identifier": "iPad13,1"
+                "Model Identifier": "iPad13,1",
+                "Model Number": "A2316",
+                "EMC": "3570",
+                "Color": "Silver, Space Gray, Rose Gold, Green, Sky Blue",
+                "Weight/Dimensions": "<br>458 g, 24.76 H x 17.85 W x 0.61 D cm<br>1 lbs, 9.74 H x 7 W x 0.24 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14.1",
@@ -2930,14 +2952,27 @@
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate":"60 Hz",
                 "Display Resolution": "2360 x 1640"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
             "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Back Camera": "1 - 12 MP Wide",
+                "Front Camera": "1 - 7 MP / 1080p FaceTime HD"
+            },
+            "Power": {
+                "Battery":"Built-in 28.6 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
             },
             "Features": {
                 "Apple Pencil Support": "2nd Gen",
@@ -2953,13 +2988,18 @@
             "Overview": {
                 "Introduced": "Oct 2020",
                 "Discontinued": "Mar 2022",
-                "Model Identifier": "iPad13,1"
+                "Model Identifier": "iPad13,1",
+                "Model Number": "A2324, A2072, A2325",
+                "EMC": "3571",
+                "Color": "Silver, Space Gray, Rose Gold, Green, Sky Blue",
+                "Weight/Dimensions": "<br>460 g, 24.76 H x 17.85 W x 0.61 D cm<br>1.01 lbs, 9.74 x 7 x 0.24 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14.1",
@@ -2974,14 +3014,25 @@
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate":"60 Hz",
                 "Display Resolution": "2360 x 1640"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2324, A2072) nano-SIM (A2325)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
+            },
             "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
+                "Back Camera": "1 - 12 MP Wide",
+                "Front Camera": "1 - 7 MP / 1080p FaceTime HD"
             },
             "Features": {
                 "Apple Pencil Support": "2nd Gen",
@@ -2997,20 +3048,25 @@
             "Overview": {
                 "Introduced": "May 2021",
                 "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,4"
+                "Model Identifier": "iPad13,4 or iPad13,5",
+                "Model Number": "A2377",
+                "EMC": "3681",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>466 g, 24.76 H x 17.85 W x 0.59 D cm<br>1.03 lbs, 9.74 x 7 x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14.5",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB LPDDR4X"
+                "Built-in Memory": "8 GB (iPad13,4) 16 GB (iPad13,5) LPDDR4X"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3018,65 +3074,26 @@
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2388 x 1668"
             },
             "Storage": {
-                "Capacity": "128, 256 or 512 GB"
+                "Capacity": "128, 256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
             },
             "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
             },
-            "Battery": {
-                "Capacity": "7540 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (11-inch)<br>(3rd Gen)<br>(TB)<br>(WiFi)",
-        "Type": "iPad",
-        "image": "ipad_pro_11-inch_3g.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2021",
-                "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,5"
-            },
-            "Processor": {
-                "Processor Name": "Apple M1",
-                "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iPadOS 14.5",
-                "Maximum OS": "Latest release of iPadOS"
-            },
-            "Memory": {
-                "Built-in Memory": "16 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "8"
-            },
-            "Display": {
-                "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 or 2 TB"
-            },
-            "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
-            },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 28.65 Wh lithium-polymer",
                 "Capacity": "7540 mAh"
             },
             "Features": {
@@ -3093,20 +3110,25 @@
             "Overview": {
                 "Introduced": "May 2021",
                 "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,6"
+                "Model Identifier": "iPad13,6 or iPad13,7",
+                "Model Number": "A2459, A2301, A2460",
+                "EMC": "3682 (A2301), 3683 (A2459), 3684 (A2460)",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>470 g, 24.76 H x 17.85 W x 0.59 D cm<br>1.04 lbs, 9.74 H x 7.02 W x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14.5",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB LPDDR4X"
+                "Built-in Memory": "8 GB (iPad13,6) 16 GB (iPad13,7) LPDDR4X"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3114,65 +3136,28 @@
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2388 x 1668"
             },
             "Storage": {
-                "Capacity": "128, 256 or 512 GB"
+                "Capacity": "128, 256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and eSIM (A2459, A2301), nano-SIM (A2460)",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
             },
             "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
             },
-            "Battery": {
-                "Capacity": "7540 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (11-inch)<br>(3rd Gen)<br>(TB)<br>(WiFi + Cellular)",
-        "Type": "iPad",
-        "image": "ipad_pro_11-inch_3g.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2021",
-                "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,7"
-            },
-            "Processor": {
-                "Processor Name": "Apple M1",
-                "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iPadOS 14.5",
-                "Maximum OS": "Latest release of iPadOS"
-            },
-            "Memory": {
-                "Built-in Memory": "16 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "8"
-            },
-            "Display": {
-                "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 or 2 TB"
-            },
-            "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
-            },
-            "Battery": {
+            "Power": {
+                "Battery":"Built-in 28.65 Wh lithium-polymer",
                 "Capacity": "7540 mAh"
             },
             "Features": {
@@ -3189,20 +3174,25 @@
             "Overview": {
                 "Introduced": "May 2021",
                 "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,8"
+                "Model Identifier": "iPad13,8 or iPad13,9",
+                "Model Number": "A2378",
+                "EMC": "3689",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>682 g, 28.06 H x 21.49 W x 0.64 cm<br>1.5 lbs, 11.04 H x 8.46 W x 0.25 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14.5",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB LPDDR4X"
+                "Built-in Memory": "8 GB (iPad13,8) 16 GB (iPad13,9) LPDDR4X"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3210,65 +3200,26 @@
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness": "600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
             },
             "Storage": {
-                "Capacity": "128, 256 or 512 GB"
+                "Capacity": "128, 256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports":"Thunderbolt / USB 4, Smart Connector"
             },
             "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
             },
-            "Battery": {
-                "Capacity": "10566 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (12.9-inch)<br>(5th Gen)<br>(TB)<br>(WiFi)",
-        "Type": "iPad",
-        "image": "ipad_pro_12.9-inch_5g.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2021",
-                "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,9"
-            },
-            "Processor": {
-                "Processor Name": "Apple M1",
-                "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iPadOS 14.5",
-                "Maximum OS": "Latest release of iPadOS"
-            },
-            "Memory": {
-                "Built-in Memory": "16 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "8"
-            },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 or 2 TB"
-            },
-            "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
-            },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 40.88 Wh lithium-polymer",
                 "Capacity": "10566 mAh"
             },
             "Features": {
@@ -3285,20 +3236,25 @@
             "Overview": {
                 "Introduced": "May 2021",
                 "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,10"
+                "Model Identifier": "iPad13,10 or iPad13,11",
+                "Model Number": "A2461, A2379, A2462",
+                "EMC": "3686 (A2379), 3687 (A2461), 3688 (A2462)",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>685 g, 28.06 H x 21.49 W x 0.64 cm<br>1.51 lbs, 11.04 H x 8.46 W x 0.25 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 14.5",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB LPDDR4X"
+                "Built-in Memory": "8 GB (iPad13,10) 16 GB (iPad13,11) LPDDR4X"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3306,65 +3262,28 @@
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits, 1000 nits max full-screen, 1600 nits peak (HDR)",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
             },
             "Storage": {
-                "Capacity": "128, 256 or 512 GB"
+                "Capacity": "128, 256, 512 GB, 1 or 2 TB"
+            },
+            "Connections":{
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and eSIM (A2461, A2379), nano-SIM (A2462)",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports":"Thunderbolt / USB 4, Smart Connector"
             },
             "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
             },
-            "Battery": {
-                "Capacity": "10566 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "2nd Gen",
-                "Authentication": "Face ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (12.9-inch)<br>(5th Gen)<br>(TB)<br>(WiFi + Cellular)",
-        "Type": "iPad",
-        "image": "ipad_pro_12.9-inch_5g.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2021",
-                "Discontinued": "Oct 2022",
-                "Model Identifier": "iPad13,11"
-            },
-            "Processor": {
-                "Processor Name": "Apple M1",
-                "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
-                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
-            },
-            "Software": {
-                "Original OS": "iPadOS 14.5",
-                "Maximum OS": "Latest release of iPadOS"
-            },
-            "Memory": {
-                "Built-in Memory": "16 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "8"
-            },
-            "Display": {
-                "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
-            },
-            "Storage": {
-                "Capacity": "1 or 2 TB"
-            },
-            "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
-            },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 40.88 Wh lithium-polymer",
                 "Capacity": "10566 mAh"
             },
             "Features": {
@@ -3381,13 +3300,18 @@
             "Overview": {
                 "Introduced": "Sep 2021",
                 "Discontinued": "--",
-                "Model Identifier": "iPad12,1"
+                "Model Identifier": "iPad12,1",
+                "Model Number": "A2602",
+                "EMC": "4045",
+                "Color": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>498 g, 25.06 H x 17.41 W x 0.75 D cm<br>1.07 lbs, 9.8 H x 6.8 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 15.0",
@@ -3402,16 +3326,26 @@
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2160 x 1620"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports":"Lightning connector, Smart connector"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 8 MP wide",
+                "Front Camera": "1 - 12 MP / Ultra wide FaceTime HD"
+            },
+            "Power": {
+                "Battery":"Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -3428,13 +3362,18 @@
             "Overview": {
                 "Introduced": "Sep 2021",
                 "Discontinued": "--",
-                "Model Identifier": "iPad12,2"
+                "Model Identifier": "iPad12,2",
+                "Model Number": "A2604, A2603, A2605",
+                "EMC": "4046",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>498 g, 25.06 H x 17.41 W x 0.75 D cm<br>1.07 lbs, 9.8 H x 6.8 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 15.0",
@@ -3449,16 +3388,28 @@
             },
             "Display": {
                 "Display Size": "10.2-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2160 x 1620"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 8 MP",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2604, A2603) nano-SIM (A2605)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports":"Lightning connector, Smart connector"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 8 MP wide",
+                "Front Camera": "1 - 12 MP / Ultra wide FaceTime HD"
+            },
+            "Power": {
+                "Battery":"Built-in 32.4 Wh lithium-polymer",
                 "Capacity": "8827 mAh"
             },
             "Features": {
@@ -3475,13 +3426,18 @@
             "Overview": {
                 "Introduced": "Sep 2021",
                 "Discontinued": "--",
-                "Model Identifier": "iPad14,1"
+                "Model Identifier": "iPad14,1",
+                "Model Number": "A2567",
+                "EMC": "4043",
+                "Color": "Space Gray, Pink, Purple, Starlight",
+                "Weight/Dimensions": "<br>293 g, 19.54 H x 13.48 W x 0.63 D cm<br>0.65 lbs, 7.69 H x 5.3 W x 0.25 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "2.9 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 15.0",
@@ -3496,16 +3452,26 @@
             },
             "Display": {
                 "Display Size": "8.3-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate":"60 Hz",
                 "Display Resolution": "2266 x 1488"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 12 MP rear",
+                "Front Camera": "1 - 12 MP / Ultra wide FaceTime HD"
+            },
+            "Power": {
+                "Battery": "Built-in 19.3 Wh lithium-polymer",
                 "Capacity": "5034 mAh"
             },
             "Features": {
@@ -3522,13 +3488,18 @@
             "Overview": {
                 "Introduced": "Sep 2021",
                 "Discontinued": "--",
-                "Model Identifier": "iPad14,2"
+                "Model Identifier": "iPad14,2",
+                "Model Number": "A2568, A2569",
+                "EMC": "4044",
+                "Color":"Space Gray, Pink, Purple, Starlight",
+                "Weight/Dimensions": "<br>297 g, 19.54 H x 13.48 x 0.63 cm<br>0.66 lbs, 7.69 H x 5.3 W x 0.25 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "2.9 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 15.0",
@@ -3543,16 +3514,28 @@
             },
             "Display": {
                 "Display Size": "8.3-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate":"60 Hz",
                 "Display Resolution": "2266 x 1488"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2568) nano-SIM (A2569)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 12 MP Wide",
+                "Front Camera": "1 - 12 MP / Ultra wide FaceTime HD"
+            },
+            "Power": {
+                "Battery": "Built-in 19.3 Wh lithium-polymer",
                 "Capacity": "5034 mAh"
             },
             "Features": {
@@ -3569,13 +3552,18 @@
             "Overview": {
                 "Introduced": "Mar 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad13,16"
+                "Model Identifier": "iPad13,16",
+                "Model Number": "A2588",
+                "EMC": "4041",
+                "Color": "Space Gray, Starlight, Pink, Purple, Blue",
+                "Weight/Dimensions": "<br>461 g, 24.76 H x 17.85 W x 0.61 D cm<br>1.02 lbs, 9.74 x 7.02 x 0.24 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 15.4",
@@ -3590,14 +3578,27 @@
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2360 x 1640"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
             "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 12 MP"
+                "Back Camera": "1 - 12 MP Wide",
+                "Front Camera": "1 - 12 MP / Ultra wide FaceTime HD"
+            },
+            "Power": {
+                "Battery": "Built-in 28.6 Wh lithium-polymer",
+                "Battery Life":"Up to 10 Hours"
             },
             "Features": {
                 "Apple Pencil Support": "2nd Gen",
@@ -3613,13 +3614,18 @@
             "Overview": {
                 "Introduced": "Mar 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad13,17"
+                "Model Identifier": "iPad13,17",
+                "Model Number": "A2589, A2591",
+                "EMC": "4042",
+                "Color": "Space Gray, Starlight, Pink, Purple, Blue",
+                "Weight/Dimensions": "<br>462 g, 24.76 H x 17.85 x 0.61 cm<br>1.02 lbs. 9.74 H x 7.02 W x 0.24 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M1",
                 "Processor Speed": "3.2 GHz (High Performance) 2.1 (High Efficiency)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 15.4",
@@ -3634,14 +3640,29 @@
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2360 x 1640"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
+            "Connections":{
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and eSIM (A2589), nano-SIM (A2591)",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
             "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 12 MP"
+                "Back Camera": "1 - 12 MP Wide",
+                "Front Camera": "1 - 12 MP / Ultra wide FaceTime HD"
+            },
+            "Power": {
+                "Battery":"Built-in 28.6 Wh lithium-polymer",
+                "Battery Life":"Up to 10 Hours"
             },
             "Features": {
                 "Apple Pencil Support": "2nd Gen",
@@ -3657,13 +3678,18 @@
             "Overview": {
                 "Introduced": "Oct 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad13,18"
+                "Model Identifier": "iPad13,18",
+                "Model Number": "A2696",
+                "EMC": "8137",
+                "Color": "Silver, Blue, Pink, Yellow",
+                "Weight/Dimensions": "<br>477 g, 24.86 H x 17.95 W x 0.7 D cm<br>1.05 lbs, 9.79 H x 7.07 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 16.1",
@@ -3678,16 +3704,26 @@
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2360 x 1640"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.6 Wh lithium-polymer",
                 "Capacity": "7606 mAh"
             },
             "Features": {
@@ -3697,20 +3733,25 @@
         }
     },
     {
-        "Name": "iPad (10th Gen)<br>(WiFi)",
+        "Name": "iPad (10th Gen)<br>(WiFi + Cellular)",
         "Type": "iPad",
         "image": "ipad_10th_gen.png",
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad13,19"
+                "Model Identifier": "iPad13,19",
+                "Model Number": "A2757, A2777, A3162",
+                "EMC": "8135",
+                "Color": "Silver, Blue, Pink, Yellow",
+                "Weight/Dimensions": "<br>481 g, 24.86 H x 17.95 W x 0.7 D cm<br>1.06 lbs, 9.79 H x 7.07 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 16.1",
@@ -3725,16 +3766,28 @@
             },
             "Display": {
                 "Display Size": "10.9-inch widescreen",
+                "Brightness": "500 nits",
+                "Refresh Rate": "60 Hz",
                 "Display Resolution": "2360 x 1640"
             },
             "Storage": {
                 "Capacity": "64 or 256 GB"
             },
-            "Camera": {
-                "Back Camera": "1 - 12 MP",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+               "Wi-Fi":"802.11ax (Wi-Fi 6)",
+               "Bluetooth": "5.2",
+               "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+               "SIM slot": "nano-SIM and eSIM (A2757, A3162) nano-SIM (A2777)",
+               "Audio In":"2 - Microphones",
+               "Audio Out":"2 - Built-in speakers",
+               "Ports":"USB-C, Smart Connector"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery":"Built-in 28.6 Wh lithium-polymer",
                 "Capacity": "7606 mAh"
             },
             "Features": {
@@ -3751,20 +3804,25 @@
             "Overview": {
                 "Introduced": "Oct 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad14,3"
+                "Model Identifier": "iPad14,3",
+                "Model Number": "A2759",
+                "EMC": "8166",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>466 g, 24.76 H x 17.85 W x 0.59 D cm<br>1.03 lbs, 9.74 x 7 x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 16.1",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB (128 - 512) or 16 GB (1 - 2 TB) LPDDR5"
+                "Built-in Memory": "8 GB (128, 256, 512) or 16 GB (1, 2 TB) LPDDR5"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3772,17 +3830,26 @@
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2388 x 1668"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
-            "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.65 Wh lithium-polymer",
                 "Capacity": "7540 mAh"
             },
             "Features": {
@@ -3799,20 +3866,25 @@
             "Overview": {
                 "Introduced": "Oct 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad14,3"
+                "Model Identifier": "iPad14,4",
+                "Model Number": "A2435, A2761, A2762",
+                "EMC": "8167 (A2435), 8168 (A2761, A2762)",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>470 g, 24.76 H x 17.85 W x 0.59 D cm<br>1.04 lbs, 9.74 H x 7.02 W x 0.23 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 16.1",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB (128 - 512) or 16 GB (1 - 2 TB) LPDDR5"
+                "Built-in Memory": "8 GB (128, 256, 512) or 16 GB (1, 2 TB) LPDDR5"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3820,17 +3892,28 @@
             },
             "Display": {
                 "Display Size": "11-inch widescreen",
-                "Display Resolution": "2388 x 1668",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2388 x 1668"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
-            "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and eSIM (A2435, A2761), nano-SIM (A2762)",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.65 Wh lithium-polymer",
                 "Capacity": "7540 mAh"
             },
             "Features": {
@@ -3847,20 +3930,25 @@
             "Overview": {
                 "Introduced": "Oct 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad14,5"
+                "Model Identifier": "iPad14,5",
+                "Model Number": "A2436",
+                "EMC": "8169",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>682 g, 28.06 H x 21.49 W x 0.64 cm<br>1.5 lbs, 11.04 H x 8.46 W x 0.25 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 16.1",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB (128 - 512) or 16 GB (1 - 2 TB) LPDDR5"
+                "Built-in Memory": "8 GB (128, 256, 512) or 16 GB (1, 2 TB) LPDDR5"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3868,17 +3956,26 @@
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits, 1000 nits max full-screen, 1600 nits peak (HDR)",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
-            "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP"
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
             },
-            "Battery": {
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 40.88 Wh lithium-polymer",
                 "Capacity": "10566 mAh"
             },
             "Features": {
@@ -3895,20 +3992,25 @@
             "Overview": {
                 "Introduced": "Oct 2022",
                 "Discontinued": "--",
-                "Model Identifier": "iPad14,6"
+                "Model Identifier": "iPad14,6",
+                "Model Number": "A2764, A2437, A2766",
+                "EMC": "8176 (A2764), 8177 (A2437, A2766)",
+                "Color":"Space Gray, Silver",
+                "Weight/Dimensions": "<br>685 g, 28.06 H x 21.49 W x 0.64 cm<br>1.51 lbs, 11.04 H x 8.46 W x 0.25 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple M2",
                 "Processor Speed": "3.5 GHz (High Performance)",
                 "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
-                "Architecture": "64-bit"
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
             },
             "Software": {
                 "Original OS": "iPadOS 16.1",
                 "Maximum OS": "Latest release of iPadOS"
             },
             "Memory": {
-                "Built-in Memory": "8 GB (128 - 512) or 16 GB (1 - 2 TB) LPDDR5"
+                "Built-in Memory": "8 GB (128, 256, 512) or 16 GB (1, 2 TB) LPDDR5"
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
@@ -3916,17 +4018,28 @@
             },
             "Display": {
                 "Display Size": "12.9-inch widescreen",
-                "Display Resolution": "2732 x 2048",
-                "Refresh Rate": "24 - 120 Hz ProMotion"
+                "Brightness":"600 nits, 1000 nits max full-screen, 1600 nits peak (HDR)",
+                "Refresh Rate": "24 - 120 Hz ProMotion",
+                "Display Resolution": "2732 x 2048"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB, 1 or 2 TB"
             },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2764, A2437) nano-SIM (A2766)",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
+            },
             "Camera": {
-                "Back Camera": "2 - 12 MP wide, 10 MP ultra wide",
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 40.88 Wh lithium-polymer",
                 "Capacity": "10566 mAh"
             },
             "Features": {
