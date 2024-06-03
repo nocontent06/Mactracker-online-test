@@ -4047,5 +4047,258 @@
                 "Authentication": "Face ID"
             }
         }
+    },
+    {
+        "Name": "iPad Air M2 (11-inch)<br>(Wi-Fi)",
+        "Type": "iPad",
+        "image": "ipad_air_m2_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2024",
+                "Discontinued": "--",
+                "Model Identifier": "iPad14,8",
+                "Model Number": "A2902",
+                "EMC": "8392",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "<br>462 g, 24.76 H x 17.85 W x 0.61 cm<br>1.02 lbs, 9.74 H x 7.02 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2",
+                "Processor Speed": "3.5 GHz (High Performance)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 17.5",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP landscape ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air M2 (11-inch)<br>(Wi-Fi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_air_m2_11.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2024",
+                "Discontinued": "--",
+                "Model Identifier": "iPad14,9",
+                "Model Number": "A2903",
+                "EMC": "8393",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "<br>462 g, 24.76 H x 17.85 W x 0.61 cm<br>1.02 lbs, 9.74 H x 7.02 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2",
+                "Processor Speed": "3.5 GHz (High Performance)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 17.5",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP landscape ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air M2 (13-inch)<br>(Wi-Fi)",
+        "Type": "iPad",
+        "image": "ipad_air_m2_13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2024",
+                "Discontinued": "--",
+                "Model Identifier": "iPad14,10",
+                "Model Number": "A2898",
+                "EMC": "8394",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "<br>617 g, 28.06 H x 21.46 W x 0.61 cm<br>1.36 lbs, 11.04 H x 8.46 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2",
+                "Processor Speed": "3.5 GHz (High Performance)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 17.5",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "13-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP landscape ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 36.59 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air M2 (13-inch)<br>(Wi-Fi)",
+        "Type": "iPad",
+        "image": "ipad_air_m2_13.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2024",
+                "Discontinued": "--",
+                "Model Identifier": "iPad14,11",
+                "Model Number": "A2899",
+                "EMC": "8395",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "<br>617 g, 28.06 H x 21.46 W x 0.61 cm<br>1.36 lbs, 11.04 H x 8.46 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M2",
+                "Processor Speed": "3.5 GHz (High Performance)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 17.5",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "13-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP landscape ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 36.59 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
     }
+
 ]
