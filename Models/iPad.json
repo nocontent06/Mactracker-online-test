@@ -4299,6 +4299,67 @@
                 "Authentication": "Touch ID"
             }
         }
+    },
+    {
+        "Name": "iPad Pro M4 (11-inch)<br>(WiFi)",
+        "Type": "iPad",
+        "image": "ipad_pro_11-inch_m4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2024",
+                "Discontinued": "--",
+                "Model Identifier": "iPad16,3",
+                "Model Number": "A2836",
+                "EMC": "8472",
+                "Color":"Space Black, Silver",
+                "Weight/Dimensions": "<br>444 g, 24.97 H x 17.75 W x 0.53 D cm<br>1.03 lbs, 9.83 x 6.99 x 0.21 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M4",
+                "Processor Speed": "4.4 GHz (High Performance)",
+                "# of Cores": "<br>9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 17.5",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB (256 or 512 GB) or 16 GB (1 or 2 TB) LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "11-inch Ultra Retina XDR",
+                "Brightness":"1000 nits (XDR), 1600 nits (HDR peak)",
+                "Refresh Rate": "10 - 120 Hz ProMotion",
+                "Display Resolution": "2420 x 1668"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"5 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.65 Wh lithium-polymer",
+                "Capacity": "7540 mAh"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen",
+                "Authentication": "Face ID"
+            }
+        }
     }
-
 ]
