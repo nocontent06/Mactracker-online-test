@@ -1196,7 +1196,7 @@
             "Overview": {
                 "Introduced": "Oct 2009",
                 "Discontinued": "Jul 2010",
-                "Model Identifier": "iMac10,1 (C2D) or iMac11,1 (Ci5, Ci7)",
+                "Model Identifier": "iMac10,1<br>iMac11,1",
                 "Model Number": "A1312",
                 "EMC": "2309 (C2D) or 2374 (Ci5, Ci7)",
                 "Color": "Silver",
@@ -1993,7 +1993,7 @@
             "Overview": {
                 "Introduced": "Oct 2015",
                 "Discontinued": "Jun 2017",
-                "Model Identifier": "iMac16,1 (1.6 GHz), iMac16,2 (2.8 GHz)",
+                "Model Identifier": "iMac16,1<br>iMac16,2",
                 "Model Number": "A1418 (Late 2015)",
                 "EMC": "2889",
                 "Color": "Silver",
@@ -2512,7 +2512,7 @@
             "Overview": {
                 "Introduced": "Aug 2020",
                 "Discontinued": "Mar 2022",
-                "Model Identifier": "iMac20,1 or iMac20,2",
+                "Model Identifier": "iMac20,1<br>iMac20,2",
                 "Model Number": "A2115 (2020)",
                 "EMC": "3442",
                 "Color": "Silver",

@@ -4551,5 +4551,131 @@
                 "Authentication": "Face ID"
             }
         }
+    },
+    {
+        "Name": "iPad Mini (A17 Pro)<br>(WiFi)",
+        "Type": "iPad",
+        "image": "ipad_mini_a17pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 15, 2024",
+                "Discontinued": "--",
+                "Model Identifier": "iPad16,1",
+                "Model Number": "A2993",
+                "EMC": "8470",
+                "Color":"Blue, Purple, Starlight, Space Gray",
+                "Weight/Dimensions": "<br>293 g, 19.54 H x 13.48 x 0.63 cm<br>0.65 lbs, 7.69 H x 5.3 W x 0.25 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple A17 Pro",
+                "Processor Speed": "3.78 GHz",
+                "# of Cores": "6",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"4 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.0",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Size": "8.3-inch Retina",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2266 x 1488"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"Built-in speakers",
+                "Ports": "Thunderbolt / USB 4"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 19.3 Wh lithium-polymer",
+                "Battery Life":"Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "USB-C, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Mini (A17 Pro)<br>(WiFi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_mini_a17pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 15, 2024",
+                "Discontinued": "--",
+                "Model Identifier": "iPad16,2",
+                "Model Number": "A2995",
+                "EMC": "8471",
+                "Color":"Blue, Purple, Starlight, Space Gray",
+                "Weight/Dimensions": "<br>297 g, 19.54 H x 13.48 x 0.63 cm<br>0.66 lbs, 7.69 H x 5.3 W x 0.25 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple A17 Pro",
+                "Processor Speed": "3.78 GHz",
+                "# of Cores": "6",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"4 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.0",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Size": "8.3-inch Retina",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2266 x 1488"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"Built-in speakers",
+                "Ports": "Thunderbolt / USB 4"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 19.3 Wh lithium-polymer",
+                "Battery Life":"Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "USB-C, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
     }
 ]
