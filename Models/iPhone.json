@@ -28,7 +28,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR MBX Lite",
-                "Graphics Cores": "1"
+                "# of Graphics Cores": "1"
             },
             "Display": {
                 "Display Type": "LCD Display",
@@ -86,7 +86,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR MBX Lite",
-                "Graphics Cores": "1"
+                "# of Graphics Cores": "1"
             },
             "Display": {
                 "Display Type": "LCD Display",
@@ -144,7 +144,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX535",
-                "Graphics Cores": "1"
+                "# of Graphics Cores": "1"
             },
             "Display": {
                 "Display Type": "LCD Display",
@@ -203,7 +203,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX535",
-                "Graphics Cores": "1"
+                "# of Graphics Cores": "1"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -261,7 +261,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX535",
-                "Graphics Cores": "1"
+                "# of Graphics Cores": "1"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -318,7 +318,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP2",
-                "Graphics Cores": "2"
+                "# of Graphics Cores": "2"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -327,6 +327,23 @@
             },
             "Storage": {
                 "Capacity": "8, 16, 32, 64 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4, 2.4 GHz only)",
+                "Bluetooth":"4.0",
+                "Networks": "UMTS/HSDPA/HSUPA, GSM/EDGE",
+                "SIM slot": "micro-SIM",
+                "Audio In": "2 - Microphones",
+                "Audio Out":"1 - Built-in speaker, 3.5-mm jack",
+                "Ports":"30-pin dock connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 8 MP",
+                "Front Camera":"1 - 0.9 MP"
+            },
+            "Power": {
+                "Battery": "Built-in 5.3 Wh lithium-ion",
+                "Capacity": "1432 mAh"
             }
         }
     }, {
@@ -337,23 +354,29 @@
             "Overview": {
                 "Introduced": "Sep 2012",
                 "Discontinued": "Sep 2013",
-                "Model Identifier": "iPhone5,1"
+                "Model Identifier": "iPhone5,1",
+                "Model Number": "A1428 (NA), A1429 (International)",
+                "EMC": "2610",
+                "Colors":"Black, Slate, White, Silver",
+                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
                 "Processor Speed": "1.3 GHz",
-                "# of Cores": "2"
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
             },
             "Software": {
-                "Original OS": "iOS 6.0",
-                "Maximum OS": "iOS 10.3.4"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%206&type=iOS'>iOS 6.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.4</a>"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP3",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -362,6 +385,23 @@
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4, 2.4 & 5 GHz)",
+                "Bluetooth":"4.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speaker, 3.5-mm jack",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 8 MP",
+                "Front Camera":"1 - 1.2 MP"
+            },
+            "Power": {
+                "Battery": "Built-in 5.45 Wh lithium-ion",
+                "Capacity": "1440 mAh"
             }
         }
     }, {
@@ -372,23 +412,29 @@
             "Overview": {
                 "Introduced": "Sep 2012",
                 "Discontinued": "Sep 2013",
-                "Model Identifier": "iPhone5,2"
+                "Model Identifier": "iPhone5,2",
+                "Model Number": "A1429",
+                "EMC": "2610",
+                "Colors":"Black, Slate, White, Silver",
+                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
                 "Processor Speed": "1.3 GHz",
-                "# of Cores": "2"
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
             },
             "Software": {
-                "Original OS": "iOS 6.0",
-                "Maximum OS": "iOS 10.3.4"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%206&type=iOS'>iOS 6.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.4</a>"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP3",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -397,6 +443,23 @@
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4, 2.4 & 5 GHz)",
+                "Bluetooth":"4.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speaker, 3.5-mm jack",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 8 MP",
+                "Front Camera":"1 - 1.2 MP"
+            },
+            "Power": {
+                "Battery": "Built-in 5.45 Wh lithium-ion",
+                "Capacity": "1440 mAh"
             }
         }
     }, {
@@ -407,23 +470,29 @@
             "Overview": {
                 "Introduced": "Dec 2012",
                 "Discontinued": "Sep 2013",
-                "Model Identifier": "iPhone5,2 (China)"
+                "Model Identifier": "iPhone5,2 (China)",
+                "Model Number": "A1442",
+                "EMC": "To be filled...",
+                "Colors":"Black, Slate, White, Silver",
+                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
                 "Processor Speed": "1.3 GHz",
-                "# of Cores": "2"
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
             },
             "Software": {
-                "Original OS": "iOS 6.0",
-                "Maximum OS": "iOS 10.3.4"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%206&type=iOS'>iOS 6.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.4</a>"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP3",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -432,6 +501,23 @@
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4, 2.4 & 5 GHz)",
+                "Bluetooth":"4.0",
+                "Networks": "CDMA EV-DO Rev. A & B, UTMS/HSPA+/DC-HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speaker, 3.5-mm jack",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 8 MP",
+                "Front Camera":"1 - 1.2 MP"
+            },
+            "Power": {
+                "Battery": "Built-in 5.45 Wh lithium-ion",
+                "Capacity": "1440 mAh"
             }
         }
     }, {
@@ -442,13 +528,20 @@
             "Overview": {
                 "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
                 "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
-                "Model Identifier": "iPhone5,3"
+                "Model Identifier": "iPhone5,3",
+                "Model Number": "A1532 (GSM/CDMA)",
+                "Other Model Numbers": "<br>A1456 (US/JP)<br>A1507 (UK/EU)<br>A1516<br>A1526 (China)<br>A1529 (Asia & Oceania)",
+                "EMC": "To be filled...",
+                "Colors": "White, Pink, Yellow, Blue, Green"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
                 "Processor Speed": "1.3 GHz",
-                "# of Cores": "2"
+                "# of Cores": "2",
+                "Architecture": "32-bit",
+                "Manufacturing Process": "32 nm"
             },
+            "CONTINUE HERE":{},
             "Software": {
                 "Original OS": "iOS 7.0",
                 "Maximum OS": "iOS 10.3.3"
@@ -458,7 +551,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP3",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -500,7 +593,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR SGX543MP3",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -543,7 +636,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -586,7 +679,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6430",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
@@ -629,7 +722,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6450",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -672,7 +765,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR G6450",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -715,7 +808,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -758,7 +851,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -801,7 +894,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -844,7 +937,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -887,7 +980,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -930,7 +1023,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -973,7 +1066,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "PowerVR GT7600",
-                "Graphics Cores": "6"
+                "# of Graphics Cores": "6"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -1016,7 +1109,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -1059,7 +1152,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -1102,7 +1195,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -1145,7 +1238,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -1188,7 +1281,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Super Retina HD OLED Display",
@@ -1231,7 +1324,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "3"
+                "# of Graphics Cores": "3"
             },
             "Display": {
                 "Display Type": "Super Retina HD OLED Display",
@@ -1274,7 +1367,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple G11P",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina HD OLED Display",
@@ -1317,7 +1410,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple G11P",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina HD OLED Display",
@@ -1360,7 +1453,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple G11P",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
@@ -1403,7 +1496,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
@@ -1446,7 +1539,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina HD OLED display",
@@ -1489,7 +1582,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina HD OLED display",
@@ -1532,7 +1625,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -1575,7 +1668,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -1618,7 +1711,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -1661,7 +1754,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -1704,7 +1797,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED display",
@@ -1747,7 +1840,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -1790,7 +1883,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -1833,7 +1926,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -1877,7 +1970,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -1921,7 +2014,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "4"
+                "# of Graphics Cores": "4"
             },
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
@@ -1964,7 +2057,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -2007,7 +2100,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -2055,7 +2148,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -2104,7 +2197,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -2156,7 +2249,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -2207,7 +2300,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -2258,7 +2351,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
@@ -2309,7 +2402,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "5"
+                "# of Graphics Cores": "5"
             },
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
