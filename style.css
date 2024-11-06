@@ -411,3 +411,34 @@ html {
 .iosVersion {
     padding-right: 100%;
 }
+
+.benchmark-popover {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+}
+
+.benchmark-popover::after {
+    content: "Geekbench 5 Benchmark\A SC = Singlecore\A MC = Multicore";
+    position: absolute;
+    width: 121%;
+    left: 50%;
+    bottom: 100%;
+    transform: translateX(-42%);
+    background-color: #333;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease;
+    white-space: pre-line;
+    text-align: left;
+    z-index: 1;
+}
+
+.benchmark-popover:hover::after {
+    opacity: 1;
+    visibility: visible;
+}

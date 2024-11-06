@@ -169,7 +169,7 @@
                 "Front Camera":"--"
             },
             "Power": {
-                "Battery":"Built-in 4.51 Wh lithium-ion",
+                "Power":"Built-in 4.51 Wh lithium-ion",
                 "Capacity": "1219 mAh"
             }
         }
@@ -521,17 +521,17 @@
             }
         }
     }, {
-        "Name": "iPhone 5c (GSM & CDMA)",
+        "Name": "iPhone 5c",
         "Type": "iPhone",
         "image": "iphone_5c.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
                 "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
-                "Model Identifier": "iPhone5,3",
+                "Model Identifier": "<br>iPhone5,3 (GSM/CDMA)<br>iPhone5,4 (CDMA)",
                 "Model Number": "A1532 (GSM/CDMA)",
                 "Other Model Numbers": "<br>A1456 (US/JP)<br>A1507 (UK/EU)<br>A1516<br>A1526 (China)<br>A1529 (Asia & Oceania)",
-                "EMC": "To be filled...",
+                "EMC": "2644",
                 "Colors": "White, Pink, Yellow, Blue, Green"
             },
             "Processor": {
@@ -541,10 +541,9 @@
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
             },
-            "CONTINUE HERE":{},
             "Software": {
-                "Original OS": "iOS 7.0",
-                "Maximum OS": "iOS 10.3.3"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%207&type=iOS'>iOS 7.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.3.3</a>"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR2"
@@ -556,80 +555,56 @@
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
                 "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Display Resolution": "1136 x 640 pixels",
+                "Brighness": "500 nits"
             },
             "Storage": {
-                "Capacity": "16, 32 or 64 GB"
+                "Capacity": "8, 16 or 32 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4, 2.4 & 5 GHz)",
+                "Bluetooth":"4.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speaker, 3.5-mm jack",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 5.73 Wh lithium-ion",
                 "Capacity": "1510 mAh"
             }
         }
     }, {
-        "Name": "iPhone 5c (CDMA)",
-        "Type": "iPhone",
-        "image": "iphone_5c.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
-                "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
-                "Model Identifier": "iPhone5,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
-                "# of Cores": "2"
-            },
-            "Software": {
-                "Original OS": "iOS 7.0",
-                "Maximum OS": "iOS 10.3.3"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR2"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
-            },
-            "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
-            },
-            "Storage": {
-                "Capacity": "16, 32 or 64 GB"
-            },
-            "Camera": {
-                "Rear Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
-            },
-            "Battery": {
-                "Capacity": "1510 mAh"
-            }
-        }
-    }, {
-        "Name": "iPhone 5s (GSM)",
+        "Name": "iPhone 5s",
         "Type": "iPhone",
         "image": "iphone_5s.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2013",
                 "Discontinued": "Mar 2016",
-                "Model Identifier": "iPhone6,1"
+                "Model Identifier": "<br>iPhone6,1 (GSM)<br>iPhone6,2 (GSM/CDMA)",
+                "Model Number": "A1533 (NA)",
+                "Other Model Numbers": "<br>A1453 (US / JP)<br>A1457 (UK / EU)<br>A1518<br>A1528 (China)<br>A1530 (Asia & Oceania)",
+                "EMC": "2642",
+                "Colors": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
-                "Benchmark (SC / MC)": "259 / 477",
-                "# of Cores": "2"
+                "# of Cores": "2",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</a>": "259 / 476",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "28 nm"
             },
             "Software": {
-                "Original OS": "iOS 7.0",
-                "Maximum OS": "iOS 12.5.6"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%207&type=iOS'>iOS 7.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.5.7</a>"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
@@ -641,60 +616,31 @@
             "Display": {
                 "Display Type": "Retina LED-backlit LCD IPS Display",
                 "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Display Resolution": "1136 x 640 pixels",
+                "Brighness": "500 nits"
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n (Wi-Fi 4, 2.4 & 5 GHz)",
+                "Bluetooth":"4.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speaker, 3.5-mm jack",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 5.92 Wh lithium-ion",
                 "Capacity": "1560 mAh"
-            }
-        }
-    }, {
-        "Name": "iPhone 5s (GSM and CDMA)",
-        "Type": "iPhone",
-        "image": "iphone_5s.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2013",
-                "Discontinued": "Mar 2016",
-                "Model Identifier": "iPhone6,2"
             },
-            "Processor": {
-                "Processor Name": "Apple A7",
-                "Processor Speed": "1.3 GHz",
-                "Benchmark (SC / MC)": "259 / 477",
-                "# of Cores": "2"
-            },
-            "Software": {
-                "Original OS": "iOS 7.0",
-                "Maximum OS": "iOS 12.5.6"
-            },
-            "Memory": {
-                "Built-in Memory": "1 GB LPDDR3"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR G6430",
-                "# of Graphics Cores": "4"
-            },
-            "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
-            },
-            "Storage": {
-                "Capacity": "16, 32 or 64 GB"
-            },
-            "Camera": {
-                "Rear Camera": "1 - 8 MP",
-                "Front Camera": "1 - 1.2 MP"
-            },
-            "Battery": {
-                "Capacity": "1560 mAh"
+            "Features": {
+                "Authentication": "Touch ID"
             }
         }
     }, {
@@ -705,17 +651,24 @@
             "Overview": {
                 "Introduced": "Sep 2014",
                 "Discontinued": "Sep 2016",
-                "Model Identifier": "iPhone7,2"
+                "Model Identifier": "iPhone7,2",
+                "Model Number": "A1549 (GSM/CDMA)",
+                "Other Model Numbers": "<br>A1586<br>A1589",
+                "EMC": "2816",
+                "Colors": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>129 g, 13.81 H x 6.7 W x 0.69 D cm<br>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
                 "Processor Speed": "1.4 GHz",
-                "Benchmark (SC / MC)": "308 / 569",
-                "# of Cores": "2"
+                "# of Cores": "2",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "308 / 569",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "20 nm"
             },
             "Software": {
-                "Original OS": "iOS 8.0",
-                "Maximum OS": "iOS 12.5.6"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%208&type=iOS'>iOS 8.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.5.7</a>"
             },
             "Memory": {
                 "Built-in Memory": "1 GB LPDDR3"
@@ -727,20 +680,35 @@
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
                 "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750 pixels"
+                "Display Resolution": "1334 x 750 pixels",
+                "Brighness": "500 nits"
             },
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth":"4.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speaker, 3.5-mm jack",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 6.91 Wh lithium-ion",
                 "Capacity": "1810 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID"
             }
         }
     }, {
+        "CHECK IPHONE 6 AGAIN Then proceed": {},
         "Name": "iPhone 6 Plus",
         "Type": "iPhone",
         "image": "iphone_6_plus.png",
@@ -779,7 +747,8 @@
                 "Rear Camera": "1 - 8 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in 6.91 Wh lithium-ion",
                 "Capacity": "1810 mAh"
             }
         }
@@ -822,7 +791,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 5 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "1715 mAh"
             }
         }
@@ -865,7 +834,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 5 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2750 mAh"
             }
         }
@@ -908,7 +877,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 1.2 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "1624 mAh"
             }
         }
@@ -951,7 +920,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "1960 mAh"
             }
         }
@@ -994,7 +963,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "1960 mAh"
             }
         }
@@ -1037,7 +1006,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2900 mAh"
             }
         }
@@ -1080,7 +1049,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2900 mAh"
             }
         }
@@ -1123,7 +1092,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "1821 mAh"
             }
         }
@@ -1166,7 +1135,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "1821 mAh"
             }
         }
@@ -1209,7 +1178,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2691 mAh"
             }
         }
@@ -1252,7 +1221,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2691 mAh"
             }
         }
@@ -1295,7 +1264,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2716 mAh"
             }
         }
@@ -1338,7 +1307,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2716 mAh"
             }
         }
@@ -1381,7 +1350,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2658 mAh"
             }
         }
@@ -1424,7 +1393,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3174 mAh"
             }
         }
@@ -1467,7 +1436,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2942 mAh"
             }
         }
@@ -1510,7 +1479,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3110 mAh"
             }
         }
@@ -1553,7 +1522,7 @@
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3046 mAh"
             }
         }
@@ -1596,7 +1565,7 @@
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3969 mAh"
             }
         }
@@ -1639,7 +1608,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "1821 mAh"
             }
         }
@@ -1682,7 +1651,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2815 mAh"
             }
         }
@@ -1725,7 +1694,7 @@
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2815 mAh"
             }
         }
@@ -1768,7 +1737,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2227 mAh"
             }
         }
@@ -1811,7 +1780,7 @@
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3687 mAh"
             }
         }
@@ -1854,7 +1823,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3227 mAh"
             }
         }
@@ -1897,7 +1866,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2406 mAh"
             }
         }
@@ -1941,7 +1910,7 @@
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3095 mAh"
             }
         }
@@ -1985,7 +1954,7 @@
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "4352 mAh"
             }
         }
@@ -2028,7 +1997,7 @@
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "2018 mAh"
             }
         }
@@ -2071,7 +2040,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3279 mAh"
             }
         }
@@ -2114,7 +2083,7 @@
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "4325 mAh"
             },
             "Features": {
@@ -2163,7 +2132,7 @@
                 "Rear Camera": "3 - 48 / 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3200 mAh"
             },
             "Features": {
@@ -2212,7 +2181,7 @@
                 "Rear Camera": "3 - 48 / 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "4323 mAh"
             },
             "Features": {
@@ -2264,7 +2233,7 @@
                 "Rear Camera": "2 - 48 / 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3349 mAh"
             },
             "Features": {
@@ -2315,7 +2284,7 @@
                 "Rear Camera": "2 - 48 / 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "4383 mAh"
             },
             "Features": {
@@ -2366,7 +2335,7 @@
                 "Rear Camera": "3 - 48 / 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "3274 mAh"
             },
             "Features": {
@@ -2417,7 +2386,7 @@
                 "Rear Camera": "3 - 48 / 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
-            "Battery": {
+            "Power": {
                 "Capacity": "4422 mAh"
             },
             "Features": {
