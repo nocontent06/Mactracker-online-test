@@ -199,6 +199,7 @@ const processData = async () => {
                 let name = deviceInfo[j].Name;
                 let mid = deviceInfo[j].Info.Overview["Model Identifier"];
                 let mnr = deviceInfo[j].Info.Overview["Model Number"];
+                let omnr = deviceInfo[j].Info.Overview["Other Model Numbers"];
             
                 // const name = deviceInfo[i].Name;
     
@@ -217,6 +218,8 @@ const processData = async () => {
                 } else if (checkConcatenatedString(name, search)) {
                     filtData.push(deviceInfo[j]);
                 } else if (pattern.test(mnr)) {
+                    filtData.push(deviceInfo[j]);
+                } else if (pattern.test(omnr)) {
                     filtData.push(deviceInfo[j]);
                 }
             }
