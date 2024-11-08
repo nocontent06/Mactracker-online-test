@@ -1015,50 +1015,6 @@
             }
         }
     }, {
-        "CONTINUE HERE": {},
-        "Name": "iPhone 7 Plus (China)",
-        "Type": "iPhone",
-        "image": "iphone_7_plus.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2016",
-                "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone9,2"
-            },
-            "Processor": {
-                "Processor Name": "Apple A10 Fusion",
-                "Processor Speed": "2.3 GHz",
-                "Benchmark (SC / MC)": "742 / 1317",
-                "# of Cores": "4 (2 High Performance, 2 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "iOS 10.0",
-                "Maximum OS": "Latest release of iOS 15"
-            },
-            "Memory": {
-                "Built-in Memory": "3 GB LPDDR4"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
-            },
-            "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920x1080"
-            },
-            "Storage": {
-                "Capacity": "32, 128 or 256 GB"
-            },
-            "Camera": {
-                "Rear Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Power": {
-                "Capacity": "2900 mAh"
-            }
-        }
-    }, {
         "Name": "iPhone 7 Plus (Global)",
         "Type": "iPhone",
         "image": "iphone_7_plus.png",
@@ -1066,19 +1022,27 @@
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone9,4"
+                "Model Identifier": "iPhone9,2<br>iPhone9,4",
+                "Model Number": "A1661",
+                "Other Model Numbers": "<br>A1784<br>A1785<br>A1786",
+                "EMC": "3092",
+                "Colors": "Jet Black, Silver, Gold, Rose Gold, (PRODUCT) Red",
+                "Weight/Dimensions": "<br>188 g, 15.82 H x 7.79 W x 0.73 D cm<br>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
-                "Benchmark (SC / MC)": "742 / 1317",
-                "# of Cores": "4 (2 High Performance, 2 High Efficiency)"
+                "# of Cores": "4 (2 High Performance, 2 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</a>": "742 / 1324",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
             },
             "Software": {
-                "Original OS": "iOS 10.0",
-                "Maximum OS": "Latest release of iOS 15"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2010&type=iOS'>iOS 10.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>Latest release of iOS 15</a>"
             },
             "Memory": {
+                "TBC": "",
                 "Built-in Memory": "3 GB LPDDR4"
             },
             "Graphics": {
