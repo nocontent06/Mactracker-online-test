@@ -830,6 +830,9 @@
             "Power": {
                 "Battery": "Built-in 6.55 Wh lithium-ion",
                 "Capacity": "1715 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID"
             }
         }
     }, {
@@ -890,6 +893,9 @@
             "Power": {
                 "Battery": "Built-in 10.45 Wh lithium-ion",
                 "Capacity": "2750 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID"
             }
         }
     }, {
@@ -951,6 +957,9 @@
             "Power": {
                 "Battery": "Built-in 6.21 Wh lithium-ion",
                 "Capacity": "1624 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID"
             }
         }
     }, {
@@ -1012,6 +1021,10 @@
             "Power": {
                 "Battery": "Built-in 7.45 Wh lithium-ion",
                 "Capacity": "1960 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID",
+                "Waterproof": "IP67"
             }
         }
     }, {
@@ -1042,7 +1055,6 @@
                 "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>Latest release of iOS 15</a>"
             },
             "Memory": {
-                "TBC": "",
                 "Built-in Memory": "3 GB LPDDR4"
             },
             "Graphics": {
@@ -1052,38 +1064,60 @@
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
                 "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920x1080"
+                "Display Resolution": "1920 x 1080",
+                "Brightness": "625 nits"
             },
             "Storage": {
                 "Capacity": "32, 128 or 256 GB"
             },
+            "Connections": {
+              "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+              "Bluetooth": "4.2",
+              "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+              "SIM slot": "nano-SIM",
+              "Audio In": "4 - Microphones",
+              "Audio Out": "2 - Built-in speakers",
+              "Ports": "Lightning connector"
+            },
             "Camera": {
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 11.10 Wh lithium-ion",
                 "Capacity": "2900 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID",
+                "Waterproof": "IP67"
             }
         }
     }, {
-        "Name": "iPhone 8 (China)",
+        "Name": "iPhone 8",
         "Type": "iPhone",
         "image": "iphone_8.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
                 "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,1"
+                "Model Identifier": "iPhone10,1<br>iPhone10,4",
+                "Model Number": "A1863",
+                "Other Model Numbers": "<br>A1905<br>A1906<br>A1907",
+                "EMC": "3159, 3171, 3172",
+                "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
+                "Weight/Dimensions": "<br>144 g, 13.84 H x 6.73 W x 0.73 D cm<br>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
                 "Processor Speed": "2.4 GHz",
-                "Benchmark (SC / MC)": "921 / 2241",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "919 / 2231",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Software": {
-                "Original OS": "iOS 11.0",
-                "Maximum OS": "Latest release of iOS 16"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2011&type=iOS'>iOS 11.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>Latest release of iOS 16</a>"
             },
             "Memory": {
                 "Built-in Memory": "2 GB LPDDR4X"
@@ -1095,81 +1129,60 @@
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
                 "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334x750"
+                "Display Resolution": "1334 x 750",
+                "Brightness": "625 nits"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
+            },
+            "Connections": {
+              "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+              "Bluetooth": "5.0",
+              "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+              "SIM slot": "nano-SIM",
+              "Audio In": "3 - Microphones",
+              "Audio Out": "2 - Built-in speakers",
+              "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 6.96 Wh lithium-ion",
                 "Capacity": "1821 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID",
+                "Waterproof": "IP67"
             }
         }
     }, {
-        "Name": "iPhone 8 (Global)",
-        "Type": "iPhone",
-        "image": "iphone_8.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
-                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,4"
-            },
-            "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
-                "Benchmark (SC / MC)": "921 / 2241",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "iOS 11.0",
-                "Maximum OS": "Latest release of iOS 16"
-            },
-            "Memory": {
-                "Built-in Memory": "2 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
-            },
-            "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334x750"
-            },
-            "Storage": {
-                "Capacity": "64, 128 or 256 GB"
-            },
-            "Camera": {
-                "Rear Camera": "1 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Power": {
-                "Capacity": "1821 mAh"
-            }
-        }
-    }, {
-        "Name": "iPhone 8 Plus (China)",
+        "Name": "iPhone 8 Plus",
         "Type": "iPhone",
         "image": "iphone_8_plus.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
                 "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,2"
+                "Model Identifier": "iPhone10,2<br>iPhone10,5",
+                "Model Number": "A1864",
+                "Other Model Numbers": "<br>A1897<br>A1898<br>A1899",
+                "EMC": "3160, 3173, 3174",
+                "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
+                "Weight/Dimensions": "<br>202 g, 15.84 H x 7.81 W x 0.75 D cm<br>"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
                 "Processor Speed": "2.4 GHz",
-                "Benchmark (SC / MC)": "921 / 2331",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "923 / 2327",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Software": {
-                "Original OS": "iOS 11.0",
-                "Maximum OS": "Latest release of iOS 16"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2011&type=iOS'>iOS 11.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>Latest release of iOS 16</a>"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
@@ -1181,81 +1194,60 @@
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
                 "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920x1080"
+                "Display Resolution": "1920 x 1080",
+                "Brightness": "625 nits"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 10.28 Wh lithium-ion",
                 "Capacity": "2691 mAh"
+            },
+            "Features": {
+                "Authentication": "Touch ID",
+                "Waterproof": "IP67"
             }
         }
     }, {
-        "Name": "iPhone 8 Plus (Global)",
-        "Type": "iPhone",
-        "image": "iphone_8_plus.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
-                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,5"
-            },
-            "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
-                "Benchmark (SC / MC)": "921 / 2331",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "iOS 11.0",
-                "Maximum OS": "Latest release of iOS 16"
-            },
-            "Memory": {
-                "Built-in Memory": "3 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
-            },
-            "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920x1080"
-            },
-            "Storage": {
-                "Capacity": "64, 128 or 256 GB"
-            },
-            "Camera": {
-                "Rear Camera": "2 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Power": {
-                "Capacity": "2691 mAh"
-            }
-        }
-    }, {
-        "Name": "iPhone X (China)",
+        "Name": "iPhone X",
         "Type": "iPhone",
         "image": "iphone_x.png",
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2017",
                 "Discontinued": "Sep 2018",
-                "Model Identifier": "iPhone10,3"
+                "Model Identifier": "iPhone10,3<br>iPhone10,6",
+                "Model Number": "A1865",
+                "Other Model Numbers": "<br>A1865<br>A1901<br>A1902",
+                "EMC": "3161, 3175, 3176",
+                "Colors": "Space Gray, Silver",
+                "Weight/Dimensions": "<br>174 g, 14.36 H x 7.09 W x 0.77 D cm<br>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
                 "Processor Speed": "2.4 GHz",
-                "Benchmark (SC / MC)": "921 / 2331",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "918 / 2365",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Software": {
-                "Original OS": "iOS 11.0.1",
-                "Maximum OS": "Latest release of iOS 16"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2011&type=iOS'>iOS 11.0.1</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2016&type=iOS'>Latest release of iOS 16</a>"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
@@ -1267,60 +1259,32 @@
             "Display": {
                 "Display Type": "Super Retina HD OLED Display",
                 "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436x1125"
+                "Display Resolution": "2436 x 1125",
+                "Brightness": "625 nits"
             },
             "Storage": {
-                "Capacity": "64, 256 GB"
+                "Capacity": "64 or 256 GB"
+            },
+            "Connections": {
+              "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+              "Bluetooth": "5.0",
+              "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+              "SIM slot": "nano-SIM",
+              "Audio In": "3 - Microphones",
+              "Audio Out": "2 - Built-in speakers",
+              "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 10.35 Wh lithium-ion",
                 "Capacity": "2716 mAh"
-            }
-        }
-    }, {
-        "Name": "iPhone X (Global)",
-        "Type": "iPhone",
-        "image": "iphone_x.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Nov 2017",
-                "Discontinued": "Sep 2018",
-                "Model Identifier": "iPhone10,6"
             },
-            "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
-                "Benchmark (SC / MC)": "921 / 2331",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "iOS 11.0.1",
-                "Maximum OS": "Latest release of iOS 16"
-            },
-            "Memory": {
-                "Built-in Memory": "3 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
-            },
-            "Display": {
-                "Display Type": "Super Retina HD OLED Display",
-                "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436x1125"
-            },
-            "Storage": {
-                "Capacity": "64, 256 GB"
-            },
-            "Camera": {
-                "Rear Camera": "2 - 12 MP",
-                "Front Camera": "1 - 7 MP"
-            },
-            "Power": {
-                "Capacity": "2716 mAh"
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP67"
             }
         }
     }, {
@@ -1331,17 +1295,24 @@
             "Overview": {
                 "Introduced": "Sep 2018",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone11,2"
+                "Model Identifier": "iPhone11,2",
+                "Model Number": "A1920",
+                "Other Model Numbers": "<br>A2097<br>A2098<br>A2100",
+                "EMC": "3218, 3232, 3233, 3262",
+                "Colors": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>177 g, 14.36 H x 7.09 W x 0.77 D cm<br>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Benchmark (SC / MC)": "1107 / 2708",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1106 / 2701",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "iOS 12.0",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
@@ -1353,17 +1324,32 @@
             "Display": {
                 "Display Type": "Super Retina HD OLED Display",
                 "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436x1125"
+                "Display Resolution": "2436 x 1125",
+                "Brightness": "625 nits"
             },
             "Storage": {
                 "Capacity": "64, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A1920, A2097, A2098), nano-SIM (A2100)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 10.13 Wh lithium-ion",
                 "Capacity": "2658 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
             }
         }
     }, {
@@ -1374,17 +1360,24 @@
             "Overview": {
                 "Introduced": "Sep 2018",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone11,6"
+                "Model Identifier": "iPhone11,6",
+                "Model Number": "A1921",
+                "Other Model Numbers": "<br>A2101<br>A2102<br>A2104",
+                "EMC": "3219, 3234, 3235, 3261",
+                "Colors": "Space Gray, Silver, Gold",
+                "Weight/Dimensions": "<br>208 g, 15.75 H x 7.74 W x 0.77 D cm<br>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Benchmark (SC / MC)": "1107 / 2708",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1109 / 2651",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "iOS 12.0",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
@@ -1396,17 +1389,32 @@
             "Display": {
                 "Display Type": "Super Retina HD OLED Display",
                 "Display Size": "6.5-inch widescreen",
-                "Display Resolution": "2688x1242"
+                "Display Resolution": "2688 x 1242",
+                "Brightness": "625 nits"
             },
             "Storage": {
                 "Capacity": "64, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A1921, A2101, A2102), dual nano-SIM (A2104)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 12.08 Wh lithium-ion",
                 "Capacity": "3174 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
             }
         }
     }, {
@@ -1417,17 +1425,24 @@
             "Overview": {
                 "Introduced": "Oct 2018",
                 "Discontinued": "Sep 2021",
-                "Model Identifier": "iPhone11,8"
+                "Model Identifier": "iPhone11,8",
+                "Model Number": "A1984",
+                "Other Model Numbers": "<br>A2105, A2106, A2107, A2108",
+                "EMC": "3220, 3227, 3238, 3260",
+                "Colors": "(PRODUCT) Red, Yellow, White, Coral, Black, Blue",
+                "Weight/Dimensions": "<br>194 g, 15.09 H x 7.57 W x 0.83 D cm<br>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
                 "Processor Speed": "2.5 GHz",
-                "Benchmark (SC / MC)": "1107 / 2708",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1107 / 2708",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "iOS 12.0",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2012&type=iOS'>iOS 12.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
@@ -1439,17 +1454,31 @@
             "Display": {
                 "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
                 "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "1792x828"
+                "Display Resolution": "1792 x 828"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
             },
+            "Connections": {
+              "Wi-Fi": "802.11a/b/g/n/ac (Wi-Fi 5)",
+              "Bluetooth": "5.0",
+              "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+              "SIM slot": "nano-SIM and eSIM (A1984, A2105, A2106), dual nano-SIM (A2107, A2108)",
+              "Audio In": "3 - Microphones",
+              "Audio Out": "2 - Built-in speakers",
+              "Ports": "Lightning connector"  
+            },
             "Camera": {
-                "Rear Camera": "2 - 12 MP",
+                "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 11.24 Wh lithium-ion",
                 "Capacity": "2942 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP67"
             }
         }
     }, {
