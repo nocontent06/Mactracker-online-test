@@ -598,7 +598,7 @@
                 "Processor Name": "Apple A7",
                 "Processor Speed": "1.3 GHz",
                 "# of Cores": "2",
-                "<p class='benchmark-popover'>Benchmark (SC / MC)</a>": "259 / 476",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "259 / 476",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "28 nm"
             },
@@ -981,7 +981,7 @@
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "4 (2 High Performance, 2 High Efficiency)",
-                "<p class='benchmark-popover'>Benchmark (SC / MC)</a>": "741 / 1313",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "741 / 1313",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "16 nm"
             },
@@ -1046,7 +1046,7 @@
                 "Processor Name": "Apple A10 Fusion",
                 "Processor Speed": "2.3 GHz",
                 "# of Cores": "4 (2 High Performance, 2 High Efficiency)",
-                "<p class='benchmark-popover'>Benchmark (SC / MC)</a>": "742 / 1324",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "742 / 1324",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "16 nm"
             },
@@ -1489,17 +1489,24 @@
             "Overview": {
                 "Introduced": "Sep 2019",
                 "Discontinued": "Sep 2022",
-                "Model Identifier": "iPhone12,1"
+                "Model Identifier": "iPhone12,1",
+                "Model Number": "A2111",
+                "Other Model Numbers": "<br>A2221<br>A2223",
+                "EMC": "3309, 3304",
+                "Colors": "(PRODUCT) Red, Yellow, White, Green, Black, Purple",
+                "Weight/Dimensions": "<br>194 g, 15.09 H x 7.57 W x 0.83 D cm<br>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.66 GHz",
-                "Benchmark (SC / MC)": "1327 / 3288",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1325 / 3229",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "iOS 13.0",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
@@ -1511,17 +1518,32 @@
             "Display": {
                 "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
                 "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "1792x828"
+                "Display Resolution": "1792 x 828",
+                "Brightness": "625 nits"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2111, A2221), dual nano-SIM (A2223)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Power": {
+                "Battery": "Built-in 11.91 Wh lithium-ion",
                 "Capacity": "3110 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
             }
         }
     }, {
@@ -1532,17 +1554,25 @@
             "Overview": {
                 "Introduced": "Sep 2019",
                 "Discontinued": "Oct 2020",
-                "Model Identifier": "iPhone12,3"
+                "Model Identifier": "iPhone12,3",
+                "Model Number": "A2160",
+                "Other Model Numbers": "<br>A2217<br>A2215",
+                "EMC": "3305, 3307",
+                "Colors": "Space Gray, Silver, Gold, Midnight Green",
+                "Weight/Dimensions": "<br>188 g, 14.40 H x 7.14 W x 0.81 D cm<br>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.66 GHz",
-                "Benchmark (SC / MC)": "1327 / 3414",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1327 / 3414",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
+
             },
             "Software": {
-                "Original OS": "iOS 13.0",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
@@ -1552,18 +1582,29 @@
                 "# of Graphics Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED display",
+                "Display Type": "Super Retina XDR OLED display",
                 "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436x1125"
+                "Display Resolution": "2436 x 1125",
+                "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
                 "Capacity": "64, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2160, A2215), dual nano-SIM (A2217)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Power": {
+                "Battery": "Built-in 11.67 Wh lithium-ion",
                 "Capacity": "3046 mAh"
             }
         }
@@ -1575,17 +1616,24 @@
             "Overview": {
                 "Introduced": "Sep 2019",
                 "Discontinued": "Oct 2020",
-                "Model Identifier": "iPhone12,5"
+                "Model Identifier": "iPhone12,5",
+                "Model Number": "A2161",
+                "Other Model Numbers": "<br>A2220<br>A2218",
+                "EMC": "3306, 3308",
+                "Colors": "Space Gray, Silver, Gold, Midnight Green",
+                "Weight/Dimensions": "<br>226 g, 15.80 H x 7.78 W x 0.81 D cm<br>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.66 GHz",
-                "Benchmark (SC / MC)": "1327 / 3414",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1327 / 3414",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "iOS 13.0",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.0</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
@@ -1595,18 +1643,29 @@
                 "# of Graphics Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED display",
+                "Display Type": "Super Retina XDR OLED display",
                 "Display Size": "6.5-inch widescreen",
-                "Display Resolution": "2688x1242"
+                "Display Resolution": "2688 x 1242",
+                "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
                 "Capacity": "64, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2161, A2218), dual nano-SIM (A2220)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Power": {
+                "Battery": "Built-in 15.04 Wh lithium-ion",
                 "Capacity": "3969 mAh"
             }
         }
@@ -1618,17 +1677,24 @@
             "Overview": {
                 "Introduced": "Apr 2020",
                 "Discontinued": "Mar 2022",
-                "Model Identifier": "iPhone12,8"
+                "Model Identifier": "iPhone12,8",
+                "Model Number": "A2275",
+                "Other Model Numbers": "<br>A2298<br>A2296",
+                "EMC": "3500",
+                "Colors": "Black, White, (PRODUCT) RED",
+                "Weight/Dimensions": "<br>148 g, 13.84 H x 6.73 W x 0.73 D cm<br>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
                 "Processor Speed": "2.6 GHz",
-                "Benchmark (SC / MC)": "1330 / 3134",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1330 / 3134",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "7 nm"
             },
             "Software": {
-                "Original OS": "iOS 13.4",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2013&type=iOS'>iOS 13.4</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "3 GB LPDDR4X"
@@ -1640,16 +1706,27 @@
             "Display": {
                 "Display Type": "Retina HD LED-backlit LCD IPS Display",
                 "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334x750"
+                "Display Resolution": "1334 x 750",
+                "Brightness":"625 nits"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth":"5.0",
+                "Networks":"LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot":"nano-SIM and eSIM (A2275, A2296), nano-SIM (A2298)",
+                "Audio In":"3 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports":"Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "1 - 12 MP",
                 "Front Camera": "1 - 7 MP"
             },
             "Power": {
+                "Battery": "Built-in 6.96 Wh lithium-ion",
                 "Capacity": "1821 mAh"
             }
         }
@@ -1660,16 +1737,24 @@
         "Info": {
             "Overview": {
                 "Introduced": "Oct 2020",
-                "Discontinued": "---",
-                "Model Identifier": "iPhone13,2"
+                "Discontinued": "Sep 2023",
+                "Model Identifier": "iPhone13,2",
+                "Model Number": "A2172",
+                "Other Model Numbers": "<br>A2402<br>A2404<br>A2403",
+                "EMC": "3542, 3543, 3544",
+                "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
+                "Weight/Dimensions": "<br>164 g, 14.67 H x 7.15 W x 0.74 D cm<br>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
-                "Benchmark (SC / MC)": "1583 / 3891",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1585 / 3951",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
+                "CONTUNUE HERE": "",
                 "Original OS": "iOS 14.1",
                 "Maximum OS": "Latest release of iOS"
             },
@@ -1709,7 +1794,7 @@
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
-                "Benchmark (SC / MC)": "1583 / 3891",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1583 / 3891",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -1752,7 +1837,7 @@
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "3 GHz",
-                "Benchmark (SC / MC)": "1583 / 3891",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1583 / 3891",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -1795,7 +1880,7 @@
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
                 "Processor Speed": "2.66 GHz",
-                "Benchmark (SC / MC)": "1581 / 3822",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1581 / 3822",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -1838,7 +1923,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Benchmark (SC / MC)": "1639 / 4420",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1639 / 4420",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -1881,7 +1966,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Benchmark (SC / MC)": "1639 / 4420",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1639 / 4420",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -1924,7 +2009,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Benchmark (SC / MC)": "1639 / 4420",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1639 / 4420",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -1968,7 +2053,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Benchmark (SC / MC)": "1675 / 4614",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1675 / 4614",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -2012,7 +2097,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Benchmark (SC / MC)": "1722 / 4547",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1722 / 4547",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -2055,7 +2140,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Benchmark (SC / MC)": "1728 / 4604",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1728 / 4604",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -2098,7 +2183,7 @@
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
                 "Processor Speed": "3.2 GHz",
-                "Benchmark (SC / MC)": "1728 / 4604",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1728 / 4604",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -2146,7 +2231,7 @@
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
                 "Processor Speed": "3.5 GHz",
-                "Benchmark (SC / MC)": "1874 / 5364",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1874 / 5364",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -2195,7 +2280,7 @@
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
                 "Processor Speed": "3.5 GHz",
-                "Benchmark (SC / MC)": "1874 / 5364",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1874 / 5364",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -2231,8 +2316,7 @@
                 "Connector": "Lightning"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone 15",
         "Type": "iPhone",
         "image": "iphone_15.png",
@@ -2245,7 +2329,7 @@
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
                 "Processor Speed": "3.5 GHz",
-                "Benchmark (SC / MC)": "1874 / 5364",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1874 / 5364",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Manufacturing Process": "5 nm"
 
@@ -2283,8 +2367,7 @@
                 "Connector": "USB-C (2.0)"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone 15 Plus",
         "Type": "iPhone",
         "image": "iphone_15_plus.png",
@@ -2297,7 +2380,7 @@
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
                 "Processor Speed": "3.5 GHz",
-                "Benchmark (SC / MC)": "1874 / 5364",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1874 / 5364",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Manufacturing Process": "5 nm"
             },
@@ -2334,8 +2417,7 @@
                 "Connector": "USB-C (2.0)"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone 15 Pro",
         "Type": "iPhone",
         "image": "iphone_15_pro.png",
@@ -2348,7 +2430,7 @@
             "Processor": {
                 "Processor Name": "Apple A17 Pro",
                 "Processor Speed": "3.78 GHz",
-                "Benchmark (SC / MC)": "2136 / 5997",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "2136 / 5997",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Manufacturing Process": "3 nm"
             },
@@ -2385,8 +2467,7 @@
                 "Connector": "USB-C (3)"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPhone 15 Pro Max",
         "Type": "iPhone",
         "image": "iphone_15_pro_max.png",
@@ -2399,7 +2480,7 @@
             "Processor": {
                 "Processor Name": "Apple A17 Pro",
                 "Processor Speed": "3.78 GHz",
-                "Benchmark (SC / MC)": "2140 / 5825",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "2140 / 5825",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "Manufacturing Process": "3 nm"
             },
