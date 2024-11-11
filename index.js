@@ -4,17 +4,6 @@ const searchWrapper = document.querySelector(".form-group"); // div -> search fo
 let inputBox = document.querySelector("input"); // input
 let linkTag = document.getElementById("a-index"); // link
 
-
-searchFormIndex.addEventListener("keypress", function (event) {
-    if (event.key === "Enter") {
-        event.preventDefault();
-        let webLink = `results.html?search=${searchInputIndex.value}`;
-        linkTag.setAttribute("href", webLink);
-        linkTag.click();
-    }
-});
-
-
 const searchFormNav = document.getElementById("search-form-nav");
 const searchInputNav = document.getElementById("search-input-nav"); // search input
 let linkTagNav = document.getElementById("a-bt"); // link
@@ -28,7 +17,14 @@ searchFormNav.addEventListener("keypress", function (event) {
     }
 });
 
-// searchInput.setAttribute("required", true)
+searchFormIndex.addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        let webLink = `results.html?search=${searchInputIndex.value}`;
+        linkTag.setAttribute("href", webLink);
+        linkTag.click();
+    }
+});
 
 let footer_index = document.createElement("footer");
 footer_index.setAttribute("class", "footer");

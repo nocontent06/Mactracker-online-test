@@ -1754,9 +1754,8 @@
                 "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "CONTUNUE HERE": "",
-                "Original OS": "iOS 14.1",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
@@ -1768,7 +1767,8 @@
             "Display": {
                 "Display Type": "Super Retina XDR OLED Display",
                 "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532x1170"
+                "Display Resolution": "2532 x 1170",
+                "CONTINUE HERE": ""
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
