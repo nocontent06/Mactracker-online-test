@@ -17,7 +17,7 @@ let pattern = new RegExp(
     'i'
 );
 
-let searchResults_heading = document.createElement("h1");
+const searchResults_heading = document.createElement("h1");
 searchResults_heading.id = "search-results-heading";
 searchResults_heading.innerText = "Search Results for " + search;
 searchResultsContainer = document.getElementById("search-results-container");
@@ -238,12 +238,15 @@ const processData = async () => {
 
     if (filtData.length === 0) {
         const notFoundMessage = document.createElement("p");
-        notFoundMessage.innerHTML = "Not Found :("
+        notFoundMessage.innerHTML = "'" + search + "' not found :("
         notFoundMessage.style.textAlign = "center";
         notFoundMessage.style.position = "absolute";
         notFoundMessage.style.fontWeight = "bold";
-        notFoundMessage.style.fontSize = "2rem";
+        notFoundMessage.style.fontSize = "1.8rem";
         searchResults.appendChild(notFoundMessage);
+
+        const notFoundHr = document.createElement("hr");
+        notFoundMessage.appendChild(notFoundHr);
 
         const requestMsg = document.createElement("p");
         requestMsg.innerHTML = "If you want to request a device, please contact me <br> \
@@ -252,7 +255,7 @@ const processData = async () => {
             On Reddit: <a class='linkNotFound' href='https://reddit.com/u/ytnocontent06'>u/ytnocontent06</a>"
         requestMsg.style.textAlign = "center";
         requestMsg.style.fontWeight = "bold";
-        requestMsg.style.fontSize = "1.5rem";
+        requestMsg.style.fontSize = "1rem";
         notFoundMessage.appendChild(requestMsg);
 
         let notFoundFooter = document.createElement("footer");
@@ -324,11 +327,16 @@ const processData = async () => {
 
         searchResults.appendChild(footer);
     }
-    searchResults_heading.style.textAlign = "center";
-    document
-        .body
-        .insertBefore(searchResults_heading, searchResultsContainer);
+
 };
+searchResults_heading.style.textAlign = "center";
+document.body.insertBefore(searchResults_heading, searchResultsContainer);
+
+// Footer
+
+let footer_index = document.createElement("footer");
+footer_index.setAttribute("class", "footer");
+footer_index.innerText = returnString;
 
 processData().catch((error) => {
     console.error(error);
