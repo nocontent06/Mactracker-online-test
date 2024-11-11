@@ -1768,60 +1768,31 @@
                 "Display Type": "Super Retina XDR OLED Display",
                 "Display Size": "6.1-inch widescreen",
                 "Display Resolution": "2532 x 1170",
-                "CONTINUE HERE": ""
+                "Brightness": "625 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2172, A2402, A2403), dual nano-SIM (A2404)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "2 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Power": {
+                "Battery": "Built-in 10.78 Wh lithium-ion",
                 "Capacity": "2815 mAh"
-            }
-        }
-    }, {
-        "Name": "iPhone 12 Pro",
-        "Type": "iPhone",
-        "image": "iphone_12_pro.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Oct 2020",
-                "Discontinued": "Sep 2021",
-                "Model Identifier": "iPhone13,3"
             },
-            "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3 GHz",
-                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1583 / 3891",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "iOS 14.1",
-                "Maximum OS": "Latest release of iOS"
-            },
-            "Memory": {
-                "Built-in Memory": "6 GB LPDDR4X"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
-            },
-            "Display": {
-                "Display Type": "Super Retina XDR OLED Display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532x1170"
-            },
-            "Storage": {
-                "Capacity": "128, 256 or 512 GB"
-            },
-            "Camera": {
-                "Rear Camera": "3 - 12 MP",
-                "Front Camera": "1 - 12 MP"
-            },
-            "Power": {
-                "Capacity": "2815 mAh"
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
             }
         }
     }, {
@@ -1832,17 +1803,89 @@
             "Overview": {
                 "Introduced": "Nov 2020",
                 "Discontinued": "Sep 2022",
-                "Model Identifier": "iPhone13,1"
+                "Model Identifier": "iPhone13,1",
+                "Model Number": "A2176",
+                "Other Model Numbers": "<br>A2398<br>A2399<br>A2400",
+                "EMC": "3539, 3540, 3541",
+                "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
+                "Weight/Dimensions": "<br>135 g, 13.15 H x 6.42 W x 0.74 D cm<br>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3 GHz",
-                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1583 / 3891",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "Processor Speed": "3.0 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1585 / 3951",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "iOS 14.1",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+            },
+            "Memory": {
+                "Built-in Memory": "4 GB LPDDR4X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED display",
+                "Display Size": "5.4-inch widescreen",
+                "Display Resolution": "2340 x 1080",
+                "Brightness": "625 nits (typical), 1200 nits (HDR)"
+            },
+            "Storage": {
+                "Capacity": "64, 128, or 256 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2176, A2398, A2399), dual nano-SIM (A2400)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Power": {
+                "Battery": "Built-in 8.57 Wh lithium-ion",
+                "Capacity": "2227 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
+            }
+        }
+    }, {
+        "Name": "iPhone 12 Pro",
+        "Type": "iPhone",
+        "image": "iphone_12_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2020",
+                "Discontinued": "Sep 2021",
+                "Model Identifier": "iPhone13,3",
+                "Model Number": "A2341",
+                "Other Model Numbers": "<br>A2406<br>A2407<br>A2408",
+                "EMC": "3545, 3546, 3547",
+                "Colors": "Silver, Graphite, Gold, Pacific Blue",
+                "Weight/Dimensions": "<br>189 g, 14.67 H x 7.15 W x 0.74 D cm<br>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple A14 Bionic",
+                "Processor Speed": "3.0 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1583 / 3891",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
+            },
+            "Software": {
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
@@ -1852,19 +1895,34 @@
                 "# of Graphics Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED Display",
-                "Display Size": "5.4-inch widescreen",
-                "Display Resolution": "2340x1080"
+                "Display Type": "Super Retina XDR OLED display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2532 x 1170",
+                "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
-                "Capacity": "64, 128 or 256 GB"
+                "Capacity": "128, 256, or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2341, A2406, A2407) dual nano-SIM (A2408)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP",
+                "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Power": {
-                "Capacity": "2227 mAh"
+                "Battery": "Built-in 10.78 Wh lithium-ion",
+                "Capacity": "2815 mAh"
+            },
+            "Features":{
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
             }
         }
     }, {
@@ -1875,17 +1933,24 @@
             "Overview": {
                 "Introduced": "Nov 2020",
                 "Discontinued": "Sep 2021",
-                "Model Identifier": "iPhone13,4"
+                "Model Identifier": "iPhone13,4",
+                "Model Number": "A2342",
+                "Other Model Numbers": "<br>A2410<br>A2411<br>A2412",
+                "EMC": "3548, 3549, 3550",
+                "Colors": "Silver, Graphite, Gold, Pacific Blue",
+                "Weight/Dimensions": "<br>228 g, 16.08 H x 7.81 W x 0.74 D cm<br>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "2.66 GHz",
-                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1581 / 3822",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "Processor Speed": "3.0 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1605 / 3930",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "iOS 14.1",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2014&type=iOS'>iOS 14.1</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "6 GB LPDDR4X"
@@ -1897,17 +1962,32 @@
             "Display": {
                 "Display Type": "Super Retina XDR OLED display",
                 "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2778x1284"
+                "Display Resolution": "2778 x 1284",
+                "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
-                "Capacity": "128, 256 or 512 GB"
+                "Capacity": "128, 256, or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11a/b/g/n/ac/ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "5G NR, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2342, A2410, A2411), dual nano-SIM (A2412)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
                 "Rear Camera": "3 - 12 MP",
                 "Front Camera": "1 - 12 MP"
             },
             "Power": {
+                "Battery": "Built-in 14.13 Wh lithium-ion",
                 "Capacity": "3687 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
             }
         }
     }, {
@@ -1917,18 +1997,26 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2021",
-                "Discontinued": "---",
-                "Model Identifier": "iPhone14,5"
+                "Discontinued": "--",
+                "Model Identifier": "iPhone14,5",
+                "Model Number": "A2482",
+                "Other Model Numbers": "<br>A2631<br>A2633<br>A2634<br>A2635",
+                "EMC": "3997, 3999, 4032, 4031",
+                "Colors": "(PRODUCT) RED, Starlight, Midnight, Blue, Pink, Green",
+                "Weight/Dimensions": "<br>174 g, 14.67 H x 7.15 W x 0.76 D cm<br>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.2 GHz",
-                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1639 / 4420",
-                "# of Cores": "6 (2 High Performance, 4 High Efficiency)"
+                "Processor Speed": "3.22 GHz",
+                "Continue here": "",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1730 / 4810",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
-                "Original OS": "iOS 15.0",
-                "Maximum OS": "Latest release of iOS"
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2015&type=iOS'>iOS 15</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2017&type=iOS'>Latest release of iOS</a>"
             },
             "Memory": {
                 "Built-in Memory": "4 GB LPDDR4X"
@@ -1938,19 +2026,34 @@
                 "# of Graphics Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED Display",
+                "Display Type": "Super Retina XDR OLED display",
                 "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532x1170"
+                "Display Resolution": "2532 x 1170",
+                "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
-                "Capacity": "128, 256 or 512 GB"
+                "Capacity": "128, 256, or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "nano-SIM and eSIM (A2482, A2631, A2633), dual nano-SIM (A2634)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in stereo speakers",
+                "Ports": "Lightning connector"
             },
             "Camera": {
-                "Rear Camera": "2 - 12 MP",
-                "Front Camera": "1 - 12 MP"
+                "Rear Camera": "2 - 12 MP (Wide and Ultra Wide)",
+                "Front Camera": "1 - 12 MP (TrueDepth)"
             },
             "Power": {
-                "Capacity": "3227 mAh"
+                "Battery": "Built-in lithium-ion",
+                "Capacity": "3240 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68"
             }
         }
     }, {
