@@ -166,7 +166,11 @@
             "Overview": {
                 "Introduced": "Jul 2004",
                 "Discontinued": "Feb 2005 (40) Jun 2005 (20)",
-                "Model Identifier": "iPod_(Click_Wheel)"
+                "Model Identifier": "",
+                "Model Number": "A1059",
+                "EMC": "1995",
+                "Colors": "White",
+                "Weight/Dimensions": "<br>158 g, 10.4 H x 6.1 W x 1.57 D cm (20 GB)<br>176 g, 10.4 H x 6.1 W x 1.85 cm (40 GB)<br>5.6 oz, 4.1 H x 2.4 W x 0.62 D inch (20 GB)<br>6.2 oz, 4.1 H x 2.4 W x 0.73 D inch (40 GB)"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
@@ -182,8 +186,15 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "160 x 128"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"  
+            },
             "Storage": {
                 "Capacity": "20 or 40 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -194,7 +205,11 @@
             "Overview": {
                 "Introduced": "Oct 2004",
                 "Discontinued": "Jun 2005",
-                "Model Identifier": "iPod_U2_Special_Edition"
+                "Model Identifier": "",
+                "Model Number": "A1059",
+                "EMC": "1995",
+                "Colors": "Black with red Click Wheel",
+                "Weight/Dimensions": "<br>158 g, 10.4 H x 6.1 W x 1.57 D cm<br>5.6 oz, 4.1 H x 2.4 W x 0.62 D inch"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
@@ -210,8 +225,15 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "160 x 128"
             },
+            "Connections": {
+                "Ports":"30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"  
+            },
             "Storage": {
                 "Capacity": "20 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -222,7 +244,11 @@
             "Overview": {
                 "Introduced": "Oct 2004 (40, 60) Feb 2005 (30)",
                 "Discontinued": "Feb 2005 (40) Jun 2005 (30, 60)",
-                "Model Identifier": "iPod_photo"
+                "Model Identifier": "",
+                "Model Number": "A1099",
+                "EMC": "2022",
+                "Colors": "White",
+                "Weight/Dimensions": "<br>167 g, 10.4 H x 6.1 W x 1.6 D cm (30 GB)<br>181 g, 10.4 H x 6.1 W x 1.91 D cm (40/60 GB)<br>5.9 oz, 4.1 H x 2.4 W x 0.63 D inch (30 GB)<br>6.4 oz, 4.1 H x 2.4 W x 0.75 D inch (40/60 GB)"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
@@ -238,8 +264,15 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "220 x 176"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "30, 40 or 60 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -250,7 +283,11 @@
             "Overview": {
                 "Introduced": "Jan 2005",
                 "Discontinued": "Sep 2006",
-                "Model Identifier": "iPod_shuffle"
+                "Model Identifier": "",
+                "Model Number": "A1112",
+                "EMC": "2037",
+                "Colors": "White",
+                "Weight/Dimensions": "<br>22 g, 8.4 H x 2.5 W x 0.84 D cm<br>0.78 oz, 3.3 H x 0.98 W x 0.33 D inch"
             },
             "Processor": {
                 "Processor Name": "SigmaTel D-Major STMP3550",
@@ -261,8 +298,15 @@
                 "Original OS": "--",
                 "Maximum OS": "1.1.5"
             },
+            "Connections": {
+                "Ports": "iPod shuffle Dock, USB",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "512 MB or 1 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -273,7 +317,11 @@
             "Overview": {
                 "Introduced": "Feb 2005",
                 "Discontinued": "Sep 2005",
-                "Model Identifier": "iPod_mini_(2nd_Gen)"
+                "Model Identifier": "",
+                "Model Number": "A1051",
+                "EMC": "2044",
+                "Colors": "Silver, Blue, Pink, Green",
+                "Weight/Dimensions": "<br>104 g, 9.1 H x 5.08 W x 1.27 D cm<br>3.6 oz, 3.6 H x 2 W x 0.5 D inch"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
@@ -289,8 +337,15 @@
                 "Display Size": "1.67-inch",
                 "Display Resolution": "138 x 110"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "4 or 6 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -301,7 +356,11 @@
             "Overview": {
                 "Introduced": "Jun 2005",
                 "Discontinued": "Oct 2005",
-                "Model Identifier": "iPod_color_display"
+                "Model Identifier": "",
+                "Model Number": "A1099 (color display)",
+                "EMC": "2022",
+                "Colors": "White",
+                "Weight/Dimensions": "<br>167 g, 10.4 H x 6.1 W x 1.6 D cm (20 GB)<br>181 g, 10.4 H x 6.1 W x 1.91 D cm (60 GB)<br>5.9 oz, 4.1 H x 2.4 H x 0.63 D inch (20 GB)<br>6.4 oz, 4.1 H x 2.4 H x 0.75 D inch (60 GB)"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
@@ -317,19 +376,30 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "220 x 176"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"  
+            },
             "Storage": {
                 "Capacity": "20 or 60 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
-        "Name": "iPod U2 Special Edition (color display)",
+        "Name": "iPod U2 Special Edition<br>(color display)",
         "Type": "iPod",
         "image": "ipod_u2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2005",
                 "Discontinued": "Oct 2005",
-                "Model Identifier": "iPod_U2_Special_Edition_(color_display)"
+                "Model Identifier": "",
+                "Model Number": "A1099 (U2 color display)",
+                "EMC": "2022",
+                "Colors": "Black with red Click Wheel",
+                "Weight/Dimensions": "<br>167 g, 10.4 H x 6.1 W x 1.6 D cm<br>5.9 oz, 4.1 H x 2.4 H x 0.63 D inch"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
@@ -345,8 +415,15 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "220 x 176"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"  
+            },
             "Storage": {
                 "Capacity": "20 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -357,7 +434,11 @@
             "Overview": {
                 "Introduced": "Sep 2005 (2, 4) Feb 2006 (1)",
                 "Discontinued": "Sep 2006",
-                "Model Identifier": "iPod_nano"
+                "Model Identifier": "",
+                "Model Number": "A1137",
+                "EMC": "2066",
+                "Colors": "White, Black",
+                "Weight/Dimensions": "<br>42.5 g, 8.89 H x 4.06 W x 0.69 D cm<br>1.5 oz, 3.5 H x 1.6 W x 0.27 D inch"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5021C (dual ARM 7TDMI)",
@@ -373,8 +454,15 @@
                 "Display Size": "1.5-inch",
                 "Display Resolution": "176 x 132"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "1, 2 or 4 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -385,7 +473,11 @@
             "Overview": {
                 "Introduced": "Oct 2005",
                 "Discontinued": "Sep 2006",
-                "Model Identifier": "iPod_(5th_Gen)"
+                "Model Identifier": "",
+                "Model Number": "A1136",
+                "EMC": "2065",
+                "Colors": "White, Black",
+                "Weight/Dimensions": "<br>136 g, 10.35 H x 6.18 W x 1.1 D cm (30 GB)<br>157 g, 10.35 H x 6.18 W x 1.4 D cm (60 GB)<br>4.8 oz, 4.1 H x 2.4 W x 0.43 D inch (30 GB)<br>5.5 oz, 4.1 H x 2.4 W x 0.55 D inch (60 GB)"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5021C (dual ARM 7TDMI)",
@@ -401,8 +493,15 @@
                 "Display Size": "2.5-inch",
                 "Display Resolution": "320 x 240"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out":"3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "30 or 60 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -413,7 +512,11 @@
             "Overview": {
                 "Introduced": "Jun 2006",
                 "Discontinued": "Sep 2006",
-                "Model Identifier": "iPod_(5th_Gen_U2)"
+                "Model Identifier": "",
+                "Model Number": "A1136 (U2)",
+                "EMC": "2065",
+                "Colors": "Black with red Click Wheel",
+                "Weight/Dimensions": "<br>136 g, 10.35 H x 6.18 W x 1.1 D cm<br>4.8 oz, 4.1 H x 2.4 W x 0.43 D inch"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5021C (dual ARM 7TDMI)",
@@ -429,8 +532,15 @@
                 "Display Size": "2.5-inch",
                 "Display Resolution": "320 x 240"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out":"3.5 mm stereo headphone jack"  
+            },
             "Storage": {
                 "Capacity": "30 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
@@ -441,7 +551,11 @@
             "Overview": {
                 "Introduced": "Sep 2006",
                 "Discontinued": "Sep 2007",
-                "Model Identifier": "iPod_shuffle_(2nd_Gen)"
+                "Model Identifier": "",
+                "Model Number": "A1204",
+                "EMC": "2125",
+                "Colors": "Silver, Blue, Pink, Green, Orange",
+                "Weight/Dimensions": "<br>15.5 g, 2.73 H x 4.12 W x 1.05 D cm<br>0.55 oz, 1.07 H x 1.62 W x 0.41 D inch"
             },
             "Processor": {
                 "Processor Name": "Samsung ARM-based SoC"
@@ -450,8 +564,14 @@
                 "Original OS": "--",
                 "Maximum OS": "1.0.4"
             },
+            "Connections": {
+                "Audio Out":"3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "1 GB"
+            },
+            "Power": {
+                "Battery":"Built-in lithium polymer"
             }
         }
     }, {
@@ -462,7 +582,11 @@
             "Overview": {
                 "Introduced": "Sep 2006",
                 "Discontinued": "Sep 2007",
-                "Model Identifier": "iPod_nano_(2nd_Gen)"
+                "Model Identifier": "",
+                "Model Number": "A1199",
+                "EMC": "2115",
+                "Colors": "Silver, Green, Blue, Pink, Red, Black",
+                "Weight/Dimensions": "<br>40 g, 8.89 H x 4.06 W x 0.66 D cm<br>1.41 oz, 3.5 H x 1.6 W x 0.26 D inch"
             },
             "Processor": {
                 "Processor Name": "Samsung ARM-based system-on-a-chip"
@@ -476,8 +600,15 @@
                 "Display Size": "1.5-inch",
                 "Display Resolution": "176 x 132"
             },
+            "Connections": {
+                "Ports":"30-pin dock connector",
+                "Audio Out":"3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "2, 4 or 8 GB"
+            },
+            "Power": {
+                "Battery":"Built-in lithium ion"
             }
         }
     }, {
@@ -488,7 +619,11 @@
             "Overview": {
                 "Introduced": "Sep 2006",
                 "Discontinued": "Sep 2007",
-                "Model Identifier": "iPod_(5th_Gen_Late_2006)"
+                "Model Identifier": "",
+                "Model Number": "A1136 (Late 2006)",
+                "EMC": "2065",
+                "Colors": "White, Black",
+                "Weight/Dimensions": "<br>136 g, 10.35 H x 6.18 W x 1.1 D cm (30 GB)<br>157 g, 10.35 H x 6.18 W x 1.4 D cm (80 GB)<br>4.8 oz, 4.1 H x 2.4 W x 0.43 D inch (30 GB)<br>5.5 oz, 4.1 H x 2.4 W x 0.55 D inch (80 GB)"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5021C (dual ARM 7TDMI)",
@@ -504,11 +639,19 @@
                 "Display Size": "2.5-inch",
                 "Display Resolution": "320 x 240"
             },
+            "Connections": {
+                "Ports":"30-pin dock connector",
+                "Audio Out":"3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "30 or 80 GB"
+            },
+            "Power": {
+                "Battery":"Built-in lithium ion"
             }
         }
     }, {
+        "Continue Here": "",
         "Name": "iPod (5th Gen U2)",
         "Type": "iPod",
         "image": "ipod_u2_5g.png",
@@ -932,8 +1075,7 @@
                 "Capacity": "8 or 16 GB"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod touch (4th Gen)",
         "Type": "iPod",
         "image": "ipod_touch_4g.png",
@@ -1037,8 +1179,7 @@
                 "Capacity": "1030 mAh"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod touch (6th Gen)",
         "Type": "iPod",
         "image": "ipod_touch_6g.png",
@@ -1077,8 +1218,7 @@
                 "Capacity": "1043 mAh"
             }
         }
-    },
-    {
+    }, {
         "Name": "iPod touch (7th Gen)",
         "Type": "iPod",
         "image": "ipod_touch_7g.png",
