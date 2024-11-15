@@ -7,7 +7,11 @@
             "Overview": {
                 "Introduced": "Oct 2001 (5) Mar 2002 (10)",
                 "Discontinued": "Jul 2002 (10) Apr 2003 (5)",
-                "Model Identifier": "iPod_with_scroll_wheel"
+                "Model Identifier": "",
+                "Model Number": "M8541",
+                "EMC": "1910",
+                "Colors": "White",
+                "Weight/Dimensions": "<br>184.2 g, 10.16 H x 6.18 W x 1.99 D cm<br>6.5 oz, 4.02 H x 2.43 W x 0.78 D inch"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5002 (dual ARM 7TDMI)",
@@ -23,10 +27,15 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "160 x 128"
             },
+            "Connections": {
+                "Ports": "FireWire",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "5 or 10 GB"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in lithium polymer",
                 "Capacity": "1200 mAh"
             }
         }
@@ -38,7 +47,11 @@
             "Overview": {
                 "Introduced": "Jul 2002",
                 "Discontinued": "Apr 2003",
-                "Model Identifier": "iPod_with_touch_wheel"
+                "Model Identifier": "",
+                "Model Number": "A1019",
+                "EMC": "1942",
+                "Colors": "White",
+                "Weight/Dimensions": "<br>185 g, 10.16 H x 6.18 W x 1.89 D cm (10 GB)<br>204 g, 10.16 H x 6.18 W x 2.13 D cm (20 GB)<br>6.5 oz, 4.02 H x 2.43 W x 0.72 D inch (10 GB)<br>7.2 oz, 4.02 H x 2.43 W x 0.84 D inch (20 GB)"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5002 (dual ARM 7TDMI)",
@@ -54,10 +67,15 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "160 x 128"
             },
+            "Connections": {
+                "Ports": "FireWire",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "10 or 20 GB"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in lithium polymer",
                 "Capacity": "1200 mAh"
             }
         }
@@ -69,7 +87,11 @@
             "Overview": {
                 "Introduced": "Apr 2003 (10, 15, 30) Sep 2003 (20, 40)",
                 "Discontinued": "Sep 2003 (15, 30) Jul 2004 (10, 20, 40)",
-                "Model Identifier": "iPod_(Dock_Connector)"
+                "Model Identifier": "",
+                "Model Number": "A1040",
+                "EMC": "1961",
+                "Colors": "White",
+                "Weight/Dimensions": "<br>158 g, 10.4 H x 6.1 W x 1.57 D cm (10,15,20 GB)<br>176 g, 10.4 H x 6.1 W x 1.85 cm (30,40 GB)<br>5.6 oz, 4.1 H x 2.4 W x 0.62 D inch (10,15,20 GB)<br>6.2 oz, 4.1 H x 2.4 W x 0.73 D inch (30,40 GB)"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5002 (dual ARM 7TDMI)",
@@ -85,10 +107,15 @@
                 "Display Size": "2-inch",
                 "Display Resolution": "160 x 128"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "10, 15, 20, 30 or 40 GB"
             },
-            "Battery": {
+            "Power": {
+                "Battery": "Built-in lithium ion",
                 "Capacity": "630 mAh"
             }
         }
@@ -100,7 +127,11 @@
             "Overview": {
                 "Introduced": "Jan 2004",
                 "Discontinued": "Feb 2005",
-                "Model Identifier": "iPod_mini"
+                "Model Identifier": "",
+                "Model Number": "A1051",
+                "EMC": "2044",
+                "Colors":"Silver, Gold, Blue, Pink, Green",
+                "Weight/Dimensions": "<br>104 g, 9.1 H x 5.08 W x 1.27 D cm<br>3.6 oz, 3.6 H x 2 W x 0.5 D inch"
             },
             "Processor": {
                 "Processor Name": "PortalPlayer PP5020 (dual ARM 7TDMI)",
@@ -116,8 +147,15 @@
                 "Display Size": "1.67-inch",
                 "Display Resolution": "138 x 110"
             },
+            "Connections": {
+                "Ports": "30-pin dock connector",
+                "Audio Out": "3.5 mm stereo headphone jack"
+            },
             "Storage": {
                 "Capacity": "4 GB"
+            },
+            "Power": {
+                "Battery": "Built-in lithium ion"
             }
         }
     }, {
