@@ -107,9 +107,9 @@ async function fetchData() {
         featuredContainer.appendChild(featuredBox);
 
         featuredBox.addEventListener("click", function () {
-            location.href = `detailed.html?modelIdentifier=${item
+            location.href = `detailed.html?modelNumber=${item
                 .Info
-                .Overview["Model Identifier"]}&type=${item
+                .Overview["Model Number"]}&type=${item
                 .Type}`;
         });
     }
