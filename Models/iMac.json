@@ -2779,5 +2779,115 @@
                 "Camera": "1080p FaceTime HD camera"
             }
         }
+    }, {
+    "Name": "iMac M4 2-Ports",
+    "Type": "iMac",
+    "image": "imac_24inch.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "October 2024",
+            "Discontinued": "N/A",
+            "Model Identifier": "iMac16,2",
+            "Model Number": "A3247",
+            "EMC": "8531",
+            "Color": "Blue, Green, Purple, Pink, Orange, Yellow",
+            "Weight/Dimensions": "<br>4.4 kg, 45.97 H x 54.61 W x 14.73 D cm<br>9.75 lbs, 18.1 H x 21.5 W x 5.8 D inch"
+        },
+        "Processor": {
+            "Processor Name": "Apple M4",
+            "Processor Speed": "4.4Ghz",
+            "# of Cores": "8",
+            "Architecture": "ARM64",
+            "Manufacturing Process": "3 nm"
+        },
+        "Storage": {
+            "HDD": "256GB, 512GB, 1TB"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 15 (Sequoia)",
+            "Maximum OS": "Latest MacOS"
+        },
+        "Memory": {
+            "Maximum Memory": "24 GB",
+            "# of Memory Slots": "0",
+            "Supported RAM": "16Gb, 24Gb"
+        },
+        "Display": {
+            "Display Type": "24-inch Retina 4.5K Display",
+            "Brightness": "500 nits",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "4480 x 2520"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple M4 GPU 8Core",
+            "Graphics Memory ": "Up to 16Gb (Depends on Model)"
+        },
+        "Connections": {
+            "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+            "Bluetooth": "5.3",
+            "Ethernet": "Optional",
+            "USB": "N/A",
+            "Thunderbolt": "2 - Thunderbolt 3 (Up to 40Gbps)"
+            "Display": "1 - Built-in",
+            "Audio In": "3 - Built-in microphones",
+            "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
+            "Camera": "1 - 12 MP 1080p Facetime HD Center Stage Camera"
+            }
+        }
+    }, {
+    "Name": "iMac M4 4-Ports",
+    "Type": "iMac",
+    "image": "imac_24inch.png",
+    "Info": {
+        "Overview": {
+            "Introduced": "October 2024",
+            "Discontinued": "N/A",
+            "Model Identifier": "iMac16,3",
+            "Model Number": "A3137",
+            "EMC": "8532",
+            "Color": "Blue, Green, Purple, Pink, Orange, Yellow",
+            "Weight/Dimensions": "<br>4.4 kg, 45.97 H x 54.61 W x 14.73 D cm<br>9.75 lbs, 18.1 H x 21.5 W x 5.8 D inch"
+        },
+        "Processor": {
+            "Processor Name": "Apple M4",
+            "Processor Speed": "4.4Ghz",
+            "# of Cores": "10",
+            "Architecture": "ARM64",
+            "Manufacturing Process": "3 nm"
+        },
+        "Storage": {
+            "HDD": "256GB, 512GB, 1TB"
+        },
+        "Software": {
+            "Original OS": "Mac OS X 15 (Sequoia)",
+            "Maximum OS": "Latest MacOS"
+        },
+        "Memory": {
+            "Maximum Memory": "32 GB",
+            "# of Memory Slots": "0",
+            "Supported RAM": "16Gb, 24Gb, 32Gb"
+        },
+        "Display": {
+            "Display Type": "24-inch Retina 4.5K Display",
+            "Brightness": "500 nits",
+            "Aspect Ratio": "16:10",
+            "Native Resolution": "4480 x 2520"
+        },
+        "Graphics": {
+            "Graphics Chip": "Apple M4 GPU 10Core",
+            "Graphics Memory ": "Up to 16Gb (Depends on Model)"
+        },
+        "Connections": {
+            "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+            "Bluetooth": "5.3",
+            "Ethernet": "Built-in",
+            "USB": "N/A",
+            "Thunderbolt": "4 - Thunderbolt 3 (Up to 40Gbps)"
+            "Display": "1 - Built-in",
+            "Audio In": "3 - Built-in microphones",
+            "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
+            "Camera": "1 - 12 MP 1080p Facetime HD Center Stage Camera"
+            }
+        }    
     }
 ]
