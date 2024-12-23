@@ -2675,7 +2675,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2023",
-                "Discontinued": "--",
+                "Discontinued": "Oct 2024",
                 "Model Identifier": "Mac15,4",
                 "Model Number": "A2874",
                 "EMC": "8207",
@@ -2730,7 +2730,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2023",
-                "Discontinued": "Present",
+                "Discontinued": "Oct 2024",
                 "Model Identifier": "Mac15,5",
                 "Model Number": "A2873",
                 "EMC": "8206",
@@ -2746,15 +2746,14 @@
                 "Manufacturing Process": "3 nm"
             },
             "Storage": {
-                "SSD":"256, 512 GB, 1 or 2 TB"
+                "SSD": "256, 512 GB, 1 or 2 TB"
             },
             "Software": {
                 "Original OS": "macOS 13.5 (Ventura)",
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Built-in Memory": "8, 16, 24 GB",
-                "Maximum Memory": "24 GB",
+                "Built-in Memory": "8, 16 or 24 GB",
                 "Supported RAM": "6400 MT/s LPDDR5"
             },
             "Display": {
@@ -2780,13 +2779,13 @@
             }
         }
     }, {
-    "Name": "iMac M4 2-Ports",
+    "Name": "iMac (24-inch, M4, 2024)<br>2-Ports",
     "Type": "iMac",
     "image": "imac_24inch.png",
     "Info": {
         "Overview": {
             "Introduced": "October 2024",
-            "Discontinued": "N/A",
+            "Discontinued": "--",
             "Model Identifier": "iMac16,2",
             "Model Number": "A3247",
             "EMC": "8531",
@@ -2795,22 +2794,21 @@
         },
         "Processor": {
             "Processor Name": "Apple M4",
-            "Processor Speed": "4.4Ghz",
-            "# of Cores": "8",
-            "Architecture": "ARM64",
+            "Processor Speed": "4.4 GHz (high performance) and 2.9 GHz (high efficiency)",
+            "# of Cores": "8 or 10",
+            "# of Neural Engine Cores": "16",
             "Manufacturing Process": "3 nm"
         },
         "Storage": {
-            "HDD": "256GB, 512GB, 1TB"
+            "SSD": "256, 512 GB or 1 TB"
         },
         "Software": {
-            "Original OS": "Mac OS X 15 (Sequoia)",
-            "Maximum OS": "Latest MacOS"
+            "Original OS": "macOS 15.0 (Sequoia)",
+            "Maximum OS": "Latest release of macOS"
         },
         "Memory": {
-            "Maximum Memory": "24 GB",
-            "# of Memory Slots": "0",
-            "Supported RAM": "16Gb, 24Gb"
+            "Built-in Memory": "16, 24 or 32 GB",
+            "Supported RAM": "7500 MT/s LPDDR5X"
         },
         "Display": {
             "Display Type": "24-inch Retina 4.5K Display",
@@ -2819,15 +2817,16 @@
             "Native Resolution": "4480 x 2520"
         },
         "Graphics": {
-            "Graphics Chip": "Apple M4 GPU 8Core",
-            "Graphics Memory ": "Up to 16Gb (Depends on Model)"
+            "Graphics Chip": "Apple GPU",
+            "# of Graphics Cores": "8",
+            "Graphics Memory ": "shared through UMA (Unified Memory Architecture)"
         },
         "Connections": {
             "Wi-Fi": "802.11ax (Wi-Fi 6E)",
             "Bluetooth": "5.3",
             "Ethernet": "Optional",
             "USB": "N/A",
-            "Thunderbolt": "2 - Thunderbolt 3 (Up to 40Gbps)"
+            "Thunderbolt": "2 - Thunderbolt 4 (Up to 40Gbps)",
             "Display": "1 - Built-in",
             "Audio In": "3 - Built-in microphones",
             "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
@@ -2835,7 +2834,7 @@
             }
         }
     }, {
-    "Name": "iMac M4 4-Ports",
+    "Name": "iMac (24-inch, M4, 2024)<br>4-Ports",
     "Type": "iMac",
     "image": "imac_24inch.png",
     "Info": {
@@ -2850,22 +2849,21 @@
         },
         "Processor": {
             "Processor Name": "Apple M4",
-            "Processor Speed": "4.4Ghz",
-            "# of Cores": "10",
-            "Architecture": "ARM64",
+            "Processor Speed": "4.4 GHz (high performance) and 2.9 GHz (high efficiency)",
+            "# of Cores": "8 or 10",
+            "# of Neural Engine Cores": "16",
             "Manufacturing Process": "3 nm"
         },
         "Storage": {
-            "HDD": "256GB, 512GB, 1TB"
+            "SSD": "256, 512 GB or 1 TB"
         },
         "Software": {
-            "Original OS": "Mac OS X 15 (Sequoia)",
-            "Maximum OS": "Latest MacOS"
+            "Original OS": "macOS 15.0 (Sequoia)",
+            "Maximum OS": "Latest release of macOS"
         },
         "Memory": {
-            "Maximum Memory": "32 GB",
-            "# of Memory Slots": "0",
-            "Supported RAM": "16Gb, 24Gb, 32Gb"
+            "Built-in Memory": "16, 24 or 32 GB",
+            "Supported RAM": "7500 MT/s LPDDR5X"
         },
         "Display": {
             "Display Type": "24-inch Retina 4.5K Display",
@@ -2874,15 +2872,16 @@
             "Native Resolution": "4480 x 2520"
         },
         "Graphics": {
-            "Graphics Chip": "Apple M4 GPU 10Core",
-            "Graphics Memory ": "Up to 16Gb (Depends on Model)"
+            "Graphics Chip": "Apple GPU",
+            "# of Graphics Cores": "10",
+            "Graphics Memory ": "shared through UMA (Unified Memory Architecture)"
         },
         "Connections": {
             "Wi-Fi": "802.11ax (Wi-Fi 6E)",
             "Bluetooth": "5.3",
-            "Ethernet": "Built-in",
+            "Ethernet": "1 - 1 GBit/s RJ45 on Power Adapter",
             "USB": "N/A",
-            "Thunderbolt": "4 - Thunderbolt 3 (Up to 40Gbps)"
+            "Thunderbolt": "4 - Thunderbolt 4 (Up to 40Gbps)",
             "Display": "1 - Built-in",
             "Audio In": "3 - Built-in microphones",
             "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",

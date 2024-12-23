@@ -431,7 +431,7 @@
               },
               "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "Graphics Cores": "60 or 76"
+                "# of Graphics Cores": "60 or 76"
               },
               "Connections": {
                 "Wi-Fi": "802.11ax (Wi-Fi 6E)",
