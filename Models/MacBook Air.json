@@ -7,12 +7,18 @@
             "Overview": {
                 "Introduced": "Jan 2008",
                 "Discontinued": "Oct 2008",
-                "Model Identifier": "MacBookAir1,1"
+                "Model Identifier": "MacBookAir1,1",
+                "Model Number": "A1237",
+                "EMC": "2142",
+                "Weight/Dimensions": "<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (P7500, P7700) ('Merom')",
                 "Processor Speed": "1.6 or 1.8 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "65 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.1 (Leopard)",
@@ -23,6 +29,10 @@
                 "Maximum Memory": "2 GB",
                 "Supported RAM": "667 MHz DDR2 SDRAM"
             },
+            "Storage": {
+                "HDD": "80 GB (4200 RPM)",
+                "SSD": "64 GB"
+            },
             "Graphics": {
                 "Graphics Chip": "Intel GMA X3100",
                 "Graphics Memory": "144 - 160 MB DDR2 (shared)"
@@ -31,6 +41,15 @@
                 "Display Type": "13.3-inch glossy widescreen",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1280 x 800"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "1 - 2.0",
+                "Display": "1 - Micro-DVI",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
+                "Power": "MagSafe 1"
             }
         }
     }, {
@@ -41,12 +60,18 @@
             "Overview": {
                 "Introduced": "Oct 2008",
                 "Discontinued": "Jun 2009",
-                "Model Identifier": "MacBookAir2,1 (2008)"
+                "Model Identifier": "MacBookAir2,1",
+                "Model Number": "A1304",
+                "EMC": "2253",
+                "Weight/Dimensions": "<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (L9300, L9400) ('Penryn')",
                 "Processor Speed": "1.6 or 1.86 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "45 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.5 (Leopard)",
@@ -56,6 +81,10 @@
                 "Maximum Memory": "2 GB",
                 "Supported RAM": "1066 MHz DDR3 SDRAM"
             },
+            "Storage": {
+                "HDD": "120 GB (4200 RPM)",
+                "SSD": "128 GB"
+            },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 9400M",
                 "Graphics Memory": "256 MB DDR3 (shared)"
@@ -64,22 +93,37 @@
                 "Display Type": "13.3-inch glossy widescreen",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1280 x 800"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "1 - 2.0",
+                "Display": "1 - Mini DisplayPort",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
+                "Power": "MagSafe 1"
             }
         }
     }, {
-        "Name": "MacBook Air (Mid 2008)",
+        "Name": "MacBook Air (Mid 2009)",
         "Type": "MacBook Air",
         "image": "macbook_air.png",
         "Info": {
             "Overview": {
-                "Introduced": "Oct 2008",
-                "Discontinued": "Jun 2009",
-                "Model Identifier": "MacBookAir2,1 (2009)"
+                "Introduced": "Oct 2009",
+                "Discontinued": "Jun 2010",
+                "Model Identifier": "MacBookAir2,1",
+                "Model Number": "A1304 (2009)",
+                "EMC": "2334",
+                "Weight/Dimensions":"<br>1.36 kg, 0.4 - 1.94 H x 32.4 x 22.7 cm<br>3 lbs., 0.16 - 0.76 H x 12.74 W x 8.9 D inches"
             },
             "Processor": {
                 "Processor Name": "Intel Core 2 Duo (L9400, L9600) ('Penryn')",
                 "Processor Speed": "1.86 or 2.13 GHz",
-                "Number of Cores": "2"
+                "# of Cores": "2",
+                "# of Threads": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "45 nm"
             },
             "Software": {
                 "Original OS": "Mac OS X 10.5.6 (Leopard)",
@@ -90,6 +134,10 @@
                 "Maximum Memory": "2 GB",
                 "Supported RAM": "1066 MHz DDR3 SDRAM"
             },
+            "Storage": {
+                "HDD": "120 GB (4200 RPM)",
+                "SSD": "128 GB"
+            },
             "Graphics": {
                 "Graphics Chip": "NVIDIA GeForce 9400M",
                 "Graphics Memory": "256 MB DDR3 (shared)"
@@ -98,6 +146,15 @@
                 "Display Type": "13.3-inch glossy widescreen",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1280 x 800"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11n (Wi-Fi 4)",
+                "Bluetooth": "Bluetooth 2.1 + EDR",
+                "USB": "1 - 2.0",
+                "Display": "1 - Mini DisplayPort",
+                "Audio In": "1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 1 - Built-in speaker",
+                "Power": "MagSafe 1"
             }
         }
     }, {
