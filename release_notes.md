@@ -127,6 +127,7 @@ Minor release. Updated meta Tags.
 - Alongside of some small bug fixes and code improvements I introduced Featured Models
 - Featured Models are Models, that are currently up-2-date or have been recently viewed a lot :)
 
+
 ## v1.4
 
 - Overall new design
@@ -136,12 +137,138 @@ Minor release. Updated meta Tags.
 - Search algorithm updated
 - Latest OS Updates (from Ventura to Sonoma)
 
+### v1.4 Beta 1 (Build 1E1a)
 
-## v1.4.1
+- Refreshed Design (Commit 1aef775)
+- Bug fixing (Commit 65e5f37)
+- Updated main.js (Commit 1988826)
 
-    - Added MacBook Air 13 and 15-inch M3 Models
-    - Updated the search results text so it shows how many results there are
-    - Updated the footer
+### v1.4 Beta 2 (Build 1E1b)
+
+- Added iMac M3 (Commit ab13688)
+
+### v1.4 Beta 3 (Build 1E1c)
+
+- Made some changes. Added Apple Pencil. Added iOS 17 (not properly yet). Changed latest macOS Version to Sonoma (Commit 367b63a)
+
+### v1.4 Beta 3 Build 2 (Build 1E1c (2))
+
+- Fixed some small bugs with Pencils (Commit 6672740)
+
+### v1.4 Beta 3 Build 3 (Build 1E1c (3)) 
+ 
+- Updated iOS 17 up to 17.3.1 (Commit 4f589b0)
+- Updated version build (Commit d8955e6)
+
+## v1.4.1 (Build 1E2)
+
+- Added MacBook Air 13 and 15 inch M3 + Count of Search results (Commit 1537667)
+
+## v1.4.2 (Build 1E3)
+
+- Updated Apple TV to match all Infos. Started with iMacs (Commit d0c6195)
+- Added some more iMac details and fixed some issues with these (Commit cb1b648)
+- Updated all Intel iMacs to cover all the latest specs. Updated the search index to match by Model Number (Commit ab346eb)
+- Updated all M - iMacs (Commit b22c4be)
+- added classes to detailed items, updated Version info, updated iOS (Commit 383b149)
+- Updated iPads up to iPad 4th Gen (Commit 2711f2d)
+- Added more iPads (Commit 318d2aa)
+- Added all iPads (Commit 460f59a)
+- Updated iPads. Added the new iPad Air M2... image for 13-inch missing (Commit dc5e973)
+- Added iPad Pro M4 11-inch WiFi (Commit f99ccd8)
+- Finished iPads (Commit 97c8925)
+- Commit 9 (Commit a947924)
+- Updated Mac Minis up to Mid 2007 (Commit 9adf72a)
+- Updated iMacs, iOS, iPads (added iPad Mini 7) iPhone OS (Commit a381184)
+- Updated some iPhones up to iPhone 5 China, started iPhone 5c GSM & CDMA (Commit d0a224b)
+- Updated up to iPhone 6 (Commit a8fb033)
+
+### Build 1E3m 
+
+- Updated iPhones up to iPhone 7 (Commit e1ccff0)
+
+### Build 1E3n
+
+- Updated iPhone 7 Plus a bit
+- Updated Version for the iPhone 7 Plus commit (Commit 259caf9)
+
+### Build 1E3o
+
+- Updated iPhones up to XR (continue with 11) (Commit 4c4ba9f)
+- I think imd oing thi stuff right (by @apersonig) (Commit 53d59f5)
+
+### Build 1E3p
+
+- Updated up to iPhone 11 PM... parts of iPhone 12 done (Commit 5b6424b)
+- (by @apersonig) (Commit 95f7633)
+
+### Build 1E3q
+
+- Fixed some bugs and updated half of iPhone 12 (Commit 96788c6)
+- (by @apersonig) (Commit 4eab3ed)
+
+### Build 1E3r
+
+- Updated iPhones up to 12 PM continue with 13 (Commit 378f8fa)
+- (by @apersonig) (Commit 997c709)
+- Updated up to iPhone SE 3. Continue with iPhone 14 (Commit b85accb)
+- (by @apersonig) (Commit d8a6423)
+
+### Build 1E3s
+
+- Updated iPhones up to iPhone 15 Pro Max, added iPhone Template (Commit 89e1a0b)
+- (by @apersonig) (Commit db13a44)
+
+### Build 1E3t
+
+- Finished iPhones (Commit 02d5ce1)
+- (by @apersonig) (Commit 575ec14)
+- Added iPhone 16 pics and fixed some bugs (Commit 4710701)
+- (by @apersonig) (Commit 6abf2bc)
+- mac mini (by @apersonig) (Commit 5e27b17)
+- Merge branch 'nocontent06:main' into main (by @apersonig) (Commit 5d14145)
+
+### Build 1E3u
+
+- Updated iPods up to Mini 1 (Commit 03a39dc)
+
+### Build 1E3v
+
+- Updated iPods up to 5th Gen L2006 (continue with 5th Gen L2006 U2) (Commit 22f0e08)
+
+### Build 1E3w
+
+- Updated all iPods (Commit cc93415)
+- Merge pull request #5 from apersonig/main (Commit 681069d)
+    - Mac mini and iMac update
+
+### Build 1E3x
+
+- Updated Mac Minis after Merge (Commit a03147e)
+
+### Build 1E3y
+
+- Updated all Mac Pros (Commit 6de83b3)
+- Updated some typos and the Mac Studio (Commit 8bdfc92)
+
+### Build 1E3z
+
+- Updated until MBA 2009 (cont. w. 2010 11-inch) (Commit e756168)
+
+### Build 1E3aa
+
+- Updated all MacBook Airs (Commit 9276a6c)
+
+### Build 1E3ab
+
+
+
+
+
+
+
+
+
 
 
 
