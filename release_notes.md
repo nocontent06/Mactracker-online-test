@@ -262,7 +262,13 @@ Minor release. Updated meta Tags.
 ### Build 1E3ab
 
 - Added new Release Notes Tab at index page. Updated Release Notes (Commit fb70285)
-- Updated Release Notes for 1E3ab ()
+- Updated Release Notes for 1E3ab (Commit 5496756)
+
+### Build 1E3ac
+
+- Fixed a bug where models weren't loaded (Commit f122110)
+- Added some new pics to README (Commit fde30c2)
+
 
 
 
