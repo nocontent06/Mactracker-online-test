@@ -23,7 +23,7 @@ Now :) You can access it at https://mactracker.online
 ## Some Links
 
 - [Discord Server](https://discord.gg/hyTP8ynDAz)
-- Discord Username: appleguy06 (Old: AppleGuy#7469)
+- Discord Username: i_progeny
 
 ## Some Pics?
 

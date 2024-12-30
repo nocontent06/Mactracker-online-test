@@ -293,7 +293,6 @@ const processData = async () => {
             // Create image element
             let image = document.createElement("img");
             image.src = `img/${item.image}`;
-            image.id = `result-image-${item.Info.Overview["Model Number"].replace(/,/g, "")}`;
             image.classList.add("result_img");
             result.prepend(image);
 
