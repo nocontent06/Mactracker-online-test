@@ -1,5 +1,5 @@
 let version = "1.4.2";
-let build = "1E3y";
-let commit = "25 (2024-11-18)"
+let build = "1E3aa";
+let commit = "27 (2024-12-30)";
 
-let returnString = `Version ${version} (Build ${build}) \n Commit: ${commit} \n ©2023-2024 MangoCoding-Inc. (Felix) \nAll rights reserved.`;
+let returnString = `Version ${version} (Build ${build}) \n Commit: ${commit} \n ©2023-2025 MangoCoding-Inc. (Felix) \nAll rights reserved.`;
