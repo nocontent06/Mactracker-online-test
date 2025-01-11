@@ -1405,7 +1405,7 @@
             },
             "Processor": {
                 "Name": "Intel Core i7 (2760QM, 2860QM) ('Sandy Bridge')",
-                "Speed": "2.4 GHz or 2.5 GHz",
+                "Speed": "2.4 or 2.5 GHz",
                 "# of Cores": "4",
                 "# of Threads": "8",
                 "Architecture": "64-bit",
@@ -1465,8 +1465,8 @@
                 "Weight/Dimensions": "<br>2.06 kg, 2.41 H x 32.5 W x 22.7 D cm<br>4.5 lbs, 0.95 H x 12.78 W x 8.94 D inch"
             },
             "Processor": {
-                "Name": "Intel Core i5 (3210M) ('Ivy Bridge'), Intel Core i7 (3520M) ('Ivy Bridge')",
-                "Speed": "2.5 GHz, 2.9 GHz",
+                "Name": "Intel Core i5 (3210M) or i7 (3520M) ('Ivy Bridge')",
+                "Speed": "2.5, 2.9 GHz",
                 "# of Cores": "2",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -1527,7 +1527,7 @@
             },
             "Processor": {
                 "Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
-                "Speed": "2.3 GHz, 2.6 GHz, 2.7 GHz",
+                "Speed": "2.3, 2.6, 2.7 GHz",
                 "# of Cores": "4",
                 "# of Threads": "8",
                 "Architecture": "64-bit",
@@ -1581,31 +1581,57 @@
             "Overview": {
                 "Introduced": "Jun 2012",
                 "Discontinued": "Feb 2013",
-                "Model Identifier": "MacBookPro10,1 (2012)"
+                "Model Identifier": "MacBookPro10,1 (2012)",
+                "Model Number": "A1398",
+                "EMC": "2512",
+                "Weight/Dimensions": "<br>2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (3615QM, 3720QM, 3820QM) ('Ivy Bridge')",
                 "Speed": "2.3, 2.6, 2.7 GHz",
                 "# of Cores": "4",
-                "# of Threads": "8"
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
-                "Original OS": "Mac OS X 10.7.4 (Lion)",
-                "Later OS": "OS X 10.8 (Mountain Lion)",
-                "Maximum OS": "macOS 10.15.7 (Catalina)"
+                "Original OS": "Mac OS X 10.7.3 (Lion)",
+                "Maximum OS": "macOS 10.15.6 (Catalina)"
             },
             "Memory": {
-                "Options": "16 GB",
-                "Supported": "1600 MHz DDR3L on-board Memory"
+                "Maximum": "16 GB (Actual) 8 GB (Apple)",
+                "Supported": "1600 MHz DDR3L on-board Memory",
+                "# of Slots": "0"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
-                "Graphics Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+                "Graphics Chip": "Intel HD Graphics 4000 and NVIDIA GeForce GT 650M",
+                "Graphics Memory": "768 MB DDR3 (HD Graphics) (shared) (up to 1.5 GB), 1 GB GDDR5 (GeForce) "
             },
             "Display": {
-                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2880 x 1800"
+                "Native Resolution": "2880x1800"
+            },
+            "Storage": {
+                "HDD": "N/A",
+                "SSD": "256, 512, or 768 GB",
+                "CD/DVD": "N/A"
+            },
+            "Power": {
+                "Battery": "95 Wh Lithium-polymer",
+                "Battery Life": "Up to 7 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Ethernet": "N/A",
+                "USB":"2 - 3.0",
+                "Firewire": "N/A",
+                "Display": "2 - Mini DisplayPort 1 - HDMI",
+                "Audio In": "1 - 3.5-mm jack, 1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "1 - MagSafe 2",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
@@ -1616,31 +1642,57 @@
             "Overview": {
                 "Introduced": "Oct 2012",
                 "Discontinued": "Oct 2013",
-                "Model Identifier": "MacBookPro10,2 (2012)"
+                "Model Identifier": "MacBookPro10,2",
+                "Model Number": "A1425",
+                "EMC": "2557",
+                "Weight/Dimensions": "<br>1.62 kg, 1.9 H x 31.4 W x 21.9 D cm<br>3.57 lbs, 0.75 H x 12.35 W x 8.62 D inch"
             },
             "Processor": {
-                "Name": "Intel Core i5 or i7 (3210M, 3520M) ('Ivy Bridge')",
+                "Name": "Intel Core i5 (3210M) or i7 (3520M) ('Ivy Bridge')",
                 "Speed": "2.5, 2.9 GHz",
                 "# of Cores": "2",
-                "# of Threads": "4"
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
-                "Original OS": "OS X 10.8.1 (Mountain Lion)",
-                "Later OS": "OS X 10.8.2 (Mountain Lion)",
-                "Maximum OS": "macOS 10.15.7 (Catalina)"
+                "Original OS": "Mac OS X 10.7.3 (Lion)",
+                "Maximum OS": "macOS 10.15.6 (Catalina)"
             },
             "Memory": {
-                "Options": "8 GB",
-                "Supported": "1600 MHz DDR3L on-board Memory"
+                "Maximum": "16 GB (Actual) 8 GB (Apple)",
+                "Supported": "1600 MHz DDR3L on-board Memory",
+                "# of Slots": "0"
             },
             "Graphics": {
                 "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "Up to 1 GB DDR3 (shared)"
+                "Graphics Memory": "768 MB DDR3 (shared) (up to 1.5 GB)"
             },
             "Display": {
-                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Display Type": "13.3-inch LED-backlit glossy widescreen display",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560x1600"
+            },
+            "Storage": {
+                "HDD": "N/A",
+                "SSD": "128, 256, 512, 768 GB",
+                "CD/DVD": "N/A"
+            },
+            "Power": {
+                "Battery": "74 Wh Lithium-polymer",
+                "Battery Life": "Up to 7 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Ethernet": "N/A",
+                "USB":"2 - 3.0",
+                "Firewire": "N/A",
+                "Display": "2 - Mini DisplayPort 1 - HDMI",
+                "Audio In": "1 - 3.5-mm jack, 1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "1 - MagSafe 2",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
@@ -1649,33 +1701,59 @@
         "image": "macbook_pro_13_retina_2012-13.png",
         "Info": {
             "Overview": {
-                "Introduced": "Feb 2013",
-                "Discontinued": "Oct 2013",
-                "Model Identifier": "MacBookPro10,2 (2013)"
+                "Introduced": "Oct 2013",
+                "Discontinued": "Jul 2014",
+                "Model Identifier": "MacBookPro11,1 (2013)",
+                "Model Number": "A1502",
+                "EMC": "2678",
+                "Weight/Dimensions": "<br>1.57 kg, 1.8 H x 31.4 W x 21.9 D cm<br>3.46 lbs, 0.71 H x 12.35 W x 8.62 D inch"
             },
             "Processor": {
-                "Name": "Intel Core i5 or i7 (3230M, 3540M) ('Ivy Bridge')",
-                "Speed": "2.6, 3 GHz",
+                "Name": "Intel Core i5 (4258U, 4288U) or i7 (4558U) ('Haswell')",
+                "Speed": "2.4, 2.6, 2.8 GHz",
                 "# of Cores": "2",
-                "# of Threads": "4"
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
-                "Original OS": "OS X 10.8.2 (Mountain Lion)",
-                "Later OS": "OS X 10.8.3 (Mountain Lion)",
-                "Maximum OS": "macOS 10.15.7 (Catalina)"
+                "Original OS": "Mac OS X 10.9 (Mavericks)",
+                "Maximum OS": "macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Options": "8 GB",
-                "Supported": "1600 MHz DDR3L on-board Memory"
+                "Maximum": "16 GB (Actual) 8 GB (Apple)",
+                "Supported": "1600 MHz DDR3L on-board Memory",
+                "# of Slots": "0"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "Up to 1 GB DDR3 (shared)"
+                "Graphics Chip": "Intel Iris 5100",
+                "Graphics Memory": "768 MB DDR3 (shared) (up to 1.5 GB)"
             },
             "Display": {
-                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Display Type": "13.3-inch LED-backlit glossy widescreen display",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560x1600"
+            },
+            "Storage": {
+                "HDD": "N/A",
+                "SSD": "128, 256, 512 GB, 1 TB",
+                "CD/DVD": "N/A"
+            },
+            "Power": {
+                "Battery": "74 Wh Lithium-polymer",
+                "Battery Life": "Up to 9 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme (802.11ac) (Wi-Fi 5)",
+                "Bluetooth": "4.0",
+                "Ethernet": "N/A",
+                "USB":"2 - 3.0",
+                "Firewire": "N/A",
+                "Display": "2 - Mini DisplayPort 1 - HDMI",
+                "Audio In": "1 - 3.5-mm jack, 1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "1 - MagSafe 2",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
@@ -1684,33 +1762,59 @@
         "image": "macbook_pro_15_retina_2012-13.png",
         "Info": {
             "Overview": {
-                "Introduced": "Feb 2013",
-                "Discontinued": "Oct 2013",
-                "Model Identifier": "MacBookPro10,1 (2013)"
+                "Introduced": "Oct 2013",
+                "Discontinued": "Jul 2014",
+                "Model Identifier": "MacBookPro11,2 (2013)",
+                "Model Number": "A1398",
+                "EMC": "2674",
+                "Weight/Dimensions": "<br>2.02 kg, 1.8 H x 35.89 W x 24.71 D cm<br>4.46 lbs, 0.71 H x 14.13 W x 9.73 D inch"
             },
             "Processor": {
-                "Name": "Intel Core i7 (3635QM, 3740QM, 3840QM) ('Ivy Bridge')",
-                "Speed": "2.4, 2.7, 2.8 GHz",
+                "Name": "Intel Core i7 (4750HQ, 4850HQ, 4960HQ,) ('Haswell')",
+                "Speed": "2.0, 2.3, 2.6 GHz",
                 "# of Cores": "4",
-                "# of Threads": "8"
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "22 nm"
             },
             "Software": {
-                "Original OS": "OS X 10.8.2 (Mountain Lion)",
-                "Later OS": "OS X 10.8.3 (Mountain Lion)",
-                "Maximum OS": "macOS 10.15.7 (Catalina)"
+                "Original OS": "Mac OS X 10.9 (Mavericks)",
+                "Maximum OS": "macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Options": "16 GB",
-                "Supported": "1600 MHz DDR3L on-board Memory"
+                "Maximum": "16 GB (Actual) 8 GB (Apple)",
+                "Supported": "1600 MHz DDR3L on-board Memory",
+                "# of Slots": "0"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
-                "Graphics Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+                "Graphics Chip": "Intel Iris Pro 5200",
+                "Graphics Memory": "1.5 GB DDR3 (shared)"
             },
             "Display": {
-                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Display Type": "15.4-inch LED-backlit glossy widescreen display",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2880 x 1800"
+                "Native Resolution": "2880x1800"
+            },
+            "Storage": {
+                "HDD": "N/A",
+                "SSD": "256, 512 GB, 1 TB",
+                "CD/DVD": "N/A"
+            },
+            "Power": {
+                "Battery": "95 Wh Lithium-polymer",
+                "Battery Life": "Up to 8 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "Built-in AirPort Extreme (802.11a/b/g/n) (Wi-Fi 4)",
+                "Bluetooth": "4.0",
+                "Ethernet": "N/A",
+                "USB":"2 - 3.0",
+                "Firewire": "N/A",
+                "Display": "2 - Mini DisplayPort 1 - HDMI",
+                "Audio In": "1 - 3.5-mm jack, 1 - Built-in microphone",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "1 - MagSafe 2",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
