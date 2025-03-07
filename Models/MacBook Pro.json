@@ -29,8 +29,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Mobility Radeon X1600",
-                "Graphics Memory": "128 or 256 MB GDDR3"
+                "Chip": "ATI Mobility Radeon X1600",
+                "Memory": "128 or 256 MB GDDR3"
             },
             "Display": {
                 "Display Type": "15.4-inch TFT (Optional glossy display)",
@@ -89,8 +89,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Mobility Radeon X1600",
-                "Graphics Memory": "128 or 256 MB GDDR3"
+                "Chip": "ATI Mobility Radeon X1600",
+                "Memory": "128 or 256 MB GDDR3"
             },
             "Display": {
                 "Display Type": "17-inch TFT (Optional glossy display)",
@@ -148,8 +148,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Mobility Radeon X1600",
-                "Graphics Memory": "128 (2.16 GHz) or 256 MB (2.33) GDDR3"
+                "Chip": "ATI Mobility Radeon X1600",
+                "Memory": "128 (2.16 GHz) or 256 MB (2.33) GDDR3"
             },
             "Display": {
                 "Display Type": "15.4-inch TFT, (Optional glossy display)",
@@ -207,8 +207,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Mobility Radeon X1600",
-                "Graphics Memory": "256 MB GDDR3"
+                "Chip": "ATI Mobility Radeon X1600",
+                "Memory": "256 MB GDDR3"
             },
             "Display": {
                 "Display Type": "17-inch TFT, (Optional glossy display)",
@@ -267,8 +267,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 8600M GT",
-                "Graphics Memory": "128 (2.2 GHz) 256 MB (2.4, 2.6 GHz) GDDR3"
+                "Chip": "NVIDIA GeForce 8600M GT",
+                "Memory": "128 (2.2 GHz) 256 MB (2.4, 2.6 GHz) GDDR3"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit TFT, (Optional glossy display)",
@@ -327,8 +327,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 8600M GT",
-                "Graphics Memory": "256 MB GDDR3"
+                "Chip": "NVIDIA GeForce 8600M GT",
+                "Memory": "256 MB GDDR3"
             },
             "Display": {
                 "Display Type": "17-inch CCFL-backlit TFT, (Optional glossy display)",
@@ -386,8 +386,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 8600M GT",
-                "Graphics Memory": "256 (2.4 GHz) 512 MB (2.5, 2.6 GHz) GDDR3"
+                "Chip": "NVIDIA GeForce 8600M GT",
+                "Memory": "256 (2.4 GHz) 512 MB (2.5, 2.6 GHz) GDDR3"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit TFT, (Optional glossy display)",
@@ -445,8 +445,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 8600M GT",
-                "Graphics Memory": "512 MB GDDR3"
+                "Chip": "NVIDIA GeForce 8600M GT",
+                "Memory": "512 MB GDDR3"
             },
             "Display": {
                 "Display Type": "17-inch CCFL or LED-backlit TFT, (Optional glossy display)",
@@ -504,8 +504,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
-                "Graphics Memory": "256 or 512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Memory": "256 or 512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit glossy widescreen display",
@@ -564,8 +564,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 8600M GT",
-                "Graphics Memory": "512 MB GDDR3"
+                "Chip": "NVIDIA GeForce 8600M GT",
+                "Memory": "512 MB GDDR3"
             },
             "Display": {
                 "Display Type": "17-inch LED-backlit glossy (Optional antiglare)",
@@ -624,8 +624,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
-                "Graphics Memory": "256 or 512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Memory": "256 or 512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "17-inch LED-backlit glossy widescreen display (Optional antiglare)",
@@ -684,8 +684,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA  GeForce 9400M",
-                "Graphics Memory": "256 MB DDR3 (shared)"
+                "Chip": "NVIDIA  GeForce 9400M",
+                "Memory": "256 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen display",
@@ -745,8 +745,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA  GeForce 9400M",
-                "Graphics Memory": "256 MB DDR3 (shared)"
+                "Chip": "NVIDIA  GeForce 9400M",
+                "Memory": "256 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit glossy widescreen display (Optional antiglare widescreen)",
@@ -806,8 +806,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
-                "Graphics Memory": "256 or 512 MB GDDR3 (9600M GT) or 256 MB DDR3 (9400M) (shared)"
+                "Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Memory": "256 or 512 MB GDDR3 (9600M GT) or 256 MB DDR3 (9400M) (shared)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit glossy widescreen display",
@@ -867,8 +867,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
-                "Graphics Memory": "512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 9600M GT and GeForce 9400M",
+                "Memory": "512 MB (9600M GT) GDDR3 or 256 MB (9400M) DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "17-inch LED-backlit glossy widescreen display (Optional antiglare)",
@@ -928,8 +928,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 320M",
-                "Graphics Memory": "256 MB DDR3 (shared)"
+                "Chip": "NVIDIA GeForce 320M",
+                "Memory": "256 MB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen display",
@@ -990,8 +990,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 330M and Intel HD Graphics",
-                "Graphics Memory": "256 or 512 MB GDDR3 (GT 330M) and 256 MB DDR3 (HD Graphics) (shared)"
+                "Chip": "NVIDIA GeForce GT 330M and Intel HD Graphics",
+                "Memory": "256 or 512 MB GDDR3 (GT 330M) and 256 MB DDR3 (HD Graphics) (shared)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit glossy widescreen display",
@@ -1052,8 +1052,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 330M and Intel HD Graphics",
-                "Graphics Memory": "512 MB GDDR3 (GT 330M) and 256 MB DDR3 (HD Graphics) (shared)"
+                "Chip": "NVIDIA GeForce GT 330M and Intel HD Graphics",
+                "Memory": "512 MB GDDR3 (GT 330M) and 256 MB DDR3 (HD Graphics) (shared)"
             },
             "Display": {
                 "Display Type": "17-inch LED-backlit glossy widescreen display",
@@ -1114,8 +1114,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 3000",
-                "Graphics Memory": "384 MB DDR3 (HD Graphics) (shared)"
+                "Chip": "Intel HD Graphics 3000",
+                "Memory": "384 MB DDR3 (HD Graphics) (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen display",
@@ -1176,8 +1176,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon HD 6490M or 6750M and Intel HD Graphics 3000",
-                "Graphics Memory": "256 MB GDDR5 (6490M), 1 GB GDDR5 (6750M), 384 MB DDR3 (HD Graphics) (shared)"
+                "Chip": "AMD Radeon HD 6490M or 6750M and Intel HD Graphics 3000",
+                "Memory": "256 MB GDDR5 (6490M), 1 GB GDDR5 (6750M), 384 MB DDR3 (HD Graphics) (shared)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit glossy widescreen display",
@@ -1238,8 +1238,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon HD 6750M and Intel HD Graphics 3000",
-                "Graphics Memory": "1 GB GDDR5 (6750M), 384 MB DDR3 (HD Graphics) (shared) (up to 512 MB)"
+                "Chip": "AMD Radeon HD 6750M and Intel HD Graphics 3000",
+                "Memory": "1 GB GDDR5 (6750M), 384 MB DDR3 (HD Graphics) (shared) (up to 512 MB)"
             },
             "Display": {
                 "Display Type": "17-inch LED-backlit glossy widescreen display",
@@ -1299,8 +1299,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 3000",
-                "Graphics Memory": "384 MB DDR3 (HD Graphics) (shared)"
+                "Chip": "Intel HD Graphics 3000",
+                "Memory": "384 MB DDR3 (HD Graphics) (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen display",
@@ -1360,8 +1360,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon HD 6750M or 6770M and Intel HD Graphics 3000",
-                "Graphics Memory": "512 MB GDDR5 (6750M), 1 GB GDDR5 (6770M) and 384 MB DDR3 (HD Graphics) (shared)"
+                "Chip": "AMD Radeon HD 6750M or 6770M and Intel HD Graphics 3000",
+                "Memory": "512 MB GDDR5 (6750M), 1 GB GDDR5 (6770M) and 384 MB DDR3 (HD Graphics) (shared)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit glossy widescreen display",
@@ -1421,8 +1421,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon HD 6770M and Intel HD Graphics 3000",
-                "Graphics Memory": "1 GB GDDR5 (6770M) and 384 MB DDR3 (HD Graphics) (shared)"
+                "Chip": "AMD Radeon HD 6770M and Intel HD Graphics 3000",
+                "Memory": "1 GB GDDR5 (6770M) and 384 MB DDR3 (HD Graphics) (shared)"
             },
             "Display": {
                 "Display Type": "17-inch LED-backlit glossy widescreen display",
@@ -1482,8 +1482,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "768 MB DDR3 (shared) (up to 1.5 GB)"
+                "Chip": "Intel HD Graphics 4000",
+                "Memory": "768 MB DDR3 (shared) (up to 1.5 GB)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit glossy widescreen display",
@@ -1543,8 +1543,8 @@
                 "# of Slots": "2"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000 and NVIDIA GeForce GT 650M",
-                "Graphics Memory": "768 MB DDR3 (HD Graphics) (shared) (up to 1.5 GB), 512 MB GDDR5 (GeForce) "
+                "Chip": "Intel HD Graphics 4000 and NVIDIA GeForce GT 650M",
+                "Memory": "768 MB DDR3 (HD Graphics) (shared) (up to 1.5 GB), 512 MB GDDR5 (GeForce) "
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit glossy widescreen display",
@@ -1604,8 +1604,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
-                "Graphics Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+                "Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
+                "Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
@@ -1663,8 +1663,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "Up to 1 GB DDR3 (shared)"
+                "Chip": "Intel HD Graphics 4000",
+                "Memory": "Up to 1 GB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -1722,8 +1722,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "Up to 1 GB DDR3 (shared)"
+                "Chip": "Intel HD Graphics 4000",
+                "Memory": "Up to 1 GB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -1781,8 +1781,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
-                "Graphics Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
+                "Chip": "NVIDIA GeForce GT 650M and Intel HD Graphics 4000",
+                "Memory": "1GB GDDR5 (GT 650M), Up to 1 GB DDR3 (shared) (HD Graphics)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
@@ -1840,8 +1840,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris 5100",
-                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+                "Chip": "Intel Iris 5100",
+                "Memory": "Up to 1.5 GB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -1899,8 +1899,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Pro 5200 (2.0 GHz), NVIDIA GeForce GT 750M and Intel Iris Pro 5200 (2.3 and 2.6 GHz)",
-                "Graphics Memory": "2 GB GDDR5 (GT 750M), Up to 1.5 GB DDR3 (shared) (Iris Pro)"
+                "Chip": "Intel Iris Pro 5200 (2.0 GHz), NVIDIA GeForce GT 750M and Intel Iris Pro 5200 (2.3 and 2.6 GHz)",
+                "Memory": "2 GB GDDR5 (GT 750M), Up to 1.5 GB DDR3 (shared) (Iris Pro)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
@@ -1957,8 +1957,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris 5100",
-                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+                "Chip": "Intel Iris 5100",
+                "Memory": "Up to 1.5 GB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -2015,8 +2015,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Pro 5200 (2.2 GHz), NVIDIA GeForce GT 750M and Intel Iris Pro 5200 (2.5 and 2.8 GHz)",
-                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+                "Chip": "Intel Iris Pro 5200 (2.2 GHz), NVIDIA GeForce GT 750M and Intel Iris Pro 5200 (2.5 and 2.8 GHz)",
+                "Memory": "Up to 1.5 GB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
@@ -2073,8 +2073,8 @@
                 "Supported": "1866 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Graphics 6100",
-                "Graphics Memory": "Up to 1.5 GB DDR3 (shared)"
+                "Chip": "Intel Iris Graphics 6100",
+                "Memory": "Up to 1.5 GB DDR3 (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -2132,8 +2132,8 @@
                 "Supported": "1600 MHz DDR3L on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Pro 5200 (2.2 GHz), AMD Radeon R9 M370X and Intel Iris Pro 5200 (2.5 and 2.8 GHz)",
-                "Graphics Memory": "2 GB GDDR5 (R9 M370X), Up to 1.5 GB DDR3 (shared) (Iris Pro)"
+                "Chip": "Intel Iris Pro 5200 (2.2 GHz), AMD Radeon R9 M370X and Intel Iris Pro 5200 (2.5 and 2.8 GHz)",
+                "Memory": "2 GB GDDR5 (R9 M370X), Up to 1.5 GB DDR3 (shared) (Iris Pro)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
@@ -2190,8 +2190,8 @@
                 "Supported": "1866 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Graphics 540",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Graphics 540",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -2248,8 +2248,8 @@
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Graphics 550",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Graphics 550",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -2306,8 +2306,8 @@
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 450, 455, 460 and Intel HD Graphics 530",
-                "Graphics Memory": "2 GB GDDR5 (Radeon Pro 450, 455), 4 GB GDDR5 (Radeon Pro 460), Up to 1.5 GB DDR3 (shared) (HD 530)"
+                "Chip": "AMD Radeon Pro 450, 455, 460 and Intel HD Graphics 530",
+                "Memory": "2 GB GDDR5 (Radeon Pro 450, 455), 4 GB GDDR5 (Radeon Pro 460), Up to 1.5 GB DDR3 (shared) (HD 530)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
@@ -2342,30 +2342,54 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Jul 2019",
-                "Model Identifier": "MacBookPro14,1"
+                "Model Identifier": "MacBookPro14,1",
+                "Model Number": "A1708 (2017)",
+                "EMC": "3164",
+                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (7360U, 7660U) ('Kaby Lake')",
                 "Speed": "2.3, 2.5 GHz",
                 "# of Cores": "2",
-                "# of Threads": "4"
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.12.5 (Sierra)",
                 "Maximum OS": "Latest release of macOS 13 (Ventura)"
             },
             "Memory": {
-                "Options": "16 GB",
+                "Options": "8 or 16 GB",
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics 640",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics 640",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560 x 1600",
+                "Brightness": "500 nits"
+            },
+            "Storage": {
+                "SSD": "128, 256, 512 GB or 1 TB"
+            },
+            "Power": {
+                "Battery": "54.5 Wh Lithium-polymer",
+                "Capacity": "4781 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "2 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2376,30 +2400,54 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Jul 2018",
-                "Model Identifier": "MacBookPro14,1"
+                "Model Identifier": "MacBookPro14,2",
+                "Model Number": "A1706 (2017)",
+                "EMC": "3163",
+                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (7267U, 7287U, 7567U) ('Kaby Lake')",
                 "Speed": "3.1, 3.3, 3.5 GHz",
                 "# of Cores": "2",
-                "# of Threads": "4"
+                "# of Threads": "4",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.12.5 (Sierra)",
                 "Maximum OS": "Latest release of macOS 13 (Ventura)"
             },
             "Memory": {
-                "Options": "16 GB",
+                "Options": "8 or 16 GB",
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics 650",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics 650",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560 x 1600",
+                "Brightness": "500 nits"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB or 1 TB"
+            },
+            "Power": {
+                "Battery": "49.2 Wh lithium-polymer",
+                "Capacity": "4314 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 2 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2410,13 +2458,18 @@
             "Overview": {
                 "Introduced": "Jun 2017",
                 "Discontinued": "Jul 2018",
-                "Model Identifier": "MacBookPro14,3"
+                "Model Identifier": "MacBookPro14,3",
+                "Model Number": "A1707 (2017)",
+                "EMC": "3162",
+                "Weight/Dimensions": "<br>1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 (7700HQ, 7820HQ, 7920HQ) ('Kaby Lake')",
                 "Speed": "2.8, 2.9, 3.1 GHz",
                 "# of Cores": "4",
-                "# of Threads": "8"
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.12.5 (Sierra)",
@@ -2427,13 +2480,32 @@
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 555, 560 and Intel HD Graphics 630",
-                "Graphics Memory": "2 GB GDDR5 (Radeon Pro 555), 4 GB GDDR5 (Radeon Pro 460), Up to 1.5 GB DDR3 (shared) (HD 630)"
+                "Chip": "AMD Radeon Pro 555, 560 and Intel HD Graphics 630",
+                "Memory": "2 GB GDDR5 (Radeon Pro 555), 4 GB GDDR5 (Radeon Pro 460), Up to 1.5 GB DDR3 (shared) (HD 630)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2880 x 1800"
+                "Native Resolution": "2880 x 1800",
+                "Brightness": "500 nits"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "76 Wh Lithium-polymer",
+                "Capacity": "6667 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2444,30 +2516,54 @@
             "Overview": {
                 "Introduced": "Jul 2018",
                 "Discontinued": "May 2019",
-                "Model Identifier": "MacBookPro15,2 (2018)"
+                "Model Identifier": "MacBookPro15,2",
+                "Model Number": "A1989",
+                "EMC": "3214",
+                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm<br>3.02 lbs., 0.59 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (8259U, 8559U) ('Coffee Lake')",
                 "Speed": "2.3, 2.7 GHz",
                 "# of Cores": "4",
-                "# of Threads": "8"
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.13.6 (High Sierra)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "16 GB",
+                "Options": "8 or 16 GB",
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics 655",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics 655",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
+                "Native Resolution": "2560 x 1600",
+                "Brightness": "500 nits"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "58 Wh Lithium-polymer",
+                "Capacity": "5086 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2478,166 +2574,54 @@
             "Overview": {
                 "Introduced": "Jul 2018",
                 "Discontinued": "May 2019",
-                "Model Identifier": "MacBookPro15,1 (2018)"
+                "Model Identifier": "<li>MacBookPro15,1<br><li>MacBookPro15,3",
+                "Model Number": "A1990",
+                "EMC": "3215",
+                "Weight/Dimensions": "<br>1.83 kg, 1.55 H x 34.93 W x 24.07 D cm<br>4.02 lbs., 0.61 H x 13.75 W x 9.48 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 or i9 (8750H, 8850H, 8950HK) ('Coffee Lake')",
                 "Speed": "2.2, 2.6, 2.9 GHz",
                 "# of Cores": "6",
-                "# of Threads": "12"
+                "# of Threads": "12",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.13.6 (High Sierra)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "32 GB",
+                "Options": "16 or 32 GB",
                 "Supported": "2400 MHz DDR4 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 555X, 560X and Intel UHD Graphics 630",
-                "Graphics Memory": "4 GB GDDR5 (Radeon Pro 555X, 560X), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+                "Chip": "AMD Radeon Pro 555X, 560X, Vega 16, Vega 20 and Intel UHD Graphics 630",
+                "Memory": "4 GB GDDR5 (Radeon Pro 555X, 560X), 4 GB HBM2 (Radeon Pro Vega 16, Vega 20), Up to 1.5 GB DDR3 (shared) (UHD 630)"
             },
             "Display": {
                 "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Brightness": "500 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "2880 x 1800"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(15-inch, 2018)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_15_2018-19.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Jul 2018",
-                "Discontinued": "May 2019",
-                "Model Identifier": "MacBookPro15,3 (2018)"
             },
-            "Processor": {
-                "Name": "Intel Core i7 or i9 (8750H, 8850H, 8950HK) ('Coffee Lake')",
-                "Speed": "2.2, 2.6, 2.9 GHz",
-                "# of Cores": "6",
-                "# of Threads": "12"
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
             },
-            "Software": {
-                "Original OS": "macOS 10.13.6 (High Sierra)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+            "Power": {
+                "Battery": "83.6 Wh Lithium-polymer",
+                "Capacity": "7336 mAh",
+                "Life": "Up to 10 Hours"
             },
-            "Memory": {
-                "Options": "32 GB",
-                "Supported": "2400 MHz DDR4 on-board Memory"
-            },
-            "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro Vega 16, Vega 20 and Intel UHD Graphics 630",
-                "Graphics Memory": "4 GB HBM2 (Radeon Pro Vega 16, Vega 20), Up to 1.5 GB DDR3 (shared) (UHD 630)"
-            },
-            "Display": {
-                "Display Type": "15.4-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "2880 x 1800"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(13-inch, 2019, 4 TB 3 Ports)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_13_TB3_2018-19.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2019",
-                "Discontinued": "May 2020",
-                "Model Identifier": "MacBookPro15,2 (2019)"
-            },
-            "Processor": {
-                "Name": "Intel Core i5 or i7 (8279U, 8579U) ('Coffee Lake')",
-                "Speed": "2.4, 2.8 GHz",
-                "# of Cores": "4",
-                "# of Threads": "8"
-            },
-            "Software": {
-                "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
-            },
-            "Memory": {
-                "Options": "16 GB",
-                "Supported": "2133 MHz LPDDR3 on-board Memory"
-            },
-            "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics 655",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
-            },
-            "Display": {
-                "Display Type": "13.3-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "2560 x 1600"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(15-inch, 2019)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_15_2018-19.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2019",
-                "Discontinued": "Nov 2019",
-                "Model Identifier": "MacBookPro15,1 (2019)"
-            },
-            "Processor": {
-                "Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
-                "Speed": "2.6, 2.3, 2.4 GHz",
-                "# of Cores": "6 (i7), 8 (i9)",
-                "# of Threads": "12 (i7), 16 (i9)"
-            },
-            "Software": {
-                "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
-            },
-            "Memory": {
-                "Options": "32 GB",
-                "Supported": "2400 MHz DDR4 on-board Memory"
-            },
-            "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 555X, 560X and Intel UHD Graphics 630",
-                "Graphics Memory": "4 GB GDDR5 (Radeon Pro 555X, 560X), Up to 1.5 GB DDR3 (shared) (UHD 630)"
-            },
-            "Display": {
-                "Display Type": "15.4-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "2880 x 1800"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(15-inch, 2019)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_15_2018-19.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2019",
-                "Discontinued": "Nov 2019",
-                "Model Identifier": "MacBookPro15,3 (2019)"
-            },
-            "Processor": {
-                "Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
-                "Speed": "2.6, 2.3, 2.4 GHz",
-                "# of Cores": "6 (i7), 8 (i9)",
-                "# of Threads": "12 (i7), 16 (i9)"
-            },
-            "Software": {
-                "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
-            },
-            "Memory": {
-                "Options": "32 GB",
-                "Supported": "2400 MHz DDR4 on-board Memory"
-            },
-            "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro Vega 16, Vega 20 and Intel UHD Graphics 630",
-                "Graphics Memory": "4 GB HBM2 (Radeon Pro Vega 16, Vega 20), Up to 1.5 GB DDR3 (shared) (UHD 630)"
-            },
-            "Display": {
-                "Display Type": "15.4-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "2880 x 1800"
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2648,30 +2632,167 @@
             "Overview": {
                 "Introduced": "Jul 2019",
                 "Discontinued": "May 2020",
-                "Model Identifier": "MacBookPro15,4"
+                "Model Identifier": "MacBookPro15,4",
+                "Model Number": "A2159",
+                "EMC": "3301",
+                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (8257U, 8557U) ('Coffee Lake')",
                 "Speed": "1.4, 1.7 GHz",
                 "# of Cores": "4",
-                "# of Threads": "8"
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.14.5 (Mojave)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "16 GB",
+                "Options": "8 or 16 GB",
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics 645",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics 645",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Brightness": "500 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "2560 x 1600"
+            },
+            "Storage": {
+                "SSD": "128, 256, 512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "58.2 Wh Lithium-polymer",
+                "Capacity": "5103 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(13-inch, 2019, 4 TB 3 Ports)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_13_TB3_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2019",
+                "Discontinued": "May 2020",
+                "Model Identifier": "MacBookPro15,2",
+                "Model Number": "A1989 (2019)",
+                "EMC": "3358",
+                "Weight/Dimensions": "<br>1.37 kg, 1.49 H x 30.41 W x 21.24 D cm, 3.02 lbs., 0.59 H x 11.94 W x 8.36 D inch"
+            },
+            "Processor": {
+                "Name": "Intel Core i5 or i7 (8279U, 8579U) ('Coffee Lake')",
+                "Speed": "2.4, 2.8 GHz",
+                "# of Cores": "4",
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.5 (Mojave)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "8 or 16 GB",
+                "Supported": "2133 MHz LPDDR3 on-board Memory"
+            },
+            "Graphics": {
+                "Chip": "Intel Iris Plus Graphics 655",
+                "Memory": "Up to 1.5 GB (shared)"
+            },
+            "Display": {
+                "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Brightness": "500 nits",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2560 x 1600"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "58 Wh Lithium-polymer",
+                "Capacity": "5086 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
+            }
+        }
+    }, {
+        "Name": "MacBook Pro<br>(15-inch, 2019)",
+        "Type": "MacBook Pro",
+        "image": "macbook_pro_15_2018-19.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "May 2019",
+                "Discontinued": "Nov 2019",
+                "Model Identifier": "<li>MacBookPro15,1<br><li>MacBookPro15,3"
+            },
+            "Processor": {
+                "Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
+                "Speed": "2.6, 2.3, 2.4 GHz",
+                "# of Cores": "6 (i7), 8 (i9)",
+                "# of Threads": "12 (i7), 16 (i9)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 10.14.5 (Mojave)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "16 or 32 GB",
+                "Supported": "2400 MHz DDR4 on-board Memory"
+            },
+            "Graphics": {
+                "Chip": "AMD Radeon Pro 555X, 560X, Vega 16, Vega 20 and Intel UHD Graphics 630",
+                "Memory": "4 GB GDDR5 (Radeon Pro 555X, 560X), 4 GB HBM2 (Radeon Pro Vega 16, Vega 20), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+            },
+            "Display": {
+                "Display Type": "15.4-inch LED-backlit display with IPS technology",
+                "Brightness":"500 nits",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "2880 x 1800"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1, 2 or 4 TB"
+            },
+            "Power": {
+                "Battery": "83.6 Wh Lithium-polymer",
+                "Capacity": "7336 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2682,64 +2803,54 @@
             "Overview": {
                 "Introduced": "Nov 2019",
                 "Discontinued": "Oct 2021",
-                "Model Identifier": "MacBookPro16,1"
+                "Model Identifier": "<li>MacBookPro16,1<br><li>MacBookPro16,4",
+                "Model Number": "A2141",
+                "EMC": "3347",
+                "Weight/Dimensions": "<br>2 kg, 1.62 H x 35.79 W x 24.59 D cm<br>4.3 lbs, 0.64 H x 14.09 W x 9.68 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
                 "Speed": "2.6, 2.3, 2.4 GHz",
                 "# of Cores": "6 (i7), 8 (i9)",
-                "# of Threads": "12 (i7), 16 (i9)"
+                "# of Threads": "12 (i7), 16 (i9)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.15.1 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "64 GB",
+                "Options": "16, 32 or 64 GB",
                 "Supported": "2666 MHz DDR4 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 5300M, 5500M and Intel UHD Graphics 630",
-                "Graphics Memory": "4 GB GDDR6 (Radeon Pro 5300M), 4 or 8 GB GDDR6 (Radeon Pro 5500M), Up to 1.5 GB DDR3 (shared) (UHD 630)"
+                "Chip": "AMD Radeon Pro 5300M, 5500M, 5600M and Intel UHD Graphics 630",
+                "Memory": "4 GB GDDR6 (Radeon Pro 5300M), 4 or 8 GB GDDR6 (Radeon Pro 5500M), 8 GB HBM2 (Radeon Pro 5600M), Up to 1.5 GB DDR3 (shared) (UHD 630)"
             },
             "Display": {
                 "Display Type": "16-inch LED-backlit display with IPS technology",
+                "Brightness": "500 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "3072 x 1920"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(16-inch, 2019)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_16_2019.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Nov 2019",
-                "Discontinued": "Oct 2021",
-                "Model Identifier": "MacBookPro16,4"
             },
-            "Processor": {
-                "Name": "Intel Core i7 or i9 (9750H, 9850H, 9980HK) ('Coffee Lake')",
-                "Speed": "2.6, 2.3, 2.4 GHz",
-                "# of Cores": "6 (i7), 8 (i9)",
-                "# of Threads": "12 (i7), 16 (i9)"
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"
             },
-            "Software": {
-                "Original OS": "macOS 10.15.1 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+            "Power": {
+                "Battery": "100 Wh Lithium-polymer",
+                "Capacity": "8790 mAh",
+                "Life": "Up to 11 Hours"
             },
-            "Memory": {
-                "Options": "64 GB",
-                "Supported": "2666 MHz DDR4 on-board Memory"
-            },
-            "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 5600M and Intel UHD Graphics 630",
-                "Graphics Memory": "8 GB HBM2 (Radeon Pro 5600M), Up to 1.5 GB DDR3 (shared) (UHD 630)"
-            },
-            "Display": {
-                "Display Type": "16-inch LED-backlit display with IPS technology",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "3072 x 1920"
+            "Connections": {
+                "Wi-Fi": "802.11ac (Wi-Fi 5)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt": "4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2750,30 +2861,54 @@
             "Overview": {
                 "Introduced": "May 2020",
                 "Discontinued": "Nov 2020",
-                "Model Identifier": "MacBookPro16,3"
+                "Model Identifier": "MacBookPro16,3",
+                "Model Number": "A2289",
+                "EMC": "3456",
+                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3.1 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (8257U, 8557U) ('Coffee Lake')",
                 "Speed": "1.4, 1.7 GHz",
                 "# of Cores": "4",
-                "# of Threads": "8"
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "14 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.15.4 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "16 GB",
+                "Options": "8 or 16 GB",
                 "Supported": "2133 MHz LPDDR3 on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics 645",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics 645",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Brightness": "500 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "2560 x 1600"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "58.2 Wh Lithium-polymer",
+                "Capacity": "5103 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ac (Wi-Fi 5)",
+                "Bluetooth":"5.0",
+                "USB":"Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt":"2 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display":"Through Thunderbolt Ports",
+                "Audio In":"1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out":"1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power":"Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2801,8 +2936,8 @@
                 "Supported": "3733 MHz LPDDR4X on-board Memory"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
@@ -2834,7 +2969,7 @@
                 "Supported": "4266 MT/s LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G13G",
+                "Chip": "Apple G13G",
                 "Graphics Cores": "8"
             },
             "Display": {
@@ -2867,7 +3002,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G13X",
+                "Chip": "Apple G13X",
                 "Graphics Cores": "14, 16"
             },
             "Display": {
@@ -2899,7 +3034,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G13X",
+                "Chip": "Apple G13X",
                 "Graphics Cores": "24, 32"
             },
             "Display": {
@@ -2931,7 +3066,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G13X",
+                "Chip": "Apple G13X",
                 "Graphics Cores": "16"
             },
             "Display": {
@@ -2963,7 +3098,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G13X",
+                "Chip": "Apple G13X",
                 "Graphics Cores": "24, 32"
             },
             "Display": {
@@ -2995,7 +3130,7 @@
                 "Supported": "6400 MT/s LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "10"
             },
             "Display": {
@@ -3028,7 +3163,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "16, 19"
             },
             "Display": {
@@ -3060,7 +3195,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "30, 38"
             },
             "Display": {
@@ -3092,7 +3227,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "16, 19"
             },
             "Display": {
@@ -3124,7 +3259,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "30, 38"
             },
             "Display": {
@@ -3158,7 +3293,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "10"
             },
             "Display": {
@@ -3193,7 +3328,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "14, 18"
             },
             "Display": {
@@ -3228,7 +3363,7 @@
                 "Supported": "6400 MT/s LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
+                "Chip": "Apple GPU",
                 "Graphics Cores": "30, 40"
             },
             "Display": {
