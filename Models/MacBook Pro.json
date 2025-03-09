@@ -2919,20 +2919,25 @@
             "Overview": {
                 "Introduced": "May 2020",
                 "Discontinued": "Oct 2021",
-                "Model Identifier": "MacBookPro16,3"
+                "Model Identifier": "MacBookPro16,2",
+                "Model Number": "A2251",
+                "EMC": "3348",
+                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3.1 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Intel Core i5 or i7 (1038NG7, 1068NG7) ('Ice Lake')",
-                "Speed": "2, 2.3 GHz",
+                "Speed": "2 or 2.3 GHz",
                 "# of Cores": "4",
-                "# of Threads": "8"
+                "# of Threads": "8",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "10 nm"
             },
             "Software": {
                 "Original OS": "macOS 10.15.4 (Catalina)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "32 GB",
+                "Options": "16 or 32 GB",
                 "Supported": "3733 MHz LPDDR4X on-board Memory"
             },
             "Graphics": {
@@ -2941,8 +2946,27 @@
             },
             "Display": {
                 "Display Type": "13.3-inch LED-backlit display with IPS technology",
+                "Brightness": "500 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "2560 x 1600"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2 or 4 TB"
+            },
+            "Power": {
+                "Battery": "58 Wh Lithium-polymer",
+                "Capacity": "5086 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ac (Wi-Fi 5)",
+                "Bluetooth":"5.0",
+                "USB":"Through Thunderbolt Ports (USB 3.1 Gen 2) (up to 10 GBit/s)",
+                "Thunderbolt":"4 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display":"Through Thunderbolt Ports",
+                "Audio In":"1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out":"1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power":"Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2953,29 +2977,54 @@
             "Overview": {
                 "Introduced": "Nov 2020",
                 "Discontinued": "Jun 2022",
-                "Model Identifier": "MacBookPro17,1"
+                "Model Identifier": "MacBookPro17,1",
+                "Model Number": "A2338",
+                "EMC": "3578",
+                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
-                "Chip Name": "Apple M1",
-                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
-                "# of Cores": "8 (4 high performance, 4 high efficiency)"
+                "Name": "Apple M1",
+                "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "# of Cores": "8 (4 high performance, 4 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 11.0 (Big Sur)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "16 GB",
-                "Supported": "4266 MT/s LPDDR4X"
+                "Options": "8 or 16 GB",
+                "Supported": "4266 MT/s LPDDR4X",
+                "Bandwidth": "68 GB/s"
             },
             "Graphics": {
                 "Chip": "Apple G13G",
-                "Graphics Cores": "8"
+                "# of Cores": "8"
             },
             "Display": {
                 "Display Type": "13-inch LED-backlit display with IPS technology",
+                "Brightness": "500 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "2560 x 1600"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "58.2 Wh Lithium-polymer",
+                "Capacity": "5103 mAh",
+                "Life": "Up to 17-20 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "2 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
@@ -2986,28 +3035,55 @@
             "Overview": {
                 "Introduced": "Oct 2021",
                 "Discontinued": "Jan 2023",
-                "Model Identifier": "MacBookPro18,3"
+                "Model Identifier": "<li>MacBookPro18,3<br><li>MacBookPro18,4",
+                "Model Number": "A2442",
+                "EMC": "3650",
+                "Weight/Dimensions": "<br>1.6 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs., 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
-                "Chip Name": "Apple M1 Pro",
-                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
-                "# of Cores": "8 (6 High Performance, 2 High Efficiency), 10 (8 High Performance, 2 High Efficiency)"
+                "Name": "Apple M1 Pro or M1 Max",
+                "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "# of Cores": "8 (6 High Performance, 2 High Efficiency), 10 (8 High Performance, 2 High Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "32 GB",
-                "Supported": "6400 MT/s LPDDR5"
+                "Options": "16 or 32 GB (M1 Pro), 32 or 64 GB (M1 Max)",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "200 GB/s (M1 Pro), 400 GB/s (M1 Max)"
             },
             "Graphics": {
                 "Chip": "Apple G13X",
-                "Graphics Cores": "14, 16"
+                "# of Cores": "14 or 16 (M1 Pro), 24 or 32 (M1 Max)"
             },
             "Display": {
                 "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Brightness": "500 nits (SDR), up to 1000 nits (sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
                 "Native Resolution": "3024 x 1964"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"
+            },
+            "Power": {
+                "Battery": "69.6 Wh Lithium-polymer",
+                "Capacity": "6068 mAh",
+                "Life": "Up to 11 - 17 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
@@ -3021,8 +3097,8 @@
                 "Model Identifier": "MacBookPro18,4"
             },
             "Processor": {
-                "Chip Name": "Apple M1 Max",
-                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Name": "Apple M1 Max",
+                "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
                 "# of Cores": "10 (8 High Performance, 2 High Efficiency)"
             },
             "Software": {
@@ -3053,8 +3129,8 @@
                 "Model Identifier": "MacBookPro18,1"
             },
             "Processor": {
-                "Chip Name": "Apple M1 Pro",
-                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Name": "Apple M1 Pro",
+                "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
                 "# of Cores": "10 (8 High Performance, 2 High Efficiency)"
             },
             "Software": {
@@ -3085,8 +3161,8 @@
                 "Model Identifier": "MacBookPro18,2"
             },
             "Processor": {
-                "Chip Name": "Apple M1 Max",
-                "Chip Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Name": "Apple M1 Max",
+                "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
                 "# of Cores": "10 (8 High Performance, 2 High Efficiency)"
             },
             "Software": {
@@ -3117,8 +3193,8 @@
                 "Model Identifier": "Mac14,7"
             },
             "Processor": {
-                "Chip Name": "Apple M2",
-                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Name": "Apple M2",
+                "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
                 "# of Cores": "8 (4 high performance, 4 high efficiency)"
             },
             "Software": {
@@ -3150,8 +3226,8 @@
                 "Model Identifier": "Mac14,9"
             },
             "Processor": {
-                "Chip Name": "Apple M2 Pro",
-                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Name": "Apple M2 Pro",
+                "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
                 "# of Cores": "10 (6 High Performance, 4 High Efficiency), 12 (8 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -3182,8 +3258,8 @@
                 "Model Identifier": "Mac14,5"
             },
             "Processor": {
-                "Chip Name": "Apple M2 Max",
-                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Name": "Apple M2 Max",
+                "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
                 "# of Cores": "12 (8 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -3214,8 +3290,8 @@
                 "Model Identifier": "Mac14,10"
             },
             "Processor": {
-                "Chip Name": "Apple M2 Pro",
-                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Name": "Apple M2 Pro",
+                "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
                 "# of Cores": "12 (8 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -3246,8 +3322,8 @@
                 "Model Identifier": "Mac14,6"
             },
             "Processor": {
-                "Chip Name": "Apple M2 Max",
-                "Chip Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
+                "Name": "Apple M2 Max",
+                "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
                 "# of Cores": "12 (8 High Performance, 4 High Efficiency)"
             },
             "Software": {
@@ -3278,8 +3354,8 @@
                 "Model Identifier": "Mac15,3"
             },
             "Processor": {
-                "Chip Name": "Apple M3",
-                "Chip Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "Name": "Apple M3",
+                "Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
                 "# of Cores": "8 (4 high performance, 4 high efficiency)",
                 "Manufacturing Process": "3 nm"
             },
@@ -3313,8 +3389,8 @@
                 "Model Identifier": "Mac15,6"
             },
             "Processor": {
-                "Chip Name": "Apple M3 Pro ",
-                "Chip Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "Name": "Apple M3 Pro ",
+                "Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
                 "# of Cores": "11 (5 high performance, 6 high efficiency), 12 (6 high performance, 6 high efficiency)",
                 "Manufacturing Process": "3 nm"
             },
@@ -3348,8 +3424,8 @@
                 "Model Identifier": "Mac15,10"
             },
             "Processor": {
-                "Chip Name": "Apple M3 Max",
-                "Chip Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "Name": "Apple M3 Max",
+                "Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
                 "# of Cores": "14 (10 high performance, 4 high efficiency)",
                 "Manufacturing Process": "3 nm"
             },
