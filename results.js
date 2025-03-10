@@ -277,9 +277,9 @@ const processData = async () => {
             let modelNumber = filtData[0]
                 .Info
                 .Overview["Model Number"]
-                .replace(/ /g, "")
-                .replace("(", "")
-                .replace(")", "");
+                // .replace(/ /g, "")
+                // .replace("(", "")
+                // .replace(")", "");
             location.href = `detailed.html?modelNumber=${modelNumber}&type=${filtData[0].Type}`; // Use foundIndex here
     } else {
         for (let index = 0; index < filtData.length; index++) {

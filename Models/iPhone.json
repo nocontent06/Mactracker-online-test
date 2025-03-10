@@ -10,7 +10,7 @@
                 "Model Identifier": "iPhone1,1",
                 "Model Number": "A1203",
                 "Colors": "Black",
-                "Weight/Dimensions": "<br>135 g, 11.5 H x 6.1 W x 1.16 D cm <br>4.8 oz, 4.5 H x 2.4 W x 0.46 D inch" 
+                "Weight/Dimensions": "<br><li>135 g, 11.5 H x 6.1 W x 1.16 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.46 D inch" 
             },
             "Processor": {
                 "Processor Name": "Samsung ARM 1176JZ(F)-S",
@@ -68,7 +68,7 @@
                 "Model Number": "A1241, A1324",
                 "EMC": "2347",
                 "Colors": "Black (8, 16 GB) White (16 GB)",
-                "Weight/Dimensions":"<br>133 g, 11.55 H x 6.21 W x 1.26 D cm <br>4.7 oz, 4.5 H x 2.4 W x 0.48 D inch"
+                "Weight/Dimensions":"<br><li>133 g, 11.55 H x 6.21 W x 1.26 D cm <br><li>4.7 oz, 4.5 H x 2.4 W x 0.48 D inch"
             },
             "Processor": {
                 "Processor Name": "Samsung ARM 1176JZ(F)-S",
@@ -126,7 +126,7 @@
                 "Model Number": "A1303, A1325",
                 "EMC": "2315",
                 "Colors": "Black (8, 16, 32 GB) White (16, 32 GB)",
-                "Weight/Dimensions": "<br>135 g, 11.55 H x 6.21 W x 1.26 D cm <br>4.8 oz, 4.5 H x 2.4 W x 0.48 D inch"
+                "Weight/Dimensions": "<br><li>135 g, 11.55 H x 6.21 W x 1.26 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.48 D inch"
             },
             "Processor": {
                 "Processor Name": "Samsung S5PC100",
@@ -179,13 +179,13 @@
         "image": "iphone_4.png",
         "Info": {
             "Overview": {
-                "Introduced": "Jun 2010 (16, 32 Black) <br> Apr 2011 (16, 32 White) <br> Oct 2011 (8)",
+                "Introduced": "Jun 2010 (16, 32 Black) <br><li> Apr 2011 (16, 32 White) <br><li> Oct 2011 (8)",
                 "Discontinued": "Oct 2011 (16, 32), Sep 2013 (8)",
                 "Model Identifier": "iPhone3,1 or iPhone3,2",
                 "Model Number": "A1332",
                 "EMC": "380A, 380B",
                 "Colors": "Black, White",
-                "Weight/Dimensions": "<br>137 g, 11.52 H x 5.86 W x 0.93 D cm<br>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<br><li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A4",
@@ -237,13 +237,13 @@
         "image": "iphone_4.png",
         "Info": {
             "Overview": {
-                "Introduced": "Jan 2011 (16, 32 Black) <br> Apr 2011 (16, 32 White) <br> Oct 2011 (8)",
+                "Introduced": "Jan 2011 (16, 32 Black) <br><li> Apr 2011 (16, 32 White) <br><li> Oct 2011 (8)",
                 "Discontinued": "Oct 2011 (16, 32) Sep 2013 (8)",
                 "Model Identifier": "iPhone3,3",
                 "Model Number": "A1349",
                 "EMC": "2422",
                 "Colors": "Black, White",
-                "Weight/Dimensions": "<br>137 g, 11.52 H x 5.86 W x 0.93 D cm<br>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<br><li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A4",
@@ -294,13 +294,13 @@
         "image": "iphone_4S.png",
         "Info": {
             "Overview": {
-                "Introduced": "Oct 2011 (16, 32, 64) <br> Sep 2013 (8)",
+                "Introduced": "Oct 2011 (16, 32, 64) <br><li> Sep 2013 (8)",
                 "Discontinued": "Sep 2012 (32, 64) Sep 2013 (16), Sep 2014 (8)",
                 "Model Identifier": "iPhone4,1",
                 "Model Number": "A1387, A1431",
                 "EMC": "A2430",
                 "Colors":"Black, White",
-                "Weight/Dimensions": "<br>140 g, 11.52 H x 5.86 W x 0.93 D cm<br>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<br><li>140 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A5",
@@ -358,7 +358,7 @@
                 "Model Number": "A1428 (NA), A1429 (International)",
                 "EMC": "2610",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
@@ -416,7 +416,7 @@
                 "Model Number": "A1429",
                 "EMC": "2610",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
@@ -474,7 +474,7 @@
                 "Model Number": "A1442",
                 "EMC": "N/A",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
@@ -528,9 +528,9 @@
             "Overview": {
                 "Introduced": "Sep 2013 (16, 32), Mar 2014 (8)",
                 "Discontinued": "Sep 2014 (16, 32), Sep 2015 (8)",
-                "Model Identifier": "<br>iPhone5,3 (GSM/CDMA)<br>iPhone5,4 (CDMA)",
+                "Model Identifier": "<br><li>iPhone5,3 (GSM/CDMA)<br><li>iPhone5,4 (CDMA)",
                 "Model Number": "A1532 (GSM/CDMA)",
-                "Other Model Numbers": "<br>A1456 (US/JP)<br>A1507 (UK/EU)<br>A1516<br>A1526 (China)<br>A1529 (Asia & Oceania)",
+                "Other Model Numbers": "<br><li>A1456 (US/JP)<br><li>A1507 (UK/EU)<br><li>A1516<br><li>A1526 (China)<br><li>A1529 (Asia & Oceania)",
                 "EMC": "2644",
                 "Colors": "White, Pink, Yellow, Blue, Green"
             },
@@ -587,12 +587,12 @@
             "Overview": {
                 "Introduced": "Sep 2013",
                 "Discontinued": "Mar 2016",
-                "Model Identifier": "<br>iPhone6,1 (GSM)<br>iPhone6,2 (GSM/CDMA)",
+                "Model Identifier": "<br><li>iPhone6,1 (GSM)<br><li>iPhone6,2 (GSM/CDMA)",
                 "Model Number": "A1533 (NA)",
-                "Other Model Numbers": "<br>A1453 (US / JP)<br>A1457 (UK / EU)<br>A1518<br>A1528 (China)<br>A1530 (Asia & Oceania)",
+                "Other Model Numbers": "<br><li>A1453 (US / JP)<br><li>A1457 (UK / EU)<br><li>A1518<br><li>A1528 (China)<br><li>A1530 (Asia & Oceania)",
                 "EMC": "2642",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br>112 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A7",
@@ -653,10 +653,10 @@
                 "Discontinued": "Sep 2016",
                 "Model Identifier": "iPhone7,2",
                 "Model Number": "A1549 (GSM/CDMA)",
-                "Other Model Numbers": "<br>A1586<br>A1589",
+                "Other Model Numbers": "<br><li>A1586<br><li>A1589",
                 "EMC": "2816",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br>129 g, 13.81 H x 6.7 W x 0.69 D cm<br>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
+                "Weight/Dimensions": "<br><li>129 g, 13.81 H x 6.7 W x 0.69 D cm<br><li>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
@@ -717,10 +717,10 @@
                 "Discontinued": "Sep 2016",
                 "Model Identifier": "iPhone7,1",
                 "Model Number": "A1522 (GSM/CDMA)",
-                "Other Model Numbers": "<br>A1524<br>A1593",
+                "Other Model Numbers": "<br><li>A1524<br><li>A1593",
                 "EMC": "2817",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br>172 g, 15.81 H x 7.78 W x 0.71 D cm<br>6.07 oz, 6.22 H x 3.06 W x 0.28 D inch"
+                "Weight/Dimensions": "<br><li>172 g, 15.81 H x 7.78 W x 0.71 D cm<br><li>6.07 oz, 6.22 H x 3.06 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
@@ -777,14 +777,14 @@
         "image": "iphone_6s.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2015 (16, 64, 128) <br> Sep 2016 (32 GB)",
-                "Discontinued": "Sep 2016 (16, 64) <br> Sep 2018 (32, 128)",
+                "Introduced": "Sep 2015 (16, 64, 128) <br><li> Sep 2016 (32 GB)",
+                "Discontinued": "Sep 2016 (16, 64) <br><li> Sep 2018 (32, 128)",
                 "Model Identifier": "iPhone8,1",
                 "Model Number": "A1633",
-                "Other Model Numbers": "<br>A1688<br>A1691<br>A1700",
+                "Other Model Numbers": "<br><li>A1688<br><li>A1691<br><li>A1700",
                 "EMC": "2946",
                 "Colors": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br>143 g, 13.81 H x 6.71 W x 0.71 D cm<br>5.04 oz, 5.44 H x 2.64 W x 0.28 D inch"
+                "Weight/Dimensions": "<br><li>143 g, 13.81 H x 6.71 W x 0.71 D cm<br><li>5.04 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
@@ -841,14 +841,14 @@
         "image": "iphone_6s_plus.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2015 (16, 64, 128) <br> Sep 2016 (32 GB)",
-                "Discontinued": "Sep 2016 (16, 64) <br> Sep 2018 (32, 128)",
+                "Introduced": "Sep 2015 (16, 64, 128) <br><li> Sep 2016 (32 GB)",
+                "Discontinued": "Sep 2016 (16, 64) <br><li> Sep 2018 (32, 128)",
                 "Model Identifier": "iPhone8,2",
                 "Model Number": "A1634",
-                "Other Model Numbers": "<br>A1687<br>A1699",
+                "Other Model Numbers": "<br><li>A1687<br><li>A1699",
                 "EMC": "2944",
                 "Colors":"Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br>192 g, 15.81 H x 7.79 W x 0.73 D cm<br>6.77 oz, 6.23 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>192 g, 15.81 H x 7.79 W x 0.73 D cm<br><li>6.77 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
@@ -904,14 +904,14 @@
         "image": "iphone_se1.png",
         "Info": {
             "Overview": {
-                "Introduced": "Mar 2016 (16, 64) <br> Mar 2017 (32, 128)",
-                "Discontinued": "Mar 2017 (16, 64) <br> Sep 2018 (32, 128)",
+                "Introduced": "Mar 2016 (16, 64) <br><li> Mar 2017 (32, 128)",
+                "Discontinued": "Mar 2017 (16, 64) <br><li> Sep 2018 (32, 128)",
                 "Model Identifier": "iPhone8,4",
                 "Model Number": "A1662",
-                "Other Model Numbers": "<br>A1723<br>A1724",
+                "Other Model Numbers": "<br><li>A1723<br><li>A1724",
                 "EMC": "3042",
                 "Colors": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br>113 g, 12.38 H x 5.86 W x 0.76 D cm<br>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>113 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
@@ -970,12 +970,12 @@
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone9,1<br>iPhone9,3",
+                "Model Identifier": "iPhone9,1<br><li>iPhone9,3",
                 "Model Number": "A1660",
-                "Other Model Numbers": "<br>A1778<br>A1779<br>A1780",
+                "Other Model Numbers": "<br><li>A1778<br><li>A1779<br><li>A1780",
                 "EMC": "3091",
                 "Colors": "Jet Black, Silver, Gold, Rose Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br>138 g, 13.83 H x 6.71 W x 0.71 D cm<br>4.87 oz, 5.44 H x 2.64 W x 0.28 D inch"
+                "Weight/Dimensions": "<br><li>138 g, 13.83 H x 6.71 W x 0.71 D cm<br><li>4.87 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
@@ -1035,12 +1035,12 @@
             "Overview": {
                 "Introduced": "Sep 2016",
                 "Discontinued": "Sep 2019",
-                "Model Identifier": "iPhone9,2<br>iPhone9,4",
+                "Model Identifier": "iPhone9,2<br><li>iPhone9,4",
                 "Model Number": "A1661",
-                "Other Model Numbers": "<br>A1784<br>A1785<br>A1786",
+                "Other Model Numbers": "<br><li>A1784<br><li>A1785<br><li>A1786",
                 "EMC": "3092",
                 "Colors": "Jet Black, Silver, Gold, Rose Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br>188 g, 15.82 H x 7.79 W x 0.73 D cm<br>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>188 g, 15.82 H x 7.79 W x 0.73 D cm<br><li>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
@@ -1098,14 +1098,14 @@
         "image": "iphone_8.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
-                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,1<br>iPhone10,4",
+                "Introduced": "Sep 2017 (64, 256) <br><li> Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256) <br><li> Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,1<br><li>iPhone10,4",
                 "Model Number": "A1863",
-                "Other Model Numbers": "<br>A1905<br>A1906<br>A1907",
+                "Other Model Numbers": "<br><li>A1905<br><li>A1906<br><li>A1907",
                 "EMC": "3159, 3171, 3172",
                 "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br>144 g, 13.84 H x 6.73 W x 0.73 D cm<br>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
@@ -1163,14 +1163,14 @@
         "image": "iphone_8_plus.png",
         "Info": {
             "Overview": {
-                "Introduced": "Sep 2017 (64, 256) <br> Sep 2019 (128)",
-                "Discontinued": "Sep 2019 (256) <br> Apr 2020 (64, 128)",
-                "Model Identifier": "iPhone10,2<br>iPhone10,5",
+                "Introduced": "Sep 2017 (64, 256) <br><li> Sep 2019 (128)",
+                "Discontinued": "Sep 2019 (256) <br><li> Apr 2020 (64, 128)",
+                "Model Identifier": "iPhone10,2<br><li>iPhone10,5",
                 "Model Number": "A1864",
-                "Other Model Numbers": "<br>A1897<br>A1898<br>A1899",
+                "Other Model Numbers": "<br><li>A1897<br><li>A1898<br><li>A1899",
                 "EMC": "3160, 3173, 3174",
                 "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br>202 g, 15.84 H x 7.81 W x 0.75 D cm<br>"
+                "Weight/Dimensions": "<br><li>202 g, 15.84 H x 7.81 W x 0.75 D cm<br><li>"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
@@ -1230,12 +1230,12 @@
             "Overview": {
                 "Introduced": "Nov 2017",
                 "Discontinued": "Sep 2018",
-                "Model Identifier": "iPhone10,3<br>iPhone10,6",
+                "Model Identifier": "iPhone10,3<br><li>iPhone10,6",
                 "Model Number": "A1865",
-                "Other Model Numbers": "<br>A1865<br>A1901<br>A1902",
+                "Other Model Numbers": "<br><li>A1865<br><li>A1901<br><li>A1902",
                 "EMC": "3161, 3175, 3176",
                 "Colors": "Space Gray, Silver",
-                "Weight/Dimensions": "<br>174 g, 14.36 H x 7.09 W x 0.77 D cm<br>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>174 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
@@ -1297,10 +1297,10 @@
                 "Discontinued": "Sep 2019",
                 "Model Identifier": "iPhone11,2",
                 "Model Number": "A1920",
-                "Other Model Numbers": "<br>A2097<br>A2098<br>A2100",
+                "Other Model Numbers": "<br><li>A2097<br><li>A2098<br><li>A2100",
                 "EMC": "3218, 3232, 3233, 3262",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br>177 g, 14.36 H x 7.09 W x 0.77 D cm<br>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>177 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
@@ -1362,10 +1362,10 @@
                 "Discontinued": "Sep 2019",
                 "Model Identifier": "iPhone11,6",
                 "Model Number": "A1921",
-                "Other Model Numbers": "<br>A2101<br>A2102<br>A2104",
+                "Other Model Numbers": "<br><li>A2101<br><li>A2102<br><li>A2104",
                 "EMC": "3219, 3234, 3235, 3261",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br>208 g, 15.75 H x 7.74 W x 0.77 D cm<br>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>208 g, 15.75 H x 7.74 W x 0.77 D cm<br><li>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
@@ -1427,10 +1427,10 @@
                 "Discontinued": "Sep 2021",
                 "Model Identifier": "iPhone11,8",
                 "Model Number": "A1984",
-                "Other Model Numbers": "<br>A2105, A2106, A2107, A2108",
+                "Other Model Numbers": "<br><li>A2105, A2106, A2107, A2108",
                 "EMC": "3220, 3227, 3238, 3260",
                 "Colors": "(PRODUCT) Red, Yellow, White, Coral, Black, Blue",
-                "Weight/Dimensions": "<br>194 g, 15.09 H x 7.57 W x 0.83 D cm<br>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
+                "Weight/Dimensions": "<br><li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
@@ -1491,10 +1491,10 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone12,1",
                 "Model Number": "A2111",
-                "Other Model Numbers": "<br>A2221<br>A2223",
+                "Other Model Numbers": "<br><li>A2221<br><li>A2223",
                 "EMC": "3309, 3304",
                 "Colors": "(PRODUCT) Red, Yellow, White, Green, Black, Purple",
-                "Weight/Dimensions": "<br>194 g, 15.09 H x 7.57 W x 0.83 D cm<br>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
+                "Weight/Dimensions": "<br><li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1556,10 +1556,10 @@
                 "Discontinued": "Oct 2020",
                 "Model Identifier": "iPhone12,3",
                 "Model Number": "A2160",
-                "Other Model Numbers": "<br>A2217<br>A2215",
+                "Other Model Numbers": "<br><li>A2217<br><li>A2215",
                 "EMC": "3305, 3307",
                 "Colors": "Space Gray, Silver, Gold, Midnight Green",
-                "Weight/Dimensions": "<br>188 g, 14.40 H x 7.14 W x 0.81 D cm<br>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
+                "Weight/Dimensions": "<br><li>188 g, 14.40 H x 7.14 W x 0.81 D cm<br><li>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1618,10 +1618,10 @@
                 "Discontinued": "Oct 2020",
                 "Model Identifier": "iPhone12,5",
                 "Model Number": "A2161",
-                "Other Model Numbers": "<br>A2220<br>A2218",
+                "Other Model Numbers": "<br><li>A2220<br><li>A2218",
                 "EMC": "3306, 3308",
                 "Colors": "Space Gray, Silver, Gold, Midnight Green",
-                "Weight/Dimensions": "<br>226 g, 15.80 H x 7.78 W x 0.81 D cm<br>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<br><li>226 g, 15.80 H x 7.78 W x 0.81 D cm<br><li>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1679,10 +1679,10 @@
                 "Discontinued": "Mar 2022",
                 "Model Identifier": "iPhone12,8",
                 "Model Number": "A2275",
-                "Other Model Numbers": "<br>A2298<br>A2296",
+                "Other Model Numbers": "<br><li>A2298<br><li>A2296",
                 "EMC": "3500",
                 "Colors": "Black, White, (PRODUCT) RED",
-                "Weight/Dimensions": "<br>148 g, 13.84 H x 6.73 W x 0.73 D cm<br>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>148 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1740,10 +1740,10 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone13,2",
                 "Model Number": "A2172",
-                "Other Model Numbers": "<br>A2402<br>A2404<br>A2403",
+                "Other Model Numbers": "<br><li>A2402<br><li>A2404<br><li>A2403",
                 "EMC": "3542, 3543, 3544",
                 "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
-                "Weight/Dimensions": "<br>164 g, 14.67 H x 7.15 W x 0.74 D cm<br>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>164 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -1805,10 +1805,10 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone13,1",
                 "Model Number": "A2176",
-                "Other Model Numbers": "<br>A2398<br>A2399<br>A2400",
+                "Other Model Numbers": "<br><li>A2398<br><li>A2399<br><li>A2400",
                 "EMC": "3539, 3540, 3541",
                 "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
-                "Weight/Dimensions": "<br>135 g, 13.15 H x 6.42 W x 0.74 D cm<br>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>135 g, 13.15 H x 6.42 W x 0.74 D cm<br><li>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -1870,10 +1870,10 @@
                 "Discontinued": "Sep 2021",
                 "Model Identifier": "iPhone13,3",
                 "Model Number": "A2341",
-                "Other Model Numbers": "<br>A2406<br>A2407<br>A2408",
+                "Other Model Numbers": "<br><li>A2406<br><li>A2407<br><li>A2408",
                 "EMC": "3545, 3546, 3547",
                 "Colors": "Silver, Graphite, Gold, Pacific Blue",
-                "Weight/Dimensions": "<br>189 g, 14.67 H x 7.15 W x 0.74 D cm<br>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>189 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -1935,10 +1935,10 @@
                 "Discontinued": "Sep 2021",
                 "Model Identifier": "iPhone13,4",
                 "Model Number": "A2342",
-                "Other Model Numbers": "<br>A2410<br>A2411<br>A2412",
+                "Other Model Numbers": "<br><li>A2410<br><li>A2411<br><li>A2412",
                 "EMC": "3548, 3549, 3550",
                 "Colors": "Silver, Graphite, Gold, Pacific Blue",
-                "Weight/Dimensions": "<br>228 g, 16.08 H x 7.81 W x 0.74 D cm<br>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>228 g, 16.08 H x 7.81 W x 0.74 D cm<br><li>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -2000,10 +2000,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone14,5",
                 "Model Number": "A2482",
-                "Other Model Numbers": "<br>A2631<br>A2633<br>A2634<br>A2635",
+                "Other Model Numbers": "<br><li>A2631<br><li>A2633<br><li>A2634<br><li>A2635",
                 "EMC": "3997, 3999, 4032, 4031",
                 "Colors": "(PRODUCT) RED, Starlight, Midnight, Blue, Pink, Green",
-                "Weight/Dimensions": "<br>174 g, 14.67 H x 7.15 W x 0.76 D cm<br>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>174 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2066,10 +2066,10 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone14,4",
                 "Model Number": "A2481",
-                "Other Model Numbers": "<br>A2626<br>A2628<br>A2629",
+                "Other Model Numbers": "<br><li>A2626<br><li>A2628<br><li>A2629",
                 "EMC": "3996, 4029, 4030",
                 "Colors": "Red, Starlight, Midnight, Blue, Pink, Green",
-                "Weight/Dimensions": "<br>141 g, 13.15 H x 6.42 W x 0.76 D cm<br>4.97 oz, 5.18 H x 2.53 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>141 g, 13.15 H x 6.42 W x 0.76 D cm<br><li>4.97 oz, 5.18 H x 2.53 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2131,10 +2131,10 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone14,2",
                 "Model Number": "A2483",
-                "Other Model Numbers": "<br>A2636<br>A2638<br>A2639<br>A2640",
+                "Other Model Numbers": "<br><li>A2636<br><li>A2638<br><li>A2639<br><li>A2640",
                 "EMC": "4000, 4002, 4033, 4034",
                 "Colors": "Graphite, Gold, Silver, Sierra Blue, Alpine Green",
-                "Weight/Dimensions": "<br>204 g, 14.67 H x 7.15 W x 0.76 D cm<br>7.19 oz, 5.78 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>204 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>7.19 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2197,10 +2197,10 @@
                 "Discontinued": "Sep 2022",
                 "Model Identifier": "iPhone14,3",
                 "Model Number": "A2484",
-                "Other Model Numbers": "<br>A2641<br>A2643<br>A2644<br>A2645",
+                "Other Model Numbers": "<br><li>A2641<br><li>A2643<br><li>A2644<br><li>A2645",
                 "EMC": "4003, 4005, 4035, 4036",
                 "Colors": "Graphite, Gold, Silver, Sierra Blue, Alpine Green",
-                "Weight/Dimensions": "<br>240 g, 16.08 H x 7.81 W x 0.76 D cm<br>8.47 oz, 6.33 H x 3.07 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>240 g, 16.08 H x 7.81 W x 0.76 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2263,10 +2263,10 @@
                 "Discontinued": "Still available",
                 "Model Identifier": "iPhone14,6",
                 "Model Number": "A2595",
-                "Other Model Numbers": "<br>A2782<br>A2783<br>A2785",
+                "Other Model Numbers": "<br><li>A2782<br><li>A2783<br><li>A2785",
                 "EMC": "4082, 4083, 8064, 8076",
                 "Colors": "Midnight, Starlight, (PRODUCT) RED",
-                "Weight/Dimensions": "<br>144 g, 13.84 H x 6.73 W x 0.73 D cm<br>5.09 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<br><li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.09 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2328,10 +2328,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone14,7",
                 "Model Number": "A2649",
-                "Other Model Numbers": "<br>A2881<br>A2884<br>A2883",
+                "Other Model Numbers": "<br><li>A2881<br><li>A2884<br><li>A2883",
                 "EMC": "8138, 8142, 8144, 8143",
                 "Colors": "Midnight, Starlight, Blue, Purple, (PRODUCT) RED, Yellow",
-                "Weight/Dimensions": "<br>172 g, 14.67 H x 7.15 W x 0.78 D cm<br>6.07 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<br><li>172 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>6.07 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2393,10 +2393,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone14,8",
                 "Model Number": "A2632",
-                "Other Model Numbers": "<br>A2885<br>A2886<br>A2887<br>A2888",
+                "Other Model Numbers": "<br><li>A2885<br><li>A2886<br><li>A2887<br><li>A2888",
                 "EMC": "8139, 8146, 8148, 8147",
                 "Colors": "Midnight, Starlight, Blue, Purple, (PRODUCT) RED, Yellow",
-                "Weight/Dimensions": "<br>203 g, 16.08 H x 7.81 W x 0.78 D cm<br>7.16 oz, 6.33 H x 3.07 W x 0.31 D inch"
+                "Weight/Dimensions": "<br><li>203 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>7.16 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2458,10 +2458,10 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone15,2",
                 "Model Number": "A2650",
-                "Other Model Numbers": "<br>A2889<br>A2890<br>A2891<br>A2892",
+                "Other Model Numbers": "<br><li>A2889<br><li>A2890<br><li>A2891<br><li>A2892",
                 "EMC": "8140, 8150, 8152, 8151",
                 "Colors": "Space Black, Silver, Gold, Deep Purple",
-                "Weight/Dimensions": "<br>206 g, 14.67 H x 7.15 W x 0.78 D cm<br>7.27 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<br><li>206 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>7.27 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2525,10 +2525,10 @@
                 "Discontinued": "Sep 2023",
                 "Model Identifier": "iPhone15,3",
                 "Model Number": "A2651",
-                "Other Model Numbers": "<br>A2893<br>A2894<br>A2895<br>A2896",
+                "Other Model Numbers": "<br><li>A2893<br><li>A2894<br><li>A2895<br><li>A2896",
                 "EMC": "8141, 8154, 8156, 8155",
                 "Colors": "Space Black, Silver, Gold, Deep Purple",
-                "Weight/Dimensions": "<br>240 g, 16.08 H x 7.81 W x 0.78 D cm<br>8.47 oz, 6.33 H x 3.07 W x 0.31 D inch"
+                "Weight/Dimensions": "<br><li>240 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2592,10 +2592,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone15,4",
                 "Model Number": "A2846",
-                "Other Model Numbers": "<br>A3090<br>A3089<br>A3092",
+                "Other Model Numbers": "<br><li>A3090<br><li>A3089<br><li>A3092",
                 "EMC": "8427, 8428, 8430, 8429",
                 "Colors": "Black, Blue, Green, Yellow, Pink",
-                "Weight/Dimensions": "<br>171 g, 14.70 H x 7.15 W x 0.76 D cm<br>6.03 oz, 5.79 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>171 g, 14.70 H x 7.15 W x 0.76 D cm<br><li>6.03 oz, 5.79 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2658,10 +2658,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone15,5",
                 "Model Number": "A2847",
-                "Other Model Numbers": "<br>A3093<br>A3096<br>A3094",
+                "Other Model Numbers": "<br><li>A3093<br><li>A3096<br><li>A3094",
                 "EMC": "8431, 8432, 8433, 8434",
                 "Colors": "Black, Blue, Green, Yellow, Pink",
-                "Weight/Dimensions": "<br>201 g, 16.01 H x 7.81 W x 0.76 D cm<br>7.09 oz, 6.30 H x 3.07 W x 0.30 D inch"
+                "Weight/Dimensions": "<br><li>201 g, 16.01 H x 7.81 W x 0.76 D cm<br><li>7.09 oz, 6.30 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2724,10 +2724,10 @@
                 "Discontinued": "Sep 2024",
                 "Model Identifier": "iPhone16,1",
                 "Model Number": "A2848",
-                "Other Model Numbers": "<br>A3101<br>A3104<br>A3102",
+                "Other Model Numbers": "<br><li>A3101<br><li>A3104<br><li>A3102",
                 "EMC": "8435, 8436, 8437, 8438",
                 "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-                "Weight/Dimensions": "<br>187 g, 14.70 H x 7.06 W x 0.82 D cm<br>6.60 oz, 5.79 H x 2.78 W x 0.32 D inch"
+                "Weight/Dimensions": "<br><li>187 g, 14.70 H x 7.06 W x 0.82 D cm<br><li>6.60 oz, 5.79 H x 2.78 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A17 Pro",
@@ -2792,10 +2792,10 @@
                 "Discontinued": "Sep 2024",
                 "Model Identifier": "iPhone16,2",
                 "Model Number": "A2849",
-                "Other Model Numbers": "<br>A3105<br>A3108<br>A3106",
+                "Other Model Numbers": "<br><li>A3105<br><li>A3108<br><li>A3106",
                 "EMC": "8439, 8440, 8441, 8442",
                 "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-                "Weight/Dimensions": "<br>221 g, 15.99 H x 7.76 W x 0.82 D cm<br>7.80 oz, 6.30 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<br><li>221 g, 15.99 H x 7.76 W x 0.82 D cm<br><li>7.80 oz, 6.30 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A17 Pro",
@@ -2860,10 +2860,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone17,3",
                 "Model Number": "A3081",
-                "Other Model Numbers": "<br>A3286<br>A3288<br>A3287",
+                "Other Model Numbers": "<br><li>A3286<br><li>A3288<br><li>A3287",
                 "EMC": "8688, 8689, 8690, 8691",
                 "Colors": "Black, White, Pink, Teal, Ultramarine",
-                "Weight/Dimensions": "<br>170 g, 14.76 H x 7.16 W x 0.78 D cm<br>6 oz, 5.81 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<br><li>170 g, 14.76 H x 7.16 W x 0.78 D cm<br><li>6 oz, 5.81 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18",
@@ -2928,10 +2928,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone17,4",
                 "Model Number": "A3082",
-                "Other Model Numbers": "<br>A3289<br>A3290<br>A3291",
+                "Other Model Numbers": "<br><li>A3289<br><li>A3290<br><li>A3291",
                 "EMC": "8692, 8693, 8694, 8695",
                 "Colors": "Black, White, Pink, Teal, Ultramarine",
-                "Weight/Dimensions": "<br>199 g, 16.09 H x 7.78 W x 0.78 D cm<br>7.03 oz, 6.33 H x 3.06 W x 0.31 D inch"
+                "Weight/Dimensions": "<br><li>199 g, 16.09 H x 7.78 W x 0.78 D cm<br><li>7.03 oz, 6.33 H x 3.06 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18",
@@ -2996,10 +2996,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone17,1",
                 "Model Number": "A3083",
-                "Other Model Numbers": "<br>A3292<br>A3294<br>A3293",
+                "Other Model Numbers": "<br><li>A3292<br><li>A3294<br><li>A3293",
                 "EMC": "8666, 8667, 8683, 8668",
                 "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
-                "Weight/Dimensions": "<br>199 g, 14.96 H x 7.15 W x 0.83 D cm<br>7.03 oz, 5.89 H x 2.81 W x 0.32 D inch"
+                "Weight/Dimensions": "<br><li>199 g, 14.96 H x 7.15 W x 0.83 D cm<br><li>7.03 oz, 5.89 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18 Pro",
@@ -3065,10 +3065,10 @@
                 "Discontinued": "--",
                 "Model Identifier": "iPhone17,2",
                 "Model Number": "A3084",
-                "Other Model Numbers": "<br>A3295<br>A3297<br>A3296",
+                "Other Model Numbers": "<br><li>A3295<br><li>A3297<br><li>A3296",
                 "EMC": "8684, 8685, 8687, 8686",
                 "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
-                "Weight/Dimensions": "<br>227 g, 16.30 H x 7.76 W x 0.83 D cm<br>7.99 oz, 6.42 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<br><li>227 g, 16.30 H x 7.76 W x 0.83 D cm<br><li>7.99 oz, 6.42 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18 Pro",
