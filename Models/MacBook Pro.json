@@ -3014,7 +3014,7 @@
             "Power": {
                 "Battery": "58.2 Wh Lithium-polymer",
                 "Capacity": "5103 mAh",
-                "Life": "Up to 17-20 Hours"
+                "Life": "Up to 17 - 20 Hours"
             },
             "Connections": {
                 "Wi-Fi": "802.11ax (Wi-Fi 6)",
@@ -3087,38 +3087,6 @@
             }
         }
     }, {
-        "Name": "MacBook Pro<br>(14-inch, 2021)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_14_m1.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Oct 2021",
-                "Discontinued": "Jan 2023",
-                "Model Identifier": "MacBookPro18,4"
-            },
-            "Processor": {
-                "Name": "Apple M1 Max",
-                "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
-                "# of Cores": "10 (8 High Performance, 2 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
-            },
-            "Memory": {
-                "Options": "64 GB",
-                "Supported": "6400 MT/s LPDDR5"
-            },
-            "Graphics": {
-                "Chip": "Apple G13X",
-                "Graphics Cores": "24, 32"
-            },
-            "Display": {
-                "Display Type": "14.2-inch Liquid Retina XDR display",
-                "Native Resolution": "3024 x 1964"
-            }
-        }
-    }, {
         "Name": "MacBook Pro<br>(16-inch, 2021)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_m1.png",
@@ -3126,60 +3094,55 @@
             "Overview": {
                 "Introduced": "Oct 2021",
                 "Discontinued": "Jan 2023",
-                "Model Identifier": "MacBookPro18,1"
+                "Model Identifier": "<li>MacBookPro18,1<br><li>MacBookPro18,2",
+                "Model Number": "A2485",
+                "EMC": "3651",
+                "Weight/Dimensions": "<br>2.1 kg (M1 Pro) 2.2 kg (M1 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M1 Pro) 4.8 lbs. (M1 Max), 0.66 H x 14.01 W x 9.77 D inch"
             },
             "Processor": {
-                "Name": "Apple M1 Pro",
+                "Name": "Apple M1 Pro or M1 Max",
                 "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
-                "# of Cores": "10 (8 High Performance, 2 High Efficiency)"
+                "# of Cores": "10 (8 High Performance, 2 High Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "32 GB",
-                "Supported": "6400 MT/s LPDDR5"
+                "Options": "16 or 32 GB (M1 Pro), 32 or 64 GB (M1 Max)",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "200 GB/s (M1 Pro), 400 GB/s (M1 Max)"
             },
             "Graphics": {
                 "Chip": "Apple G13X",
-                "Graphics Cores": "16"
+                "Graphics Cores": "16 (M1 Pro), 24 or 32 (M1 Max)"
             },
             "Display": {
                 "Display Type": "16.2-inch Liquid Retina XDR display",
+                "Brightness": "500 nits (SDR), up to 1000 nits (sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
                 "Native Resolution": "3456 x 2234"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(16-inch, 2021)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_16_m1.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Oct 2021",
-                "Discontinued": "Jan 2023",
-                "Model Identifier": "MacBookPro18,2"
             },
-            "Processor": {
-                "Name": "Apple M1 Max",
-                "Speed": "3.2 GHz (High Performance), 2.1 GHz (High Efficiency)",
-                "# of Cores": "10 (8 High Performance, 2 High Efficiency)"
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"
             },
-            "Software": {
-                "Original OS": "macOS 12.0 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+            "Power": {
+                "Battery": "99.6 Wh Lithium-polymer",
+                "Capacity": "8693 mAh",
+                "Life": "Up to 14 - 21 Hours"
             },
-            "Memory": {
-                "Options": "64 GB",
-                "Supported": "6400 MT/s LPDDR5"
-            },
-            "Graphics": {
-                "Chip": "Apple G13X",
-                "Graphics Cores": "24, 32"
-            },
-            "Display": {
-                "Display Type": "16.2-inch Liquid Retina XDR display",
-                "Native Resolution": "3456 x 2234"
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
@@ -3189,21 +3152,27 @@
         "Info": {
             "Overview": {
                 "Introduced": "Jun 2022",
-                "Discontinued": "Present",
-                "Model Identifier": "Mac14,7"
+                "Discontinued": "Oct 2023",
+                "Model Identifier": "Mac14,7",
+                "Model Number": "A2338 (M2)",
+                "EMC": "8162",
+                "Weight/Dimensions": "<br>1.4 kg, 1.56 H x 30.41 W x 21.24 D cm<br>3 lbs., 0.61 H x 11.97 W x 8.36 D inch"
             },
             "Processor": {
                 "Name": "Apple M2",
                 "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
-                "# of Cores": "8 (4 high performance, 4 high efficiency)"
+                "# of Cores": "8 (4 high performance, 4 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 12.4 (Monterey)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "24 GB",
-                "Supported": "6400 MT/s LPDDR4X"
+                "Options": "8, 16 or 24 GB",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "100 GB/s"
             },
             "Graphics": {
                 "Chip": "Apple GPU",
@@ -3212,161 +3181,172 @@
             "Display": {
                 "Display Type": "13-inch LED-backlit display with IPS technology",
                 "Aspect Ratio": "16:10",
+                "Brightness": "500 nits",
                 "Native Resolution": "2560 x 1600"
+            },
+            "Storage": {
+                "SSD": "256, 512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "58.2 Wh Lithium-polymer",
+                "Capacity": "5103 mAh",
+                "Life": "Up to 17 - 20 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.0",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "2 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "Through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 2 - Built-in speakers",
+                "Power": "Through Thunderbolt Ports"
             }
         }
     }, {
-        "Name": "MacBook Pro<br>(14-inch, 2023)<br>(M2 Pro)",
+        "Name": "MacBook Pro<br>(14-inch, 2023)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_14_m2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jan 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac14,9"
+                "Discontinued": "Oct 2023",
+                "Model Identifier": "<li>Mac14,9 (M2 Pro)<br><li>Mac14,5 (M2 Max)",
+                "Model Number": "A2779",
+                "EMC": "8102",
+                "Weight/Dimensions": "<br>1.6 kg (M2 Pro) 1.63 kg (M2 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M1 Pro) 3.6 lbs. (M1 Max), 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
-                "Name": "Apple M2 Pro",
+                "Name": "Apple M2 Pro or M2 Max",
                 "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
                 "# of Cores": "10 (6 High Performance, 4 High Efficiency), 12 (8 High Performance, 4 High Efficiency)"
             },
             "Software": {
                 "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "32 GB",
-                "Supported": "6400 MT/s LPDDR5"
+                "Options": "16 or 32 GB (M2 Pro), 32 or 64 GB (M2 Max), 32, 64 or 96 GB (M2 Max with 38-Core GPU)",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "200 GB/s (M2 Pro), 400 GB/s (M2 Max)"
             },
             "Graphics": {
                 "Chip": "Apple GPU",
-                "Graphics Cores": "16, 19"
+                "Graphics Cores": "16 or 19 (M2 Pro), 30 or 38 (M2 Max)"
             },
             "Display": {
                 "Display Type": "14.2-inch Liquid Retina XDR display",
+                "Brightness":"500 nits (SDR), up to 1000 nits (sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
                 "Native Resolution": "3024 x 1964"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"   
+            },
+            "Power": {
+                "Battery": "69.6 Wh Lithium-polymer",
+                "Capacity": "6068 mAh",
+                "Life": "Up to 12 - 18 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
-        "Name": "MacBook Pro<br>(14-inch, 2023)<br>(M2 Max)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_14_m2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Jan 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac14,5"
-            },
-            "Processor": {
-                "Name": "Apple M2 Max",
-                "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
-                "# of Cores": "12 (8 High Performance, 4 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
-            },
-            "Memory": {
-                "Options": "64 GB / 96 GB (with 38-Core GPU)",
-                "Supported": "6400 MT/s LPDDR5"
-            },
-            "Graphics": {
-                "Chip": "Apple GPU",
-                "Graphics Cores": "30, 38"
-            },
-            "Display": {
-                "Display Type": "14.2-inch Liquid Retina XDR display",
-                "Native Resolution": "3024 x 1964"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(16-inch, 2023)<br>(M2 Pro)",
+        "Name": "MacBook Pro<br>(16-inch, 2023)",
         "Type": "MacBook Pro",
         "image": "macbook_pro_16_m2.png",
         "Info": {
             "Overview": {
                 "Introduced": "Jan 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac14,10"
+                "Discontinued": "Oct 2023",
+                "Model Identifier": "<li>Mac14,10 (M2 Pro)<br><li>Mac14,6 (M2 Max)",
+                "Model Number": "A2780",
+                "EMC": "8103",
+                "Weight/Dimensions": "<br>2.15 kg (M2 Pro) 2.16 (M2 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M2 Pro) 4.8 (M2 Max), 0.66 H x 14.01 W x 9.77 D inch"
             },
             "Processor": {
-                "Name": "Apple M2 Pro",
+                "Name": "Apple M2 Pro or M2 Max",
                 "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
-                "# of Cores": "12 (8 High Performance, 4 High Efficiency)"
+                "# of Cores": "12 (8 High Performance, 4 High Efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "5 nm"
             },
             "Software": {
                 "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Options": "32 GB",
-                "Supported": "6400 MT/s LPDDR5"
+                "Options": "16 or 32 GB (M2 Pro), 32 or 64 GB (M2 Max), 32, 64 or 96 GB (M2 Max with 38-Core GPU)",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "200 GB/s (M2 Pro), 400 GB/s (M2 Max)"
             },
             "Graphics": {
                 "Chip": "Apple GPU",
-                "Graphics Cores": "16, 19"
+                "Graphics Cores": "16 or 19 (M2 Pro), 30 or 38 (M2 Max)"
             },
             "Display": {
                 "Display Type": "16.2-inch Liquid Retina XDR display",
+                "Brightness":"500 nits (SDR), up to 1000 nits (sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
                 "Native Resolution": "3456 x 2234"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"
+            },
+            "Power": {
+                "Battery": "99.6 Wh Lithium-polymer",
+                "Capacity": "8693 mAh",
+                "Life": "Up to 15 - 22 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
-        "Name": "MacBook Pro<br>(16-inch, 2023)<br>(M2 Max)",
-        "Type": "MacBook Pro",
-        "image": "macbook_pro_16_m2.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Jan 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac14,6"
-            },
-            "Processor": {
-                "Name": "Apple M2 Max",
-                "Speed": "3.5 GHz (High Performance), 2.4 GHz (High Efficiency)",
-                "# of Cores": "12 (8 High Performance, 4 High Efficiency)"
-            },
-            "Software": {
-                "Original OS": "macOS 13.0 (Ventura)",
-                "Maximum OS": "Latest release of macOS 13 (Ventura)"
-            },
-            "Memory": {
-                "Options": "64 GB / 96 GB (with 38-Core GPU)",
-                "Supported": "6400 MT/s LPDDR5"
-            },
-            "Graphics": {
-                "Chip": "Apple GPU",
-                "Graphics Cores": "30, 38"
-            },
-            "Display": {
-                "Display Type": "16.2-inch Liquid Retina XDR display",
-                "Native Resolution": "3456 x 2234"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(14-inch, M3, Nov 2023)",
+        "Name": "MacBook Pro<br>(14-inch, Nov 2023)<br>(M3)",
         "Type": "MacBook Pro",
         "image": "mbp_14_m3.png",
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac15,3"
+                "Discontinued": "Oct 2024",
+                "Model Identifier": "Mac15,3",
+                "Model Number": "A2918",
+                "EMC": "8304",
+                "Weight/Dimensions": "<br>1.55 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.4 lbs., 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
                 "Name": "Apple M3",
                 "Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
                 "# of Cores": "8 (4 high performance, 4 high efficiency)",
+                "# of Neural Engine Cores": "16",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
                 "Original OS": "macOS 13.5 (Ventura)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
+                "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Built-in Memory": "8, 16 or 24",
-                "Options": "24 GB",
-                "Supported": "6400 MT/s LPDDR5"
+                "Options": "8, 16 or 24 GB",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "100 GB/s"
             },
             "Graphics": {
                 "Chip": "Apple GPU",
@@ -3374,59 +3354,48 @@
             },
             "Display": {
                 "Display Type": "14.2-inch Liquid Retina XDR display",
-                "Native Resolution": "3024 x 1964",
-                "Refresh Rate": "Up to 120 Hz ProMotion"
+                "Brightness":"600 nits (SDR), up to 1000 nits (sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
+                "Native Resolution": "3024 x 1964"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1 or 2 TB"
+            },
+            "Power": {
+                "Battery": "69.6 Wh Lithium-polymer",
+                "Capacity": "6068 mAh",
+                "Life": "Up to 15 - 22 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "2 - Thunderbolt 3 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
             }
         }
     }, {
-        "Name": "MacBook Pro<br>(14-inch, Nov 2023)<br>(M3 Pro)",
+        "Name": "MacBook Pro<br>(14-inch, Nov 2023)<br>(M3 Pro or M3 Max)",
         "Type": "MacBook Pro",
         "image": "mbp_14_m3.png",
         "Info": {
             "Overview": {
                 "Introduced": "Nov 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac15,6"
+                "Discontinued": "Oct 2024",
+                "Model Identifier": "<li>Mac15,6 (M3 Pro)<br><li>Mac15,10 (M3 Max)<br><li>Mac15,11 (M3 Max)",
+                "Model Number":"A2992",
+                "EMC": "8407",
+                "Weight/Dimensions": "<br>1.61 kg (M3 Pro) 1.62 kg (M3 Max), 1.55 H x 31.26 W x 22.12 D cm<br>3.5 lbs. (M3 Pro) 3.6 lbs. (M3 Max), 0.61 H x 12.31 W x 8.71 D inch"
             },
             "Processor": {
-                "Name": "Apple M3 Pro ",
+                "Name": "Apple M3 Pro or M3 Max",
                 "Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
-                "# of Cores": "11 (5 high performance, 6 high efficiency), 12 (6 high performance, 6 high efficiency)",
-                "Manufacturing Process": "3 nm"
-            },
-            "Software": {
-                "Original OS": "macOS 14.1 (Sonoma)",
-                "Maximum OS": "Latest release of macOS (Sonoma)"
-            },
-            "Memory": {
-                "Built-in Memory": "18, 36",
-                "Options": "36 GB",
-                "Supported": "6400 MT/s LPDDR5"
-            },
-            "Graphics": {
-                "Chip": "Apple GPU",
-                "Graphics Cores": "14, 18"
-            },
-            "Display": {
-                "Display Type": "14.2-inch Liquid Retina XDR display",
-                "Native Resolution": "3024 x 1964",
-                "Refresh Rate": "Up to 120 Hz ProMotion"
-            }
-        }
-    }, {
-        "Name": "MacBook Pro<br>(14-inch, Nov 2023)<br>(M3 Max 14-Core)",
-        "Type": "MacBook Pro",
-        "image": "mbp_14_m3.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Nov 2023",
-                "Discontinued": "---",
-                "Model Identifier": "Mac15,10"
-            },
-            "Processor": {
-                "Name": "Apple M3 Max",
-                "Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
-                "# of Cores": "14 (10 high performance, 4 high efficiency)",
+                "# of Cores": "<br><li>11 (5 high performance, 6 high efficiency) (M3 Pro)<br><li>12 (6 high performance, 6 high efficiency) (M3 Pro)<br><li>14 (10 high performance, 4 high efficiency) (M3 Max) (Mac15,10)<br><li>16 (12 high performance, 4 high efficiency) (M3 Max) (Mac15,11)",
+                "# of Neural Engine Cores": "16",
                 "Manufacturing Process": "3 nm"
             },
             "Software": {
@@ -3434,25 +3403,97 @@
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Built-in Memory": "36, 96",
-                "Options": "96 GB",
-                "Supported": "6400 MT/s LPDDR5"
+                "Options": "<br><li>18 or 36 GB (M3 Pro)<br><li>36 or 96 (M3 Max with 14-core CPU)<br><li>48, 64 or 128 GB (M3 Max with 16-core CPU)",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "<br><li>150 GB/s (M3 Pro)<br><li>300 GB/s (M3 Max with 14-core CPU)<br><li>400 GB/s (M3 Max with 16-core CPU)"
             },
             "Graphics": {
                 "Chip": "Apple GPU",
-                "Graphics Cores": "30, 40"
+                "Graphics Cores": "14 or 18 (M3 Pro), 30 or 40 (M3 Max)"
             },
             "Display": {
                 "Display Type": "14.2-inch Liquid Retina XDR display",
-                "Native Resolution": "3024 x 1964",
-                "Refresh Rate": "Up to 120 Hz ProMotion"
+                "Brightness":"600 nits (SDR), up to 1000 nits (sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
+                "Native Resolution": "3024 x 1964"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"
+            },
+            "Power": {
+                "Battery": "72.4 Wh Lithium-polymer",
+                "Life": "Up to 12 - 18 Hours"
             },
             "Connections": {
-                "Wi-Fi": "802.11ax 6E",
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
                 "Bluetooth": "5.3",
-                "Thunderbolt": "3"
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
             }
-            
+        }
+    }, {
+        "Name": "MacBook Pro<br>(16-inch, Nov 2023)",
+        "Type": "MacBook Pro",
+        "image": "mbp_16_nov2023.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Nov 2023",
+                "Discontinued": "Oct 2024",
+                "Model Identifier": "<li>Mac15,7 (M3 Pro)<br><li>Mac15,11 (M3 Max)<br><li>Mac15,9 (M3 Max)",
+                "Model Number": "A2991",
+                "EMC": "8408",
+                "Weight/Dimensions": "<br>2.14 kg (M2 Pro) 2.16 (M2 Max), 1.68 H x 35.57 W x 24.81 D cm<br>4.7 lbs. (M2 Pro) 4.8 (M2 Max), 0.66 H x 14.01 W x 9.77 D inch"
+            },
+            "Processor": {
+                "Name": "Apple M3 Pro or M3 Max",
+                "Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "# of Cores": "<br><li>12 (8 High Performance, 4 High Efficiency) (M3 Pro)<br><li>14 (10 High Performance, 4 High Efficiency) (M3 Max) (Mac15,11)<br><li>16 (12 High Performance, 4 High Efficiency) (M3 Max) (Mac15,9)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 14.1 (Sonoma)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "<br><li>18 or 36 GB (M3 Pro)<br><li>36 or 96 (M3 Max with 14-core CPU)<br><li>48, 64 or 128 GB (M3 Max with 16-core CPU)",
+                "Supported": "6400 MT/s LPDDR5",
+                "Bandwidth": "<br><li>150 GB/s (M3 Pro)<br><li>300 GB/s (M3 Max with 14-core CPU)<br><li>400 GB/s (M3 Max with 16-core CPU)"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "18 (M3 Pro), 30 or 40 (M3 Max)"
+            },
+            "Display": {
+                "Display Type": "16.2-inch Liquid Retina XDR display",
+                "Brightness":"600 nits (SDR), up to 1000 nits (sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
+                "Native Resolution": "3456 x 2234"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2, 4 or 8 TB"
+            },
+            "Power": {
+                "Battery": "99.6 Wh Lithium-polymer",
+                "Capacity": "8693 mAh",
+                "Life": "Up to 15 - 22 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
+            }
         }
     }
 ]
