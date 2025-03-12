@@ -11,7 +11,7 @@
                 "Model Number": "A1218",
                 "EMC": "2123",
                 "Color": "Silver",
-                "Weight/Dimensions": "<br>1.09 kg, 28H x 197W x 197D mm <br> 2.4 lbs, 1.1H x 7.7W x 7.7D in"
+                "Weight/Dimensions": "<br>1.09 kg, 28 H x 197 W x 197 D mm <br> 2.4 lbs, 1.1 H x 7.7 W x 7.7 D inch"
             },
             "Processor": {
                 "Processor Name": "Intel Pentium M (ULV 1.0)",
@@ -59,7 +59,7 @@
                 "Model Number": "A1378",
                 "EMC": "2411",
                 "Color": "Black",
-                "Weight/Dimensions": "<br>0.27kg, 23H x 98W x 98D mm <br> 0.6 lbs, 0.9H x 3.9W x 3.9D in"
+                "Weight/Dimensions": "<br>0.27 kg, 23 H x 98 W x 98 D mm <br> 0.6 lbs, 0.9 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A4",
@@ -107,7 +107,7 @@
                 "Model Number": "A1427",
                 "EMC": "2528",
                 "Color": "Black",
-                "Weight/Dimensions": "<br>0.27kg, 23H x 98W x 98D mm <br> 0.6 lbs, 0.9H x 3.9W x 3.9D in"
+                "Weight/Dimensions": "<br>0.27 kg, 23 H x 98 W x 98 D mm <br> 0.6 lbs, 0.9 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A5",
@@ -155,7 +155,7 @@
                 "Model Number": "A1469",
                 "EMC": "2528",
                 "Color": "Black",
-                "Weight/Dimensions": "<br>0.27kg, 23H x 98W x 98D mm <br> 0.6 lbs, 0.9H x 3.9W x 3.9D in"
+                "Weight/Dimensions": "<br>0.27 kg, 23 H x 98 W x 98 D mm <br> 0.6 lbs, 0.9 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A5",
@@ -203,7 +203,7 @@
                 "Model Number": "A1625",
                 "EMC": "2907",
                 "Color": "Black",
-                "Weight/Dimensions": "<br>0.425kg, 35H x 98W x 98D mm <br> 0.94 lbs, 1.4H x 3.9W x 3.9D in"
+                "Weight/Dimensions": "<br>0.425 kg, 35 H x 98 W x 98 D mm <br> 0.94 lbs, 1.4 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
@@ -253,7 +253,7 @@
                 "Model Number": "A1842",
                 "EMC": "3124",
                 "Color": "Black",
-                "Weight/Dimensions": "<br>0.425kg, 35H x 98W x 98D mm <br> 0.94 lbs, 1.4H x 3.9W x 3.9D in"
+                "Weight/Dimensions": "<br>0.425 kg, 35 H x 98 W x 98 D mm <br> 0.94 lbs, 1.4 H x 3.9 W x 3.9 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A10X Fusion",
@@ -301,7 +301,7 @@
                 "Model Number": "A2169",
                 "EMC": "3111",
                 "Color": "Black",
-                "Weight/Dimensions":"<br>0.425kg, 35H x 98W x 98D mm <br> 0.94 lbs, 1.4H x 3.9W x 3.9D in"
+                "Weight/Dimensions":"<br>0.425 kg, 35 H x 98 W x 98 D mm <br> 0.94 lbs, 1.4 H x 3.9 W x 3.9 D in"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
@@ -349,7 +349,7 @@
                 "Model Number": "A2737 (Wi-Fi) or A2843 (Wi-Fi + Ethernet)",
                 "EMC": "8101 (Wi-Fi) or 8165 (Wi-Fi + Ethernet)",
                 "Color": "Black",
-                "Weight/Dimensions": "<br>0.208kg (Wi-Fi), 0.214kg (Wi-Fi + Ethernet), 31H x 93W x 93D mm <br>0.46 lbs (Wi-Fi), 0.47 lbs (Wi-Fi + Ethernet), 1.2H x 3.66W x 3.66D in"
+                "Weight/Dimensions": "<br>0.208 kg (Wi-Fi), 0.214 kg (Wi-Fi + Ethernet), 31 H x 93 W x 93 D mm <br>0.46 lbs (Wi-Fi), 0.47 lbs (Wi-Fi + Ethernet), 1.2 H x 3.66 W x 3.66 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",

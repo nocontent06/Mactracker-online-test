@@ -14,8 +14,8 @@
                 "Weight/Dimensions": "<br>8.4 kg, 43 H x 42.6 W x 17.3 D cm<br>18.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "PowerPC 970FX (G5)",
-                "Processor Speed": "1.6 or 1.8 GHz",
+                "Name": "PowerPC 970FX (G5)",
+                "Speed": "1.6 or 1.8 GHz",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -28,19 +28,19 @@
                 "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "400 MHz DDR SDRAM",
-                "# of Memory Slots": "2" 
+                "Maximum": "2 GB",
+                "Supported": "400 MHz DDR SDRAM",
+                "# of Slots": "2" 
             },
             "Display": {
-                "Display Type": "17-inch widescreen TFT LCD",
+                "Type": "17-inch widescreen TFT LCD",
                 "Brightness": "200 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce4 MX or GeForce FX 5200 Ultra",
-                "Graphics Memory": "32 MB (MX) or 64 MB (FX 5200) DDR"
+                "Chip": "NVIDIA GeForce4 MX or GeForce FX 5200 Ultra",
+                "Memory": "32 MB (MX) or 64 MB (FX 5200) DDR"
             },
             "Connections": {
                 "Wi-Fi": "Optional AirPort Extreme card (802.11b/g)",
@@ -55,8 +55,7 @@
                 "Camera": "none"
             }
         }
-    },
-    {
+    }, {
         "Name": "iMac G5 20-inch",
         "Type": "iMac",
         "image": "imac_g5.png",
@@ -71,8 +70,8 @@
                 "Weight/Dimensions": "<br>11.4 kg, 47.2 H x 49.3 W x 18.9 D cm<br>25.2 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "PowerPC 970FX (G5)",
-                "Processor Speed": "1.8 GHz",
+                "Name": "PowerPC 970FX (G5)",
+                "Speed": "1.8 GHz",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -85,19 +84,19 @@
                 "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "400 MHz DDR SDRAM",
-                "# of Memory Slots": "2"
+                "Maximum": "2 GB",
+                "Supported": "400 MHz DDR SDRAM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "20-inch widescreen TFT LCD",
+                "Type": "20-inch widescreen TFT LCD",
                 "Brightness": "230 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce FX 5200 Ultra",
-                "Graphics Memory": "64 MB DDR"
+                "Chip": "NVIDIA GeForce FX 5200 Ultra",
+                "Memory": "64 MB DDR"
             },
             "Connections": {
                 "Wi-Fi": "Optional AirPort Extreme card (802.11b/g)",
@@ -112,8 +111,7 @@
                 "Camera": "none"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac G5 17-inch (ALS)",
         "Type": "iMac",
         "image": "imac_g5.png",
@@ -128,8 +126,8 @@
                 "Weight/Dimensions": "<br>8.4 kg, 43 H x 42.6 W x 17.3 D cm<br>18.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "PowerPC 970FX (G5)",
-                "Processor Speed": "1.8 GHz or 2.0 GHz",
+                "Name": "PowerPC 970FX (G5)",
+                "Speed": "1.8 GHz or 2.0 GHz",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -143,19 +141,19 @@
                 "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "400 MHz DDR SDRAM",
-                "# of Memory Slots": "2"
+                "Maximum": "2 GB",
+                "Supported": "400 MHz DDR SDRAM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "17-inch widescreen TFT LCD",
+                "Type": "17-inch widescreen TFT LCD",
                 "Brightness": "200 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon 9600",
-                "Graphics Memory": "128 MB DDR"
+                "Chip": "ATI Radeon 9600",
+                "Memory": "128 MB DDR"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -170,8 +168,7 @@
                 "Camera": "none"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac G5 20-inch (ALS)",
         "Type": "iMac",
         "image": "imac_g5.png",
@@ -186,8 +183,8 @@
                 "Weight/Dimensions": "<br>11.4 kg, 47.2 H x 49.3 W x 18.9 D cm<br>25.2 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "PowerPC 970FX (G5)",
-                "Processor Speed": "2 GHz",
+                "Name": "PowerPC 970FX (G5)",
+                "Speed": "2 GHz",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -200,19 +197,19 @@
                 "Maximum OS": "Mac OS X 10.5.8 (Leopard)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "400 MHz DDR SDRAM",
-                "# of Memory Slots": "2"
+                "Maximum": "2 GB",
+                "Supported": "400 MHz DDR SDRAM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "20-inch widescreen TFT LCD",
+                "Type": "20-inch widescreen TFT LCD",
                 "Brightness": "230 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon 9600",
-                "Graphics Memory": "128 MB DDR"
+                "Chip": "ATI Radeon 9600",
+                "Memory": "128 MB DDR"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -227,8 +224,7 @@
                 "Camera": "none"
             }
         }
-    },
-    {
+    }, {
         "Name": "iMac G5 17-inch iSight",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -243,8 +239,8 @@
                 "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "PowerPC 970FX (G5)",
-                "Processor Speed": "1.9 GHz",
+                "Name": "PowerPC 970FX (G5)",
+                "Speed": "1.9 GHz",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -258,19 +254,19 @@
             },
             "Memory": {
                 "Built-in Memory": "512 MB",
-                "Maximum Memory": "2.5 GB",
-                "Supported RAM": "533 MHz DDR2 SDRAM",
-                "# of Memory Slots": "1"
+                "Maximum": "2.5 GB",
+                "Supported": "533 MHz DDR2 SDRAM",
+                "# of Slots": "1"
             },
             "Display": {
-                "Display Type": "17-inch widescreen TFT LCD",
+                "Type": "17-inch widescreen TFT LCD",
                 "Brightness": "250 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon X600 Pro",
-                "Graphics Memory": "128 MB DDR"
+                "Chip": "ATI Radeon X600 Pro",
+                "Memory": "128 MB DDR"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -284,8 +280,7 @@
                 "Camera": "Built-in iSight"
             }
         }
-    },
-    {
+    }, {
         "Name": "iMac G5 20-inch iSight",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -300,8 +295,8 @@
                 "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "PowerPC 970FX (G5)",
-                "Processor Speed": "2.1 GHz",
+                "Name": "PowerPC 970FX (G5)",
+                "Speed": "2.1 GHz",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -315,19 +310,19 @@
             },
             "Memory": {
                 "Built-in Memory": "512 MB",
-                "Maximum Memory": "2.5 GB",
-                "Supported RAM": "533 MHz DDR2 SDRAM",
-                "# of Memory Slots": "1"
+                "Maximum": "2.5 GB",
+                "Supported": "533 MHz DDR2 SDRAM",
+                "# of Slots": "1"
             },
             "Display": {
-                "Display Type": "20-inch widescreen TFT LCD",
+                "Type": "20-inch widescreen TFT LCD",
                 "Brightness": "280 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon X600 XT",
-                "Graphics Memory": "128 MB DDR"
+                "Chip": "ATI Radeon X600 XT",
+                "Memory": "128 MB DDR"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -342,8 +337,7 @@
             }
 
         }
-    },
-    {
+    }, {
         "Name": "iMac Early 2006 17-inch",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -358,8 +352,8 @@
                 "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core Duo (T2400) ('Yonah')",
-                "Processor Speed": "1.83 GHz",
+                "Name": "Intel Core Duo (T2400) ('Yonah')",
+                "Speed": "1.83 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
@@ -373,19 +367,19 @@
                 "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "2 GB",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "17-inch widescreen TFT LCD",
+                "Type": "17-inch widescreen TFT LCD",
                 "Brightness": "250 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon X1600",
-                "Graphics Memory": "128 MB GDDR3"
+                "Chip": "ATI Radeon X1600",
+                "Memory": "128 MB GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -401,8 +395,7 @@
             
 
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Early 2006 20-inch",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -417,8 +410,8 @@
                 "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core Duo T2500 ('Yonah')",
-                "Processor Speed": "2 GHz",
+                "Name": "Intel Core Duo T2500 ('Yonah')",
+                "Speed": "2 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
@@ -432,19 +425,19 @@
                 "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "2 GB",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "20-inch widescreen TFT LCD",
+                "Type": "20-inch widescreen TFT LCD",
                 "Brightness": "280 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon X1600",
-                "Graphics Memory": "128 MB or 256 MB GDDR3"
+                "Chip": "ATI Radeon X1600",
+                "Memory": "128 MB or 256 MB GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -458,8 +451,7 @@
                 "Camera": "Built-in iSight"
             }
         }
-    },
-    {
+    }, {
         "Name": "iMac Mid 2006",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -474,8 +466,8 @@
                 "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core Duo (T2400) ('Yonah')",
-                "Processor Speed": "1.83 GHz",
+                "Name": "Intel Core Duo (T2400) ('Yonah')",
+                "Speed": "1.83 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
@@ -488,18 +480,18 @@
                 "Maximum OS": "Mac OS X 10.6.8 (Snow Leopard)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "2 GB",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "17-inch (viewable) TFT LCD",
+                "Type": "17-inch (viewable) TFT LCD",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Graphics Media Accelerator (GMA) 950",
-                "Graphics Memory": "64 MB DDR2"
+                "Chip": "Intel Graphics Media Accelerator (GMA) 950",
+                "Memory": "64 MB DDR2"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -514,8 +506,7 @@
             }
 
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Late 2006 17-inch CD",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -530,8 +521,8 @@
                 "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T5600) ('Merom')",
-                "Processor Speed": "1.83 GHz",
+                "Name": "Intel Core 2 Duo (T5600) ('Merom')",
+                "Speed": "1.83 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "65 nm"
@@ -545,19 +536,19 @@
                 "Maximum OS": "Mac OS X 10.7.5 (Lion)"
             },
             "Memory": {
-                "Maximum Memory": "2 GB",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "2 GB",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "17-inch (viewable) TFT LCD",
+                "Type": "17-inch (viewable) TFT LCD",
                 "Brightness": "250 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Graphics Media Accelerator (GMA) 950",
-                "Graphics Memory": "64 MB DDR2"
+                "Chip": "Intel Graphics Media Accelerator (GMA) 950",
+                "Memory": "64 MB DDR2"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11b/g)",
@@ -570,8 +561,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Late 2006 17-inch",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -586,8 +576,8 @@
                 "Weight/Dimensions": "<br>7 kg, 43 H x 42.6 W x 17.3 D cm<br>15.5 lbs, 16.9 H x 16.8 W x 6.8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T7200, T7400) ('Merom') ",
-                "Processor Speed": "2.0 GHz or 2.16 GHz ",
+                "Name": "Intel Core 2 Duo (T7200, T7400) ('Merom') ",
+                "Speed": "2.0 GHz or 2.16 GHz ",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "65 nm"
@@ -601,19 +591,19 @@
                 "Maximum OS": "Mac OS X 10.7.5 (Lion)"
             },
             "Memory": {
-                "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "17-inch (viewable) TFT LCD",
+                "Type": "17-inch (viewable) TFT LCD",
                 "Brightness": "250 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1440 x 900"  
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon X1600",
-                "Graphics Memory": "128 MB GDDR3"
+                "Chip": "ATI Radeon X1600",
+                "Memory": "128 MB GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -626,8 +616,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Late 2006 20-inch",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -642,8 +631,8 @@
                 "Weight/Dimensions": "<br>10 kg, 47.2 H x 49.3 W x 18.9 D cm <br> 22 lbs, 18.6 H x 19.4 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
-                "Processor Speed": "2.16 GHz or 2.33 GHz",
+                "Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
+                "Speed": "2.16 GHz or 2.33 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "65 nm"
@@ -657,19 +646,19 @@
                 "Maximum OS": "Mac OS X 10.7.5 (Lion)"
             },
             "Memory": {
-                "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "20-inch (viewable) TFT LCD",
+                "Type": "20-inch (viewable) TFT LCD",
                 "Brightness": "280 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon X1600",
-                "Graphics Memory": "128 MB or 256 MB GDDR3"
+                "Chip": "ATI Radeon X1600",
+                "Memory": "128 MB or 256 MB GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -683,8 +672,7 @@
             }
 
         }
-    },
-    {
+    }, {
         "Name": "iMac (24')",
         "Type": "iMac",
         "image": "imac_isight.png",
@@ -699,8 +687,8 @@
                 "Weight/Dimensions": "<br>11.2 kg, 52.3 H x 57.4 W x 20.7 D cm <br>24.7 lbs, 20.6 H x 22.6 W x 8.1 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
-                "Processor Speed": "2.16 GHz or 2.33 GHz",
+                "Name": "Intel Core 2 Duo (T7400, T7600) ('Merom')",
+                "Speed": "2.16 GHz or 2.33 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "65 nm"
@@ -714,19 +702,19 @@
                 "Maximum OS": "Mac OS X 10.7.5 (Lion)"
             },
             "Memory": {
-                "Maximum Memory": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "3 GB; 4 GB can be installed, only 3 GB will be addressed",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "24-inch (viewable) TFT LCD",
+                "Type": "24-inch (viewable) TFT LCD",
                 "Brightness": "400 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1920 x 1200"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 7300 GT or 7600 GT",
-                "Graphics Memory": "128 (7300 GT) or 256 MB (7600 GT) GDDR3"
+                "Chip": "NVIDIA GeForce 7300 GT or 7600 GT",
+                "Memory": "128 (7300 GT) or 256 MB (7600 GT) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -739,8 +727,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Mid 2007 20-inch",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
@@ -755,8 +742,8 @@
                 "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T7300, T7700) ('Merom')",
-                "Processor Speed": "2.0 GHz or 2.4 GHz",
+                "Name": "Intel Core 2 Duo (T7300, T7700) ('Merom')",
+                "Speed": "2.0 GHz or 2.4 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "65 nm"
@@ -770,19 +757,19 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "6 GB (Actual) <br> 4 GB (Apple)",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "20-inch (viewable) glossy widescreen TFT LCD",
+                "Type": "20-inch (viewable) glossy widescreen TFT LCD",
                 "Brightness": "290 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO",
-                "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3"
+                "Chip": "ATI Radeon HD 2400 XT or 2600 PRO",
+                "Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -796,8 +783,7 @@
             }
 
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Mid 2007 24-inch",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
@@ -812,8 +798,8 @@
                 "Weight/Dimensions": "<br>11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (T7700) or Core 2 Extreme (X7900) ('Merom')",
-                "Processor Speed": "2.4 GHz or 2.8 GHz",
+                "Name": "Intel Core 2 Duo (T7700) or Core 2 Extreme (X7900) ('Merom')",
+                "Speed": "2.4 GHz or 2.8 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "65 nm"
@@ -827,19 +813,19 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
-                "Supported RAM": "667 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "6 GB (Actual) <br> 4 GB (Apple)",
+                "Supported": "667 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "24-inch (viewable) glossy widescreen TFT LCD",
+                "Type": "24-inch (viewable) glossy widescreen TFT LCD",
                 "Brightness": "380 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1920 x 1200"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 2600 PRO",
-                "Graphics Memory": "256 MB GDDR3"
+                "Chip": "ATI Radeon HD 2600 PRO",
+                "Memory": "256 MB GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -852,8 +838,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    },
-    {
+    }, {
         "Name": "iMac Early 2008 20-inch",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
@@ -868,8 +853,8 @@
                 "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (E8135, E8335) ('Penryn')",
-                "Processor Speed": "2.4 GHz or 2.66 GHz",
+                "Name": "Intel Core 2 Duo (E8135, E8335) ('Penryn')",
+                "Speed": "2.4 GHz or 2.66 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "45 nm"
@@ -883,19 +868,19 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
-                "Supported RAM": "800 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "6 GB (Actual) <br> 4 GB (Apple)",
+                "Supported": "800 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "20-inch (viewable) glossy widescreen TFT LCD",
+                "Type": "20-inch (viewable) glossy widescreen TFT LCD",
                 "Brightness": "290 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 2400 XT or 2600 PRO",
-                "Graphics Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3"
+                "Chip": "ATI Radeon HD 2400 XT or 2600 PRO",
+                "Memory": "128 MB (2400 XT) or 256 MB (2600 PRO) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -908,8 +893,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Early 2008 24-inch",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
@@ -924,8 +908,8 @@
                 "Weight/Dimensions": "<br>11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (E8235, E8435) ('Penryn')",
-                "Processor Speed": "2.8 GHz or 3.06 GHz",
+                "Name": "Intel Core 2 Duo (E8235, E8435) ('Penryn')",
+                "Speed": "2.8 GHz or 3.06 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "45 nm"
@@ -939,19 +923,19 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "6 GB (Actual) <br> 4 GB (Apple)",
-                "Supported RAM": "800 MHz DDR2 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "6 GB (Actual) <br> 4 GB (Apple)",
+                "Supported": "800 MHz DDR2 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "24-inch (viewable) glossy widescreen TFT LCD",
+                "Type": "24-inch (viewable) glossy widescreen TFT LCD",
                 "Brightness": "385 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1920 x 1200"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 2600 PRO or NVIDIA GeForce 8800 GS",
-                "Graphics Memory": "256 MB (2600 PRO) or 512 MB (8800 GS) GDDR3"
+                "Chip": "ATI Radeon HD 2600 PRO or NVIDIA GeForce 8800 GS",
+                "Memory": "256 MB (2600 PRO) or 512 MB (8800 GS) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -964,8 +948,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    },
-    {
+    }, {
         "Name": "iMac Early 2009 20-inch ",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
@@ -980,8 +963,8 @@
                 "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (E8135) ('Penryn')",
-                "Processor Speed": "2.66 GHz",
+                "Name": "Intel Core 2 Duo (E8135) ('Penryn')",
+                "Speed": "2.66 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "45 nm"
@@ -994,19 +977,19 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "8 GB",
+                "Supported": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type":"20-inch (viewable) glossy widescreen TFT LCD",
+                "Type":"20-inch (viewable) glossy widescreen TFT LCD",
                 "Brightness": "290 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9400M",
-                "Graphics Memory": "256 MB DDR3 SDRAM (shared)"
+                "Chip": "NVIDIA GeForce 9400M",
+                "Memory": "256 MB DDR3 SDRAM (shared)"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1019,8 +1002,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Early 2009 24-inch",
         "Type": "iMac",
         "image": "imac_aluminium_24.png",
@@ -1035,8 +1017,8 @@
                 "Weight/Dimensions": "<br>11.5 kg, 52 H x 56.9 x 20.7 cm <br> 25.4 lbs, 20.5 H x 22.4 W x 8.1 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (E8135, E8335, E8435) ('Penryn')",
-                "Processor Speed": "2.66, 2.93 or 3.06 GHz",
+                "Name": "Intel Core 2 Duo (E8135, E8335, E8435) ('Penryn')",
+                "Speed": "2.66, 2.93 or 3.06 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "45 nm"
@@ -1049,19 +1031,19 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "8 GB",
+                "Supported": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "24-inch (viewable) glossy widescreen TFT LCD",
+                "Type": "24-inch (viewable) glossy widescreen TFT LCD",
                 "Brightness": "385 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1920 x 1200"
             },
             "Graphics": {
-                "Graphics Chip": " NVIDIA GeForce 9400M, GT 120, GT 130 or ATI Radeon HD 4850",
-                "Graphics Memory": "256 MB shared (9400M), 256 MB (GT 120), 512 MB (GT 130, Radeon HD 4850) GDDR3"
+                "Chip": " NVIDIA GeForce 9400M, GT 120, GT 130 or ATI Radeon HD 4850",
+                "Memory": "256 MB shared (9400M), 256 MB (GT 120), 512 MB (GT 130, Radeon HD 4850) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1074,8 +1056,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac Mid 2009 20-inch",
         "Type": "iMac",
         "image": "imac_aluminium_20.png",
@@ -1090,8 +1071,8 @@
                 "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (P7350, P7550) ('Penryn')",
-                "Processor Speed": "2.0 or 2.26 GHz",
+                "Name": "Intel Core 2 Duo (P7350, P7550) ('Penryn')",
+                "Speed": "2.0 or 2.26 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "45 nm"
@@ -1105,19 +1086,19 @@
                 "Maximum OS": "OS X 10.11.6 (El Capitan)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "2"
+                "Maximum": "8 GB",
+                "Supported": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "2"
             },
             "Display": {
-                "Display Type": "20-inch (viewable) glossy widescreen TFT LCD",
+                "Type": "20-inch (viewable) glossy widescreen TFT LCD",
                 "Brightness": "290 nits",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "1680 x 1050"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9400M",
-                "Graphics Memory": "256 MB DDR3 SDRAM (shared)"
+                "Chip": "NVIDIA GeForce 9400M",
+                "Memory": "256 MB DDR3 SDRAM (shared)"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1130,8 +1111,7 @@
                 "Audio Out": "1 - 3.5mm output jack, Built-in speakers"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (21.5-inch, Late 2009)",
         "Type": "iMac",
         "image": "imac_unibody_21.png",
@@ -1146,8 +1126,8 @@
                 "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale')",
-                "Processor Speed": "3.06 or 3.33 GHz",
+                "Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale')",
+                "Speed": "3.06 or 3.33 GHz",
                 "# of Cores": "2",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "45 nm"
@@ -1161,19 +1141,19 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "16 GB",
+                "Supported": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "21.5 inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Type": "21.5 inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
                 "Brightness": "320 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce 9400M or ATI Radeon HD 4670",
-                "Graphics Memory": "256 MB shared (9400M), 256 MB (HD 4670) GDDR3"
+                "Chip": "NVIDIA GeForce 9400M or ATI Radeon HD 4670",
+                "Memory": "256 MB shared (9400M), 256 MB (HD 4670) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1187,8 +1167,7 @@
                 "Slots": "1 - SD card"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (27-inch, Late 2009)",
         "Type": "iMac",
         "image": "imac_unibody_27.png",
@@ -1203,8 +1182,8 @@
                 "Weight/Dimensions": "<br>13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale'), Intel Core i5 (750), Intel Core i7 (860) ('Lynnfield')",
-                "Processor Speed": "3.06 or 3.33 GHz (Core 2 Duo), 2.66 GHz (i5), 2.8 GHz (i7)",
+                "Name": "Intel Core 2 Duo (E7600, E8600) ('Wolfdale'), Intel Core i5 (750), Intel Core i7 (860) ('Lynnfield')",
+                "Speed": "3.06 or 3.33 GHz (Core 2 Duo), 2.66 GHz (i5), 2.8 GHz (i7)",
                 "# of Cores": "2 (Core 2 Duo), 4 (i5, i7)",
                 "# of Threads": "2 (Core 2 Duo), 4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1218,19 +1197,19 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "16 GB (Apple), 32 GB (Core i5 or i7 Actual)",
-                "Supported RAM": "1066 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "16 GB (Apple), 32 GB (Core i5 or i7 Actual)",
+                "Supported": "1066 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Type": "27-inch (diagonal) LED-backlit glossy widescreen TFT LCD with IPS",
                 "Brightness": "375 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "2560 x 1440"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 4670 or Radeon HD 4850",
-                "Graphics Memory": "256 MB (Radeon HD 4670), 512 MB (Radeon HD 4850) GDDR3"
+                "Chip": "ATI Radeon HD 4670 or Radeon HD 4850",
+                "Memory": "256 MB (Radeon HD 4670), 512 MB (Radeon HD 4850) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1258,8 +1237,8 @@
                 "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i3 (540, 550) or Core i5 (680) ('Clarkdale')",
-                "Processor Speed": "3.06 or 3.2 GHz (i3), 3.6 GHz (i5)",
+                "Name": "Intel Core i3 (540, 550) or Core i5 (680) ('Clarkdale')",
+                "Speed": "3.06 or 3.2 GHz (i3), 3.6 GHz (i5)",
                 "# of Cores": "2",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -1274,19 +1253,19 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1333 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "16 GB",
+                "Supported": "1333 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
                 "Brightness": "330 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 4670 or Radeon HD 5670",
-                "Graphics Memory": "256 MB (Radeon HD 4670), 512 MB (Radeon HD 5670) GDDR3"
+                "Chip": "ATI Radeon HD 4670 or Radeon HD 5670",
+                "Memory": "256 MB (Radeon HD 4670), 512 MB (Radeon HD 5670) GDDR3"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1314,8 +1293,8 @@
                 "Weight/Dimensions": "<br>13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i3 (550), Core i5 (680, 760) or Core i7 (870) ('Clarkdale', 'Lynnfield')",
-                "Processor Speed": "3.2 GHz (i3), 3.6 or 2.8 GHz (i5), 2.93 GHz (i7)",
+                "Name": "Intel Core i3 (550), Core i5 (680, 760) or Core i7 (870) ('Clarkdale', 'Lynnfield')",
+                "Speed": "3.2 GHz (i3), 3.6 or 2.8 GHz (i5), 2.93 GHz (i7)",
                 "# of Cores": "2 (i3, i5-680), 4 (i5-760, i7)",
                 "# of Threads": "4 (i3, i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1331,19 +1310,19 @@
                 "SSD": "Optional 256 GB"
             },
             "Memory": {
-                "Maximum Memory": "32 GB (Core i5 or i7 Actual) 16 GB (Apple)",
-                "Supported RAM": "1333 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "32 GB (Core i5 or i7 Actual) 16 GB (Apple)",
+                "Supported": "1333 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
+                "Type": "27-inch (viewable) LED-backlit glossy widescreen TFT LCD with IPS",
                 "Brightness": "375 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "2560 x 1440"
             },
             "Graphics": {
-                "Graphics Chip": "ATI Radeon HD 5670 or 5750",
-                "Graphics Memory": "512 MB (Radeon HD 5670), 1 GB (Radeon HD 5750)"
+                "Chip": "ATI Radeon HD 5670 or 5750",
+                "Memory": "512 MB (Radeon HD 5670), 1 GB (Radeon HD 5750)"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1357,8 +1336,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (21.5-inch, Mid 2011)",
         "Type": "iMac",
         "image": "imac_unibody_21.png",
@@ -1372,8 +1350,8 @@
                 "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (2400S, 2500S) or i7 (2600S) ('Sandy Bridge')",
-                "Processor Speed": "2.5 GHz or 2.7 GHz (Core i5) 2.8 GHz (Core i7)",
+                "Name": "Intel Core i5 (2400S, 2500S) or i7 (2600S) ('Sandy Bridge')",
+                "Speed": "2.5 GHz or 2.7 GHz (Core i5) 2.8 GHz (Core i7)",
                 "# of Cores": "4",
                 "# of Threads": "4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1389,18 +1367,18 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "32 GB (Actual) 16 GB (Apple)",
-                "Supported RAM": "1333 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "32 GB (Actual) 16 GB (Apple)",
+                "Supported": "1333 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD + IPS",
+                "Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD + IPS",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon HD 6750M or 6770M",
-                "Graphics Memory": "512 MB GDDR5"
+                "Chip": "AMD Radeon HD 6750M or 6770M",
+                "Memory": "512 MB GDDR5"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1414,8 +1392,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (27-inch, Mid 2011)",
         "Type": "iMac",
         "image": "imac_unibody_27.png",
@@ -1429,8 +1406,8 @@
                 "Weight/Dimensions": "<br>13.8 kg, 51.7 H x 65 W x 20.7 D cm <br>30.5 lbs, 20.4 H x 25.6 W x 8.15 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (2500S, 2400) or i7 (2600) ('Sandy Bridge')",
-                "Processor Speed": "2.7 GHz or 3.1 GHz (Core i5) 3.4 GHz (Core i7)",
+                "Name": "Intel Core i5 (2500S, 2400) or i7 (2600) ('Sandy Bridge')",
+                "Speed": "2.7 GHz or 3.1 GHz (Core i5) 3.4 GHz (Core i7)",
                 "# of Cores": "4",
                 "# of Threads": "4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1446,18 +1423,18 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "32 GB (Actual) 16 GB (Apple)",
-                "Supported RAM": "1333 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "32 GB (Actual) 16 GB (Apple)",
+                "Supported": "1333 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (viewable) LED-backlit glossy widescreen TFT LCD + IPS",
+                "Type": "27-inch (viewable) LED-backlit glossy widescreen TFT LCD + IPS",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "2560 x 1440"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon HD 6770M or 6970M",
-                "Graphics Memory": "512 MB GDDR5 (6770M) 1 or 2 GB GDDR5 (6970M)"
+                "Chip": "AMD Radeon HD 6770M or 6970M",
+                "Memory": "512 MB GDDR5 (6770M) 1 or 2 GB GDDR5 (6970M)"
             },
             "Connections": {
                 "Wi-Fi": "Built-in AirPort Extreme card (802.11a/b/g/n) (Wi-Fi 4)",
@@ -1471,8 +1448,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (21.5-inch, Late 2011)",
         "Type": "iMac",
         "image": "imac_unibody_21.png",
@@ -1486,8 +1462,8 @@
                 "Weight/Dimensions": "<br>9.3 kg, 45.1 H x 52.8 W x 18.85 D cm<br>20.5 lbs, 17.75 H x 20.8 W x 7.42 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i3 (2100) ('Sandy Bridge')",
-                "Processor Speed": "3.1 GHz",
+                "Name": "Intel Core i3 (2100) ('Sandy Bridge')",
+                "Speed": "3.1 GHz",
                 "# of Cores": "2",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -1501,18 +1477,18 @@
                 "Maximum OS": "macOS 10.13.6 (High Sierra)"
             },
             "Memory": {
-                "Maximum Memory": "16 GB (Actual) 8 GB (Apple)",
-                "Supported RAM": "1333 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "16 GB (Actual) 8 GB (Apple)",
+                "Supported": "1333 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD",
+                "Type": "21.5-inch (viewable) LED-backlit glossy widescreen TFT LCD",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon HD 6750M",
-                "Graphics Memory": "256 MB GDDR5"
+                "Chip": "AMD Radeon HD 6750M",
+                "Memory": "256 MB GDDR5"
             },
             "Connections": {
                 "Wi-Fi": "802.11n (Wi-Fi 4)",
@@ -1526,8 +1502,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (21.5-inch, Late 2012)",
         "Type": "iMac",
         "image": "imac_unibody_21.png",
@@ -1542,8 +1517,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (3330S, 3470S) or i7 (3770S) ('Ivy Bridge')",
-                "Processor Speed": "2.7 GHz, 2.9 GHz (i5), 3.1 GHz (i7)",
+                "Name": "Intel Core i5 (3330S, 3470S) or i7 (3770S) ('Ivy Bridge')",
+                "Speed": "2.7 GHz, 2.9 GHz (i5), 3.1 GHz (i7)",
                 "# of Cores": "4",
                 "# of Threads": "4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1560,18 +1535,18 @@
             },
             "Memory": {
                 "Built-in Memory": "8 or 16 GB",
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "2 (non-user accessible)"
+                "Maximum": "16 GB",
+                "Supported": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "2 (non-user accessible)"
             },
             "Display": {
-                "Display Type": "21.5-inch LED-backlit IPS display",
+                "Type": "21.5-inch LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 640M or 650M",
-                "Graphics Memory": "512 MB GDDR5"
+                "Chip": "NVIDIA GeForce GT 640M or 650M",
+                "Memory": "512 MB GDDR5"
             },
             "Connections": {
                 "Wi-Fi": "802.11n (Wi-Fi 4)",
@@ -1599,8 +1574,8 @@
                 "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (3470S, 3470) or i7 (3770) ('Ivy Bridge')",
-                "Processor Speed": "2.9 GHz, 3.2 GHz, 3.4 GHz",
+                "Name": "Intel Core i5 (3470S, 3470) or i7 (3770) ('Ivy Bridge')",
+                "Speed": "2.9 GHz, 3.2 GHz, 3.4 GHz",
                 "# of Cores": "4",
                 "# of Threads": "4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1616,18 +1591,18 @@
                 "Maximum OS": "macOS 10.15.7 (Catalina)"
             },
             "Memory": {
-                "Maximum Memory": "32 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "32 GB",
+                "Supported": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch LED-backlit IPS display",
+                "Type": "27-inch LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "2560 x 1440"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GTX 660M, 675MX or 680MX",
-                "Graphics Memory": "512 MB (660M), 1 GB (675MX), 2 GB (680MX)"
+                "Chip": "NVIDIA GeForce GTX 660M, 675MX or 680MX",
+                "Memory": "512 MB (660M), 1 GB (675MX), 2 GB (680MX)"
             },
             "Connections": {
                 "Wi-Fi":"802.11n (Wi-Fi 4)",
@@ -1655,8 +1630,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i3 (3225) ('Ivy Bridge')",
-                "Processor Speed": "3.3 GHz",
+                "Name": "Intel Core i3 (3225) ('Ivy Bridge')",
+                "Speed": "3.3 GHz",
                 "# of Cores": "2",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -1673,18 +1648,18 @@
             },
             "Memory": {
                 "Built-in Memory": "4, 8 or 16 GB",
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "2 (non-user accessible)"
+                "Maximum": "16 GB",
+                "Supported": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "2 (non-user accessible)"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) LED-backlit IPS display",
+                "Type": "21.5-inch (diagonal) LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 4000",
-                "Graphics Memory": "512 MB"
+                "Chip": "Intel HD Graphics 4000",
+                "Memory": "512 MB"
             },
             "Connections": {
                 "Wi-Fi":"802.11n (Wi-Fi 4)",
@@ -1712,8 +1687,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (4570R, 4570S) or Core i7 (4770S) ('Haswell')",
-                "Processor Speed": "2.7 GHz, 2.9 GHz (i5), 3.1 GHz (i7)",
+                "Name": "Intel Core i5 (4570R, 4570S) or Core i7 (4770S) ('Haswell')",
+                "Speed": "2.7 GHz, 2.9 GHz (i5), 3.1 GHz (i7)",
                 "# of Cores": "4",
                 "# of Threads":"4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1731,18 +1706,18 @@
             },
             "Memory": {
                 "Built-in Memory": "8 or 16 GB",
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "2 (non-user accessible)"
+                "Maximum": "16 GB",
+                "Supported": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "2 (non-user accessible)"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) LED-backlit IPS display",
+                "Type": "21.5-inch (diagonal) LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Pro 5200 or NVIDIA GeForce GT 750M",
-                "Graphics Memory": "Up to 1.5 GB (shared), 1 GB GDDR5 (GT 750M)"
+                "Chip": "Intel Iris Pro 5200 or NVIDIA GeForce GT 750M",
+                "Memory": "Up to 1.5 GB (shared), 1 GB GDDR5 (GT 750M)"
             },
             "Connections": {
                 "Wi-Fi":"802.11ac (Wi-Fi 5)",
@@ -1771,8 +1746,8 @@
                 "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (4570, 4670) or i7 (4771) ('Haswell')",
-                "Processor Speed": "3.2 or 3.4 GHz (i5), 3.5 GHz (i7)",
+                "Name": "Intel Core i5 (4570, 4670) or i7 (4771) ('Haswell')",
+                "Speed": "3.2 or 3.4 GHz (i5), 3.5 GHz (i7)",
                 "# of Cores": "4",
                 "# of Threads":"4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1789,18 +1764,18 @@
                 "Maximum OS": "macOS 10.15.7 (Catalina)"
             },
             "Memory": {
-                "Maximum Memory": "32 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "32 GB",
+                "Supported": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) LED-backlit IPS display",
+                "Type": "27-inch (diagonal) LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "2560 x 1440"
             },
             "Graphics": {
-                "Graphics Chip": "NVIDIA GeForce GT 755M, GTX 775M or GTX 780M",
-                "Graphics Memory": "1 GB (GT 755M), 2 GB (GTX 775M) or 4 GB (GTX 780M)"
+                "Chip": "NVIDIA GeForce GT 755M, GTX 775M or GTX 780M",
+                "Memory": "1 GB (GT 755M), 2 GB (GTX 775M) or 4 GB (GTX 780M)"
             },
             "Connections": {
                 "Wi-Fi":"802.11ac (Wi-Fi 5)",
@@ -1814,7 +1789,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    },  {
+    }, {
         "Name": "iMac (21.5-inch, Mid 2014)",
         "Type": "iMac",
         "image": "imac_unibody_21.png",
@@ -1829,8 +1804,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (4260U) ('Haswell')",
-                "Processor Speed": "1.4 GHz",
+                "Name": "Intel Core i5 (4260U) ('Haswell')",
+                "Speed": "1.4 GHz",
                 "# of Cores": "2",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -1846,18 +1821,18 @@
                 "Maximum OS": "Latest Release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "8 GB",
-                "Supported RAM": "1600 MHz LPDDR3 on-board Memory",
-                "# of Memory Slots": "none"
+                "Maximum": "8 GB",
+                "Supported": "1600 MHz LPDDR3 on-board Memory",
+                "# of Slots": "none"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) LED-backlit IPS display",
+                "Type": "21.5-inch (diagonal) LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 5000",
-                "Graphics Memory": "1.5 GB LPDDR3 SDRAM (shared)"
+                "Chip": "Intel HD Graphics 5000",
+                "Memory": "1.5 GB LPDDR3 SDRAM (shared)"
             },
             "Connections": {
                 "Wi-Fi":"802.11ac (Wi-Fi 5)",
@@ -1886,8 +1861,8 @@
                 "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (4690) or Core i7 (4790K)",
-                "Processor Speed": "3.5 GHz or 4.0 GHz",
+                "Name": "Intel Core i5 (4690) or Core i7 (4790K)",
+                "Speed": "3.5 GHz or 4.0 GHz",
                 "# of Cores": "4",
                 "# of Threads": "4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -1903,18 +1878,18 @@
                 "Maximum OS": "Latest Release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "32 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "32 GB",
+                "Supported": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) Retina 5K IPS display",
+                "Type": "27-inch (diagonal) Retina 5K IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "5120 x 2880"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon R9 M290X or M295X",
-                "Graphics Memory": "2 GB (M290X) or 4 GB GDDR5 (M295X)"
+                "Chip": "AMD Radeon R9 M290X or M295X",
+                "Memory": "2 GB (M290X) or 4 GB GDDR5 (M295X)"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -1943,8 +1918,8 @@
                 "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (4590) ('Haswell')",
-                "Processor Speed": "3.3 GHz",
+                "Name": "Intel Core i5 (4590) ('Haswell')",
+                "Speed": "3.3 GHz",
                 "# of Cores": "4",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -1960,18 +1935,18 @@
                 "Maximum OS": "Latest Release of macOS 11 (Big Sur)"
             },
             "Memory": {
-                "Maximum Memory": "32 GB",
-                "Supported RAM": "1600 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "32 GB",
+                "Supported": "1600 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) Retina 5K IPS display",
+                "Type": "27-inch (diagonal) Retina 5K IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "5120 x 2880"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon R9 M290",
-                "Graphics Memory": "2GB GDDR5"
+                "Chip": "AMD Radeon R9 M290",
+                "Memory": "2GB GDDR5"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2000,8 +1975,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (5250U, 5575R) ('Broadwell')",
-                "Processor Speed": "1.6 or 2.8 GHz",
+                "Name": "Intel Core i5 (5250U, 5575R) ('Broadwell')",
+                "Speed": "1.6 or 2.8 GHz",
                 "# of Cores": "2 (5250U) or 4 (5575R)",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -2019,18 +1994,18 @@
             },
             "Memory": {
                 "Built-in Memory": "8 or 16 GB",
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1867 MHz LPDDR3",
-                "# of Memory Slots": "none"
+                "Maximum": "16 GB",
+                "Supported": "1867 MHz LPDDR3",
+                "# of Slots": "none"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) LED-backlit IPS display",
+                "Type": "21.5-inch (diagonal) LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "Intel HD Graphics 6000 or Intel Iris Pro Graphics 6200",
-                "Graphics Memory": "1.5 GB (shared)"
+                "Chip": "Intel HD Graphics 6000 or Intel Iris Pro Graphics 6200",
+                "Memory": "1.5 GB (shared)"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2059,8 +2034,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (5675R) or Core i7 (5775R) ('Broadwell')",
-                "Processor Speed": "3.1 GHz or 3.3 GHz",
+                "Name": "Intel Core i5 (5675R) or Core i7 (5775R) ('Broadwell')",
+                "Speed": "3.1 GHz or 3.3 GHz",
                 "# of Cores": "4",
                 "# of Threads":"4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -2078,18 +2053,18 @@
             },
             "Memory": {
                 "Built-in Memory": "8 or 16 GB",
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "1867 MHz LPDDR3",
-                "# of Memory Slots": "none"
+                "Maximum": "16 GB",
+                "Supported": "1867 MHz LPDDR3",
+                "# of Slots": "none"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) Retina 4K IPS display",
+                "Type": "21.5-inch (diagonal) Retina 4K IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "4096 x 2304"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Pro Graphics 6200",
-                "Graphics Memory": "1.5 GB"
+                "Chip": "Intel Iris Pro Graphics 6200",
+                "Memory": "1.5 GB"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2118,8 +2093,8 @@
                 "Weight/Dimensions": "<br>9.54 kg, 51.6 H x 65 W x 20.3 D cm<br>21 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (6500, 6600) or i7 (6700K)",
-                "Processor Speed": "3.2, 3.3, or 4.0 GHz",
+                "Name": "Intel Core i5 (6500, 6600) or i7 (6700K)",
+                "Speed": "3.2, 3.3, or 4.0 GHz",
                 "# of Cores": "4",
                 "# of Threads":"4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -2136,18 +2111,18 @@
                 "Maximum OS": "Latest release of macOS 12 (Monterey)"
             },
             "Memory": {
-                "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
-                "Supported RAM": "1867 MHz DDR3 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "64 GB (Actual) 32 GB (Apple)",
+                "Supported": "1867 MHz DDR3 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) LED-backlit IPS display",
+                "Type": "27-inch (diagonal) LED-backlit IPS display",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "5120 x 2880"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon R9 M380, M390, M395, or M395X",
-                "Graphics Memory": "2 GB (M380, M390, M395) or 4 GB (M395X)"
+                "Chip": "AMD Radeon R9 M380, M390, M395, or M395X",
+                "Memory": "2 GB (M380, M390, M395) or 4 GB (M395X)"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2176,8 +2151,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (7360U) ('Kaby Lake')",
-                "Processor Speed": "2.3 GHz",
+                "Name": "Intel Core i5 (7360U) ('Kaby Lake')",
+                "Speed": "2.3 GHz",
                 "# of Cores": "2",
                 "# of Threads": "4",
                 "Architecture": "64-bit",
@@ -2195,19 +2170,19 @@
             },
             "Memory": {
                 "Built-in Memory": "8 or 16 GB",
-                "Maximum Memory": "32 GB (Actual) 16 GB (Apple)",
-                "Supported RAM": "2133 MHz DDR4 SO-DIMM",
-                "# of Memory Slots": "2 (non-user accessible)"
+                "Maximum": "32 GB (Actual) 16 GB (Apple)",
+                "Supported": "2133 MHz DDR4 SO-DIMM",
+                "# of Slots": "2 (non-user accessible)"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) LED-backlit IPS display",
+                "Type": "21.5-inch (diagonal) LED-backlit IPS display",
                 "Brightness": "320 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "1920 x 1080"
             },
             "Graphics": {
-                "Graphics Chip": "Intel Iris Plus Graphics 640",
-                "Graphics Memory": "Up to 1.5 GB (shared)"
+                "Chip": "Intel Iris Plus Graphics 640",
+                "Memory": "Up to 1.5 GB (shared)"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2236,8 +2211,8 @@
                 "Weight/Dimensions": "<br>5.68 kg, 45 H x 52.8 W x 17.5 D cm<br>12.5 lbs, 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (7400, 7500) or Core i7 (7700)",
-                "Processor Speed": "3.0, 3.4, or 3.6 GHz",
+                "Name": "Intel Core i5 (7400, 7500) or Core i7 (7700)",
+                "Speed": "3.0, 3.4, or 3.6 GHz",
                 "# of Cores": "4",
                 "# of Threads": "4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -2250,19 +2225,19 @@
             },
             "Memory": {
                 "Built-in Memory": "8, 16 or 32 GB",
-                "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
-                "Supported RAM": "2400 MHz DDR4 SO-DIMM",
-                "# of Memory Slots": "2 (non-user accessible)"
+                "Maximum": "64 GB (Actual) 32 GB (Apple)",
+                "Supported": "2400 MHz DDR4 SO-DIMM",
+                "# of Slots": "2 (non-user accessible)"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) Retina 4K IPS display",
+                "Type": "21.5-inch (diagonal) Retina 4K IPS display",
                 "Brightness": "500 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "4096 x 2304"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 555 or 560",
-                "Graphics Memory": "2 or 4 GB GDDR5"
+                "Chip": "AMD Radeon Pro 555 or 560",
+                "Memory": "2 or 4 GB GDDR5"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2291,8 +2266,8 @@
                 "Weight/Dimensions": "<br>9.1 kg, 46.9 H x 48.5 W x 18.9 D cm <br> 20 lbs, 18.5 H x 19.1 W x 7.4 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (7500, 7600, 7600K) or Core i7 (7700K)",
-                "Processor Speed": "3.4, 3.5, 3.8, or 4.2 GHz",
+                "Name": "Intel Core i5 (7500, 7600, 7600K) or Core i7 (7700K)",
+                "Speed": "3.4, 3.5, 3.8, or 4.2 GHz",
                 "# of Cores": "4",
                 "# of Threads":"4 (i5), 8 (i7)",
                 "Architecture": "64-bit",
@@ -2308,19 +2283,19 @@
                 "Maximum OS": "Latest release of macOS 13 (Ventura)"
             },
             "Memory": {
-                "Maximum Memory": "64 GB",
-                "Supported RAM": "2400 MHz DDR4 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "64 GB",
+                "Supported": "2400 MHz DDR4 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) Retina 5K IPS display",
+                "Type": "27-inch (diagonal) Retina 5K IPS display",
                 "Brightness": "500 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "5120 x 2880"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 570, 575, or 580",
-                "Graphics Memory": "4 GB (Radeon Pro 570, 575) or 8GB (Radeon Pro 580) GDDR5"
+                "Chip": "AMD Radeon Pro 570, 575, or 580",
+                "Memory": "4 GB (Radeon Pro 570, 575) or 8GB (Radeon Pro 580) GDDR5"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2349,8 +2324,8 @@
                 "Weight/Dimensions": "<br>9.7 kg, 51.6 H x 65 W x 20.3 D cm<br>21.5 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
-                "Processor Speed": "3.2, 3.0, 2.5, or 2.3 GHz",
+                "Name": "Intel Xeon W (W-2140B, W-2150B, W-2170B, W-2190B)",
+                "Speed": "3.2, 3.0, 2.5, or 2.3 GHz",
                 "# of Cores": "8, 10, 14, or 18",
                 "# of Threads": "16, 20, 28 or 36"
             },
@@ -2363,19 +2338,19 @@
             },
             "Memory": {
                 "Built-in Memory": "32, 64 or 128 GB",
-                "Maximum Memory": "512 GB (Actual) 256 GB (Apple)",
-                "Supported RAM": "2666 MHz DDR4 ECC DIMM",
-                "# of Memory Slots": "4 (non-user accessible)"
+                "Maximum": "512 GB (Actual) 256 GB (Apple)",
+                "Supported": "2666 MHz DDR4 ECC DIMM",
+                "# of Slots": "4 (non-user accessible)"
             },
             "Display": {
-                "Display Type": "27-inch Retina 5K IPS display",
+                "Type": "27-inch Retina 5K IPS display",
                 "Brightness": "500 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "5120 x 2880"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro Vega 56, Vega 64 or Vega 64X",
-                "Graphics Memory": "8 GB (Vega 56), or 16 GB (Vega 64, Vega 64X) HBM2"
+                "Chip": "AMD Radeon Pro Vega 56, Vega 64 or Vega 64X",
+                "Memory": "8 GB (Vega 56), or 16 GB (Vega 64, Vega 64X) HBM2"
             },
             "Connections": {
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2389,8 +2364,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (Retina 4K, 21.5-inch) <br> (2019)",
         "Type": "iMac",
         "image": "imac_unibody_21.png",
@@ -2405,8 +2379,8 @@
                 "Weight/Dimensions": "<br>5.6 kg, 45 H x 52.8 W x 17.5 D cm<br>12.3 lbs., 17.7 H x 20.8 W x 6.9 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i3 (8100), Core i5 (8500), or Core i7 (8700)",
-                "Processor Speed": "3.6, 3.0, or 3.2 GHz",
+                "Name": "Intel Core i3 (8100), Core i5 (8500), or Core i7 (8700)",
+                "Speed": "3.6, 3.0, or 3.2 GHz",
                 "# of Cores": "4 (i3), 6 (i5, i7)",
                 "# of Threads": "4 (i3), 6 (i5), 12 (i7)",
                 "Architecture": "64-bit",
@@ -2423,19 +2397,19 @@
             },
             "Memory": {
                 "Built-in Memory": "8, 16 or 32 GB",
-                "Maximum Memory": "64 GB (Actual) 32 GB (Apple)",
-                "Supported RAM": "2400 (i3) 2666 (i5/i7) MHz DDR4 SO-DIMM",
-                "# of Memory Slots": "2 (non-user accessible)"
+                "Maximum": "64 GB (Actual) 32 GB (Apple)",
+                "Supported": "2400 (i3) 2666 (i5/i7) MHz DDR4 SO-DIMM",
+                "# of Slots": "2 (non-user accessible)"
             },
             "Display": {
-                "Display Type": "21.5-inch (diagonal) Retina 4K IPS display",
+                "Type": "21.5-inch (diagonal) Retina 4K IPS display",
                 "Brightness": "500 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "4096 x 2304"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 555X, 560X or Vega 20",
-                "Graphics Memory": "2 GB (555X), 4 GB (560X, Vega 20) GDDR5"
+                "Chip": "AMD Radeon Pro 555X, 560X or Vega 20",
+                "Memory": "2 GB (555X), 4 GB (560X, Vega 20) GDDR5"
             },
             "Connections":{
                 "Wi-Fi": "802.11ac (Wi-Fi 5)",
@@ -2448,8 +2422,7 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    }, 
-    {
+    }, {
         "Name": "iMac (Retina 5K, 27-inch) <br> (2019)",
         "Type": "iMac",
         "image": "imac_unibody_27.png",
@@ -2464,8 +2437,8 @@
                 "Weight/Dimensions": "<br>9.42 kg, 51.6 H x 65 W x 20.3 D cm<br>20.8 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (8500, 8600, 9600K) or Core i9 (9900K)",
-                "Processor Speed": "3.0, 3.1, 3.7 or 3.6 GHz",
+                "Name": "Intel Core i5 (8500, 8600, 9600K) or Core i9 (9900K)",
+                "Speed": "3.0, 3.1, 3.7 or 3.6 GHz",
                 "# of Cores": "6 or 8",
                 "# of Threads": "6 (i5), 16 (i9)"
             },
@@ -2478,19 +2451,19 @@
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "128 GB (Actual) 64 GB (Apple)",
-                "Supported RAM": "2666 MHz DDR4 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "128 GB (Actual) 64 GB (Apple)",
+                "Supported": "2666 MHz DDR4 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) Retina 5K IPS display",
+                "Type": "27-inch (diagonal) Retina 5K IPS display",
                 "Brightness": "500 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "5120 x 2880"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 570X, 575X, 580X, or Vega 48",
-                "Graphics Memory": "4 GB (Radeon Pro 570X, 575X) or 8 GB (580X) GDDR5, 8 GB (Vega 48) HBM2"
+                "Chip": "AMD Radeon Pro 570X, 575X, 580X, or Vega 48",
+                "Memory": "4 GB (Radeon Pro 570X, 575X) or 8 GB (580X) GDDR5, 8 GB (Vega 48) HBM2"
             },
             "Connections":{
                 "Wi-Fi":"802.11ac (Wi-Fi 5)",
@@ -2519,8 +2492,8 @@
                 "Weight/Dimensions": "<br>8.92 kg, 51.6 H x 65 W x 20.3 D cm<br>19.7 lbs, 20.3 H x 25.6 W x 8 D inch"
             },
             "Processor": {
-                "Processor Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
-                "Processor Speed": "3.1, 3.3 (i5), 3.8 (i7), 3.6 GHz (i9)",
+                "Name": "Intel Core i5 (10500, 10600), Core i7 (10700K) or Core i9 (10910) ('Comet Lake')",
+                "Speed": "3.1, 3.3 (i5), 3.8 (i7), 3.6 GHz (i9)",
                 "# of Cores": "6 (i5), 8 (i7), 10 (i9)",
                 "# of Threads": "12 (i5), 16 (i7), 20 (i9)",
                 "Architecture": "64-bit",
@@ -2531,19 +2504,19 @@
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Maximum Memory": "128 GB",
-                "Supported RAM": "2666 MHz DDR4 SO-DIMM",
-                "# of Memory Slots": "4"
+                "Maximum": "128 GB",
+                "Supported": "2666 MHz DDR4 SO-DIMM",
+                "# of Slots": "4"
             },
             "Display": {
-                "Display Type": "27-inch (diagonal) Retina 5K IPS display",
+                "Type": "27-inch (diagonal) Retina 5K IPS display",
                 "Brightness": "500 nits",
                 "Aspect Ratio": "16:9",
                 "Native Resolution": "5120 x 2880"
             },
             "Graphics": {
-                "Graphics Chip": "AMD Radeon Pro 5300, 5500 XT, 5700 or 5700 XT",
-                "Graphics Memory": "4 GB (Radeon Pro 5300) or 8 GB (5500 XT, 5700, 5700 XT) GDDR6"
+                "Chip": "AMD Radeon Pro 5300, 5500 XT, 5700 or 5700 XT",
+                "Memory": "4 GB (Radeon Pro 5300) or 8 GB (5500 XT, 5700, 5700 XT) GDDR6"
             },
             "Connections":{
                 "Wi-Fi":"802.11ac (Wi-Fi 5)",
@@ -2557,166 +2530,113 @@
                 "Slots": "1 - SDXC card"
             }
         }
-    },  {
-        "Name": "iMac (24-inch, M1, 2021)<br>(2-Ports)",
+    }, {
+            "Name": "iMac (24-inch, M1, 2021)",
+            "Type": "iMac",
+            "image": "imac_24inch.png",
+            "Info": {
+                "Overview": {
+                    "Introduced": "May 2021",
+                    "Discontinued": "Oct 2023",
+                    "Model Identifier": "<li>iMac21,2<br><li>iMac21,1",
+                    "Model Number": "<li>A2439<br><li>A2438",
+                    "EMC": "3664 (2-Ports) or 3663 (4-Ports)",
+                    "Color": "Silver, Pink, Blue, Green (2-Ports) or Silver, Pink, Blue, Green, Purple, Orange, Yellow (4-Ports)",
+                    "Weight/Dimensions": "<br>4.46 kg (2-Ports) or 4.48 kg (4-Ports), 46.1 H x 54.7 W x 14.7 D cm<br>9.83 lbs (2-Ports) or 9.88 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
+                },
+                "Processor": {
+                    "Name": "Apple M1 (APL1102)",
+                    "Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
+                    "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                    "# of Neural Engine Cores": "16",
+                    "Architecture": "64-bit",
+                    "Manufacturing Process": "5 nm"
+                },
+                "Storage": {
+                    "SSD": "256, 512 GB or 1 TB (2-Ports) or 256, 512 GB, 1 or 2 TB (4-Ports)"
+                },
+                "Software": {
+                    "Original OS": "macOS 11.3 (Big Sur)",
+                    "Maximum OS": "Latest release of macOS"
+                },
+                "Memory": {
+                    "Built-in Memory": "8 or 16 GB",
+                    "Maximum": "16 GB",
+                    "Supported": "4266 MT/s LPDDR4X",
+                    "Bandwidth": "68 GB/s"
+                },
+                "Display": {
+                    "Type": "24-inch Retina 4.5K display",
+                    "Brightness": "500 nits",
+                    "Aspect Ratio": "16:10",
+                    "Native Resolution": "4480 x 2520"
+                },
+                "Graphics": {
+                    "Chip": "Apple G13G",
+                    "# of Graphics Cores": "7 (2-Ports) or 8 (4-Ports)",
+                    "Memory": "shared through UMA (Unified Memory Architecture)"
+                },
+                "Connections": {
+                    "Wi-Fi": "802.11ax (6)",
+                    "Bluetooth": "5.0",
+                    "Ethernet": "Optional (2-Ports) or 1 - RJ45 on Power Adapter (4-Ports)",
+                    "USB": "none (2-Ports) or 2 - USB 3 (up to 10 Gbps) (4-Ports)",
+                    "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
+                    "Audio In": "3 - Microphones",
+                    "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
+                    "Camera": "1080p FaceTime HD camera"
+                }
+            }
+    }, {
+        "Name": "iMac (24-inch, M3, 2023)",
         "Type": "iMac",
         "image": "imac_24inch.png",
         "Info": {
             "Overview": {
-                "Introduced": "May 2021",
-                "Discontinued": "Oct 2023",
-                "Model Identifier": "iMac21,2",
-                "Model Number": "A2439",
-                "EMC": "3664",
-                "Color": "Silver, Pink, Blue, Green",
-                "Weight/Dimensions": "<br>4.46 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.83 lbs, 18.1 H x 21.5 W x 5.8 D inch"
+                "Introduced": "Nov 2023",
+                "Discontinued": "Oct 2024",
+                "Model Identifier": "<li>Mac15,4<br><li>Mac15,5",
+                "Model Number": "<li>A2874<br><li>A2873",
+                "EMC": "8207 (2-Ports) or 8206 (4-Ports)",
+                "Color": "Silver, Pink, Blue, Green (2-Ports) or Silver, Pink, Blue, Green, Purple, Orange, Yellow (4-Ports)",
+                "Weight/Dimensions": "<br>4.43 kg (2-Ports) or 4.48 kg (4-Ports), 46.1 H x 54.7 W x 14.7 D cm<br>9.75 lbs (2-Ports) or 9.87 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple M1 (APL1102)",
-                "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
+                "Name": "Apple M3",
+                "Speed": "4.1 GHz (high performance) and 2.8 GHz (high efficiency)",
                 "# of Cores": "8 (4 high performance and 4 high efficiency)",
                 "# of Neural Engine Cores": "16",
                 "Architecture": "64-bit",
-                "Manufacturing Process": "5 nm"
+                "Manufacturing Process": "3 nm"
             },
             "Storage": {
-              "SSD": "256, 512 GB or 1 TB"  
+                "SSD": "256, 512 GB or 1 TB (2-Ports) or 256, 512 GB, 1 or 2 TB (4-Ports)"
             },
             "Software": {
-                "Original OS": "macOS 11.3 (Big Sur)",
+                "Original OS": "macOS 13.5 (Ventura)",
                 "Maximum OS": "Latest release of macOS"
             },
             "Memory": {
-                "Built-in Memory": "8 or 16 GB",
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "4266 MT/s LPDDR4X"
+                "Built-in Memory": "8, 16, 24 GB (2-Ports) or 8, 16 or 24 GB (4-Ports)",
+                "Maximum": "24 GB",
+                "Supported": "6400 MT/s LPDDR5"
             },
             "Display": {
-                "Display Type": "24-inch (diagonal) Retina 4.5K display",
+                "Type": "24-inch Retina 4.5K display",
                 "Brightness": "500 nits",
-                "Native Resolution": "4480 x 2520"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple G13G",
-                "# of Graphics Cores": "7",
-                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11ax (6)",
-                "Bluetooth": "5.0",
-                "Ethernet": "Optional",
-                "USB": "none",
-                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
-                "Audio In": "3 - Microphones",
-                "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
-                "Camera": "1080p FaceTime HD camera"
-            }
-        }
-    }, 
-    {
-        "Name": "iMac (24-inch, M1, 2021)<br>(4-Ports)",
-        "Type": "iMac",
-        "image": "imac_24inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "May 2021",
-                "Discontinued": "Oct 2023",
-                "Model Identifier": "iMac21,1",
-                "Model Number": "A2438",
-                "EMC": "3663",
-                "Color": "Silver, Pink, Blue, Green, Purple, Orange, Yellow",
-                "Weight/Dimensions": "<br>4.48 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.88 lbs, 18.1 H x 21.5 W x 5.8 D"                
-            },
-            "Processor": {
-                "Processor Name": "Apple M1 (APL1102)",
-                "Processor Speed": "3.2 GHz (high performance) and 2.1 GHz (high efficiency)",
-                "# of Cores": "8 (4 high performance and 4 high efficiency)",
-                "# of Neural Engine Cores": "16",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "5 nm"
-            },
-            "Storage": {
-                "SSD": "256, 512 GB, 1 or 2 TB"
-            },
-            "Software": {
-                "Original OS": "macOS 11.3 (Big Sur)",
-                "Maximum OS": "Latest release of macOS"
-            },
-            "Memory": {
-                "Built-in Memory": "8 or 16 GB",
-                "Maximum Memory": "16 GB",
-                "Supported RAM": "4266 MT/s LPDDR4X"
-            },
-            "Display": {
-                "Display Type": "24-inch (diagonal) Retina 4.5K display",
                 "Aspect Ratio": "16:10",
                 "Native Resolution": "4480 x 2520"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G13G",
-                "# of Graphics Cores": "8",
-                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
-            },
-            "Connections": {
-                "Wi-Fi": "802.11ax (6)",
-                "Bluetooth": "5.0",
-                "Ethernet": "1 - RJ45 on Power Adapter",
-                "USB": "2 - USB 3 (up to 10 Gbps)",
-                "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
-                "Audio In": "3 - Microphones",
-                "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
-                "Camera": "1080p FaceTime HD camera"
-            }
-        }
-    },{
-        "Name": "iMac (24-inch, M3, 2023)<br>(2-Ports)",
-        "Type": "iMac",
-        "image": "imac_24inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Nov 2023",
-                "Discontinued": "Oct 2024",
-                "Model Identifier": "Mac15,4",
-                "Model Number": "A2874",
-                "EMC": "8207",
-                "Color": "Silver, Pink, Blue, Green",
-                "Weight/Dimensions": "<br>4.43 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.75 lbs, 18.1 H x 21.5 W x 5.8 D inch"
-            },
-            "Processor": {
-                "Name": "Apple M3",
-                "Speed": "4.1 GHz (high performance) and 2.8 GHz (high efficiency)",
-                "# of Cores": "8 (4 high performance and 4 high efficiency)",
-                "# of Neural Engine Cores": "16",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "3 nm"
-            },
-            "Storage": {
-                "SSD":"256, 512 GB or 1 TB"
-            },
-            "Software": {
-                "Original OS": "macOS 13.5 (Ventura)",
-                "Maximum OS": "Latest release of macOS"
-            },
-            "Memory": {
-                "Built-in Memory": "8, 16, 24 GB",
-                "Maximum Memory": "24 GB",
-                "Supported RAM": "6400 MT/s LPDDR5"
-            },
-            "Display": {
-                "Display Type": "24-inch (diagonal) Retina 4.5K display",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "4480 x 2520"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "8",
-                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
+                "Chip": "Apple GPU",
+                "# of Graphics Cores": "8 (2-Ports) or 10 (4-Ports)",
+                "Memory": "shared through UMA (Unified Memory Architecture)"
             },
             "Connections": {
                 "Wi-Fi": "802.11ax (6E)",
                 "Bluetooth": "5.3",
-                "Ethernet": "Optional",
-                "USB": "none",
+                "Ethernet": "Optional (2-Ports) or 1 - RJ45 on Power Adapter (4-Ports)",
+                "USB": "none (2-Ports) or 2 - USB 3 (up to 10 Gbps) (4-Ports)",
                 "Thunderbolt": "2 - Thunderbolt 3 (up to 40 Gbps)",
                 "Audio In": "3 - Microphones",
                 "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
@@ -2724,169 +2644,60 @@
             }
         }
     }, {
-        "Name": "iMac (24-inch, M3, 2023)<br>(4-Ports)",
-        "Type": "iMac",
-        "image": "imac_24inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Nov 2023",
-                "Discontinued": "Oct 2024",
-                "Model Identifier": "Mac15,5",
-                "Model Number": "A2873",
-                "EMC": "8206",
-                "Color":"Silver, Pink, Blue, Green, Purple, Orange, Yellow",
-                "Weight/Dimensions": "<br>4.48 kg, 46.1 H x 54.7 W x 14.7 D cm<br>9.87 lbs, 18.1 H x 21.5 W x 5.8 D inch"
-            },
-            "Processor": {
-                "Name": "Apple M3",
-                "Speed": "4.1 GHz (high performance) and 2.8 GHz (high efficiency)",
-                "# of Cores": "8 (4 high performance and 4 high efficiency)",
-                "# of Neural Engine Cores": "16",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "3 nm"
-            },
-            "Storage": {
-                "SSD": "256, 512 GB, 1 or 2 TB"
-            },
-            "Software": {
-                "Original OS": "macOS 13.5 (Ventura)",
-                "Maximum OS": "Latest release of macOS"
-            },
-            "Memory": {
-                "Built-in Memory": "8, 16 or 24 GB",
-                "Supported RAM": "6400 MT/s LPDDR5"
-            },
-            "Display": {
-                "Display Type": "24-inch (diagonal) Retina 4.5K display",
-                "Aspect Ratio": "16:10",
-                "Native Resolution": "4480 x 2520"
-            },
-            "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "10",
-                "Graphics Memory": "shared through UMA (Unified Memory Architecture)"
-            },
-
-            "Connections": {
-                "Wi-Fi": "802.11ax (6E)",
-                "Bluetooth": "5.3",
-                "Ethernet": "1 - RJ45 on Power Adapter",
-                "USB": "2 - USB 3 (up to 10 Gbps)",
-                "Thunderbolt":"2 - Thunderbolt 3 (up to 40 Gbps)",
-                "Audio In": "3 - Microphones",
-                "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
-                "Camera": "1080p FaceTime HD camera"
-            }
-        }
-    }, {
-    "Name": "iMac (24-inch, M4, 2024)<br>2-Ports",
+    "Name": "iMac (24-inch, M4, 2024)",
     "Type": "iMac",
     "image": "imac_24inch.png",
     "Info": {
         "Overview": {
-            "Introduced": "October 2024",
+            "Introduced": "Nov 2024",
             "Discontinued": "--",
-            "Model Identifier": "iMac16,2",
-            "Model Number": "A3247",
-            "EMC": "8531",
+            "Model Identifier": "<li>Mac16,2<br><li>Mac16,3",
+            "Model Number": "A3247 or A3137",
+            "EMC": "8531 (2-Ports) or 8532 (4-Ports)",
             "Color": "Blue, Green, Purple, Pink, Orange, Yellow",
-            "Weight/Dimensions": "<br>4.4 kg, 45.97 H x 54.61 W x 14.73 D cm<br>9.75 lbs, 18.1 H x 21.5 W x 5.8 D inch"
+            "Weight/Dimensions": "<br>4.42 kg (2-Ports) 4.44 kg (4-Ports), 45.97 H x 54.61 W x 14.73 D cm<br>9.74 lbs (2-Ports) or 9.79 lbs (4-Ports), 18.1 H x 21.5 W x 5.8 D inch"
         },
         "Processor": {
-            "Processor Name": "Apple M4",
-            "Processor Speed": "4.4 GHz (high performance) and 2.9 GHz (high efficiency)",
-            "# of Cores": "8 or 10",
+            "Name": "Apple M4",
+            "Speed": "4.4 GHz (high performance) and 2.9 GHz (high efficiency)",
+            "# of Cores": "<li>8 (4 high performance and 4 high efficiency) or<br><li>10 (4 high performance and 6 high efficiency)",
             "# of Neural Engine Cores": "16",
             "Manufacturing Process": "3 nm"
         },
         "Storage": {
-            "SSD": "256, 512 GB or 1 TB"
+            "SSD": "<li>256, 512 GB or 1 TB (2-Ports) or<br><li>256, 512 GB, 1 or 2 TB (4-Ports)"
         },
         "Software": {
             "Original OS": "macOS 15.0 (Sequoia)",
             "Maximum OS": "Latest release of macOS"
         },
         "Memory": {
-            "Built-in Memory": "16, 24 or 32 GB",
-            "Supported RAM": "7500 MT/s LPDDR5X"
+            "Options": "16, 24 or 32 GB",
+            "Maximum": "24 GB (2-Ports) or 32 GB (4-Ports)",
+            "Supported": "7500 MT/s LPDDR5X"
         },
         "Display": {
-            "Display Type": "24-inch Retina 4.5K Display",
+            "Type": "24-inch Retina 4.5K Display",
             "Brightness": "500 nits",
             "Aspect Ratio": "16:10",
             "Native Resolution": "4480 x 2520"
         },
         "Graphics": {
-            "Graphics Chip": "Apple GPU",
-            "# of Graphics Cores": "8",
-            "Graphics Memory ": "shared through UMA (Unified Memory Architecture)"
+            "Chip": "Apple GPU",
+            "# of Graphics Cores": "8 (2-Ports) or 10 (4-Ports)",
+            "Memory ": "shared through UMA (Unified Memory Architecture)"
         },
         "Connections": {
             "Wi-Fi": "802.11ax (Wi-Fi 6E)",
             "Bluetooth": "5.3",
             "Ethernet": "Optional",
             "USB": "N/A",
-            "Thunderbolt": "2 - Thunderbolt 4 (Up to 40Gbps)",
+            "Thunderbolt": "2 - Thunderbolt 4 (Up to 40Gbps) (2-Ports) or 4 - Thunderbolt 4 (Up to 40Gbps) (4-Ports)",
             "Display": "1 - Built-in",
             "Audio In": "3 - Built-in microphones",
             "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
             "Camera": "1 - 12 MP 1080p Facetime HD Center Stage Camera"
-            }
         }
-    }, {
-    "Name": "iMac (24-inch, M4, 2024)<br>4-Ports",
-    "Type": "iMac",
-    "image": "imac_24inch.png",
-    "Info": {
-        "Overview": {
-            "Introduced": "October 2024",
-            "Discontinued": "N/A",
-            "Model Identifier": "iMac16,3",
-            "Model Number": "A3137",
-            "EMC": "8532",
-            "Color": "Blue, Green, Purple, Pink, Orange, Yellow",
-            "Weight/Dimensions": "<br>4.4 kg, 45.97 H x 54.61 W x 14.73 D cm<br>9.75 lbs, 18.1 H x 21.5 W x 5.8 D inch"
-        },
-        "Processor": {
-            "Processor Name": "Apple M4",
-            "Processor Speed": "4.4 GHz (high performance) and 2.9 GHz (high efficiency)",
-            "# of Cores": "8 or 10",
-            "# of Neural Engine Cores": "16",
-            "Manufacturing Process": "3 nm"
-        },
-        "Storage": {
-            "SSD": "256, 512 GB or 1 TB"
-        },
-        "Software": {
-            "Original OS": "macOS 15.0 (Sequoia)",
-            "Maximum OS": "Latest release of macOS"
-        },
-        "Memory": {
-            "Built-in Memory": "16, 24 or 32 GB",
-            "Supported RAM": "7500 MT/s LPDDR5X"
-        },
-        "Display": {
-            "Display Type": "24-inch Retina 4.5K Display",
-            "Brightness": "500 nits",
-            "Aspect Ratio": "16:10",
-            "Native Resolution": "4480 x 2520"
-        },
-        "Graphics": {
-            "Graphics Chip": "Apple GPU",
-            "# of Graphics Cores": "10",
-            "Graphics Memory ": "shared through UMA (Unified Memory Architecture)"
-        },
-        "Connections": {
-            "Wi-Fi": "802.11ax (Wi-Fi 6E)",
-            "Bluetooth": "5.3",
-            "Ethernet": "1 - 1 GBit/s RJ45 on Power Adapter",
-            "USB": "N/A",
-            "Thunderbolt": "4 - Thunderbolt 4 (Up to 40Gbps)",
-            "Display": "1 - Built-in",
-            "Audio In": "3 - Built-in microphones",
-            "Audio Out": "1 - 3.5mm output jack, 2 - Built-in speakers",
-            "Camera": "1 - 12 MP 1080p Facetime HD Center Stage Camera"
-            }
-        }    
+        }
     }
 ]
