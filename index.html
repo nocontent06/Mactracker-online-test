@@ -30,7 +30,27 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     </head>
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav id="navbar-container" class="navbar navbar-expand-lg navbar-dark bg-dark"></nav>
+        <script>
+            fetch('./navbar.html')
+              .then(response => response.text())
+              .then(html => {
+                document.getElementById('navbar-container').innerHTML = html;
+
+                const searchFormNav = document.getElementById("search-form-nav");
+
+                searchFormNav.addEventListener("keypress", function (event) {
+                    if (event.key === "Enter") {
+                        event.preventDefault();
+                        let webLink = `results.html?search=${searchInputNav.value}`;
+                        linkTagNav.setAttribute("href", webLink);
+                        linkTagNav.click();
+                    }
+                });
+              })
+              .catch(err => console.error('Error loading navbar:', err));
+        </script>          
+        <!-- <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#"><img src="/favicon.ico" alt="" width="30" height="30"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -78,6 +98,22 @@
                                 <li>
                                     <a href="/results.html?search=iPod" class="dropdown-item">iPod</a>
                                 </li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <p class="dropdown-header">Accessories</p>
+                                <li>
+                                    <a href="/results.html?search=Apple Watch" class="dropdown-item">Apple Watch</a>
+                                </li>
+                                <li>
+                                    <a href="/results.html?search=Apple TV" class="dropdown-item">Apple TV</a>
+                                </li>
+                                <li>
+                                    <a href="/results.html?search=Display" class="dropdown-item">(WIP) Display</a>
+                                </li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
                                 <p class="dropdown-header">OS</p>
                                 <li>
                                     <a href="/results.html?search=iPhoneOS" class="dropdown-item">iPhoneOS</a>
@@ -117,7 +153,7 @@
                     </form>
                 </div>
             </div>
-        </nav>
+        </nav> -->
         <form id="search-form-index" class="form-container">
             <h1 id="heading" class="heading">Mactracker Online</h1>
             <div class="wrapper">

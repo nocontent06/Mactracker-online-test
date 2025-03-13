@@ -1166,6 +1166,131 @@
         }
     },
     {
+        "Name": "iPad Pro (9.7-inch)<br>(WiFi)",
+        "Type": "iPad",
+        "image": "ipad_pro_9.7-inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2016",
+                "Discontinued": "Jun 2017",
+                "Model Identifier": "iPad6,3",
+                "Model Number": "A1673",
+                "EMC": "2976",
+                "Color": "Space Gray, Silver, Gold, Rose Gold",
+                "Weight/Dimensions": "<br>437 g, 24 H x 16.95 x 0.61 cm<br>0.96 lbs, 9.4 H x 6.6 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Brightness":"511 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.3",
+                "Maximum OS": "Latest release of iPadOS 16"
+            },
+            "Processor": {
+                "Processor Name": "Apple A9X",
+                "Processor Speed": "2.16 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR Series 7XT",
+                "# of Graphics Cores": "12"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+                "Bluetooth": "4.2",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
+                "Ports":"Lightning connector, Smart connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP iSight",
+                "Front Camera": "1 - 5 MP / 720p FaceTime HD"
+            },
+            "Power": {
+                "Battery": "Built-in 27.5 Wh lithium-polymer",
+                "Capacity": "7306 mAh"
+            },
+            "Features": {
+                "Apple Pencil Support": "1st Gen",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Pro (9.7-inch)<br>(WiFi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_pro_9.7-inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2016",
+                "Discontinued": "Jun 2017",
+                "Model Identifier": "iPad6,4",
+                "Model Number": "A1674 or A1675",
+                "EMC": "2977",
+                "Color": "Space Gray, Silver, Gold, Rose Gold",
+                "Weight/Dimensions": "<br>444 g, 24 H x 16.95 x 0.61 cm<br>0.98 lbs, 9.4 H x 6.6 W x 0.24 D inch"
+            },
+            "Display": {
+                "Display Size": "9.7-inch widescreen",
+                "Brightness": "511 nits",
+                "Refresh Rate":"60 Hz",
+                "Display Resolution": "2048 x 1536"
+            },
+            "Storage": {
+                "Capacity": "32, 128 or 256 GB"
+            },
+            "Software": {
+                "Original OS": "iOS 9.3",
+                "Maximum OS": "Latest release of iPadOS 16"
+            },
+            "Processor": {
+                "Processor Name": "Apple A9X",
+                "Processor Speed": "2.16 GHz",
+                "# of Cores": "2",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "16 nm"
+            },
+            "Memory": {
+                "Built-in Memory": "2 GB LPDDR4"
+            },
+            "Graphics": {
+                "Graphics Chip": "PowerVR Series 7XT",
+                "# of Graphics Cores": "12"
+            },
+            "Connections": {
+              "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
+              "Bluetooth": "4.2",
+              "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
+              "SIM slot": "nano-SIM and embedded Apple SIM",
+              "Audio In":"2 - Microphones",
+              "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack"  
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP iSight",
+                "Front Camera": "1 - 5 MP / 720p FaceTime HD"
+            },
+            "Power": {
+                "Battery": "Built-in 27.5 Wh lithium-polymer",
+                "Capacity": "7306 mAh"
+            },
+            "Features": {
+                "Apple Pencil Support": "1st Gen",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
         "Name": "iPad Pro (12.9-inch)<br>(WiFi)",
         "Type": "iPad",
         "image": "ipad_pro_12.9-inch.png",
@@ -1284,131 +1409,6 @@
             "Power": {
                 "Battery": "Built-in 38.5 Wh lithium-polymer",
                 "Capacity": "10307 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "1st Gen",
-                "Authentication": "Touch ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (9.7-inch)<br>(WiFi)",
-        "Type": "iPad",
-        "image": "ipad_pro_9.7-inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Mar 2016",
-                "Discontinued": "Jun 2017",
-                "Model Identifier": "iPad6,3",
-                "Model Number": "A1673",
-                "EMC": "2976",
-                "Color": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br>437 g, 24 H x 16.95 x 0.61 cm<br>0.96 lbs, 9.4 H x 6.6 W x 0.24 D inch"
-            },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Brightness":"511 nits",
-                "Refresh Rate":"60 Hz",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32, 128 or 256 GB"
-            },
-            "Software": {
-                "Original OS": "iOS 9.3",
-                "Maximum OS": "Latest release of iPadOS 16"
-            },
-            "Processor": {
-                "Processor Name": "Apple A9X",
-                "Processor Speed": "2.16 GHz",
-                "# of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "16 nm"
-            },
-            "Memory": {
-                "Built-in Memory": "2 GB LPDDR4"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR Series 7XT",
-                "# of Graphics Cores": "12"
-            },
-            "Connections": {
-                "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
-                "Bluetooth": "4.2",
-                "Audio In":"2 - Microphones",
-                "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack",
-                "Ports":"Lightning connector, Smart connector"
-            },
-            "Camera": {
-                "Back Camera": "1 - 12 MP iSight",
-                "Front Camera": "1 - 5 MP / 720p FaceTime HD"
-            },
-            "Power": {
-                "Battery": "Built-in 27.5 Wh lithium-polymer",
-                "Capacity": "7306 mAh"
-            },
-            "Features": {
-                "Apple Pencil Support": "1st Gen",
-                "Authentication": "Touch ID"
-            }
-        }
-    },
-    {
-        "Name": "iPad Pro (9.7-inch)<br>(WiFi + Cellular)",
-        "Type": "iPad",
-        "image": "ipad_pro_9.7-inch.png",
-        "Info": {
-            "Overview": {
-                "Introduced": "Mar 2016",
-                "Discontinued": "Jun 2017",
-                "Model Identifier": "iPad6,4",
-                "Model Number": "A1674 or A1675",
-                "EMC": "2977",
-                "Color": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br>444 g, 24 H x 16.95 x 0.61 cm<br>0.98 lbs, 9.4 H x 6.6 W x 0.24 D inch"
-            },
-            "Display": {
-                "Display Size": "9.7-inch widescreen",
-                "Brightness": "511 nits",
-                "Refresh Rate":"60 Hz",
-                "Display Resolution": "2048 x 1536"
-            },
-            "Storage": {
-                "Capacity": "32, 128 or 256 GB"
-            },
-            "Software": {
-                "Original OS": "iOS 9.3",
-                "Maximum OS": "Latest release of iPadOS 16"
-            },
-            "Processor": {
-                "Processor Name": "Apple A9X",
-                "Processor Speed": "2.16 GHz",
-                "# of Cores": "2",
-                "Architecture": "64-bit",
-                "Manufacturing Process": "16 nm"
-            },
-            "Memory": {
-                "Built-in Memory": "2 GB LPDDR4"
-            },
-            "Graphics": {
-                "Graphics Chip": "PowerVR Series 7XT",
-                "# of Graphics Cores": "12"
-            },
-            "Connections": {
-              "Wi-Fi":"802.11a/b/g/n/ac (Wi-Fi 5)",
-              "Bluetooth": "4.2",
-              "Networks":"4G LTE, UMTS/HSDPA, GSM/EDGE",
-              "SIM slot": "nano-SIM and embedded Apple SIM",
-              "Audio In":"2 - Microphones",
-              "Audio Out":"4 - Built-in speakers, 3.5-mm headphone jack"  
-            },
-            "Camera": {
-                "Back Camera": "1 - 12 MP iSight",
-                "Front Camera": "1 - 5 MP / 720p FaceTime HD"
-            },
-            "Power": {
-                "Battery": "Built-in 27.5 Wh lithium-polymer",
-                "Capacity": "7306 mAh"
             },
             "Features": {
                 "Apple Pencil Support": "1st Gen",
@@ -4674,6 +4674,134 @@
             },
             "Features": {
                 "Apple Pencil Support": "USB-C, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad (11-inch, A16)<br>(WiFi)",
+        "Type": "iPad",
+        "image": "ipad_10th_gen.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "TBD",
+                "Model Number": "A3355 (TBD)",
+                "EMC": "EMC",
+                "Color": "Silver, Blue, Pink, Yellow",
+                "Weight/Dimensions": "<br>477 g, 24.86 H x 17.95 W x 0.7 D cm<br>1.05 lbs, 9.79 H x 7.07 W x 0.28 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple A16 Bionic",
+                "Processor Speed": "3.5 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.3.2",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.3",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Capacity": "TBD mAh",
+                "Life": "TBD"
+            },
+            "Features": {
+                "Apple Pencil Support": "1st Gen",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad (11-inch, A16)<br>(WiFi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_10th_gen.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "TBD",
+                "Model Number": "A3356 (TBD)",
+                "EMC": "EMC",
+                "Color": "Silver, Blue, Pink, Yellow",
+                "Weight/Dimensions": "<br>481 g, 24.86 H x 17.95 W x 0.7 D cm<br>1.05 lbs, 9.79 H x 7.07 W x 0.28 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple A16 Bionic",
+                "Processor Speed": "3.5 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"5 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.3.2",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "6 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot":"TBD",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports":"USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Capacity": "TBD mAh",
+                "Life": "TBD"
+            },
+            "Features": {
+                "Apple Pencil Support": "1st Gen",
                 "Authentication": "Touch ID"
             }
         }

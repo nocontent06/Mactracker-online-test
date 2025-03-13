@@ -3124,6 +3124,75 @@
                 "Camera Control Button": "Yes"
             }
         }
+    },  {
+        "Name": "iPhone 16e",
+        "Type": "iPhone",
+        "image": "iphone_16e.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Feb 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone17,5",
+                "Model Number": "A3212",
+                "Other Model Numbers": "<br><li>A3408<br><li>A3409<br><li>A3410",
+                "EMC": "8725, 8726, 8728, 8727",
+                "Colors": "Black or White",
+                "Weight/Dimensions": "<br><li>167 g, 14.76 H x 7.15 W x 0.78 D cm<br><li>5.88 oz, 5.78 H x 2.82 W x 0.31 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple A18",
+                "Processor Speed": "4 GHz",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3264 / 7997",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>iOS 18.3</a>",
+                "Maximum OS": "<a class='results-link' href='detailed.html?modelNumber=iOS%2018&type=iOS'>Latest release of iOS</a>"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "4"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "2532 x 1170",
+                "Brightness": "800 nits (typical), 1200 nits (HDR)"
+            },
+            "Storage": {
+                "Capacity": "128, 256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (WiFi 6)",
+                "Bluetooth": "5.3",
+                "Modem": "Apple C1",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3212), nano-SIM and eSIM (A3408, A3409) dual nano-SIM (A3410)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C 2 (up to 480 MBit/s)"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 48 MP",
+                "Front Camera": "1 - 12 MP (TrueDepth)"
+            },
+            "Power": {
+                "Battery": "Built-in 15.55 lithium-ion",
+                "Capacity": "4005 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "No",
+                "Action Button": "Yes",
+                "Camera Control Button": "No"
+            }
+        }
     }
     
 ]

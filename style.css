@@ -357,10 +357,6 @@ html {
         font-size: 2em;
     }
 
-    .img-detail {
-        width: 100%;
-    }
-
     .item-container {
         flex-basis: 100%;
         text-align: center;
