@@ -269,6 +269,59 @@ Minor release. Updated meta Tags.
 - Fixed a bug where models weren't loaded (Commit f122110)
 - Added some new pics to README (Commit fde30c2)
 
+### Build 1E3ad
+
+- Updated version info (Commit 4b09b27)
+- Updated all MacBook Pros up to 15-inch E2008 (Commit 20fa329)
+
+### Build 1E3ae
+
+- Updated MacBook Pros up to 13-inch Mid 2009 (Commit ca135f0)
+
+### Build 1E3af
+
+- Updated MacBook Pros up to 17-inch Mid 2010 (Commit 335f526)
+- Add Mac Mini to dropdown menu on the main page, update MacBook Pros to the non-retina 2012 models. (Commit 3923e3e)
+- had to redo because of a miss-spell (Commit 5dfa93e)
+- Merge pull request #7 from apersonig/main (Commit 0933a79)
+
+### Build 1E3ag 
+
+- Just updated the version (Commit 1ac075d)
+
+### Build 1E3ah
+
+- Fixed some issues/types (Commit 001bec7)
+- Updated up to MBP 15 inch 2016 (Commit ee53901)
+- Updated up to MBP 13 inch 2020 2TB3 (Commit 82e77da)
+
+### Build 1E3ai
+
+- Updated up to MBP 14 inch M1 Pro/Max (Commit 26be725)
+
+### Build 1E3aj
+
+- Updated all MacBook Pros. Added 16-inch Nov 2023 (Commit 218d62f)
+
+### Build 1E3ak
+
+- Added all M4 MacBook Pros, updated iPhones for bullet points (Commit 300db02)
+
+### Build 1E3al
+
+- Updated Apple TVs from some Typos as well as iMacs and combined 2- and 4-port iMacs with M-SoC (Commit f0389c2)
+
+### Build 1E3am
+
+- Updated the Navbar loading script, added the iPhone 16e, Apple Watch Series 9 & 10 and the Apple Watch Ultra 2. Added some updates to iOS 17 & 18. Added the new iPad 11-inch A16 (Commit 8eeb237)
+
+### Build 1E3an
+
+- Added the new Mac Studio (Commit 2aa91f9)
+- Updated release notes
+
+
+
 
 
 
