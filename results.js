@@ -44,6 +44,7 @@ let linkTagNav = document.getElementById("a-bt"); // link
 const processData = async () => {
     const deviceFiles = [
         "AppleTV.json",
+        "Display.json",
         "iMac.json",
         "iOS.json",
         "iPad.json",

@@ -320,7 +320,9 @@ Minor release. Updated meta Tags.
 - Added the new Mac Studio (Commit 2aa91f9)
 - Updated release notes
 
+## v1.4.3 (Build 1E4)
 
+- Added Apple Displays from Cinema Display (20-inch) to Studio Display (2022)
 
 
 
