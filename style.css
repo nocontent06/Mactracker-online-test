@@ -635,7 +635,6 @@ body::before {
 
 /* Main Content Container */
 .main-container {
-    max-width: 1400px;
     margin: 0 auto;
     padding: 0 2rem;
 }
@@ -785,8 +784,7 @@ li {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 2rem;
-    margin: 0 auto;
-    max-width: 1400px;
+    margin: 5em;
     animation: fadeInUp 0.8s ease-out;
 }
 
@@ -898,7 +896,6 @@ li {
     gap: 2rem;
     padding: 2rem;
     margin: 0 auto;
-    max-width: 1400px;
 }
 
 #detailed-view-container {
@@ -1113,17 +1110,7 @@ li {
 
 /* Special styling for different data types with Apple aesthetics */
 .detail-value.version-data {
-    font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', monospace;
-    font-size: 0.85rem;
-    background: rgba(0, 122, 255, 0.1);
-    backdrop-filter: blur(10px);
-    padding: 0.5rem;
-    border-radius: 12px;
-    border: 0.5px solid rgba(0, 122, 255, 0.2);
-    color: rgba(10, 132, 255, 1);
-    font-weight: 500;
-    margin-left: 0;
-    padding-left: 1rem;
+    /*  */
 }
 
 .detail-value.version-data::before {
@@ -1256,6 +1243,7 @@ li {
     transition: all 0.2s ease;
     font-weight: 400;
     font-size: 0.9rem;
+    overflow: clip;
 }
 
 /* Remove bullet points */
@@ -1277,11 +1265,33 @@ li {
     text-decoration: none;
     transition: all 0.2s ease;
     display: block;
+    width: 100%;
+    height: 100%;
+    padding: inherit;
+    margin: -0.75rem -1rem;
 }
 
 .supported-devices a:hover {
     color: rgba(10, 132, 255, 1);
     text-decoration: none;
+}
+
+/* Make device links fill the entire li */
+.supported-devices .device-link {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0.75rem 1rem;
+    margin: -0.75rem -1rem;
+    border-radius: 10px;
+}
+
+.supported-devices .device-link:hover {
+    color: inherit;
+    text-decoration: underline;
 }
 
 /* Apple-style Grid Layout */
@@ -1291,7 +1301,6 @@ li {
     gap: 2rem;
     padding: 2rem;
     margin: 0 auto;
-    max-width: 1400px;
 }
 
 /* Apple-style Image Container */
@@ -2144,4 +2153,17 @@ button:hover {
         opacity: 1;
         transform: translateX(-50%) translateY(0);
     }
+}
+
+.results-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: rgba(0, 122, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 0.5px solid rgba(0, 122, 255, 0.3);
+    border-radius: 12px;
+    color: rgba(10, 132, 255, 1);
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
 }

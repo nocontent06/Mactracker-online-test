@@ -324,7 +324,7 @@ Minor release. Updated meta Tags.
 
 - Added Apple Displays from Cinema Display (20-inch) to Studio Display (2022)
 
-# v1.5 (Build 1F1)
+# v1.5 (Build 1F1a)
 
 - Updated iPad A16 (fixed Issue #9)
 - Updated iOS with latest versions
@@ -333,6 +333,10 @@ Minor release. Updated meta Tags.
 - Added macOS Versions
 - Redesigned the entire page
 
+### Beta 2 (1F1b)
+
+- Added links between iPhones and iOS Versions
+- Started with Mac OS X 10.6
 
 
 
