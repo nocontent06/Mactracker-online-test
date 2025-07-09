@@ -59,7 +59,8 @@ const processData = async () => {
         "MacMini.json",
         "Mac Pro.json",
         "Watch.json",
-        "Pencil.json"
+        "Pencil.json",
+        "macOS.json",
         // Add other device JSON file names here
     ];
 
@@ -119,7 +120,8 @@ const processData = async () => {
         { keywords: ["MacBook", "Air", "MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
         { keywords: ["Apple", "TV", "Apple TV", "AppleTV"], device: "AppleTV" },
         { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"},
-        { keywords: ["Pencil", "Apple Pencil"], device: "Pencil"}
+        { keywords: ["Pencil", "Apple Pencil"], device: "Pencil"},
+        { keywords: ["macOS", "MacOS"], device: "macOS"},
     ];
     
     let found = false;
@@ -202,10 +204,6 @@ const processData = async () => {
     console.log("Filtered Data Length: ", filtData.length);
 
     searchResults_heading.innerText = filtData.length + " Results for " + search;
-
-    let footer = document.createElement("footer");
-    footer.setAttribute("class", "footer");
-    footer.innerText = returnString; // Replace with your footer content
 
     if (filtData.length === 0) {
         const notFoundMessage = document.createElement("p");
@@ -304,9 +302,9 @@ document.body.insertBefore(searchResults_heading, searchResultsContainer);
 
 // Footer
 
-let footer_index = document.createElement("footer");
-footer_index.setAttribute("class", "footer");
-footer_index.innerText = returnString;
+// let footer_index = document.createElement("footer");
+// footer_index.setAttribute("class", "footer");
+// footer_index.innerText = returnString;
 
 processData().catch((error) => {
     console.error(error);

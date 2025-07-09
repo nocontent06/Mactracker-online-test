@@ -1,0 +1,106 @@
+[
+    {
+        "Name": "Mac OS X 10.0 Cheetah",
+        "Type": "macOS",
+        "image": "macOS100.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 24, 2001",
+                "Supported Devices": "<ul class='supported-devices'><li>Power Macintosh G3 Beige</li><li>Power Macintosh G3 Blue & White</li><li>Power Mac G4</li><li>Power Mac G4 Cube</li><li>iMac G3</li><li>PowerBook G3</li><li>PowerBook G4</li><li>iBook</li></ul>",
+                "System Requirements": "<br>RAM: 128 MB<br>Hard Drive Space: 1.5 GB",
+                "Model Identifier": "Latest: macOS 10.0.4",
+                "Model Number": "macOS 10.0"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.0</td><td>4K78</td><td>Mar 24, 2001</td><td>PowerPC</td></tr><tr><td>10.0.1</td><td>4L13</td><td>Apr 14, 2001</td><td>PowerPC</td></tr><tr><td>10.0.2</td><td>4P12</td><td>May 1, 2001</td><td>PowerPC</td></tr><tr><td>10.0.3</td><td>4P13</td><td>May 9, 2001</td><td>PowerPC</td></tr><tr><td>10.0.4</td><td>4Q12<br>4R14<br>4S10</td><td>Jun 21, 2001<br>Jul 18, 2001<br>Aug 10, 2001</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.1 Puma",
+        "Type": "macOS",
+        "image": "macOS100.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 29, 2001",
+                "Supported Devices": "<ul class='supported-devices'><li>Power Mac G3</li><li>Power Mac G4</li><li>Power Mac G4 Cube</li><li>iMac G3</li><li>iMac G4</li><li>eMac</li><li>PowerBook G3 (except for the orig. PowerBook G3)</li><li>PowerBook G4</li><li>iBook</li></ul>",
+                "System Requirements": "<ul class='supported-devices'><li>RAM: 128 MB</li><li>Hard Drive Space: 1.5 GB</li></ul>",
+                "Model Identifier": "Latest: macOS 10.1.5",
+                "Model Number": "macOS 10.1"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.1</td><td>5G64</td><td>Sep 25, 2001</td><td>PowerPC</td></tr><tr><td>10.1.1</td><td>5M28</td><td>Nov 12, 2001</td><td>PowerPC</td></tr><tr><td>10.1.2</td><td>5P48</td><td>Dec 21, 2001</td><td>PowerPC</td></tr><tr><td>10.1.3</td><td>5Q45</td><td>Feb 19, 2002</td><td>PowerPC</td></tr><tr><td>10.1.4</td><td>5Q125</td><td>Apr 17, 2002</td><td>PowerPC</td></tr><tr><td>10.1.5</td><td>5S60</td><td>Jun 5, 2002</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.2 Jaguar",
+        "Type": "macOS",
+        "image": "macOS102.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Aug 23, 2002",
+                "Supported Devices": "<ul class='supported-devices'><li>PowerPC G3</li><li>PowerPC G4</li><li>PowerPC G5</li></ul>",
+                "System Requirements": "<ul class='supported-devices'><li>RAM: 128 MB</li></ul>",
+                "Model Identifier": "Latest: macOS 10.2.8",
+                "Model Number": "macOS 10.2"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.2</td><td>6C115<br>6C115a</td><td>Aug 24, 2002</td><td>PowerPC</td></tr><tr><td>10.2.1</td><td>6D52</td><td>Sep 18, 2002</td><td>PowerPC</td></tr><tr><td>10.2.2</td><td>6F21</td><td>Nov 11, 2002</td><td>PowerPC</td></tr><tr><td>10.2.3</td><td>6G30<br>6G37<br>6G50</td><td>Dec 19, 2002</td><td>PowerPC</td></tr><tr><td>10.2.4</td><td>6I32</td><td>Feb 13, 2003</td><td>PowerPC</td></tr><tr><td>10.2.5</td><td>6L29</td><td>Apr 10, 2003</td><td>PowerPC</td></tr><tr><td>10.2.6</td><td>6L60</td><td>May 6, 2003</td><td>PowerPC</td></tr><tr><td>10.2.7</td><td>6R65</td><td>Sep 22, 2003</td><td>PowerPC</td></tr><tr><td>10.2.8</td><td>6R73<br>6S90</td><td>Oct 3, 2003</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.3 Panther",
+        "Type": "macOS",
+        "image": "macOS103.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 24, 2003",
+                "Supported Devices": "<ul class='supported-devices'><li>PowerPC G3, G4 or G5 (233 MHz or faster)</li></ul>",
+                "System Requirements": "<ul class='supported-devices'><li>Built-in USB</li><li>RAM: 128 MB (256 recommended)</li><li>HDD: 1.5 GB</li><li>CD Drive</li><li>Internet access</li></ul>",
+                "Model Identifier": "Latest: macOS 10.3.9",
+                "Model Number": "macOS 10.3"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.3</td><td>7B85<br>7B86</td><td>Oct 24, 2003</td><td>PowerPC</td></tr><tr><td>10.3.1</td><td>7C107</td><td>Nov 10, 2003</td><td>PowerPC</td></tr><tr><td>10.3.2</td><td>7D24<br>7D28</td><td>Dec 17, 2003</td><td>PowerPC</td></tr><tr><td>10.3.3</td><td>7F44</td><td>Mar 15, 2004</td><td>PowerPC</td></tr><tr><td>10.3.4</td><td>7H63</td><td>May 26, 2004</td><td>PowerPC</td></tr><tr><td>10.3.5</td><td>7M34</td><td>Aug 9, 2004</td><td>PowerPC</td></tr><tr><td>10.3.6</td><td>7R28</td><td>Nov 5, 2004</td><td>PowerPC</td></tr><tr><td>10.3.7</td><td>7S215</td><td>Dec 15, 2004</td><td>PowerPC</td></tr><tr><td>10.3.8</td><td>7U16</td><td>Feb 9, 2005</td><td>PowerPC</td></tr><tr><td>10.3.9</td><td>7W98</td><td>Apr 15, 2005</td><td>PowerPC</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.4 Tiger",
+        "Type": "macOS",
+        "image": "macOS104.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Apr 29, 2005",
+                "Supported Devices": "<ul class='supported-devices'><li>PowerPC G3, G4 or G5</li><li><a href='detailed.html?modelNumber=A1173&type=iMac'>iMac (Early 2006) (17-inch) (10.4.4+)</a></li><li><a href='detailed.html?modelNumber=A1174&type=iMac'>iMac Early 2006 20-inch (10.4.4+)</a></li><li><a href='detailed.html?modelNumber=A1195%20(Mid%202006)&type=iMac'>iMac (Mid 2006, 17-inch) (10.4.6+)</a></li><li><a href='detailed.html?modelNumber=A1195&type=iMac'>iMac (Late 2006) (17-inch CD) (10.4.7+)</a></li><li><a href='detailed.html?modelNumber=A1208&type=iMac'>iMac (Late 2006) (17-inch) (10.4.7+)</a></li><li><a href='detailed.html?modelNumber=A1207&type=iMac'>iMac (Late 2006) (20-inch) (10.4.7+)</a></li><li><a href='detailed.html?modelNumber=A1200&type=iMac'>iMac (24-inch) (10.4.7+)</a></li><li>MacBook (Mid 2006) (10.4.6+)</li><li>MacBook (Late 2006) (10.4.8+)</li><li>MacBook (Mid 2007) (10.4.9+)</li><li><a href='detailed.html?modelNumber=A1150&type=MacBook%20Pro'>MacBook Pro (Early 2006) (10.4.5+)</a></li><li><a href='detailed.html?modelNumber=A1151&type=MacBook%20Pro'>MacBook Pro (17-inch) (10.4.6+)</a></li><li><a href='detailed.html?modelNumber=A1211&type=MacBook%20Pro'>MacBook Pro (15-inch, Core 2 Duo) (10.4.8+)</a></li><li><a href='detailed.html?modelNumber=A1212&type=MacBook%20Pro'>MacBook Pro (17-inch, Core 2 Duo) (10.4.8+)</a></li><li><a href='detailed.html?modelNumber=A1226&type=MacBook%20Pro'>MacBook Pro (15-inch, Mid 2007) (10.4.9+)</a></li><li><a href='detailed.html?modelNumber=A1229&type=MacBook%20Pro'>MacBook Pro (17-inch, Mid 2007) (10.4.9+)</a></li><li><a href='detailed.html?modelNumber=A1176&type=MacMini'>Mac Mini (Early 2006) (10.4.5+)</a></li><li><a href='detailed.html?modelNumber=A1176%20(Late%202006)&type=MacMini'>Mac Mini (Late 2006) (10.4.7+)</a></li><li><a href='detailed.html?modelNumber=A1176%20(Mid%202007)&type=MacMini'>Mac Mini (Mid 2007) (10.4.10+)</a></li></ul>",
+                "System Requirements (PowerPC)": "<ul class='supported-devices'><li>PowerPC G3, G4 or G5</li><li>RAM: 256 MB</li><li>HDD: 3 GB (4 GB with dev tools)</li><li>DVD Drive</li></ul>",
+                "Model Identifier": "Latest: macOS 10.4.11",
+                "Model Number": "macOS 10.4"
+            },
+            "Versions": {
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td><td>Description</td></tr><tr><td>10.4</td><td>8A428<br>8A432</td><td>Apr 29, 2005</td><td>PowerPC</td></tr><tr><td>10.4.1</td><td>8B15<br>8B17</td><td>May 16, 2005<br>May 19, 2005</td><td>PowerPC</td></tr><tr><td>10.4.2</td><td>8C46<br>8C47<br>8E102<br>8E45<br>8E90</td><td>Jul 12, 2005<br>Oct 12, 2005<br>Oct 19, 2005</td><td>PowerPC</td></tr><tr><td>10.4.3</td><td>8F46</td><td>Oct 21, 2005</td><td>PowerPC</td></tr><tr><td>10.4.4</td><td>8G32<br>8G1165</td><td>Jan 10, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.5</td><td>8H14<br>8G1454</td><td>Feb 14, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.6</td><td>8I127<br>8I1119</td><td>Apr 3, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.7</td><td>8J135<br>8J2135a<br>8K1079<br>8N5107</td><td>Jun 27, 2006<br><br>Aug 7, 2006</td><td>PowerPC<br>Intel x86<br>Mac Pro<br>Apple TV</td></tr><tr><td>10.4.8</td><td>8L127<br>8L2127</td><td>Sep 29, 2006</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.9</td><td>8P135<br>8P2137</td><td>Mar 13, 2007</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.10</td><td>8R218<br>8R2218<br>8R2232</td><td>Jun 20, 2007</td><td>PowerPC<br>Intel x86</td></tr><tr><td>10.4.11</td><td>8S165<br>8S2167</td><td>Nov 14, 2007</td><td>PowerPC<br>Intel x86</td></tr></tbody></table></div>"
+            }
+        }
+    },
+    {
+        "Name": "Mac OS X 10.5 Leopard",
+        "Type": "macOS",
+        "image": "macOS105.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 26, 2007",
+                "System Requirements": "<ul class='supported-devices'><li>Built-in USB</li><li>RAM: 512 MB</li><li>HDD: 9 GB</li><li>DVD Drive</li></ul>",
+                "Model Identifier": "Latest: macOS 10.5.8",
+                "Model Number": "macOS 10.5"
+            },
+            "Supported Devices": {
+                "Supported": "<ul class='supported-devices'><li>PowerPC G4 (867 MHz or faster) or G5</li><li>Any Intel Machine</li><br><strong>MacBooks:</strong><li><a href='detailed.html?modelNumber=A1181&type=MacBook'>MacBook (13-inch)</a></li><li><a href='detailed.html?modelNumber=A1181%20(Late%202006)&type=MacBook'>MacBook (13-inch, Late 2006)</a></li><li><a href='detailed.html?modelNumber=A1181%20(Mid%202007)&type=MacBook'>MacBook (13-inch, Mid 2007)</a></li><li><a href='detailed.html?modelNumber=A1181%20(Late%202007)&type=MacBook'>MacBook (13-inch, Late 2007)</a></li><li><a href='detailed.html?modelNumber=A1181%20(Early%202008)&type=MacBook'>MacBook (13-inch, Early 2008)</a></li><li><a href='detailed.html?modelNumber=A1181%20(Late%202008)&type=MacBook'>MacBook (13-inch, Late 2008)</a></li><li><a href='detailed.html?modelNumber=A1278%20(Late%202008)&type=MacBook'>MacBook (13-inch, Late 2008) (Aluminum)</a></li><li><a href='detailed.html?modelNumber=A1181%20(Early%202009)&type=MacBook'>MacBook (13-inch, Early 2009)</a></li><li><a href='detailed.html?modelNumber=A1181%20(Mid%202009)&type=MacBook'>MacBook (13-inch, Mid 2009)</a></li><br><strong>MacBook Air:</strong><li><a href='detailed.html?modelNumber=A1237&type=MacBook%20Air'>MacBook Air</a></li><li><a href='detailed.html?modelNumber=A1304&type=MacBook%20Air'>MacBook Air (Late 2008)</a></li><li><a href='detailed.html?modelNumber=A1304%20(Mid%202009)&type=MacBook%20Air'>MacBook Air (Mid 2009)</a></li><br><strong>MacBook Pro:</strong><li><a href='detailed.html?modelNumber=A1150&type=MacBook%20Pro'>MacBook Pro (Early 2006)</a></li><li><a href='detailed.html?modelNumber=A1151&type=MacBook%20Pro'>MacBook Pro (17-inch)</a></li><li><a href='detailed.html?modelNumber=A1211&type=MacBook%20Pro'>MacBook Pro (15-inch, Core 2 Duo)</a></li><li><a href='detailed.html?modelNumber=A1212&type=MacBook%20Pro'>MacBook Pro (17-inch, Core 2 Duo)</a></li><li><a href='detailed.html?modelNumber=A1226&type=MacBook%20Pro'>MacBook Pro (15-inch, Mid 2007)</a></li><li><a href='detailed.html?modelNumber=A1229&type=MacBook%20Pro'>MacBook Pro (17-inch, Mid 2007)</a></li><li><a href='detailed.html?modelNumber=A1260&type=MacBook%20Pro'>MacBook Pro (15-inch, Early 2008)</a></li><li><a href='detailed.html?modelNumber=A1261&type=MacBook%20Pro'>MacBook Pro (17-inch, Early 2008)</a></li><li><a href='detailed.html?modelNumber=A1286&type=MacBook%20Pro'>MacBook Pro (15-inch, Late 2008)</a></li><li><a href='detailed.html?modelNumber=A1261%20(Late%202008)&type=MacBook%20Pro'>MacBook Pro (17-inch, Late 2008)</a></li><li><a href='detailed.html?modelNumber=A1297&type=MacBook%20Pro'>MacBook Pro (17-inch, Early 2009)</a></li><li><a href='detailed.html?modelNumber=A1278&type=MacBook%20Pro'>MacBook Pro (13-inch, Mid 2009)</a></li><li><a href='detailed.html?modelNumber=A1286%20(2.53%20GHz)&type=MacBook%20Pro'>MacBook Pro (15-inch, 2.53 GHz, Mid 2009)</a></li><li><a href='detailed.html?modelNumber=A1286%20(Mid%202009)&type=MacBook%20Pro'>MacBook Pro (15-inch, Mid 2009)</a></li><li><a href='detailed.html?modelNumber=A1297%20(Mid%202009)&type=MacBook%20Pro'>MacBook Pro (17-inch, Mid 2009)</a></li><br><strong>iMac:</strong><li><a href='detailed.html?modelNumber=A1058&type=iMac'>iMac G5 17-inch</a></li><li><a href='detailed.html?modelNumber=A1076&type=iMac'>iMac G5 20-inch</a></li><li><a href='detailed.html?modelNumber=A1058%20(ALS)&type=iMac'>iMac G5 17-inch (ALS)</a></li><li><a href='detailed.html?modelNumber=A1076%20(ALS)&type=iMac'>iMac G5 20-inch (ALS)</a></li><li><a href='detailed.html?modelNumber=A1144&type=iMac'>iMac G5 17-inch iSight</a></li><li><a href='detailed.html?modelNumber=A1145&type=iMac'>iMac G5 20-inch iSight</a></li><li><a href='detailed.html?modelNumber=A1173&type=iMac'>iMac (Early 2006) (17-inch)</a></li><li><a href='detailed.html?modelNumber=A1174&type=iMac'>iMac (Early 2006) (20-inch)</a></li><li><a href='detailed.html?modelNumber=A1195%20(Mid%202006)&type=iMac'>iMac (Mid 2006) (17-inch)</a></li><li><a href='detailed.html?modelNumber=A1195&type=iMac'>iMac (Late 2006) (17-inch CD)</a></li><li><a href='detailed.html?modelNumber=A1208&type=iMac'>iMac (Late 2006) (17-inch)</a></li><li><a href='detailed.html?modelNumber=A1207&type=iMac'>iMac (Late 2006) (20-inch)</a></li><li><a href='detailed.html?modelNumber=A1200&type=iMac'>iMac (24-inch)</a></li><li><a href='detailed.html?modelNumber=A1224&type=iMac'>iMac (Mid 2007) (20-inch)</a></li><li><a href='detailed.html?modelNumber=A1225&type=iMac'>iMac (Mid 2007) (24-inch)</a></li><li><a href='detailed.html?modelNumber=A1224%20(Early%202008)&type=iMac'>iMac (Early 2008) (20-inch)</a></li><li><a href='detailed.html?modelNumber=A1225%20(Early%202008)&type=iMac'>iMac (Early 2008) (24-inch)</a></li><li><a href='detailed.html?modelNumber=A1224%20(Early%202009)&type=iMac'>iMac (Early 2009) (20-inch)</a></li><li><a href='detailed.html?modelNumber=A1225%20(Early%202009)&type=iMac'>iMac (Early 2009) (24-inch)</a></li><li><a href='detailed.html?modelNumber=A1224%20(Mid%202009)&type=iMac'>iMac (Mid 2009) (20-inch)</a></li><br><strong>Mac Mini:</strong><li><a href='detailed.html?modelNumber=A1103&type=MacMini'>Mac Mini</a></li><li><a href='detailed.html?modelNumber=A1103%20(Late%202005)&type=MacMini'>Mac Mini (Late 2005)</a></li><li><a href='detailed.html?modelNumber=A1176&type=MacMini'>Mac Mini (Early 2006)</a></li><li><a href='detailed.html?modelNumber=A1176%20(Late%202006)&type=MacMini'>Mac Mini (Late 2006)</a></li><li><a href='detailed.html?modelNumber=A1176%20(Mid%202007)&type=MacMini'>Mac Mini (Mid 2007)</a></li><li><a href='detailed.html?modelNumber=A1283&type=MacMini'>Mac Mini (Early 2009)</a></li><br><strong>Mac Pro:</strong><li><a href='detailed.html?modelNumber=A1186&type=Mac%20Pro'>Mac Pro</a></li><li><a href='detailed.html?modelNumber=A1186%20(8-Core)&type=Mac%20Pro'>Mac Pro (8-core)</a></li><li><a href='detailed.html?modelNumber=A1186%20(Early%202008)&type=Mac%20Pro'>Mac Pro (Early 2008)</a></li><li><a href='detailed.html?modelNumber=A1289&type=Mac%20Pro'>Mac Pro (Early 2009)</a></li></ul>"
+            },
+            "Versions": {
+                "Overview": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>10.5</td><td>9A581</td><td>Oct 26, 2007</td></tr><tr><td>10.5.1</td><td>9B18<br>9B2117</td><td>Nov 15, 2007<br>Dec 14, 2007</td></tr><tr><td>10.5.2</td><td>9C31<br>9C7010</td><td>Feb 11, 2008</td></tr><tr><td>10.5.3</td><td>9D34</td><td>May 28, 2008</td></tr><tr><td>10.5.4</td><td>9E17</td><td>Jun 30, 2008</td></tr><tr><td>10.5.5</td><td>9F33</td><td>Sep 15, 2008</td></tr><tr><td>10.5.6</td><td>9G55<br>9G66<br>9G71</td><td>Dec 15, 2008<br>Jan 6, 2009</td></tr><tr><td>10.5.7</td><td>9J61</td><td>May 12, 2009</td></tr><tr><td>10.5.8</td><td>9L30<br>9L34</td><td>Aug 5, 2009<br>Aug 31, 2009</td></tr></tbody></table></div>"
+            }
+        }
+    }
+]

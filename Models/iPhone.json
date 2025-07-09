@@ -10,7 +10,7 @@
                 "Model Identifier": "iPhone1,1",
                 "Model Number": "A1203",
                 "Colors": "Black",
-                "Weight/Dimensions": "<br><li>135 g, 11.5 H x 6.1 W x 1.16 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.46 D inch" 
+                "Weight/Dimensions": "<li>135 g, 11.5 H x 6.1 W x 1.16 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.46 D inch" 
             },
             "Processor": {
                 "Processor Name": "Samsung ARM 1176JZ(F)-S",
@@ -126,7 +126,7 @@
                 "Model Number": "A1303, A1325",
                 "EMC": "2315",
                 "Colors": "Black (8, 16, 32 GB) White (16, 32 GB)",
-                "Weight/Dimensions": "<br><li>135 g, 11.55 H x 6.21 W x 1.26 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.48 D inch"
+                "Weight/Dimensions": "<li>135 g, 11.55 H x 6.21 W x 1.26 D cm <br><li>4.8 oz, 4.5 H x 2.4 W x 0.48 D inch"
             },
             "Processor": {
                 "Processor Name": "Samsung S5PC100",
@@ -185,7 +185,7 @@
                 "Model Number": "A1332",
                 "EMC": "380A, 380B",
                 "Colors": "Black, White",
-                "Weight/Dimensions": "<br><li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A4",
@@ -243,7 +243,7 @@
                 "Model Number": "A1349",
                 "EMC": "2422",
                 "Colors": "Black, White",
-                "Weight/Dimensions": "<br><li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<li>137 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A4",
@@ -300,7 +300,7 @@
                 "Model Number": "A1387, A1431",
                 "EMC": "A2430",
                 "Colors":"Black, White",
-                "Weight/Dimensions": "<br><li>140 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
+                "Weight/Dimensions": "<li>140 g, 11.52 H x 5.86 W x 0.93 D cm<br><li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A5",
@@ -358,7 +358,7 @@
                 "Model Number": "A1428 (NA), A1429 (International)",
                 "EMC": "2610",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
@@ -416,7 +416,7 @@
                 "Model Number": "A1429",
                 "EMC": "2610",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
@@ -474,7 +474,7 @@
                 "Model Number": "A1442",
                 "EMC": "N/A",
                 "Colors":"Black, Slate, White, Silver",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A6",
@@ -592,7 +592,7 @@
                 "Other Model Numbers": "<br><li>A1453 (US / JP)<br><li>A1457 (UK / EU)<br><li>A1518<br><li>A1528 (China)<br><li>A1530 (Asia & Oceania)",
                 "EMC": "2642",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A7",
@@ -656,7 +656,7 @@
                 "Other Model Numbers": "<br><li>A1586<br><li>A1589",
                 "EMC": "2816",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>129 g, 13.81 H x 6.7 W x 0.69 D cm<br><li>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
+                "Weight/Dimensions": "<li>129 g, 13.81 H x 6.7 W x 0.69 D cm<br><li>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
@@ -720,7 +720,7 @@
                 "Other Model Numbers": "<br><li>A1524<br><li>A1593",
                 "EMC": "2817",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>172 g, 15.81 H x 7.78 W x 0.71 D cm<br><li>6.07 oz, 6.22 H x 3.06 W x 0.28 D inch"
+                "Weight/Dimensions": "<li>172 g, 15.81 H x 7.78 W x 0.71 D cm<br><li>6.07 oz, 6.22 H x 3.06 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A8",
@@ -784,7 +784,7 @@
                 "Other Model Numbers": "<br><li>A1688<br><li>A1691<br><li>A1700",
                 "EMC": "2946",
                 "Colors": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br><li>143 g, 13.81 H x 6.71 W x 0.71 D cm<br><li>5.04 oz, 5.44 H x 2.64 W x 0.28 D inch"
+                "Weight/Dimensions": "<li>143 g, 13.81 H x 6.71 W x 0.71 D cm<br><li>5.04 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
@@ -848,7 +848,7 @@
                 "Other Model Numbers": "<br><li>A1687<br><li>A1699",
                 "EMC": "2944",
                 "Colors":"Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br><li>192 g, 15.81 H x 7.79 W x 0.73 D cm<br><li>6.77 oz, 6.23 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>192 g, 15.81 H x 7.79 W x 0.73 D cm<br><li>6.77 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
@@ -911,7 +911,7 @@
                 "Other Model Numbers": "<br><li>A1723<br><li>A1724",
                 "EMC": "3042",
                 "Colors": "Space Gray, Silver, Gold, Rose Gold",
-                "Weight/Dimensions": "<br><li>113 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>113 g, 12.38 H x 5.86 W x 0.76 D cm<br><li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A9",
@@ -975,7 +975,7 @@
                 "Other Model Numbers": "<br><li>A1778<br><li>A1779<br><li>A1780",
                 "EMC": "3091",
                 "Colors": "Jet Black, Silver, Gold, Rose Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>138 g, 13.83 H x 6.71 W x 0.71 D cm<br><li>4.87 oz, 5.44 H x 2.64 W x 0.28 D inch"
+                "Weight/Dimensions": "<li>138 g, 13.83 H x 6.71 W x 0.71 D cm<br><li>4.87 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
@@ -1040,7 +1040,7 @@
                 "Other Model Numbers": "<br><li>A1784<br><li>A1785<br><li>A1786",
                 "EMC": "3092",
                 "Colors": "Jet Black, Silver, Gold, Rose Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>188 g, 15.82 H x 7.79 W x 0.73 D cm<br><li>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>188 g, 15.82 H x 7.79 W x 0.73 D cm<br><li>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A10 Fusion",
@@ -1105,7 +1105,7 @@
                 "Other Model Numbers": "<br><li>A1905<br><li>A1906<br><li>A1907",
                 "EMC": "3159, 3171, 3172",
                 "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
@@ -1170,7 +1170,7 @@
                 "Other Model Numbers": "<br><li>A1897<br><li>A1898<br><li>A1899",
                 "EMC": "3160, 3173, 3174",
                 "Colors": "Space Gray, Silver, Gold, (PRODUCT) Red",
-                "Weight/Dimensions": "<br><li>202 g, 15.84 H x 7.81 W x 0.75 D cm<br><li>"
+                "Weight/Dimensions": "<li>202 g, 15.84 H x 7.81 W x 0.75 D cm<br><li>"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
@@ -1235,7 +1235,7 @@
                 "Other Model Numbers": "<br><li>A1865<br><li>A1901<br><li>A1902",
                 "EMC": "3161, 3175, 3176",
                 "Colors": "Space Gray, Silver",
-                "Weight/Dimensions": "<br><li>174 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>174 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A11 Bionic",
@@ -1300,7 +1300,7 @@
                 "Other Model Numbers": "<br><li>A2097<br><li>A2098<br><li>A2100",
                 "EMC": "3218, 3232, 3233, 3262",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>177 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>177 g, 14.36 H x 7.09 W x 0.77 D cm<br><li>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
@@ -1365,7 +1365,7 @@
                 "Other Model Numbers": "<br><li>A2101<br><li>A2102<br><li>A2104",
                 "EMC": "3219, 3234, 3235, 3261",
                 "Colors": "Space Gray, Silver, Gold",
-                "Weight/Dimensions": "<br><li>208 g, 15.75 H x 7.74 W x 0.77 D cm<br><li>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>208 g, 15.75 H x 7.74 W x 0.77 D cm<br><li>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
@@ -1430,7 +1430,7 @@
                 "Other Model Numbers": "<br><li>A2105, A2106, A2107, A2108",
                 "EMC": "3220, 3227, 3238, 3260",
                 "Colors": "(PRODUCT) Red, Yellow, White, Coral, Black, Blue",
-                "Weight/Dimensions": "<br><li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
+                "Weight/Dimensions": "<li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A12 Bionic",
@@ -1494,7 +1494,7 @@
                 "Other Model Numbers": "<br><li>A2221<br><li>A2223",
                 "EMC": "3309, 3304",
                 "Colors": "(PRODUCT) Red, Yellow, White, Green, Black, Purple",
-                "Weight/Dimensions": "<br><li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
+                "Weight/Dimensions": "<li>194 g, 15.09 H x 7.57 W x 0.83 D cm<br><li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1559,7 +1559,7 @@
                 "Other Model Numbers": "<br><li>A2217<br><li>A2215",
                 "EMC": "3305, 3307",
                 "Colors": "Space Gray, Silver, Gold, Midnight Green",
-                "Weight/Dimensions": "<br><li>188 g, 14.40 H x 7.14 W x 0.81 D cm<br><li>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>188 g, 14.40 H x 7.14 W x 0.81 D cm<br><li>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1621,7 +1621,7 @@
                 "Other Model Numbers": "<br><li>A2220<br><li>A2218",
                 "EMC": "3306, 3308",
                 "Colors": "Space Gray, Silver, Gold, Midnight Green",
-                "Weight/Dimensions": "<br><li>226 g, 15.80 H x 7.78 W x 0.81 D cm<br><li>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>226 g, 15.80 H x 7.78 W x 0.81 D cm<br><li>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1682,7 +1682,7 @@
                 "Other Model Numbers": "<br><li>A2298<br><li>A2296",
                 "EMC": "3500",
                 "Colors": "Black, White, (PRODUCT) RED",
-                "Weight/Dimensions": "<br><li>148 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>148 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A13 Bionic",
@@ -1743,7 +1743,7 @@
                 "Other Model Numbers": "<br><li>A2402<br><li>A2404<br><li>A2403",
                 "EMC": "3542, 3543, 3544",
                 "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
-                "Weight/Dimensions": "<br><li>164 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>164 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -1808,7 +1808,7 @@
                 "Other Model Numbers": "<br><li>A2398<br><li>A2399<br><li>A2400",
                 "EMC": "3539, 3540, 3541",
                 "Colors": "Black, White, (PRODUCT) RED, Green, Blue, Purple",
-                "Weight/Dimensions": "<br><li>135 g, 13.15 H x 6.42 W x 0.74 D cm<br><li>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>135 g, 13.15 H x 6.42 W x 0.74 D cm<br><li>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -1873,7 +1873,7 @@
                 "Other Model Numbers": "<br><li>A2406<br><li>A2407<br><li>A2408",
                 "EMC": "3545, 3546, 3547",
                 "Colors": "Silver, Graphite, Gold, Pacific Blue",
-                "Weight/Dimensions": "<br><li>189 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>189 g, 14.67 H x 7.15 W x 0.74 D cm<br><li>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -1938,7 +1938,7 @@
                 "Other Model Numbers": "<br><li>A2410<br><li>A2411<br><li>A2412",
                 "EMC": "3548, 3549, 3550",
                 "Colors": "Silver, Graphite, Gold, Pacific Blue",
-                "Weight/Dimensions": "<br><li>228 g, 16.08 H x 7.81 W x 0.74 D cm<br><li>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>228 g, 16.08 H x 7.81 W x 0.74 D cm<br><li>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A14 Bionic",
@@ -2003,7 +2003,7 @@
                 "Other Model Numbers": "<br><li>A2631<br><li>A2633<br><li>A2634<br><li>A2635",
                 "EMC": "3997, 3999, 4032, 4031",
                 "Colors": "(PRODUCT) RED, Starlight, Midnight, Blue, Pink, Green",
-                "Weight/Dimensions": "<br><li>174 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>174 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2069,7 +2069,7 @@
                 "Other Model Numbers": "<br><li>A2626<br><li>A2628<br><li>A2629",
                 "EMC": "3996, 4029, 4030",
                 "Colors": "Red, Starlight, Midnight, Blue, Pink, Green",
-                "Weight/Dimensions": "<br><li>141 g, 13.15 H x 6.42 W x 0.76 D cm<br><li>4.97 oz, 5.18 H x 2.53 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>141 g, 13.15 H x 6.42 W x 0.76 D cm<br><li>4.97 oz, 5.18 H x 2.53 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2134,7 +2134,7 @@
                 "Other Model Numbers": "<br><li>A2636<br><li>A2638<br><li>A2639<br><li>A2640",
                 "EMC": "4000, 4002, 4033, 4034",
                 "Colors": "Graphite, Gold, Silver, Sierra Blue, Alpine Green",
-                "Weight/Dimensions": "<br><li>204 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>7.19 oz, 5.78 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>204 g, 14.67 H x 7.15 W x 0.76 D cm<br><li>7.19 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2200,7 +2200,7 @@
                 "Other Model Numbers": "<br><li>A2641<br><li>A2643<br><li>A2644<br><li>A2645",
                 "EMC": "4003, 4005, 4035, 4036",
                 "Colors": "Graphite, Gold, Silver, Sierra Blue, Alpine Green",
-                "Weight/Dimensions": "<br><li>240 g, 16.08 H x 7.81 W x 0.76 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>240 g, 16.08 H x 7.81 W x 0.76 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2266,7 +2266,7 @@
                 "Other Model Numbers": "<br><li>A2782<br><li>A2783<br><li>A2785",
                 "EMC": "4082, 4083, 8064, 8076",
                 "Colors": "Midnight, Starlight, (PRODUCT) RED",
-                "Weight/Dimensions": "<br><li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.09 oz, 5.45 H x 2.65 W x 0.29 D inch"
+                "Weight/Dimensions": "<li>144 g, 13.84 H x 6.73 W x 0.73 D cm<br><li>5.09 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2331,7 +2331,7 @@
                 "Other Model Numbers": "<br><li>A2881<br><li>A2884<br><li>A2883",
                 "EMC": "8138, 8142, 8144, 8143",
                 "Colors": "Midnight, Starlight, Blue, Purple, (PRODUCT) RED, Yellow",
-                "Weight/Dimensions": "<br><li>172 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>6.07 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>172 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>6.07 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2396,7 +2396,7 @@
                 "Other Model Numbers": "<br><li>A2885<br><li>A2886<br><li>A2887<br><li>A2888",
                 "EMC": "8139, 8146, 8148, 8147",
                 "Colors": "Midnight, Starlight, Blue, Purple, (PRODUCT) RED, Yellow",
-                "Weight/Dimensions": "<br><li>203 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>7.16 oz, 6.33 H x 3.07 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>203 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>7.16 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A15 Bionic",
@@ -2461,7 +2461,7 @@
                 "Other Model Numbers": "<br><li>A2889<br><li>A2890<br><li>A2891<br><li>A2892",
                 "EMC": "8140, 8150, 8152, 8151",
                 "Colors": "Space Black, Silver, Gold, Deep Purple",
-                "Weight/Dimensions": "<br><li>206 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>7.27 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>206 g, 14.67 H x 7.15 W x 0.78 D cm<br><li>7.27 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2528,7 +2528,7 @@
                 "Other Model Numbers": "<br><li>A2893<br><li>A2894<br><li>A2895<br><li>A2896",
                 "EMC": "8141, 8154, 8156, 8155",
                 "Colors": "Space Black, Silver, Gold, Deep Purple",
-                "Weight/Dimensions": "<br><li>240 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>240 g, 16.08 H x 7.81 W x 0.78 D cm<br><li>8.47 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2595,7 +2595,7 @@
                 "Other Model Numbers": "<br><li>A3090<br><li>A3089<br><li>A3092",
                 "EMC": "8427, 8428, 8430, 8429",
                 "Colors": "Black, Blue, Green, Yellow, Pink",
-                "Weight/Dimensions": "<br><li>171 g, 14.70 H x 7.15 W x 0.76 D cm<br><li>6.03 oz, 5.79 H x 2.82 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>171 g, 14.70 H x 7.15 W x 0.76 D cm<br><li>6.03 oz, 5.79 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2661,7 +2661,7 @@
                 "Other Model Numbers": "<br><li>A3093<br><li>A3096<br><li>A3094",
                 "EMC": "8431, 8432, 8433, 8434",
                 "Colors": "Black, Blue, Green, Yellow, Pink",
-                "Weight/Dimensions": "<br><li>201 g, 16.01 H x 7.81 W x 0.76 D cm<br><li>7.09 oz, 6.30 H x 3.07 W x 0.30 D inch"
+                "Weight/Dimensions": "<li>201 g, 16.01 H x 7.81 W x 0.76 D cm<br><li>7.09 oz, 6.30 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A16 Bionic",
@@ -2727,7 +2727,7 @@
                 "Other Model Numbers": "<br><li>A3101<br><li>A3104<br><li>A3102",
                 "EMC": "8435, 8436, 8437, 8438",
                 "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-                "Weight/Dimensions": "<br><li>187 g, 14.70 H x 7.06 W x 0.82 D cm<br><li>6.60 oz, 5.79 H x 2.78 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>187 g, 14.70 H x 7.06 W x 0.82 D cm<br><li>6.60 oz, 5.79 H x 2.78 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A17 Pro",
@@ -2795,7 +2795,7 @@
                 "Other Model Numbers": "<br><li>A3105<br><li>A3108<br><li>A3106",
                 "EMC": "8439, 8440, 8441, 8442",
                 "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
-                "Weight/Dimensions": "<br><li>221 g, 15.99 H x 7.76 W x 0.82 D cm<br><li>7.80 oz, 6.30 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>221 g, 15.99 H x 7.76 W x 0.82 D cm<br><li>7.80 oz, 6.30 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A17 Pro",
@@ -2863,7 +2863,7 @@
                 "Other Model Numbers": "<br><li>A3286<br><li>A3288<br><li>A3287",
                 "EMC": "8688, 8689, 8690, 8691",
                 "Colors": "Black, White, Pink, Teal, Ultramarine",
-                "Weight/Dimensions": "<br><li>170 g, 14.76 H x 7.16 W x 0.78 D cm<br><li>6 oz, 5.81 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>170 g, 14.76 H x 7.16 W x 0.78 D cm<br><li>6 oz, 5.81 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18",
@@ -2931,7 +2931,7 @@
                 "Other Model Numbers": "<br><li>A3289<br><li>A3290<br><li>A3291",
                 "EMC": "8692, 8693, 8694, 8695",
                 "Colors": "Black, White, Pink, Teal, Ultramarine",
-                "Weight/Dimensions": "<br><li>199 g, 16.09 H x 7.78 W x 0.78 D cm<br><li>7.03 oz, 6.33 H x 3.06 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>199 g, 16.09 H x 7.78 W x 0.78 D cm<br><li>7.03 oz, 6.33 H x 3.06 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18",
@@ -2999,7 +2999,7 @@
                 "Other Model Numbers": "<br><li>A3292<br><li>A3294<br><li>A3293",
                 "EMC": "8666, 8667, 8683, 8668",
                 "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
-                "Weight/Dimensions": "<br><li>199 g, 14.96 H x 7.15 W x 0.83 D cm<br><li>7.03 oz, 5.89 H x 2.81 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>199 g, 14.96 H x 7.15 W x 0.83 D cm<br><li>7.03 oz, 5.89 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18 Pro",
@@ -3068,7 +3068,7 @@
                 "Other Model Numbers": "<br><li>A3295<br><li>A3297<br><li>A3296",
                 "EMC": "8684, 8685, 8687, 8686",
                 "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
-                "Weight/Dimensions": "<br><li>227 g, 16.30 H x 7.76 W x 0.83 D cm<br><li>7.99 oz, 6.42 H x 3.06 W x 0.32 D inch"
+                "Weight/Dimensions": "<li>227 g, 16.30 H x 7.76 W x 0.83 D cm<br><li>7.99 oz, 6.42 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18 Pro",
@@ -3137,7 +3137,7 @@
                 "Other Model Numbers": "<br><li>A3408<br><li>A3409<br><li>A3410",
                 "EMC": "8725, 8726, 8728, 8727",
                 "Colors": "Black or White",
-                "Weight/Dimensions": "<br><li>167 g, 14.76 H x 7.15 W x 0.78 D cm<br><li>5.88 oz, 5.78 H x 2.82 W x 0.31 D inch"
+                "Weight/Dimensions": "<li>167 g, 14.76 H x 7.15 W x 0.78 D cm<br><li>5.88 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
                 "Processor Name": "Apple A18",
