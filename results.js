@@ -61,6 +61,7 @@ const processData = async () => {
         "Watch.json",
         "Pencil.json",
         "macOS.json",
+        "Xserve.json"
         // Add other device JSON file names here
     ];
 
@@ -122,6 +123,7 @@ const processData = async () => {
         { keywords: ["Apple", "Watch", "AppleWatch", "AW"], device: "Watch"},
         { keywords: ["Pencil", "Apple Pencil"], device: "Pencil"},
         { keywords: ["macOS", "MacOS"], device: "macOS"},
+        { keywords: ["Xserve", "XServe"], device: "Xserve"}
     ];
     
     let found = false;

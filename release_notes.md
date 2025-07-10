@@ -338,8 +338,9 @@ Minor release. Updated meta Tags.
 - Added links between iPhones and iOS Versions
 - Started with Mac OS X 10.6
 
+### Beta 3 (1F1c)
 
-
+- Added Xserve
 
 
 

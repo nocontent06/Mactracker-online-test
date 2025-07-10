@@ -281,8 +281,8 @@ const DEVICE_MODEL_MAP = {
     'Mac Pro (8-core)': { modelNumber: 'A1186 (8-Core)', type: 'Mac Pro' },
     'Mac Pro (Early 2008)': { modelNumber: 'A1186 (Early 2008)', type: 'Mac Pro' },
     'Mac Pro (Early 2009)': { modelNumber: 'A1289', type: 'Mac Pro' },
-    'Mac Pro (Mid 2010)': { modelNumber: 'A1289 (Mid 2010)', type: 'Mac Pro' },
-    'Mac Pro (Mid 2012)': { modelNumber: 'A1289 (Mid 2012)', type: 'Mac Pro' },
+    'Mac Pro (Mid 2010)': { modelNumber: 'A1289 (2010)', type: 'Mac Pro' },
+    'Mac Pro (Mid 2012)': { modelNumber: 'A1289 (2012)', type: 'Mac Pro' },
     
     // Xserve models
     'Xserve (Early 2008)': { modelNumber: 'A1246', type: 'Xserve' },
