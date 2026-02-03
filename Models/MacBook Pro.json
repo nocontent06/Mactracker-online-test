@@ -3670,5 +3670,63 @@
                 "Slots": "1 - SDXC Card Slot"
             }
         }
+    }, {
+        "Name": "MacBook Pro<br>(14-inch, M5)",
+        "Type": "MacBook Pro",
+        "image": "mbp_14_m5.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2025",
+                "Discontinued": "--",
+                "Model Identifier": "Mac17,2",
+                "Model Number": "A3434",
+                "EMC": "8896",
+                "Weight/Dimensions": "1.55 kg, 1.55 H x 31.26 W x 22.12 D cm<br>3.4 lbs., 0.61 H x 12.31 W x 8.71 D inch"
+            },
+            "Processor": {
+                "Name": "Apple M5",
+                "Speed": "4.6 GHz (High Performance), 3 GHz (High Efficiency)",
+                "# of Cores": "10 (4 high performance, 6 high efficiency)",
+                "# of Neural Engine Cores": "16",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 26 (Tahoe)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Options": "16, 24 or 32 GB",
+                "Supported": "9600 MT/s LPDDR5X",
+                "Bandwidth": "153 GB/s"
+            },
+             "Graphics": {
+                "Chip": "Apple GPU",
+                "Graphics Cores": "10"
+            },
+            "Display": {
+                "Type": "14.2-inch Liquid Retina XDR display",
+                "Brightness":"up to 1000 nits (outdoor SDR and sustained HDR) or 1600 nits (peak HDR)",
+                "Refresh Rate": "Up to 120 Hz ProMotion",
+                "Native Resolution": "3024 x 1964"
+            },
+            "Storage": {
+                "SSD": "512 GB, 1, 2 or 4 TB"
+            },
+            "Power": {
+                "Battery": "72.4 Wh Lithium-polymer",
+                "Life": "Up to 16 - 24 Hours"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "USB": "Through Thunderbolt Ports (USB 4) (up to 40 GBit/s)",
+                "Thunderbolt": "3 - Thunderbolt 4 (Up to 40 GBit/s)",
+                "Display": "1 - HDMI 2.1, through Thunderbolt Ports",
+                "Audio In": "1 - 3.5-mm jack, 3 - Built-in microphones",
+                "Audio Out": "1 - 3.5-mm jack, 6 - Built-in speakers",
+                "Power": "1 - MagSafe 3",
+                "Slots": "1 - SDXC Card Slot"
+            }
+        }
     }
 ]

@@ -163,6 +163,20 @@ const processData = async () => {
         
         console.log("Target Array:", targetArray, "Keywords:", arr);
         
+        // First, try to match the full search string against multi-word keywords
+        const fullSearchLower = targetString.toLowerCase();
+        for (const keyword of arr) {
+            const keywordLower = keyword.toLowerCase();
+            if (keywordLower.includes(' ')) {
+                // Multi-word keyword - check if all words match
+                const keywordWords = keywordLower.split(' ');
+                if (keywordWords.every(word => fullSearchLower.includes(word))) {
+                    console.log("Match result: true (multi-word keyword matched)");
+                    return true;
+                }
+            }
+        }
+        
         // Check if all words in targetArray exist in the keywords array (exact match, case-insensitive)
         const result = targetArray.every(item => 
             arr.some(keyword => keyword.toLowerCase() === item.toLowerCase())
@@ -173,18 +187,18 @@ const processData = async () => {
     }
 
     const models = [
+        { keywords: ["MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
+        { keywords: ["MacBook Air", "MBA", "MacBookAir"], device: "MacBook Air" },
+        { keywords: ["MacBook", "MB"], device: "MacBook" },
+        { keywords: ["Mac Pro", "MacPro"], device: "Mac Pro" },
         { keywords: ["Mac Mini", "MacMini", "Mini"], device: "MacMini" },
-        { keywords: ["Mac Pro", "MacPro", "Pro"], device: "Mac Pro" },
-        { keywords: ["iMac", "iMacPro"], device: "iMac" },
         { keywords: ["Mac Studio", "MacStudio", "Studio"], device: "Mac Studio" },
+        { keywords: ["iMac", "iMacPro"], device: "iMac" },
         { keywords: ["iPhoneOS"], device: "iPhoneOS"},
         { keywords: ["iOS"], device: "iOS" },
         { keywords: ["iPhone"], device: "iPhone" },
         { keywords: ["iPad"], device: "iPad" },
         { keywords: ["iPod"], device: "iPod" },
-        { keywords: ["MacBook", "MB", "Book"], device: "MacBook" },
-        { keywords: ["MacBook Pro", "MBP", "MacBookPro"], device: "MacBook Pro" },
-        { keywords: ["MacBook Air", "MBA", "MacBookAir", "Air"], device: "MacBook Air" },
         { keywords: ["Apple TV", "AppleTV", "TV"], device: "AppleTV" },
         { keywords: ["Apple Watch", "AppleWatch", "AW", "Watch"], device: "Watch"},
         { keywords: ["Pencil", "Apple Pencil"], device: "Pencil"},
@@ -316,9 +330,6 @@ const processData = async () => {
                     if (!searchYear || matchesYear(deviceInfo[j], searchYear)) {
                         filtData.push(deviceInfo[j]);
                     }
-                } else if (searchYear && matchesYear(deviceInfo[j], searchYear)) {
-                    // Also match devices that have the year even if name doesn't match pattern
-                    filtData.push(deviceInfo[j]);
                 }
             }
         }

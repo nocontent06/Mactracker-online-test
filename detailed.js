@@ -58,14 +58,15 @@ const OS_VERSION_MAP = {
     'iOS 17': { modelNumber: 'iOS 17', type: 'iOS', displayText: 'iOS 17.0' },
     'iOS 18.0': { modelNumber: 'iOS 18', type: 'iOS', displayText: 'iOS 18.0' },
     'iOS 18': { modelNumber: 'iOS 18', type: 'iOS', displayText: 'iOS 18.0' },
+    'iOS 26.0': { modelNumber: 'iOS 26', type: 'iOS', displayText: 'iOS 26.0' },
+    'iOS 26': { modelNumber: 'iOS 26', type: 'iOS', displayText: 'iOS 26.0' },
     
     // Latest version patterns
     'Latest release of iOS 15': { modelNumber: 'iOS 15', type: 'iOS', displayText: 'Latest release of iOS 15' },
     'Latest release of iOS 16': { modelNumber: 'iOS 16', type: 'iOS', displayText: 'Latest release of iOS 16' },
     'Latest release of iOS 17': { modelNumber: 'iOS 17', type: 'iOS', displayText: 'Latest release of iOS 17' },
     'Latest release of iOS 18': { modelNumber: 'iOS 18', type: 'iOS', displayText: 'Latest release of iOS 18' },
-    'Latest release of iOS': { modelNumber: 'iOS 18', type: 'iOS', displayText: 'Latest release of iOS' },
-    'Latest Version of iOS': { modelNumber: 'iOS 18', type: 'iOS', displayText: 'Latest release of iOS' },
+    'Latest release of iOS': { modelNumber: 'iOS 26', type: 'iOS', displayText: 'Latest release of iOS' }
 };
 
 // Device Mapping for dynamic linking in Supported Devices
@@ -115,11 +116,15 @@ const DEVICE_MODEL_MAP = {
     'iPhone 15 Plus': { modelNumber: 'A2847', type: 'iPhone' },
     'iPhone 15 Pro': { modelNumber: 'A2848', type: 'iPhone' },
     'iPhone 15 Pro Max': { modelNumber: 'A2849', type: 'iPhone' },
-    'iPhone 16': { modelNumber: 'A3283', type: 'iPhone' },
-    'iPhone 16 Plus': { modelNumber: 'A3284', type: 'iPhone' },
-    'iPhone 16 Pro': { modelNumber: 'A3285', type: 'iPhone' },
-    'iPhone 16 Pro Max': { modelNumber: 'A3286', type: 'iPhone' },
-    'iPhone 16e': { modelNumber: 'A3287', type: 'iPhone' },
+    'iPhone 16': { modelNumber: 'A3081', type: 'iPhone' },
+    'iPhone 16 Plus': { modelNumber: 'A3082', type: 'iPhone' },
+    'iPhone 16 Pro': { modelNumber: 'A3083', type: 'iPhone' },
+    'iPhone 16 Pro Max': { modelNumber: 'A3084', type: 'iPhone' },
+    'iPhone 16e': { modelNumber: 'A3212', type: 'iPhone' },
+    'iPhone 17': { modelNumber: 'A3258', type: 'iPhone' },
+    'iPhone Air': { modelNumber: 'A3260', type: 'iPhone' },
+    'iPhone 17 Pro': { modelNumber: 'A3256', type: 'iPhone' },
+    'iPhone 17 Pro Max': { modelNumber: 'A3257', type: 'iPhone' },
     
     // Combined device entries (link to first device for simplicity)
     'iPhone 6 & 6 Plus': { modelNumber: 'A1549', type: 'iPhone' },
@@ -152,6 +157,7 @@ const DEVICE_MODEL_MAP = {
     'iPad Air (4th Gen)': { modelNumber: 'A2316', type: 'iPad' },
     'iPad Air (5th Gen)': { modelNumber: 'A2588', type: 'iPad' },
     'iPad Air M2': { modelNumber: 'A2843', type: 'iPad' },
+    'iPad Air M3': { modelNumber: 'A3266', type: 'iPad' },
     'iPad Pro': { modelNumber: 'A1584', type: 'iPad' },
     'iPad Pro (12.9-inch)': { modelNumber: 'A1584', type: 'iPad' },
     'iPad Pro (12.9-inch) (1st Gen)': { modelNumber: 'A1584', type: 'iPad' },
@@ -169,6 +175,8 @@ const DEVICE_MODEL_MAP = {
     'iPad Pro (12.9-inch) (6th Gen)': { modelNumber: 'A2764', type: 'iPad' },
     'iPad Pro (11-inch-M4)': { modelNumber: 'A2836', type: 'iPad' },
     'iPad Pro (13-inch-M4)': { modelNumber: 'A2837', type: 'iPad' },
+    'iPad Pro (11-inch-M5)': { modelNumber: 'A3357', type: 'iPad' },
+    'iPad Pro (13-inch-M5)': { modelNumber: 'A3360', type: 'iPad' },
     
     // iPod Touch models
     'iPod Touch': { modelNumber: 'A1213', type: 'iPod' },

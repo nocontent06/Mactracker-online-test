@@ -13,8 +13,8 @@
                 "Weight/Dimensions": "<li>135 g, 11.5 H x 6.1 W x 1.16 D cm <li>4.8 oz, 4.5 H x 2.4 W x 0.46 D inch" 
             },
             "Processor": {
-                "Processor Name": "Samsung ARM 1176JZ(F)-S",
-                "Processor Speed": "620 MHz (running at 412 MHz)",
+                "Name": "Samsung ARM 1176JZ(F)-S",
+                "Speed": "620 MHz (running at 412 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -27,13 +27,13 @@
                 "Built-in Memory": "128 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR MBX Lite",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR MBX Lite",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "LCD Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "320 x 480"
+                "Type": "LCD Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "320 x 480"
             },
             "Storage": {
                 "Capacity": "4, 8, or 16 GB"
@@ -72,8 +72,8 @@
                 "Weight/Dimensions":"<li>133 g, 11.55 H x 6.21 W x 1.26 D cm <li>4.7 oz, 4.5 H x 2.4 W x 0.48 D inch"
             },
             "Processor": {
-                "Processor Name": "Samsung ARM 1176JZ(F)-S",
-                "Processor Speed": "620 MHz (running at 412 MHz)",
+                "Name": "Samsung ARM 1176JZ(F)-S",
+                "Speed": "620 MHz (running at 412 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "90 nm"
@@ -86,13 +86,13 @@
                 "Built-in Memory": "128 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR MBX Lite",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR MBX Lite",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "LCD Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "320 x 480"
+                "Type": "LCD Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "320 x 480"
             },
             "Storage": {
                 "Capacity": "8 or 16 GB"
@@ -131,8 +131,8 @@
                 "Weight/Dimensions": "<li>135 g, 11.55 H x 6.21 W x 1.26 D cm <li>4.8 oz, 4.5 H x 2.4 W x 0.48 D inch"
             },
             "Processor": {
-                "Processor Name": "Samsung S5PC100",
-                "Processor Speed": "833 MHz (running at 600 MHz)",
+                "Name": "Samsung S5PC100",
+                "Speed": "833 MHz (running at 600 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "65 nm"
@@ -145,13 +145,13 @@
                 "Built-in Memory": "256 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX535",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR SGX535",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "LCD Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "320 x 480",
+                "Type": "LCD Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "320 x 480",
                 "Brightness": "428 nits"
             },
             "Storage": {
@@ -190,8 +190,8 @@
                 "Weight/Dimensions": "<li>137 g, 11.52 H x 5.86 W x 0.93 D cm<li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A4",
-                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Name": "Apple A4",
+                "Speed": "1 GHz (running at 800 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "45 nm"
@@ -204,13 +204,13 @@
                 "Built-in Memory": "512 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX535",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR SGX535",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "960 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "960 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "8, 16 or 32 GB"
@@ -248,8 +248,8 @@
                 "Weight/Dimensions": "<li>137 g, 11.52 H x 5.86 W x 0.93 D cm<li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A4",
-                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Name": "Apple A4",
+                "Speed": "1 GHz (running at 800 MHz)",
                 "# of Cores": "1",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "45 nm"
@@ -262,13 +262,13 @@
                 "Built-in Memory": "512 MB LPDDR"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX535",
-                "# of Graphics Cores": "1"
+                "Chip": "PowerVR SGX535",
+                "# of Cores": "1"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "960 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "960 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "8, 16 or 32 GB"
@@ -306,8 +306,8 @@
                 "Weight/Dimensions": "<li>140 g, 11.52 H x 5.86 W x 0.93 D cm<li>4.8 oz, 4.5 H x 2.31 W x 0.37 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A5",
-                "Processor Speed": "1 GHz (running at 800 MHz)",
+                "Name": "Apple A5",
+                "Speed": "1 GHz (running at 800 MHz)",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "45 nm"
@@ -320,13 +320,13 @@
                 "Built-in Memory": "512 MB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP2",
-                "# of Graphics Cores": "2"
+                "Chip": "PowerVR SGX543MP2",
+                "# of Cores": "2"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "3.5-inch widescreen",
-                "Display Resolution": "960 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "3.5-inch widescreen",
+                "Resolution": "960 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "8, 16, 32, 64 GB"
@@ -365,8 +365,8 @@
                 "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
@@ -379,13 +379,13 @@
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
@@ -423,8 +423,8 @@
                 "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
@@ -437,13 +437,13 @@
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
@@ -481,8 +481,8 @@
                 "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
@@ -495,13 +495,13 @@
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels"
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels"
             },
             "Storage": {
                 "Capacity": "16, 32 or 64 GB"
@@ -539,8 +539,8 @@
                 "Colors": "White, Pink, Yellow, Blue, Green"
             },
             "Processor": {
-                "Processor Name": "Apple A6",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A6",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "Architecture": "32-bit",
                 "Manufacturing Process": "32 nm"
@@ -553,13 +553,13 @@
                 "Built-in Memory": "1 GB LPDDR2"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR SGX543MP3",
-                "# of Graphics Cores": "3"
+                "Chip": "PowerVR SGX543MP3",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels",
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -599,8 +599,8 @@
                 "Weight/Dimensions": "<li>112 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A7",
-                "Processor Speed": "1.3 GHz",
+                "Name": "Apple A7",
+                "Speed": "1.3 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "259 / 476",
                 "Architecture": "64-bit",
@@ -614,13 +614,13 @@
                 "Built-in Memory": "1 GB LPDDR3"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR G6430",
-                "# of Graphics Cores": "4"
+                "Chip": "PowerVR G6430",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640 pixels",
+                "Type": "Retina LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -663,8 +663,8 @@
                 "Weight/Dimensions": "<li>129 g, 13.81 H x 6.7 W x 0.69 D cm<li>4.55 oz, 5.44 H x 2.64 W x 0.27 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A8",
-                "Processor Speed": "1.4 GHz",
+                "Name": "Apple A8",
+                "Speed": "1.4 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "308 / 569",
                 "Architecture": "64-bit",
@@ -678,13 +678,13 @@
                 "Built-in Memory": "1 GB LPDDR3"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR G6450",
-                "# of Graphics Cores": "4"
+                "Chip": "PowerVR G6450",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750 pixels",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -727,8 +727,8 @@
                 "Weight/Dimensions": "<li>172 g, 15.81 H x 7.78 W x 0.71 D cm<li>6.07 oz, 6.22 H x 3.06 W x 0.28 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A8",
-                "Processor Speed": "1.4 GHz",
+                "Name": "Apple A8",
+                "Speed": "1.4 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "308 / 569",
                 "Architecture": "64-bit",
@@ -742,13 +742,13 @@
                 "Built-in Memory": "1 GB LPDDR3"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR G6450",
-                "# of Graphics Cores": "4"
+                "Chip": "PowerVR G6450",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080 pixels",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -791,8 +791,8 @@
                 "Weight/Dimensions": "<li>143 g, 13.81 H x 6.71 W x 0.71 D cm<li>5.04 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A9",
-                "Processor Speed": "1.85 GHz",
+                "Name": "Apple A9",
+                "Speed": "1.85 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "541 / 990",
                 "Architecture": "64-bit",
@@ -806,13 +806,13 @@
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750 pixels",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750 pixels",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -855,8 +855,8 @@
                 "Weight/Dimensions": "<li>192 g, 15.81 H x 7.79 W x 0.73 D cm<li>6.77 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A9",
-                "Processor Speed": "1.85 GHz",
+                "Name": "Apple A9",
+                "Speed": "1.85 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "541 / 990",
                 "Architecture": "64-bit",
@@ -870,13 +870,13 @@
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080"
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080"
             },
             "Storage": {
                 "Capacity": "16, 32, 64 or 128 GB"
@@ -918,8 +918,8 @@
                 "Weight/Dimensions": "<li>113 g, 12.38 H x 5.86 W x 0.76 D cm<li>3.95 oz, 4.87 H x 2.31 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A9",
-                "Processor Speed": "1.85 GHz",
+                "Name": "Apple A9",
+                "Speed": "1.85 GHz",
                 "# of Cores": "2",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "546 / 1002",
                 "Architecture": "64-bit",
@@ -933,13 +933,13 @@
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4-inch widescreen",
-                "Display Resolution": "1136 x 640",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4-inch widescreen",
+                "Resolution": "1136 x 640",
                 "Brightness": "500 nits"
             },
             "Storage": {
@@ -982,8 +982,8 @@
                 "Weight/Dimensions": "<li>138 g, 13.83 H x 6.71 W x 0.71 D cm<li>4.87 oz, 5.44 H x 2.64 W x 0.28 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A10 Fusion",
-                "Processor Speed": "2.3 GHz",
+                "Name": "Apple A10 Fusion",
+                "Speed": "2.3 GHz",
                 "# of Cores": "4 (2 High Performance, 2 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "741 / 1313",
                 "Architecture": "64-bit",
@@ -997,13 +997,13 @@
                 "Built-in Memory": "2 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1047,8 +1047,8 @@
                 "Weight/Dimensions": "<li>188 g, 15.82 H x 7.79 W x 0.73 D cm<li>6.63 oz, 6.23 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A10 Fusion",
-                "Processor Speed": "2.3 GHz",
+                "Name": "Apple A10 Fusion",
+                "Speed": "2.3 GHz",
                 "# of Cores": "4 (2 High Performance, 2 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "742 / 1324",
                 "Architecture": "64-bit",
@@ -1062,13 +1062,13 @@
                 "Built-in Memory": "3 GB LPDDR4"
             },
             "Graphics": {
-                "Graphics Chip": "PowerVR GT7600",
-                "# of Graphics Cores": "6"
+                "Chip": "PowerVR GT7600",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1112,8 +1112,8 @@
                 "Weight/Dimensions": "<li>144 g, 13.84 H x 6.73 W x 0.73 D cm<li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
+                "Name": "Apple A11 Bionic",
+                "Speed": "2.4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "919 / 2231",
                 "Architecture": "64-bit",
@@ -1127,13 +1127,13 @@
                 "Built-in Memory": "2 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
+                "Chip": "Apple GPU",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1177,8 +1177,8 @@
                 "Weight/Dimensions": "<li>202 g, 15.84 H x 7.81 W x 0.75 D cm<li>"
             },
             "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
+                "Name": "Apple A11 Bionic",
+                "Speed": "2.4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "923 / 2327",
                 "Architecture": "64-bit",
@@ -1192,13 +1192,13 @@
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
+                "Chip": "Apple GPU",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "5.5-inch widescreen",
-                "Display Resolution": "1920 x 1080",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "5.5-inch widescreen",
+                "Resolution": "1920 x 1080",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1242,8 +1242,8 @@
                 "Weight/Dimensions": "<li>174 g, 14.36 H x 7.09 W x 0.77 D cm<li>6.14 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A11 Bionic",
-                "Processor Speed": "2.4 GHz",
+                "Name": "Apple A11 Bionic",
+                "Speed": "2.4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "918 / 2365",
                 "Architecture": "64-bit",
@@ -1257,13 +1257,13 @@
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "3"
+                "Chip": "Apple GPU",
+                "# of Cores": "3"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED Display",
-                "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436 x 1125",
+                "Type": "Super Retina HD OLED Display",
+                "Size": "5.8-inch widescreen",
+                "Resolution": "2436 x 1125",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1307,8 +1307,8 @@
                 "Weight/Dimensions": "<li>177 g, 14.36 H x 7.09 W x 0.77 D cm<li>6.24 oz, 5.65 H x 2.68 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A12 Bionic",
-                "Processor Speed": "2.5 GHz",
+                "Name": "Apple A12 Bionic",
+                "Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1106 / 2701",
                 "Architecture": "64-bit",
@@ -1322,13 +1322,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G11P",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple G11P",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED Display",
-                "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436 x 1125",
+                "Type": "Super Retina HD OLED Display",
+                "Size": "5.8-inch widescreen",
+                "Resolution": "2436 x 1125",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1372,8 +1372,8 @@
                 "Weight/Dimensions": "<li>208 g, 15.75 H x 7.74 W x 0.77 D cm<li>7.34 oz, 6.20 H x 3.05 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A12 Bionic",
-                "Processor Speed": "2.5 GHz",
+                "Name": "Apple A12 Bionic",
+                "Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1109 / 2651",
                 "Architecture": "64-bit",
@@ -1387,13 +1387,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G11P",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple G11P",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina HD OLED Display",
-                "Display Size": "6.5-inch widescreen",
-                "Display Resolution": "2688 x 1242",
+                "Type": "Super Retina HD OLED Display",
+                "Size": "6.5-inch widescreen",
+                "Resolution": "2688 x 1242",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1437,8 +1437,8 @@
                 "Weight/Dimensions": "<li>194 g, 15.09 H x 7.57 W x 0.83 D cm<li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A12 Bionic",
-                "Processor Speed": "2.5 GHz",
+                "Name": "Apple A12 Bionic",
+                "Speed": "2.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1107 / 2708",
                 "Architecture": "64-bit",
@@ -1452,13 +1452,13 @@
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple G11P",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple G11P",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "1792 x 828"
+                "Type": "Liquid Retina HD LED-backlit LCD IPS display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "1792 x 828"
             },
             "Storage": {
                 "Capacity": "64, 128 or 256 GB"
@@ -1501,8 +1501,8 @@
                 "Weight/Dimensions": "<li>194 g, 15.09 H x 7.57 W x 0.83 D cm<li>6.84 oz, 5.94 H x 2.98 W x 0.33 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.66 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1325 / 3229",
                 "Architecture": "64-bit",
@@ -1516,13 +1516,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Liquid Retina HD LED-backlit LCD IPS display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "1792 x 828",
+                "Type": "Liquid Retina HD LED-backlit LCD IPS display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "1792 x 828",
                 "Brightness": "625 nits"
             },
             "Storage": {
@@ -1566,8 +1566,8 @@
                 "Weight/Dimensions": "<li>188 g, 14.40 H x 7.14 W x 0.81 D cm<li>6.63 oz, 5.67 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.66 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1327 / 3414",
                 "Architecture": "64-bit",
@@ -1582,13 +1582,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "5.8-inch widescreen",
-                "Display Resolution": "2436 x 1125",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "5.8-inch widescreen",
+                "Resolution": "2436 x 1125",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1628,8 +1628,8 @@
                 "Weight/Dimensions": "<li>226 g, 15.80 H x 7.78 W x 0.81 D cm<li>7.97 oz, 6.22 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.66 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.66 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1327 / 3414",
                 "Architecture": "64-bit",
@@ -1643,13 +1643,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.5-inch widescreen",
-                "Display Resolution": "2688 x 1242",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.5-inch widescreen",
+                "Resolution": "2688 x 1242",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1689,8 +1689,8 @@
                 "Weight/Dimensions": "<li>148 g, 13.84 H x 6.73 W x 0.73 D cm<li>5.22 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A13 Bionic",
-                "Processor Speed": "2.6 GHz",
+                "Name": "Apple A13 Bionic",
+                "Speed": "2.6 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1330 / 3134",
                 "Architecture": "64-bit",
@@ -1704,13 +1704,13 @@
                 "Built-in Memory": "3 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LED-backlit LCD IPS Display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LED-backlit LCD IPS Display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness":"625 nits"
             },
             "Storage": {
@@ -1750,8 +1750,8 @@
                 "Weight/Dimensions": "<li>164 g, 14.67 H x 7.15 W x 0.74 D cm<li>5.78 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1585 / 3951",
                 "Architecture": "64-bit",
@@ -1765,13 +1765,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED Display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED Display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "625 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1815,8 +1815,8 @@
                 "Weight/Dimensions": "<li>135 g, 13.15 H x 6.42 W x 0.74 D cm<li>4.76 oz, 5.18 H x 2.53 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3.0 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3.0 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1585 / 3951",
                 "Architecture": "64-bit",
@@ -1830,13 +1830,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "5.4-inch widescreen",
-                "Display Resolution": "2340 x 1080",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "5.4-inch widescreen",
+                "Resolution": "2340 x 1080",
                 "Brightness": "625 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1880,8 +1880,8 @@
                 "Weight/Dimensions": "<li>189 g, 14.67 H x 7.15 W x 0.74 D cm<li>6.66 oz, 5.78 H x 2.82 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3.0 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3.0 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1583 / 3891",
                 "Architecture": "64-bit",
@@ -1895,13 +1895,13 @@
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -1945,8 +1945,8 @@
                 "Weight/Dimensions": "<li>228 g, 16.08 H x 7.81 W x 0.74 D cm<li>8.03 oz, 6.33 H x 3.07 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A14 Bionic",
-                "Processor Speed": "3.0 GHz",
+                "Name": "Apple A14 Bionic",
+                "Speed": "3.0 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1722 / 4503",
                 "Architecture": "64-bit",
@@ -1960,13 +1960,13 @@
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2778 x 1284",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2778 x 1284",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2010,8 +2010,8 @@
                 "Weight/Dimensions": "<li>174 g, 14.67 H x 7.15 W x 0.76 D cm<li>6.14 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "Continue here": "",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1730 / 4810",
@@ -2026,13 +2026,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2076,8 +2076,8 @@
                 "Weight/Dimensions": "<li>141 g, 13.15 H x 6.42 W x 0.76 D cm<li>4.97 oz, 5.18 H x 2.53 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1722 / 4503",
                 "Architecture": "64-bit",
@@ -2091,13 +2091,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "5.4-inch widescreen",
-                "Display Resolution": "2340 x 1080",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "5.4-inch widescreen",
+                "Resolution": "2340 x 1080",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2141,8 +2141,8 @@
                 "Weight/Dimensions": "<li>204 g, 14.67 H x 7.15 W x 0.76 D cm<li>7.19 oz, 5.78 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1728 / 4594",
                 "Architecture": "64-bit",
@@ -2156,15 +2156,15 @@
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display with ProMotion",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "1000 nits (typical), 1200 nits (HDR)",
-                "Display Refresh Rate": "10 - 120 Hz"
+                "Refresh Rate": "10 - 120 Hz"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2207,8 +2207,8 @@
                 "Weight/Dimensions": "<li>240 g, 16.08 H x 7.81 W x 0.76 D cm<li>8.47 oz, 6.33 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1750 / 4850",
                 "Architecture": "64-bit",
@@ -2222,15 +2222,15 @@
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2778 x 1284",
+                "Type": "Super Retina XDR OLED display with ProMotion",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2778 x 1284",
                 "Brightness": "1000 nits (typical), 1200 nits (HDR)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion"
+                "Refresh Rate": "10 - 120 Hz ProMotion"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2273,8 +2273,8 @@
                 "Weight/Dimensions": "<li>144 g, 13.84 H x 6.73 W x 0.73 D cm<li>5.09 oz, 5.45 H x 2.65 W x 0.29 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1726 / 4504",
                 "Architecture": "64-bit",
@@ -2288,13 +2288,13 @@
                 "Built-in Memory": "4 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Retina HD LCD display",
-                "Display Size": "4.7-inch widescreen",
-                "Display Resolution": "1334 x 750",
+                "Type": "Retina HD LCD display",
+                "Size": "4.7-inch widescreen",
+                "Resolution": "1334 x 750",
                 "Brightness": "625 nits (typical)"
             },
             "Storage": {
@@ -2338,8 +2338,8 @@
                 "Weight/Dimensions": "<li>172 g, 14.67 H x 7.15 W x 0.78 D cm<li>6.07 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1735 / 4820",
                 "Architecture": "64-bit",
@@ -2353,13 +2353,13 @@
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2403,8 +2403,8 @@
                 "Weight/Dimensions": "<li>203 g, 16.08 H x 7.81 W x 0.78 D cm<li>7.16 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A15 Bionic",
-                "Processor Speed": "3.22 GHz",
+                "Name": "Apple A15 Bionic",
+                "Speed": "3.22 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1735 / 4820",
                 "Architecture": "64-bit",
@@ -2418,13 +2418,13 @@
                 "Built-in Memory": "6 GB LPDDR4X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2778 x 1284",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2778 x 1284",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -2468,8 +2468,8 @@
                 "Weight/Dimensions": "<li>206 g, 14.67 H x 7.15 W x 0.78 D cm<li>7.27 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
@@ -2483,15 +2483,15 @@
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2535,8 +2535,8 @@
                 "Weight/Dimensions": "<li>240 g, 16.08 H x 7.81 W x 0.78 D cm<li>8.47 oz, 6.33 H x 3.07 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
@@ -2550,15 +2550,15 @@
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2602,8 +2602,8 @@
                 "Weight/Dimensions": "<li>171 g, 14.70 H x 7.15 W x 0.76 D cm<li>6.03 oz, 5.79 H x 2.82 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
@@ -2617,13 +2617,13 @@
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2668,8 +2668,8 @@
                 "Weight/Dimensions": "<li>201 g, 16.01 H x 7.81 W x 0.76 D cm<li>7.09 oz, 6.30 H x 3.07 W x 0.30 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A16 Bionic",
-                "Processor Speed": "3.5 GHz",
+                "Name": "Apple A16 Bionic",
+                "Speed": "3.5 GHz",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "1886 / 5493",
                 "Architecture": "64-bit",
@@ -2683,13 +2683,13 @@
                 "Built-in Memory": "6 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2734,8 +2734,8 @@
                 "Weight/Dimensions": "<li>187 g, 14.70 H x 7.06 W x 0.82 D cm<li>6.60 oz, 5.79 H x 2.78 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A17 Pro",
-                "Processor Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Name": "Apple A17 Pro",
+                "Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "2136 / 5997",
                 "Architecture": "64-bit",
@@ -2749,15 +2749,15 @@
                 "Built-in Memory": "8 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "6"
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128 GB, 256 GB, 512 GB, or 1 TB"
@@ -2802,8 +2802,8 @@
                 "Weight/Dimensions": "<li>221 g, 15.99 H x 7.76 W x 0.82 D cm<li>7.80 oz, 6.30 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A17 Pro",
-                "Processor Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
+                "Name": "Apple A17 Pro",
+                "Speed": "3.8 GHz (High Performance), 2.1 GHz (High Efficiency)",
                 "# of Cores": "6 (2 Performance, 4 Efficiency)",
                 "<p class='benchmark-popover'>Benchmark (SC / MC)</p>": "2136 / 5997",
                 "Architecture": "64-bit",
@@ -2817,15 +2817,15 @@
                 "Built-in Memory": "8 GB LPDDR5"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "6"
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "256 GB, 512 GB, 1 TB"
@@ -2870,8 +2870,8 @@
                 "Weight/Dimensions": "<li>170 g, 14.76 H x 7.16 W x 0.78 D cm<li>6 oz, 5.81 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3264 / 7997",
                 "Architecture": "64-bit",
@@ -2885,13 +2885,13 @@
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2556 x 1179",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2556 x 1179",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2938,8 +2938,8 @@
                 "Weight/Dimensions": "<li>199 g, 16.09 H x 7.78 W x 0.78 D cm<li>7.03 oz, 6.33 H x 3.06 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3264 / 7997",
                 "Architecture": "64-bit",
@@ -2953,13 +2953,13 @@
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.7-inch widescreen",
-                "Display Resolution": "2796 x 1290",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.7-inch widescreen",
+                "Resolution": "2796 x 1290",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
             },
             "Storage": {
@@ -2997,7 +2997,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2024",
-                "Discontinued": "--",
+                "Discontinued": "Sep 2025",
                 "Model Identifier": "iPhone17,1",
                 "Model Number": "A3083",
                 "Other Model Numbers": "<li>A3292<li>A3294<li>A3293",
@@ -3006,8 +3006,8 @@
                 "Weight/Dimensions": "<li>199 g, 14.96 H x 7.15 W x 0.83 D cm<li>7.03 oz, 5.89 H x 2.81 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18 Pro",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18 Pro",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3401 / 8397",
                 "Architecture": "64-bit",
@@ -3021,15 +3021,15 @@
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.3-inch widescreen",
-                "Display Resolution": "2622 x 1206",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.3-inch widescreen",
+                "Resolution": "2622 x 1206",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "128, 256, 512 GB or 1 TB"
@@ -3066,7 +3066,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2024",
-                "Discontinued": "--",
+                "Discontinued": "Sep 2025",
                 "Model Identifier": "iPhone17,2",
                 "Model Number": "A3084",
                 "Other Model Numbers": "<li>A3295<li>A3297<li>A3296",
@@ -3075,8 +3075,8 @@
                 "Weight/Dimensions": "<li>227 g, 16.30 H x 7.76 W x 0.83 D cm<li>7.99 oz, 6.42 H x 3.06 W x 0.32 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18 Pro",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18 Pro",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3401 / 8397",
                 "Architecture": "64-bit",
@@ -3090,15 +3090,15 @@
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "5"
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display with ProMotion and Always-On",
-                "Display Size": "6.9-inch widescreen",
-                "Display Resolution": "2868 x 1320",
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.9-inch widescreen",
+                "Resolution": "2868 x 1320",
                 "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)",
-                "Display Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
+                "Refresh Rate":"10 - 120 Hz ProMotion or 1 Hz Always-On"
             },
             "Storage": {
                 "Capacity": "256, 512 GB or 1 TB"
@@ -3144,8 +3144,8 @@
                 "Weight/Dimensions": "<li>167 g, 14.76 H x 7.15 W x 0.78 D cm<li>5.88 oz, 5.78 H x 2.82 W x 0.31 D inch"
             },
             "Processor": {
-                "Processor Name": "Apple A18",
-                "Processor Speed": "4 GHz",
+                "Name": "Apple A18",
+                "Speed": "4 GHz",
                 "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
                 "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3264 / 7997",
                 "Architecture": "64-bit",
@@ -3159,13 +3159,13 @@
                 "Built-in Memory": "8 GB LPDDR5X"
             },
             "Graphics": {
-                "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "4"
+                "Chip": "Apple GPU",
+                "# of Cores": "4"
             },
             "Display": {
-                "Display Type": "Super Retina XDR OLED display",
-                "Display Size": "6.1-inch widescreen",
-                "Display Resolution": "2532 x 1170",
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.1-inch widescreen",
+                "Resolution": "2532 x 1170",
                 "Brightness": "800 nits (typical), 1200 nits (HDR)"
             },
             "Storage": {
@@ -3195,6 +3195,286 @@
                 "Dynamic Island": "No",
                 "Action Button": "Yes",
                 "Camera Control Button": "No"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 17",
+        "Type": "iPhone",
+        "image": "iphone_17.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,3",
+                "Model Number": "A3258",
+                "Other Model Numbers": "<li>A3519<li>A3521<li>A3521",
+                "EMC": "8947, 8951, 8953, 8952",
+                "Colors": "Lavender, Sage, Mist Blue, White, Black",
+                "Weight/Dimensions": "<li>177 g, 14.96 H x 7.15 W x 0.8 D cm<li>6.24 oz, 5.89 H x 2.81 W x 0.31 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3619 / 9214",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.3-inch widescreen",
+                "Resolution": "2622 x 1206",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256 or 512 GB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3258, A3519), nano-SIM and eSIM (A3520) dual nano-SIM (A3521)",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C 2 (up to 480 MBit/s)"
+            },
+            "Camera": {
+                "Rear Camera": "2 - Main: 48 MP, Ultra Wide: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 14.35 lithium-ion",
+                "Capacity": "3692 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
+            }
+        }
+    },
+    {
+        "Name": "iPhone Air",
+        "Type": "iPhone",
+        "image": "iphone_air.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,4",
+                "Model Number": "A3260",
+                "Other Model Numbers": "<li>A3516<li>A3517<li>A3518",
+                "EMC": "8948, 8954, 8955, 8956",
+                "Colors": "Sky Blue, Light Gold, Cloud White, Space Black",
+                "Weight/Dimensions": "<li>165 g, 15.62 H x 7.47 W x 0.56 D cm<li>5.82 oz, 6.15 H x 2.94 W x 0.22 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19 Pro",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3652 / 9329",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "5"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display",
+                "Size": "6.5-inch widescreen",
+                "Resolution": "2736 x 1260",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 2000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM",
+                "Audio In": "3 - Microphones",
+                "Audio Out": "1 - Built-in speakers",
+                "Ports": "USB-C 2 (up to 480 MBit/s)"
+            },
+            "Camera": {
+                "Rear Camera": "1 - 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 12.26 lithium-ion",
+                "Capacity": "3149 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 17 Pro",
+        "Type": "iPhone",
+        "image": "iphone_17_pro.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,1",
+                "Model Number": "A3256",
+                "Other Model Numbers": "<li>A3522<li>A3523<li>A3524",
+                "EMC": "8949, 8957, 8959, 8958",
+                "Colors": "Silver, Cosmic Orange, Deep Blue",
+                "Weight/Dimensions": "<li>206 g, 15 H x 7.19 W x 0.875 D cm<li>7.27 oz, 5.91 H x 2.83 W x 0.34 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19 Pro",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3773 / 9783",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.3-inch widescreen",
+                "Resolution": "2622 x 1206",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3256, A3522), nano-SIM and eSIM (A3523) dual nano-SIM (A3524)",
+                "Audio In": "4 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C connector (USB 3, up to 10Gb/s)"
+            },
+            "Camera": {
+                "Rear Camera": "3 - Main: 48 MP, Ultra Wide: 48 MP, Telephoto: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 16.55 Wh (A3256, A3522)lithium-ion<br> Built-in 15.85 Wh (A3523, A3524) lithium-ion",
+                "Capacity": "4252 mAh, 3988 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 17 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone_17_pro_max.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPhone18,2",
+                "Model Number": "A3257",
+                "Other Model Numbers": "<li>A3525<li>A3526<li>A3527",
+                "EMC": "8949, 8957, 8958, 8959",
+                "Colors": "Silver, Cosmic Orange, Deep Blue",
+                "Weight/Dimensions": "<li>233 g, 16.34 H x 7.8 W x 0.875 D cm<li>8.22 oz, 6.43 H x 3.07 W x 0.34 D inch"
+            },
+            "Processor": {
+                "Name": "Apple A19 Pro",
+                "Speed": "4.3 GHz (High Performance)<br>2.6 GHz (High Efficiency)",
+                "# of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "<p class='benchmark-6-popover'>Benchmark (SC / MC)</p>": "3787 / 9811",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 26",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "# of Cores": "6"
+            },
+            "Display": {
+                "Type": "Super Retina XDR OLED display with ProMotion and Always-On",
+                "Size": "6.9-inch widescreen",
+                "Resolution": "2868 x 1320",
+                "Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On",
+                "Brightness": "1000 nits (typical), 1600 nits (HDR), 3000 nits (outdoor)"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi": "802.11be (WiFi 7)",
+                "Bluetooth": "6",
+                "Networks": "5G, LTE, UMTS/HSDPA+/HSDPA, GSM/EDGE",
+                "SIM slot": "dual eSIM (A3257, A3525), nano-SIM and eSIM (A3526) dual nano-SIM (A3527)",
+                "Audio In": "4 - Microphones",
+                "Audio Out": "2 - Built-in speakers",
+                "Ports": "USB-C connector (USB 3, up to 10Gb/s)"
+            },
+            "Camera": {
+                "Rear Camera": "3 - Main: 48 MP, Ultra Wide: 48 MP, Telephoto: 48 MP",
+                "Front Camera": "1 - 18 MP (Center Stage)"
+            },
+            "Power": {
+                "Battery": "Built-in 19.77 Wh (A3257, A3525) lithium-ion<br> Built-in 18.75 Wh (A3526, A3527) lithium-ion",
+                "Capacity": "5088 mAh, 4823 mAh"
+            },
+            "Features": {
+                "Authentication": "Face ID",
+                "Waterproof": "IP68",
+                "Dynamic Island": "Yes",
+                "Action Button": "Yes",
+                "Camera Control Button": "Yes"
             }
         }
     }

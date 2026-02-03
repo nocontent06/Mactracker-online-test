@@ -349,6 +349,17 @@ Minor release. Updated meta Tags.
 - Fixed navbar search
 - Added latest iPads (iPad Air M3, iPad Pro M5)
 
+## v1.6.1 (Build 1G2a)
+
+- Fixed Navbar Search
+- Fixed a bug searching for a model with a year, it shows every object with that particular year being released
+- Added iPhone 17 models and iPhone Air
+- Added Macbook Pro M5 14-inch
+- Added Apple Watch Series 11, Ultra 3, SE (3rd Gen)
+- Added Macbook Air 2025
+- Added all missing macOS Versions
+
+
 
 
 
