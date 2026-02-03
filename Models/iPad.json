@@ -4054,8 +4054,8 @@
         "image": "ipad_air_m2.png",
         "Info": {
             "Overview": {
-                "Introduced": "Mar 2024",
-                "Discontinued": "--",
+                "Introduced": "May 2024",
+                "Discontinued": "Mar 2025",
                 "Model Identifier": "iPad14,8",
                 "Model Number": "A2902",
                 "EMC": "8392",
@@ -4116,8 +4116,8 @@
         "image": "ipad_air_m2.png",
         "Info": {
             "Overview": {
-                "Introduced": "Mar 2024",
-                "Discontinued": "--",
+                "Introduced": "May 2024",
+                "Discontinued": "Mar 2025",
                 "Model Identifier": "iPad14,9",
                 "Model Number": "A2903",
                 "EMC": "8393",
@@ -4161,8 +4161,8 @@
                 "Ports": "USB-C, Smart Connector"
             },
             "Camera": {
-                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP landscape ultra wide"
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
             },
             "Power": {
                 "Battery": "Built-in 28.93 Wh lithium-polymer",
@@ -4180,8 +4180,8 @@
         "image": "ipad_air_m2.png",
         "Info": {
             "Overview": {
-                "Introduced": "Mar 2024",
-                "Discontinued": "--",
+                "Introduced": "May 2024",
+                "Discontinued": "Mar 2025",
                 "Model Identifier": "iPad14,10",
                 "Model Number": "A2898",
                 "EMC": "8394",
@@ -4223,7 +4223,7 @@
                 "Ports": "USB-C, Smart Connector"
             },
             "Camera": {
-                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
+                "Back Camera": "1 - 12 MP wide",
                 "Front Camera": "1 - 12 MP landscape ultra wide"
             },
             "Power": {
@@ -4237,13 +4237,13 @@
         }
     },
     {
-        "Name": "iPad Air M2 (13-inch)<br>(Wi-Fi)",
+        "Name": "iPad Air M2 (13-inch)<br>(Wi-Fi + Cellular)",
         "Type": "iPad",
         "image": "ipad_air_m2.png",
         "Info": {
             "Overview": {
-                "Introduced": "Mar 2024",
-                "Discontinued": "--",
+                "Introduced": "May 2024",
+                "Discontinued": "Mar 2025",
                 "Model Identifier": "iPad14,11",
                 "Model Number": "A2899",
                 "EMC": "8395",
@@ -4266,7 +4266,7 @@
             },
             "Graphics": {
                 "Graphics Chip": "Apple GPU",
-                "# of Graphics Cores": "10"
+                "# of Graphics Cores": "9"
             },
             "Display": {
                 "Display Size": "13-inch widescreen",
@@ -4287,8 +4287,260 @@
                 "Ports": "USB-C, Smart Connector"
             },
             "Camera": {
-                "Back Camera": "1 - 12 MP wide, 1 - 10 MP ultra wide",
-                "Front Camera": "1 - 12 MP landscape ultra wide"
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 36.59 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air M3 (11-inch)<br>(Wi-Fi)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad15,3",
+                "Model Number": "A3266",
+                "EMC": "8776",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "460 g, 24.76 H x 17.85 W x 0.61 cm<br>1.01 lbs, 9.74 H x 7.02 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M3",
+                "Processor Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air M3 (11-inch)<br>(Wi-Fi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad15,4",
+                "Model Number": "A3267, A3270",
+                "EMC": "8777",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "460 g, 24.76 H x 17.85 W x 0.61 cm<br>1.01 lbs, 9.74 H x 7.02 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M3",
+                "Processor Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "11-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2360 x 1640"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 28.93 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air M3 (13-inch)<br>(Wi-Fi)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad15,5",
+                "Model Number": "A3268",
+                "EMC": "8778",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "616 g, 28.06 H x 21.46 W x 0.61 cm<br>1.36 lbs, 11.04 H x 8.46 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M3",
+                "Processor Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "13-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 36.59 Wh lithium-polymer",
+                "Battery Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Air M3 (13-inch)<br>(Wi-Fi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_air_m2.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Mar 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad15,6",
+                "Model Number": "A3269, A3271",
+                "EMC": "8779",
+                "Color":"Space Gray, Blue, Purple, Starlight",
+                "Weight/Dimensions": "616 g, 28.06 H x 21.46 W x 0.61 cm<br>1.36 lbs, 11.04 H x 8.46 W x 0.24 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M3",
+                "Processor Speed": "4.1 GHz (High Performance), 2.8 GHz (High Efficiency)",
+                "# of Cores": "8 (4 High Performance, 4 High Efficiency)",
+                "Architecture": "64-bit",
+                "Manufacturing Process":"3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 18.3",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "9"
+            },
+            "Display": {
+                "Display Size": "13-inch widescreen",
+                "Brightness":"500 nits",
+                "Refresh Rate": "60 Hz",
+                "Display Resolution": "2732 x 2048"
+            },
+            "Storage": {
+                "Capacity": "128, 256, 512 GB or 1 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11ax (Wi-Fi 6E)",
+                "Bluetooth": "5.3",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"2 - Microphones",
+                "Audio Out":"2 - Built-in speakers",
+                "Ports": "USB-C, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
             },
             "Power": {
                 "Battery": "Built-in 36.59 Wh lithium-polymer",
@@ -4307,7 +4559,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "May 2024",
-                "Discontinued": "--",
+                "Discontinued": "Oct 2025",
                 "Model Identifier": "iPad16,3",
                 "Model Number": "A2836",
                 "EMC": "8472",
@@ -4317,7 +4569,7 @@
             "Processor": {
                 "Processor Name": "Apple M4",
                 "Processor Speed": "4.4 GHz (High Performance)",
-                "# of Cores": "<br>9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
@@ -4369,7 +4621,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "May 2024",
-                "Discontinued": "--",
+                "Discontinued": "Oct 2025",
                 "Model Identifier": "iPad16,4",
                 "Model Number": "A2837",
                 "EMC": "8473",
@@ -4379,7 +4631,7 @@
             "Processor": {
                 "Processor Name": "Apple M4",
                 "Processor Speed": "4.4 GHz (High Performance)",
-                "# of Cores": "<br>9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
@@ -4433,7 +4685,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "May 2024",
-                "Discontinued": "--",
+                "Discontinued": "Oct 2025",
                 "Model Identifier": "iPad16,5",
                 "Model Number": "A2925",
                 "EMC": "8474",
@@ -4443,7 +4695,7 @@
             "Processor": {
                 "Processor Name": "Apple M4",
                 "Processor Speed": "4.4 GHz (High Performance)",
-                "# of Cores": "<br>9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
@@ -4495,7 +4747,7 @@
         "Info": {
             "Overview": {
                 "Introduced": "May 2024",
-                "Discontinued": "--",
+                "Discontinued": "Oct 2025",
                 "Model Identifier": "iPad16,6",
                 "Model Number": "A2926",
                 "EMC": "8475",
@@ -4505,7 +4757,7 @@
             "Processor": {
                 "Processor Name": "Apple M4",
                 "Processor Speed": "4.4 GHz (High Performance)",
-                "# of Cores": "<br>9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
                 "Architecture": "64-bit",
                 "Manufacturing Process": "3 nm"
             },
@@ -4802,6 +5054,262 @@
             "Features": {
                 "Apple Pencil Support": "1st Gen, USB-C",
                 "Authentication": "Touch ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Pro M5 (11-inch)<br>(WiFi)",
+        "Type": "iPad",
+        "image": "ipad_pro_11-inch-m4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad17,1",
+                "Model Number": "A3357",
+                "EMC": "8853",
+                "Color":"Space Black, Silver",
+                "Weight/Dimensions": "444 g, 24.97 H x 17.75 W x 0.53 D cm<br>0.98 lbs, 9.83 x 6.99 x 0.21 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M5",
+                "Processor Speed": "4.4 GHz (High Performance)<br>3 GHz (High Efficiency)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB (256 or 512 GB) or 16 GB (1 or 2 TB) LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "11-inch Ultra Retina XDR",
+                "Brightness":"1000 nits (XDR), 1600 nits (HDR peak)",
+                "Refresh Rate": "10 - 120 Hz ProMotion",
+                "Display Resolution": "2420 x 1668"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Audio In":"4 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 31.29 Wh lithium-polymer",
+                "Capacity": "8160 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Face ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Pro M5 (11-inch)<br>(WiFi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_pro_11-inch-m4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad17,2",
+                "Model Number": "A3358, A3359",
+                "EMC": "8854",
+                "Color":"Space Black, Silver",
+                "Weight/Dimensions": "446 g, 24.97 H x 17.75 W x 0.53 D cm<br>0.98 lbs, 9.83 x 6.99 x 0.21 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M5",
+                "Processor Speed": "4.4 GHz (High Performance)<br>3 GHz (High Efficiency)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB (256 or 512 GB) or 16 GB (1 or 2 TB) LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "11-inch Ultra Retina XDR",
+                "Brightness":"1000 nits (XDR), 1600 nits (HDR peak)",
+                "Refresh Rate": "10 - 120 Hz ProMotion",
+                "Display Resolution": "2420 x 1668"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"4 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 31.29 Wh lithium-polymer",
+                "Capacity": "8160 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Face ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Pro M5 (13-inch)<br>(WiFi)",
+        "Type": "iPad",
+        "image": "ipad_pro_13-inch-m4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad17,3",
+                "Model Number": "A3360",
+                "EMC": "8855",
+                "Color":"Space Black, Silver",
+                "Weight/Dimensions": "579 g, 28.16 H x 12.55 W x 0.51 D cm<br>1.28 lbs, 11.08 H x 8.48 W x 0.20 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M5",
+                "Processor Speed": "4.4 GHz (High Performance)<br>3 GHz (High Efficiency)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB (256 or 512 GB) or 16 GB (1 or 2 TB) LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "13-inch Ultra Retina XDR",
+                "Brightness":"1000 nits (XDR), 1600 nits (HDR peak)",
+                "Refresh Rate": "10 - 120 Hz ProMotion",
+                "Display Resolution": "2752 x 2064"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Audio In":"4 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 38.99 Wh lithium-polymer",
+                "Capacity": "10209 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Face ID"
+            }
+        }
+    },
+    {
+        "Name": "iPad Pro M5 (13-inch)<br>(WiFi + Cellular)",
+        "Type": "iPad",
+        "image": "ipad_pro_13-inch-m4.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2025",
+                "Discontinued": "--",
+                "Model Identifier": "iPad17,4",
+                "Model Number": "A3361, A3362",
+                "EMC": "8856",
+                "Color":"Space Black, Silver",
+                "Weight/Dimensions": "582 g, 28.16 H x 12.55 W x 0.51 D cm<br>1.28 lbs, 11.08 H x 8.48 W x 0.20 D inch"
+            },
+            "Processor": {
+                "Processor Name": "Apple M5",
+                "Processor Speed": "4.4 GHz (High Performance)<br>3 GHz (High Efficiency)",
+                "# of Cores": "9 (3 High Performance, 6 High Efficiency) (256, 512 GB)<br>10 (4 High Performance, 6 High Efficiency) (1 or 2 TB)",
+                "Architecture": "64-bit",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iPadOS 26",
+                "Maximum OS": "Latest release of iPadOS"
+            },
+            "Memory": {
+                "Built-in Memory": "12 GB (256 or 512 GB) or 16 GB (1 or 2 TB) LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "# of Graphics Cores": "10"
+            },
+            "Display": {
+                "Display Size": "13-inch Ultra Retina XDR",
+                "Brightness":"1000 nits (XDR), 1600 nits (HDR peak)",
+                "Refresh Rate": "10 - 120 Hz ProMotion",
+                "Display Resolution": "2752 x 2064"
+            },
+            "Storage": {
+                "Capacity": "256, 512 GB, 1 or 2 TB"
+            },
+            "Connections": {
+                "Wi-Fi":"802.11be (Wi-Fi 7)",
+                "Bluetooth": "6",
+                "Networks":"5G, 4G LTE, UMTS/HSPA, GSM/EDGE",
+                "SIM slot": "eSIM",
+                "Audio In":"4 - Microphones",
+                "Audio Out":"4 - Built-in speakers",
+                "Ports": "Thunderbolt / USB 4, Smart Connector"
+            },
+            "Camera": {
+                "Back Camera": "1 - 12 MP wide",
+                "Front Camera": "1 - 12 MP ultra wide"
+            },
+            "Power": {
+                "Battery": "Built-in 38.99 Wh lithium-polymer",
+                "Capacity": "10209 mAh",
+                "Life": "Up to 10 Hours"
+            },
+            "Features": {
+                "Apple Pencil Support": "2nd Gen, Pro",
+                "Authentication": "Face ID"
             }
         }
     }

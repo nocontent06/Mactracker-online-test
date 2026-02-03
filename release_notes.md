@@ -342,6 +342,12 @@ Minor release. Updated meta Tags.
 
 - Added Xserve
 
+# v1.6 (Build 1G1a)
+
+- Sped Up Search
+- Add sort function
+- Fixed navbar search
+- Added latest iPads (iPad Air M3, iPad Pro M5)
 
 
 

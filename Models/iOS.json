@@ -245,12 +245,12 @@
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2025",
-                "Supported Devices": "<ul class='supported-devices'><li>iPhone 16e</li><li>iPhone 16</li><li>iPhone 16 Plus</li><li>iPhone 16 Pro</li><li>iPhone 16 Pro Max</li><li>iPhone 15</li><li>iPhone 15 Plus</li><li>iPhone 15 Pro</li><li>iPhone 15 Pro Max</li><li>iPhone 14</li><li>iPhone 14 Plus</li><li>iPhone 14 Pro</li><li>iPhone 14 Pro Max</li><li>iPhone 13</li><li>iPhone 13 mini</li><li>iPhone 13 Pro</li><li>iPhone 13 Pro Max</li><li>iPhone 12</li><li>iPhone 12 mini</li><li>iPhone 12 Pro</li><li>iPhone 12 Pro Max</li><li>iPhone 11</li><li>iPhone 11 Pro</li><li>iPhone 11 Pro Max</li><li>iPhone SE (3rd Gen)</li><li>iPhone SE (2nd Gen)</li></ul>",
-                "Model Identifier": "iOS 26.0",
+                "Supported Devices": "<ul class='supported-devices'><li>iPhone Air</li><li>iPhone 17</li><li>iPhone 17 Pro</li><li>iPhone 17 Pro Max</li><li>iPhone 16e</li><li>iPhone 16</li><li>iPhone 16 Plus</li><li>iPhone 16 Pro</li><li>iPhone 16 Pro Max</li><li>iPhone 15</li><li>iPhone 15 Plus</li><li>iPhone 15 Pro</li><li>iPhone 15 Pro Max</li><li>iPhone 14</li><li>iPhone 14 Plus</li><li>iPhone 14 Pro</li><li>iPhone 14 Pro Max</li><li>iPhone 13</li><li>iPhone 13 mini</li><li>iPhone 13 Pro</li><li>iPhone 13 Pro Max</li><li>iPhone 12</li><li>iPhone 12 mini</li><li>iPhone 12 Pro</li><li>iPhone 12 Pro Max</li><li>iPhone 11</li><li>iPhone 11 Pro</li><li>iPhone 11 Pro Max</li><li>iPhone SE (3rd Gen)</li><li>iPhone SE (2nd Gen)</li></ul>",
+                "Model Identifier": "iOS 26.2.1",
                 "Model Number": "iOS 26"
             },
             "Versions": {
-                "Version": "<table class='macos-version-table'><tbody><tr><th style='padding-right: 4em'>Version<hr></th><th style='padding-right: 4em'>Build<hr></th><th>Release Date<hr></th></tr><tr><td>26.0 Beta 1</td><td>24A5264n</td><td>Jun 10, 2025</td></tr><tr><td>26.0 Beta 2</td><td>24A5279h</td><td>Jun 24, 2025</td></tr><tr><td>26.0 Beta 3</td><td>24A5290g</td><td>Jul 8, 2025</td></tr><tr><td>26.0 Beta 4</td><td>24A5298e</td><td>Jul 22, 2025</td></tr><tr><td>26.0 Beta 5</td><td>24A5309d</td><td>Aug 5, 2025</td></tr><tr><td>26.0 Beta 6</td><td>24A5318c</td><td>Aug 19, 2025</td></tr><tr><td>26.0 RC</td><td>24A5327a</td><td>Sep 9, 2025</td></tr><tr><td>26.0</td><td>24A335</td><td>Sep 16, 2025</td></tr><tr><td>26.1</td><td>24B91</td><td>Oct 28, 2025</td></tr><tr><td>26.2</td><td>24C64</td><td>Dec 11, 2025</td></tr></tbody></table>"
+                "Version": "<div class='version-table-container'><table class='macos-version-table'><tbody><tr><td>Version</td><td>Build</td><td>Release Date</td></tr><tr><td>iOS 26.0</td><td>23A330, 23A341, 23A345</td><td>Sep 15, 2025</td></tr><tr><td>iOS 26.0.1</td><td>23A355</td><td>Sep 29, 2025</td></tr><tr><td>iOS 26.1</td><td>23B85</td><td>Nov 3, 2025</td></tr><tr><td>iOS 26.2</td><td>23C55</td><td>Dec 12, 2025</td></tr><tr><td>iOS 26.2.1</td><td>23C71</td><td>Jan 26, 2026</td></tr></tbody></table></div>"
             }
         }
     }

@@ -28,7 +28,7 @@ function updateFooter() {
     if (versionInfoElements.length >= 4) {
         versionInfoElements[0].textContent = `Version ${version} (Build ${build})`;
         versionInfoElements[1].textContent = `Commit: ${commit}`;
-        versionInfoElements[2].textContent = `©2023-2025 MangoCoding-Inc. (Felix)`;
+        versionInfoElements[2].textContent = `©2023-2026 MangoCoding-Inc. (Felix)`;
         versionInfoElements[3].textContent = "All rights reserved.";
     }
 
@@ -45,12 +45,25 @@ function updateFooter() {
     }
 }
 
+// Cache for loaded JSON data  
+const jsonCacheIndex = new Map();
+
 const fetchJSON = async (url) => {
+    // Check if data is already cached
+    if (jsonCacheIndex.has(url)) {
+        console.log(`Using cached data for ${url}`);
+        return jsonCacheIndex.get(url);
+    }
+    
     const response = await fetch(url);
     if (!response.ok) {
         throw new Error(`Failed to fetch ${url}`);
     }
-    return await response.json();
+    const data = await response.json();
+    
+    // Cache the data
+    jsonCacheIndex.set(url, data);
+    return data;
 };
 
 async function fetchData() {

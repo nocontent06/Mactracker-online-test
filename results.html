@@ -64,6 +64,17 @@
         </div>
 
         <div id="search-results-container">
+            <div class="sort-controls" style="text-align: center; margin: 20px 0; display: none;">
+                <label for="sort-select" style="margin-right: 10px; font-weight: bold; color: #fff;">Sort by:</label>
+                <select id="sort-select" style="padding: 8px 12px; border-radius: 5px; border: 1px solid #444; background: #1f2937; color: #fff; font-size: 14px; cursor: pointer;">
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="date-newest">Newest First</option>
+                    <option value="date-oldest">Oldest First</option>
+                    <option value="model-asc">Model ID (A-Z)</option>
+                    <option value="model-desc">Model ID (Z-A)</option>
+                </select>
+            </div>
             <div id="search-results" class="resultContainer"></div>
         </div>
 
@@ -96,7 +107,7 @@
                 
                 <div class="footer-section">
                     <h3>Legal</h3>
-                    <p class="version-info">©2023-2025 MangoCoding-Inc. (Felix)</p>
+                    <p class="version-info">©2023-2026 MangoCoding-Inc. (Felix)</p>
                     <p class="version-info">All rights reserved.</p>
                     <p>Apple, Mac, iPhone, iPad are trademarks of Apple Inc.</p>
                     <p>This is an unofficial fan project.</p>
